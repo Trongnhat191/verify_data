@@ -1,0 +1,841 @@
+{
+    "file_name": "21_2019_tt_btc",
+    "source": "ocr_json",
+    "crawled_metadata": {
+        "officialNumber": "21/2019/TT-BTC",
+        "title": "Hướng dẫn việc bán cổ phần lần đầu và chuyển nhưọng vốn nhà nước theo phương thức dựng sổ",
+        "promulgationDate": "2019-04-11",
+        "effectiveDate": "2019-06-03",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "sigerName": "Huỳnh Quang Hải",
+        "draftingUnit": "Uỷ ban Chứng khoán Nhà nước",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:22Z",
+        "_doc_id": "76912"
+    },
+    "crawled_edges": [
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "21/2019/TT-BTC",
+            "target_id": "57/2022/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "21_2019_tt_btc",
+        "file_path": "/Users/dangnam/Documents/FCI/legal_knowledge_graph/graph_new/54_doc/54vb_structure/21_2019_tt_btc/document_structure.json",
+        "official_number": "21/2019/TT-BTC",
+        "dates": {
+            "promulgation_date": "2019-04-11",
+            "effective_date": "2019-06-03",
+            "expiration_date": null
+        },
+        "issuing_place": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Hà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "CHAPTER",
+                    "number": "I",
+                    "title": "QUY ĐỊNH CHUNG",
+                    "position": 16,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "1",
+                            "title": "Phạm vi điều chỉnh và đối tượng áp dụng",
+                            "position": 17,
+                            "children": [],
+                            "content": "1. Phạm vi điều chỉnh\nThông tư này hướng dẫn các nội dung sau:\na) Trình tự, thủ tục bán cổ phần lần đầu và quản lý, sử dụng tiền thu từ cổ phần hóa theo phương thức dựng sổ; gắn chào bán cổ phần lần đầu theo phương thức dựng sổ với đăng ký, lưu ký và đăng ký giao dịch/niêm yết cổ phần đã phân phối của các đối tượng thực hiện cổ phần hoá theo quy định tại Điều 2 Nghị định số 126/2017/NĐ-CP ngày 16/11/2017 của Chính phủ về chuyển doanh nghiệp nhà nước và công ty trách nhiệm hữu hạn một thành viên do doanh nghiệp nhà nước đầu tư 100% vốn điều lệ thành công ty cổ phần (sau đây gọi là Nghị định số 126/2017/NĐ-CP);\nb) Trình tự, thủ tục chuyển nhượng vốn nhà nước, vốn đầu tư của doanh nghiệp nhà nước tại công ty cổ phần theo phương thức dựng sổ của các đối tượng theo quy định tại Điều 2 Nghị định số 91/2015/NĐ-CP ngày 13/10/2015 của Chính phủ về đầu tư vốn nhà nước vào doanh nghiệp và quản lý, sử dụng vốn, tài sản tại doanh nghiệp (sau đây gọi là Nghị định số 91/2015/NĐ-CP).\n2. Đối tượng áp dụng\na) Đối tượng áp dụng bán cổ phần lần đầu theo phương thức dựng sổ quy định tại Điều 2 Nghị định số 126/2017/NĐ-CP.\nb) Đối tượng áp dụng chuyển nhượng vốn theo phương thức dựng sổ quy định tại khoản 1, khoản 2 và khoản 4 Điều 2 Nghị định số 91/2015/NĐ-CP và Người đại diện phần vốn nhà nước đầu tư tại công ty cổ phần."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "2",
+                            "title": "Giải thích từ ngữ",
+                            "position": 25,
+                            "children": [],
+                            "content": "Ngoài trừ các từ ngữ đã được giải thích tại Nghị định số 126/2017/NĐ-CP, Nghị định số 91/2015/NĐ-CP và Nghị định số 32/2018/NĐ-CP ngày 08/3/2018 sửa đổi, bổ sung một số điều của Nghị định số 91/2015/NĐ-CP ngày 13/10/2015 của Chính phủ về đầu tư vốn nhà nước vào doanh nghiệp và quản lý, sử dụng vốn, tài sản tại doanh nghiệp (sau đây gọi là Nghị định số 32/2018/NĐ-CP), các từ ngữ dưới đây được hiểu như sau:\n1. \"Bán cổ phần theo phương thức dựng sổ\" là hình thức bán cổ phần của doanh nghiệp công khai cho các đối tượng có sự cạnh tranh về giá trên cơ sở\ntham khảo nhu cầu của thị trường.\n2. “Tổ chức bảo lãnh phát hành theo phương thức dựng sở” là một hoặc một nhóm các công ty chứng khoán được cấp phép thực hiện nghiệp vụ bảo lãnh phát hành cho doanh nghiệp theo quy định của pháp luật về chứng khoán và thị trường chứng khoán (sau đây gọi là Tổ chức bảo lãnh phát hành).\n3. “Bảo lãnh phát hành theo phương thức dựng sở” là hoạt động bảo lãnh phát hành chứng khoán theo quy định tại khoản 22 Điều 6 Luật chứng khoán được sửa đổi, bổ sung theo quy định tại khoản 3 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật chứng khoán và quy định tại khoản 9 Điều 2 Nghị định số 58/2012/NĐ-CP ngày 20/7/2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật chứng khoán (sau đây gọi là bảo lãnh phát hành).\n4. “Nhà đầu tư chiến lược” là nhà đầu tư đáp ứng quy định tại điểm a khoản 3 Điều 6 Nghị định số 126/2017/NĐ-CP.\n5. “Tổ chức quản lý sổ lệnh” là Sở Giao dịch chứng khoán thực hiện việc cung cấp cơ sở vật chất kỹ thuật, dịch vụ để quản lý sổ lệnh khi thực hiện bán cổ phần theo phương thức dựng sở.\n6. “Đại lý dựng sở” là các công ty chứng khoán tham gia vào việc tổ chức bán cổ phần theo phương thức dựng sở.\n7. “Giá khởi điểm” là giá được xác định theo quy định tại khoản 8 Điều 3 Nghị định số 126/2017/NĐ-CP đối với bán cổ phần lần đầu, theo quy định tại khoản 12 và khoản 15 Điều 1 Nghị định số 32/2018/NĐ-CP đối với chuyển nhượng vốn nhà nước và vốn đầu tư của doanh nghiệp nhà nước tại công ty cổ phần.\n8. “Khoảng giá dựng sở” là khoảng giá được xây dựng nhằm phản ánh nhu cầu thị trường của cổ phần chào bán.\n9. “Giá mở sở” là giá của một cổ phần chào bán được xác định trong khoảng giá dựng sở.\n10. “Giá phân phối” là giá bán một cổ phần nhà đầu tư được mua trên cơ sở kết quả dựng sở."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "3",
+                            "title": "Nguyên tắc thực hiện",
+                            "position": 39,
+                            "children": [],
+                            "content": "1. Việc bán cổ phần lần đầu và chuyển nhượng vốn nhà nước, vốn đầu tư của doanh nghiệp nhà nước tại công ty cổ phần theo phương thức dựng sở phải đảm bảo theo nguyên tắc thị trường, đảm bảo công khai, minh bạch, bảo toàn vốn, tránh thất thoát tài sản nhà nước.\n2. Các nội dung không hướng dẫn tại Thông tư này về việc chuyển doanh nghiệp nhà nước và công ty trách nhiệm hữu hạn một thành viên do doanh nghiệp nhà nước đầu tư 100% vốn điều lệ thành công ty cổ phần theo quy định\ntại Nghị định số 126/2017/NĐ-CP; chuyển nhượng vốn nhà nước, vốn đầu tư của doanh nghiệp nhà nước tại công ty cổ phần theo quy định tại Nghị định số 91/2015/NĐ-CP, Nghị định số 32/2018/NĐ-CP thực hiện theo quy định của pháp luật về chuyển doanh nghiệp nhà nước và công ty trách nhiệm hữu hạn một thành viên do doanh nghiệp nhà nước đầu tư 100% vốn điều lệ thành công ty cổ phần; pháp luật về đầu tư vốn nhà nước vào doanh nghiệp và quản lý, sử dụng vốn, tài sản tại doanh nghiệp."
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "II",
+                    "title": "BÁN CỔ PHẦN LẦN ĐẦU THEO PHƯƠNG THỨC DỰNG SỞ",
+                    "position": 44,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "4",
+                            "title": "Xây dựng phương án bán cổ phần lần đầu theo phương thức dựng sở",
+                            "position": 45,
+                            "children": [],
+                            "content": "1. Phương án bán cổ phần lần đầu theo phương thức dựng sở là một phần trong phương án cổ phần hóa theo quy định tại Nghị định số 126/2017/NĐ-CP, tối thiểu bao gồm các nội dung sau:\na) Số lượng cổ phần chào bán theo phương thức dựng sở;\nb) Khoảng giá dựng sở được xây dựng nhằm phản ánh nhu cầu thị trường về cổ phần được chào bán là cơ sở để xác định giá mở sở, khoảng giá dựng sở tối đa không quá hai mươi phần trăm (20%) tính từ giá khởi điểm;\nc) Cơ cấu cổ phần bán cho nhà đầu tư theo phương thức dựng sở: tỷ lệ cổ phần bán cho nhà đầu tư công chúng (% vốn điều lệ), tỷ lệ cổ phần bán cho nhà đầu tư chiến lược (% vốn điều lệ);\nd) Tỷ lệ (% vốn điều lệ) và số lượng cổ phần tối đa bán cho nhà đầu tư nước ngoài;\nđ) Nguyên tắc ưu tiên xác định giá phân phối\n- Xác định giá phân phối theo nhà đầu tư công chúng; hoặc\n- Xác định giá phân phối theo nhà đầu tư chiến lược.\ne) Xác định điều kiện dựng sở\nXác định hai (02) điều kiện để thực hiện dựng sở bao gồm: tỷ lệ khối lượng đặt mua cổ phần tối thiểu và số lượng nhà đầu tư đặt mua cổ phần tối thiểu. Tỷ lệ khối lượng đặt mua cổ phần tối thiểu và số lượng nhà đầu tư đặt mua cổ phần tối thiểu được xác định như sau:\n- Trường hợp áp dụng nguyên tắc ưu tiên xác định giá phân phối theo nhà đầu tư công chúng: tỷ lệ khối lượng đặt mua cổ phần tối thiểu (tỷ lệ %) bằng khối lượng cổ phần đặt mua của nhà đầu tư công chúng trên tổng khối lượng cổ phần chào bán cho nhà đầu tư công chúng; số lượng nhà đầu tư đặt mua cổ phần tối thiểu là số lượng nhà đầu tư công chúng tham gia đặt lệnh mua.\nTrường hợp áp dụng nguyên tắc ưu tiên xác định giá phân phối theo nhà đầu tư chiến lược: tỷ lệ khối lượng đặt mua cổ phần tối thiểu (tỷ lệ %) bằng khối lượng cổ phần đặt mua của nhà đầu tư chiến lược trên tổng khối lượng cổ phần chào bán cho nhà đầu tư chiến lược; số lượng nhà đầu tư đặt mua cổ phần tối thiểu là số lượng nhà đầu tư chiến lược tham gia đặt lệnh mua. Số lượng nhà đầu tư chiến lược tối thiểu đặt lệnh mua trong trường hợp này không được ít hơn hai (02) nhà đầu tư.\nTỷ lệ khối lượng đặt mua cổ phần tối thiểu và số lượng nhà đầu tư đặt mua cổ phần tối thiểu phải được xác định rõ trong phương án bán cổ phần.\ng) Phương án xử lý trong trường hợp hủy sổ lệnh;\nh) Các nội dung bảo lãnh phát hành (nếu có);\ni) Tổ chức quản lý sổ lệnh.\n2. Việc bán cổ phần cho người lao động, tổ chức công đoàn cơ sở tại doanh nghiệp cổ phần hóa thực hiện theo quy định tại Điều 33 và Điều 42 Nghị định số 126/2017/NĐ-CP."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "5",
+                            "title": "Triển khai phương án bán cổ phần lần đầu theo phương thức dựng sổ",
+                            "position": 64,
+                            "children": [],
+                            "content": "1. Ban chỉ đạo cổ phần hóa thực hiện các công việc sau:\na) Trình Cơ quan đại diện chủ sở hữu (đối với doanh nghiệp nhà nước) hoặc Hội đồng thành viên/Chủ tịch doanh nghiệp nhà nước (đối với công ty trách nhiệm hữu hạn một thành viên do doanh nghiệp nhà nước đầu tư 100% vốn điều lệ - sau đây gọi là doanh nghiệp cấp II) phê duyệt Tổ chức bảo lãnh phát hành (nếu có);\nb) Trình Cơ quan đại diện chủ sở hữu (đối với doanh nghiệp nhà nước) hoặc Hội đồng thành viên/Chủ tịch doanh nghiệp nhà nước (đối với doanh nghiệp cấp II) phê duyệt Tổ chức quản lý sổ lệnh;\nc) Lựa chọn Đại lý dựng sổ;\nd) Tổ chức giới thiệu về phương án bán cổ phần, thăm dò nhu cầu thị trường;\nđ) Xác định giá mở sổ;\ne) Ban hành Quy chế bán cổ phần theo phương thức dựng sổ theo Phụ lục số 02a kèm theo Thông tư này.\n2. Doanh nghiệp cổ phần hóa phải hoàn thành việc bán cổ phần theo quy định tại Điều 38 Nghị định số 126/2017/NĐ-CP."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "6",
+                            "title": "Tổ chức giới thiệu bán cổ phần lần đầu theo phương thức dựng sổ cho các nhà đầu tư",
+                            "position": 73,
+                            "children": [],
+                            "content": "chỉ đạo cổ phần hóa tổ chức lựa chọn nhà đầu tư chiến\nquy định tại khoản 3 Điều 6 Nghị định số 126/2017/NĐ-CP.\n2. Ban chỉ đạo cổ phần hóa, doanh nghiệp cổ phần hóa phối hợp với Tổ chức bảo lãnh phát hành (nếu có) tổ chức buổi giới thiệu về việc bán cổ phần lần đầu theo phương thức dựng sổ cho các nhà đầu tư là tổ chức và nhà đầu tư công chúng để thăm dò nhu cầu thị trường theo quy định như sau:\na) Đối với nhà đầu tư là tổ chức: mời tối thiểu ba mươi (30) nhà đầu tư. Thời gian gửi giấy mời tối thiểu mười (10) ngày trước ngày tổ chức giới thiệu về việc bán cổ phần. Việc gửi giấy mời thực hiện bằng phương thức bảo đảm đến địa chỉ liên lạc của nhà đầu tư và phương thức khác (nếu có).\nb) Đối với nhà đầu tư công chúng: thông báo mời có thể được thực hiện bằng hình thức đăng trên trang thông tin điện tử của doanh nghiệp tối thiểu mười (10) ngày trước ngày tổ chức giới thiệu về việc bán cổ phần.\n3. Ban chỉ đạo cổ phần hóa có thể sử dụng các tài liệu liên quan đến việc bán cổ phần theo phương án cổ phần hóa đã được phê duyệt để giới thiệu về việc bán cổ phần lần đầu theo phương thức dựng sổ."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "7",
+                            "title": "Công bố thông tin về phương án bán cổ phần lần đầu theo phương thức dựng sổ",
+                            "position": 81,
+                            "children": [],
+                            "content": "Ban chỉ đạo cổ phần hóa phối hợp với Tổ chức quản lý sở lệnh thực hiện công bố thông tin như sau:\n1. Cung cấp cho các nhà đầu tư thông tin liên quan đến doanh nghiệp cổ phần hóa (Phụ lục số 01a kèm theo Thông tư này), phương án cổ phần hóa, dự thảo Điều lệ công ty cổ phần, Quy chế bán cổ phần theo phương thức dựng sổ (Phụ lục số 02a kèm theo Thông tư này) và các thông tin liên quan khác theo quy định.\n2. Thông báo công khai tại doanh nghiệp cổ phần hóa, Tổ chức quản lý sở lệnh, trên các phương tiện thông tin đại chúng (ba số báo liên tiếp của một tờ báo phát hành trong toàn quốc và một tờ báo địa phương nơi doanh nghiệp có trụ sở chính) về thông tin liên quan đến việc bán cổ phần trước ngày mở sở lệnh tối thiểu hai mươi (20) ngày làm việc và công khai thông tin trên cổng thông tin điện tử Chính phủ. Thông báo tối thiểu bao gồm các nội dung sau: tên doanh nghiệp cổ phần hóa; ngành nghề kinh doanh chính; vốn điều lệ; số cổ phần chào bán theo phương thức dựng sổ; giá khởi điểm; giá mở sổ; thời gian mở sổ; đối tượng được tham gia mua cổ phần; và thời gian, địa điểm nộp đơn và tiền đặt cọc. Thông báo bao gồm cả bản Tiếng Anh."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "8",
+                            "title": "Sở lệnh",
+                            "position": 85,
+                            "children": [],
+                            "content": "1. Tổ chức quản lý sở lệnh phải mở sở lệnh cho từng đối tượng là nhà đầu tư công chúng và nhà đầu tư chiến lược. Sở lệnh bao gồm các nội dung chính như sau:\na) Thông tin về từng nhà đầu tư phải có các nội dung sau: Mã số nhà đầu tư, số lượng cổ phần đặt mua, giá đặt mua, thời gian đặt mua;\nb) Thông tin chung về số lệnh phải có nội dung khối lượng cổ phần đặt mua theo từng mức giá.\n2. Thời gian mở sổ lệnh: 05 phiên giao dịch liên tiếp. Thời gian mỗi phiên từ 9h30 – 11h30 hàng ngày.\n3. Từ 9h00 – 9h30 hàng ngày trước mỗi phiên giao dịch, Tổ chức quản lý sổ lệnh có trách nhiệm công bố thông tin về kết quả đặt mua như sau:\na) Nội dung công bố: biểu đồ khối lượng cổ phần đặt mua lũy kế theo từng mức giá từ ngày mở sổ lệnh;\nb) Phương tiện công bố: trang thông tin điện tử của Tổ chức quản lý sổ lệnh, Đại lý dựng số."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "9",
+                            "title": "Thay đổi lệnh đặt mua",
+                            "position": 94,
+                            "children": [],
+                            "content": "Nhà đầu tư có thể thay đổi lệnh đặt mua về giá, khối lượng cổ phần đặt mua theo quy định như sau:\n1. Trước khi đặt lệnh, nhà đầu tư phải hủy lệnh đặt mua cũ. Nhà đầu tư chỉ được đặt lệnh mua mới sau khi có xác nhận hủy lệnh đặt mua cũ. Thời gian đặt lệnh tính theo thời gian lệnh đặt mua mới;\n2. Trường hợp nhà đầu tư hủy lệnh đặt mua mà không đặt lại lệnh mua mới, nhà đầu tư không được hoàn trả tiền đặt cọc;\n3. Trường hợp nhà đầu tư đặt lệnh mua mới với khối lượng lớn hơn khối lượng đặt mua cũ, nhà đầu tư phải bổ sung tiền đặt cọc tương ứng với khối lượng đặt mua tăng thêm;\n4. Trường hợp nhà đầu tư đặt lệnh mua mới với khối lượng thấp hơn khối lượng đặt mua cũ, nhà đầu tư không được hoàn trả số tiền đặt cọc tương ứng với khối lượng đặt mua giảm."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "10",
+                            "title": "Xác định kết quả dựng số",
+                            "position": 100,
+                            "children": [],
+                            "content": "1. Xác định điều kiện dựng số\nViệc xác định kết quả dựng số chỉ được thực hiện khi tỷ lệ khối lượng đặt mua cổ phần thực tế và số lượng nhà đầu tư đặt mua cổ phần thực tế lớn hơn hoặc bằng Tỷ lệ khối lượng đặt mua cổ phần tối thiểu và Số lượng nhà đầu tư đặt mua cổ phần tối thiểu theo phương án bán cổ phần quy định tại điểm e khoản 1 Điều 4 Thông tư này.\n2. Xác định giá phân phối trong trường hợp áp dụng nguyên tắc ưu tiên xác định giá phân phối theo nhà đầu tư công chúng thực hiện như sau:\na) Giá phân phối là mức giá cao nhất mà tại mức giá đó phân phối được tối đa số lượng cổ phần dự kiến chào bán cho nhà đầu tư công chúng;\nb) Giá phân phối này được sử dụng để phân phối cổ phần cho nhà đầu tư công chúng và nhà đầu tư chiến lược.\n3. Xác định giá phân phối trong trường hợp áp dụng nguyên tắc ưu tiên xác định giá phân phối theo nhà đầu tư chiến lược thực hiện như sau:\na) Giá phân phối là mức giá cao nhất mà tại mức giá đó phân phối được tối đa số lượng cổ phần dự kiến chào bán cho nhà đầu tư chiến lược;\nb) Giá phân phối này được sử dụng để phân phối cổ phần cho nhà đầu tư chiến lược và nhà đầu tư công chúng.\n4. Việc phân phối cổ phần cho nhà đầu tư công chúng và nhà đầu tư chiến lược được thực hiện như sau:\na) Nhà đầu tư được mua cổ phần là nhà đầu tư đặt giá lớn hơn hoặc bằng giá phân phối. Khối lượng cổ phần được phân phối theo nguyên tắc ưu tiên theo thứ tự như sau: thứ nhất ưu tiên về giá; thứ hai ưu tiên về thời gian đặt lệnh (theo ngày tổ chức phiên giao dịch); và thứ ba ưu tiên phân phối theo tỷ lệ khối lượng đặt mua trong trường hợp nhiều nhà đầu tư đặt lệnh mua tại cùng mức giá, cùng thời gian;\nb) Trường hợp có nhiều nhà đầu tư đặt lệnh mua tại cùng mức giá với cùng thời gian đặt lệnh theo thứ tự ưu tiên thứ ba nêu tại điểm a khoản 4 Điều này, số cổ phần phân phối cho từng nhà đầu tư được xác định như sau:\nSố cổ phần nhà đầu tư = Số cổ phần chưa\nSố cổ phần nhà đầu tư đặt mua tại cùng mức giá và cùng thời gian đặt lệnh\n5. Sau khi thực hiện xác định kết quả phân phối cổ phần theo quy định tại khoản 2, khoản 3 và khoản 4 Điều này, số lượng cổ phần còn lại chưa phân phối được xử lý như sau:\na) Trường hợp áp dụng nguyên tắc ưu tiên xác định giá phân phối theo nhà đầu tư công chúng, việc phân phối tiếp số lượng cổ phần chưa phân phối hết cho nhà đầu tư chiến lược được thực hiện như sau:\n- Việc phân phối cho từng nhà đầu tư thực hiện theo nguyên tắc ưu tiên về giá, thời gian đã đặt lệnh mua tại sổ lệnh. Trường hợp nhiều nhà đầu tư đã đặt lệnh mua tại cùng mức giá và cùng thời gian đặt lệnh, việc phân phối cổ phần theo tỷ lệ khối lượng cổ phần đăng ký mua được thực hiện theo nguyên tắc phân phối tương tự quy định tại điểm b khoản 4 Điều này.\n- Đối tượng được đăng ký mua là nhà đầu tư chiến lược đã đặt lệnh mua và chưa được mua hết số lượng cổ phần đã đặt mua.\nBan chỉ đạo cổ phần hóa phối hợp với Tổ chức quản lý sổ lệnh có trách nhiệm công bố danh sách nhà đầu tư chiến lược được đăng ký mua nêu trên trong vòng một (01) ngày làm việc kể từ ngày đóng sổ lệnh.\nTrong vòng ba (03) ngày làm việc kể từ ngày công bố danh sách nhà đầu tư chiến lược được đăng ký mua, nhà đầu tư có tên trong danh sách thực hiện đăng ký mua cổ phần theo mức giá phân phối với khối lượng cổ phần không được vượt quá khối lượng cổ phần chưa được mua.\nb) Trường hợp áp dụng nguyên tắc ưu tiên xác định giá phân phối theo nhà đầu tư chiến lược, số lượng cổ phần chưa phân phối hết cho nhà đầu tư công chúng thực hiện phân phối theo nguyên tắc tương tự điểm a khoản 5 Điều này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "11",
+                            "title": "Xử lý trường hợp không đủ điều kiện dựng sổ",
+                            "position": 123,
+                            "children": [],
+                            "content": "1. Trường hợp khối lượng cổ phần đặt mua thực tế và số lượng nhà đầu tư đặt mua thực tế không đáp ứng điều kiện dựng sổ theo phương án bán cổ phần quy định tại điểm e khoản 1 Điều 4 Thông tư này, Ban chỉ đạo cổ phần hóa có trách nhiệm quyết định hủy kết quả sổ lệnh, báo cáo Cơ quan đại diện chủ sở hữu (đối với doanh nghiệp nhà nước) hoặc Hội đồng thành viên/Chủ tịch doanh nghiệp nhà nước (đối với doanh nghiệp cấp II) và công bố thông tin về việc hủy kết quả sổ lệnh theo quy định tại khoản 1 Điều 12 Thông tư này.\n2. Các nhà đầu tư được hoàn trả tiền đặt cọc sau khi Ban chỉ đạo cổ phần hóa công bố thông tin về việc hủy kết quả sổ lệnh.\n3. Xử lý sau khi hủy kết quả sổ lệnh\na) Trường hợp phương án bán cổ phần theo phương thức dựng sổ không thay đổi và việc mở lại sổ lệnh đã được phê duyệt trong phương án bán cổ phần theo quy định tại điểm g khoản 1 Điều 4 Thông tư này, Ban chỉ đạo cổ phần hóa có thể xác định lại giá mở sổ và thực hiện trình tự, thủ tục mở sổ lệnh theo quy định tại Điều 7, Điều 8 Thông tư này.\nb) Trường hợp phương án bán cổ phần theo phương thức dựng sổ thay đổi, Ban chỉ đạo cổ phần hóa báo cáo Cơ quan đại diện chủ sở hữu (đối với doanh nghiệp nhà nước) hoặc Hội đồng thành viên/Chủ tịch doanh nghiệp nhà nước (đối với doanh nghiệp cấp II) quyết định phương án bán cổ phần theo quy định tại Điều 4 Thông tư này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "12",
+                            "title": "Công bố thông tin về kết quả dựng sổ",
+                            "position": 129,
+                            "children": [],
+                            "content": "1. Trường hợp hủy kết quả sổ lệnh theo quy định tại khoản 1 Điều 11 Thông tư này, trong thời hạn một (01) ngày làm việc kể từ ngày quyết định hủy kết quả sổ lệnh, Ban chỉ đạo cổ phần hóa phải thực hiện công bố thông tin về việc hủy kết quả sổ lệnh. Việc thông báo hủy kết quả sổ lệnh cho từng nhà đầu tư thực hiện theo Quy chế bán cổ phần lần đầu theo phương thức dựng sổ.\n2. Trong thời hạn tối đa ba (03) ngày làm việc kể từ ngày lập Biên bản\nxác định kết quả dựng sổ theo Phụ lục số 03a kèm theo Thông tư này, Ban chỉ đạo cổ phần hóa và doanh nghiệp cổ phần hóa phối hợp với Tổ chức quản lý số lệnh, Đại lý dựng sổ công bố công khai kết quả dựng sổ.\n3. Trong thời hạn tối đa một (01) ngày làm việc kể từ ngày công bố công khai kết quả dựng sổ theo quy định tại khoản 2 Điều này, Ban chỉ đạo cổ phần hóa có trách nhiệm phối hợp với Tổ chức quản lý số lệnh gửi kết quả dựng sổ cho các Đại lý dựng sổ. Việc thông báo kết quả cho từng nhà đầu tư thực hiện theo Quy chế bán cổ phần lần đầu theo phương thức dựng sổ.\n4. Việc công bố thông tin theo quy định tại khoản 1, khoản 2 Điều này thực hiện trên trang thông tin điện tử của doanh nghiệp cổ phần hóa, Tổ chức quản lý số lệnh và Đại lý dựng sổ."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "13",
+                            "title": "Bảo lãnh phát hành",
+                            "position": 136,
+                            "children": [],
+                            "content": "Trong trường hợp thực hiện bảo lãnh phát hành theo phương thức dựng sổ, Tổ chức bảo lãnh phát hành thực hiện mua cổ phần theo giá phân phối xác định theo quy định tại khoản 2, khoản 3 Điều 10 Thông tư này."
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "III",
+                    "title": "CHUYỂN NHƯỢNG VỐN NHÀ NƯỚC, VỐN ĐẦU TƯ CỦA DOANH NGHIỆP NHÀ NƯỚC TẠI CÔNG TY CỔ PHẦN THEO PHƯƠNG THỨC DỰNG SỔ",
+                    "position": 138,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "14",
+                            "title": "Xây dựng phương án chuyển nhượng vốn theo phương thức dựng sổ",
+                            "position": 139,
+                            "children": [],
+                            "content": "Phương án chuyển nhượng vốn nhà nước tại công ty cổ phần, phương án chuyển nhượng vốn đầu tư của doanh nghiệp nhà nước tại công ty cổ phần được xây dựng theo quy định tại Nghị định số 91/2015/NĐ-CP và Nghị định số 32/2018/NĐ-CP. Phương án chuyển nhượng vốn theo phương thức dựng sổ tối thiểu bao gồm các nội dung theo quy định tại khoản 1 Điều 4 Thông tư này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "15",
+                            "title": "Triển khai phương án chuyển nhượng vốn theo phương thức dựng sổ",
+                            "position": 141,
+                            "children": [],
+                            "content": "Chủ sở hữu đối với vốn nhà nước hoặc vốn của doanh nghiệp nhà nước (sau đây gọi là Chủ sở hữu vốn) thực hiện các công việc sau:\n1. Lựa chọn Tổ chức bảo lãnh phát hành (nếu có);\n2. Lựa chọn Tổ chức quản lý số lệnh;\n3. Lựa chọn Đại lý dựng sổ;\n4. Tổ chức giới thiệu về phương án chuyển nhượng vốn, thăm dò nhu cầu thị trường;\n5. Xác định giá mở sổ;\n6. Ban hành Quy chế chuyển nhượng vốn theo phương thức dựng sở theo Phụ lục số 02b kèm theo Thông tư này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "16",
+                            "title": "Tổ chức giới thiệu việc chuyển nhượng vốn theo phương thức dựng sở cho các nhà đầu tư",
+                            "position": 150,
+                            "children": [],
+                            "content": "Chủ sở hữu vốn thực hiện việc tổ chức giới thiệu chuyển nhượng vốn theo phương thức dựng sở tương tự theo quy định tại khoản 2 và khoản 3 Điều 6 Thông tư này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "17",
+                            "title": "Công bố thông tin về phương án chuyển nhượng vốn theo phương thức dựng sở",
+                            "position": 152,
+                            "children": [],
+                            "content": "Chủ sở hữu vốn phối hợp với Tổ chức quản lý sổ lệnh thực hiện công bố thông tin như sau:\n1. Cung cấp cho các nhà đầu tư thông tin liên quan đến công ty cổ phần (Phụ lục số 01b kèm theo Thông tư này), phương án chuyển nhượng vốn theo phương thức dựng sở đã được cấp có thẩm quyền phê duyệt, Quy chế chuyển nhượng vốn theo phương thức dựng sở (Phụ lục số 02b kèm theo Thông tư này), tài liệu chứng minh Chủ sở hữu vốn là chủ sở hữu hợp pháp của số cổ phần được chào bán theo phương thức dựng sở và các thông tin liên quan khác theo quy định;\n2. Thông báo công khai thông tin về việc bán cổ phần theo phương thức dựng sở cho các nhà đầu tư tối thiểu hai mươi (20) ngày trước ngày mở sổ lệnh tại trụ sở chính của Chủ sở hữu vốn (doanh nghiệp nhà nước), công ty cổ phần có vốn được chuyển nhượng, Tổ chức quản lý sổ lệnh, trên phương tiện thông tin đại chúng (ba số báo liên tiếp của một tờ báo phát hành trong toàn quốc và một tờ báo địa phương nơi Chủ sở hữu vốn có trụ sở chính, nơi công ty cổ phần có trụ sở chính) và đăng tải trên trang thông tin điện tử của Chủ sở hữu vốn, Tổ chức quản lý sổ lệnh, công ty cổ phần có vốn được chuyển nhượng (nếu có). Thông báo tối thiểu bao gồm các nội dung sau: tên Chủ sở hữu vốn; tên công ty cổ phần; ngành nghề kinh doanh chính; vốn điều lệ; số cổ phần chào bán theo phương thức dựng sở; giá khởi điểm; giá mở sở; thời gian mở sở; đối tượng được tham gia mua cổ phần; và thời gian, địa điểm nộp đơn và tiền đặt cọc. Thông báo bao gồm cả bản Tiếng Anh."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "18",
+                            "title": "Sổ lệnh",
+                            "position": 156,
+                            "children": [],
+                            "content": "Việc mở sổ lệnh và công bố thông tin hàng ngày về sổ lệnh được thực hiện theo quy định tại Điều 8 Thông tư này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "19",
+                            "title": "Thay đổi lệnh đặt mua",
+                            "position": 158,
+                            "children": [],
+                            "content": "Việc thay đổi lệnh đặt mua được thực hiện theo quy định tại Điều 9 Thông tư này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "20",
+                            "title": "Xác định kết quả dựng sổ",
+                            "position": 161,
+                            "children": [],
+                            "content": "1. Việc xác định kết quả dựng sổ chỉ được thực hiện khi tỷ lệ khối lượng đặt mua cổ phần thực tế và số lượng nhà đầu tư đặt mua cổ phần thực tế lớn hơn hoặc bằng Tỷ lệ khối lượng đặt mua cổ phần tối thiểu và Số lượng nhà đầu tư đặt mua cổ phần tối thiểu theo phương án chuyển nhượng vốn quy định tại Điều 14 Thông tư này.\n2. Chủ sở hữu vốn thực hiện xác định kết quả dựng sổ tương tự theo quy định tại khoản 2, khoản 3, khoản 4 và khoản 5 Điều 10 Thông tư này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "21",
+                            "title": "Xử lý trường hợp không đủ điều kiện dựng sổ",
+                            "position": 164,
+                            "children": [],
+                            "content": "1. Trường hợp khối lượng cổ phần đặt mua thực tế và số lượng nhà đầu tư đặt mua thực tế không đáp ứng điều kiện dựng sổ theo phương án chuyển nhượng vốn quy định tại Điều 14 Thông tư này, Chủ sở hữu vốn có trách nhiệm quyết định hủy kết quả sổ lệnh và thực hiện công bố thông tin về việc hủy kết quả sổ lệnh theo quy định tại khoản 1 Điều 22 Thông tư này.\n2. Các nhà đầu tư được hoàn trả tiền đặt cọc sau khi Chủ sở hữu vốn công bố thông tin về việc hủy kết quả sổ lệnh.\n3. Xử lý sau khi hủy kết quả sổ lệnh\na) Trường hợp phương án chuyển nhượng vốn theo phương thức dựng sổ không thay đổi và việc mở lại sổ lệnh đã được phê duyệt trong phương án chuyển nhượng vốn theo quy định tại Điều 14 Thông tư này, Chủ sở hữu vốn có thể xác định lại giá mở sổ và thực hiện trình tự, thủ tục mở sổ lệnh theo quy định tại Điều 17, Điều 18 Thông tư này.\nb) Trường hợp phương án chuyển nhượng vốn theo phương thức dựng sổ thay đổi, Chủ sở hữu vốn quyết định phương án bán cổ phần theo quy định tại Điều 14 Thông tư này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "22",
+                            "title": "Công bố thông tin về kết quả dựng sổ",
+                            "position": 170,
+                            "children": [],
+                            "content": "1. Trường hợp hủy kết quả sổ lệnh theo quy định tại khoản 1 Điều 21 Thông tư này, trong thời hạn một (01) ngày làm việc kể từ ngày quyết định hủy kết quả sổ lệnh, Chủ sở hữu vốn phải thực hiện công bố thông tin về việc hủy kết quả sổ lệnh. Việc thông báo hủy kết quả sổ lệnh cho từng nhà đầu tư thực hiện theo Quy chế chuyển nhượng vốn theo phương thức dựng sổ.\n2. Trong thời hạn tối đa ba (03) ngày làm việc kể từ ngày lập Biên bản xác định kết quả dựng sổ theo Phụ lục số 03b kèm theo Thông tư này, Chủ sở hữu vốn phối hợp với Tổ chức quản lý sổ lệnh, Đại lý dựng sổ công bố công khai kết quả dựng sổ.\n3. Trong thời hạn tối đa một (01) ngày làm việc kể từ ngày công bố công khai kết quả dựng sổ theo quy định tại khoản 2 Điều này, Chủ sở hữu vốn có trách nhiệm phối hợp với Tổ chức quản lý sổ lệnh gửi kết quả dựng sổ cho các\nĐại lý dựng sổ. Việc thông báo kết quả cho từng nhà đầu tư thực hiện theo Quy chế chuyển nhượng vốn theo phương thức dựng sổ.\n4. Việc công bố thông tin theo quy định tại khoản 1, khoản 2 Điều này thực hiện trên trang thông tin điện tử của Chủ sở hữu vốn, Tổ chức quản lý số lệnh và Đại lý dựng sổ."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "23",
+                            "title": "Bảo lãnh phát hành",
+                            "position": 177,
+                            "children": [],
+                            "content": "Trong trường hợp thực hiện bảo lãnh phát hành theo phương thức dựng sổ, Tổ chức bảo lãnh phát hành thực hiện mua cổ phần theo giá phân phối xác định theo quy định tại khoản 2 Điều 20 Thông tư này."
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "IV",
+                    "title": "QUẢN LÝ TIỀN ĐẶT CỌC VÀ TIỀN THU TỪ BÁN CỔ PHẦN",
+                    "position": 179,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "24",
+                            "title": "Quản lý tiền đặt cọc và thanh toán tiền mua cổ phần",
+                            "position": 180,
+                            "children": [],
+                            "content": "1. Tiền đặt cọc của nhà đầu tư\na) Nhà đầu tư công chúng có trách nhiệm nộp tiền đặt cọc bằng mười phần trăm (10%) giá trị cổ phần đặt mua tính theo giá mở sổ;\nb) Nhà đầu tư chiến lược có trách nhiệm nộp tiền đặt cọc, ký quỹ hoặc có bảo lãnh của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài theo quy định của pháp luật với giá trị bằng hai mươi phần trăm (20%) giá trị cổ phần đăng ký mua tính theo giá khởi điểm trong phương án cổ phần hóa đã được phê duyệt theo quy định tại điểm h khoản 3 Điều 6 Nghị định số 126/2017/NĐ-CP.\n2. Thanh toán tiền mua cổ phần\na) Trong thời hạn mười (10) ngày kể từ ngày công bố kết quả dựng sổ, các nhà đầu tư hoàn tất việc mua bán cổ phần và chuyển tiền mua cổ phần vào tài khoản nhận tiền mua cổ phần theo Quy chế bán cổ phần theo phương thức dựng sổ.\nb) Tiền đặt cọc được trừ vào tổng số tiền phải thanh toán mua cổ phần. Trường hợp số tiền đặt cọc lớn hơn số tiền phải thanh toán, nhà đầu tư được hoàn trả lại phần chênh lệch trong thời gian ba (03) ngày làm việc kể từ ngày kết thúc thời hạn nhà đầu tư thanh toán tiền mua cổ phần.\nc) Nếu quá thời hạn thanh toán tiền mua cổ phần nêu trên mà nhà đầu tư không nộp hoặc nộp không đủ so với số tiền phải thanh toán mua cổ phần, nhà đầu tư không được hoàn trả số tiền đặt cọc tương ứng với số cổ phần không thanh toán hoặc bị phạt số tiền tương đương khoản giá trị đặt cọc trong trường hợp sử dụng hình thức ký quỹ, bảo lãnh. Số cổ phần chưa thanh toán được coi là số cổ phần không bán hết và được xử lý theo quy định.\n3. Việc mua bán cổ phần được thanh toán bằng đồng Việt Nam. Việc thanh toán thực hiện bằng tiền mặt hoặc chuyển khoản."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "25",
+                            "title": "Chuyển tiền thu từ bán cổ phần của doanh nghiệp cổ phần hóa",
+                            "position": 190,
+                            "children": [],
+                            "content": "1. Trong thời hạn hai (02) ngày làm việc kể từ ngày hết hạn thanh toán tiền mua cổ phần của nhà đầu tư, Đại lý dựng sổ có trách nhiệm chuyển tiền thu từ bán cổ phần lần đầu cho Tổ chức quản lý sổ lệnh.\n2. Trong thời hạn năm (05) ngày làm việc kể từ ngày hết hạn thanh toán tiền mua cổ phần của nhà đầu tư, Tổ chức quản lý sổ lệnh thực hiện chuyển tiền thu được từ bán cổ phần theo phương thức dựng sổ như sau:\na) Chuyển tiền thu từ bán cổ phần cho doanh nghiệp cổ phần hóa\n- Đối với doanh nghiệp cổ phần hóa là doanh nghiệp nhà nước: chuyển tiền thu từ bán cổ phần tương ứng với kinh phí giải quyết chính sách lao động dôi dư và chi phí cổ phần hóa theo dự toán đã xác định trong phương án cổ phần hóa.\n- Đối với doanh nghiệp cổ phần hóa là doanh nghiệp do doanh nghiệp nhà nước đầu tư 100% vốn điều lệ: chuyển tiền thu từ bán cổ phần tương ứng các khoản: kinh phí giải quyết chính sách lao động dôi dư, chi phí cổ phần hóa theo dự toán đã xác định trong phương án cổ phần hóa, nghĩa vụ thuế (nếu có).\nb) Chuyển toàn bộ số tiền thu từ bán cổ phần còn lại về Quỹ Hỗ trợ sắp xếp và Phát triển doanh nghiệp (bao gồm cả số tiền đặt cọc không phải trả cho nhà đầu tư nếu có)."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "26",
+                            "title": "Chuyển tiền thu từ chuyển nhượng vốn",
+                            "position": 197,
+                            "children": [],
+                            "content": "1. Trong thời hạn hai (02) ngày làm việc kể từ ngày hết hạn thanh toán tiền mua cổ phần, Đại lý dựng sổ có trách nhiệm chuyển tiền thu từ chuyển nhượng cổ phần cho Tổ chức quản lý sổ lệnh.\n2. Trong thời hạn mười lăm (15) ngày kể từ ngày công bố kết quả dựng sổ, Tổ chức quản lý sổ lệnh có trách nhiệm chuyển tiền thu từ chuyển nhượng vốn (bao gồm cả số tiền đặt cọc không phải hoàn trả cho nhà đầu tư nếu có) vào tài khoản nhận tiền thu từ chuyển nhượng vốn theo quy định tại Nghị định số 91/2015/NĐ-CP và Nghị định số 32/2018/NĐ-CP."
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "V",
+                    "title": "TỔ CHỨC THỰC HIỆN",
+                    "position": 200,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "27",
+                            "title": "Trách nhiệm của Cơ quan đại diện chủ sở hữu, Hội đồng thành viên hoặc Chủ tịch doanh nghiệp nhà nước đối với việc bán cổ phần lần đầu",
+                            "position": 201,
+                            "children": [],
+                            "content": "Cơ quan đại diện chủ sở hữu (đối với doanh nghiệp nhà nước quy định tại khoản 2 Điều 2 Nghị định số 126/2017/NĐ-CP), Hội đồng thành viên hoặc Chủ tịch doanh nghiệp nhà nước quy định tại khoản 2 Điều 2 Nghị định số 126/2017/NĐ-CP (đối với doanh nghiệp cấp II quy định tại khoản 3 Điều 2 Nghị định số 126/2017/NĐ-CP) có trách nhiệm sau:\n1. Quyết định hoặc trình cấp có thẩm quyền phê duyệt phương án cổ phần hóa trong đó có phương án bán cổ phần theo phương thức dựng sở theo quy định tại khoản 1 Điều 4 Thông tư này đối với các doanh nghiệp thuộc thẩm quyền.\n2. Quyết định phê duyệt danh sách nhà đầu tư chiến lược theo quy định tại khoản 3 Điều 6 Nghị định số 126/2017/NĐ-CP.\n3. Kiểm tra, giám sát Ban chỉ đạo cổ phần hóa và doanh nghiệp cổ phần hóa trong việc thực hiện bán cổ phần theo phương án đã được phê duyệt.\n4. Quyết định kết quả dựng sở.\n5. Thực hiện các trách nhiệm khác theo quy định tại Thông tư này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "28",
+                            "title": "Trách nhiệm của Ban chỉ đạo cổ phần hóa",
+                            "position": 209,
+                            "children": [],
+                            "content": "1. Trình cấp có thẩm quyền quyết định phương án bán cổ phần lần đầu theo phương thức dựng sở, trong đó bao gồm nội dung theo quy định tại khoản 1 Điều 4 Thông tư này.\n2. Báo cáo cấp có thẩm quyền quyết định phê duyệt danh sách nhà đầu tư chiến lược theo quy định tại khoản 3 Điều 6 Nghị định số 126/2017/NĐ-CP.\n3. Kiểm tra, hoàn tất các thông tin liên quan đến cổ phần hóa.\n4. Thực hiện công bố, cung cấp cho Tổ chức quản lý sổ lệnh thông tin đầy đủ, chính xác về doanh nghiệp trước khi bán cổ phần theo quy định.\n5. Gửi Đơn đăng ký bán cổ phần theo phương thức dựng sở và các tài liệu liên quan đến cổ phần hóa cho Tổ chức quản lý sổ lệnh, đồng gửi Trung tâm Lưu ký chứng khoán Việt Nam, Sở Giao dịch chứng khoán để thực hiện đồng thời việc đăng ký bán cổ phần theo phương thức dựng sở với đăng ký mã cổ phần, đăng ký, lưu ký và đăng ký giao dịch hoặc đăng ký niêm yết (nếu đủ điều kiện) số cổ phần đã được phân phối.\n6. Lựa chọn Đại lý dựng sở.\n7. Ký hợp đồng hoặc ủy quyền cho doanh nghiệp cổ phần hóa ký hợp đồng cung cấp dịch vụ bán cổ phần lần đầu theo phương thức dựng sở với các tổ chức thực hiện việc bán cổ phần.\n8. Quyết định giá mở sở.\n9. Ban hành Bản công bố thông tin về việc bán cổ phần lần đầu theo phương thức dựng sở, Quy chế bán cổ phần lần đầu theo phương thức dựng sở.\n10. Phối hợp với Tổ chức quản lý sổ lệnh, Đại lý dựng sở công bố công khai cho các nhà đầu tư các thông tin liên quan đến doanh nghiệp và việc bán cổ phần theo quy định.\n11. Giám sát việc bán cổ phần khi doanh nghiệp thực hiện bán tại Tổ chức quản lý sổ lệnh.\n12. Bảo mật các thông tin trên Phiếu đặt lệnh mua cổ phần của các nhà\nđầu tư đến khi đóng sổ lệnh.\n13. Quyết định hủy kết quả sổ lệnh (nếu có), báo cáo cấp có thẩm quyền và thực hiện công bố thông tin về việc hủy kết quả sổ lệnh theo quy định.\n14. Công bố danh sách nhà đầu tư đã đặt lệnh mua mà chưa được mua hết số cổ phần đã đặt lệnh theo quy định tại khoản 5 Điều 10 Thông tư này.\n15. Xác định và trình Cơ quan đại diện chủ sở hữu (đối với doanh nghiệp nhà nước) hoặc Hội đồng thành viên/Chủ tịch doanh nghiệp nhà nước (đối với doanh nghiệp cấp II) quyết định giá phân phối và kết quả dựng sổ.\n16. Ký Biên bản xác định kết quả dựng sổ.\n17. Tổng hợp, báo cáo kết quả dựng sổ gửi cấp có thẩm quyền.\n18. Công bố công khai kết quả dựng sổ.\n19. Báo cáo cấp có thẩm quyền về kết quả bán cổ phần theo quy định.\n20. Thực hiện các trách nhiệm khác theo quy định tại Thông tư này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "29",
+                            "title": "Trách nhiệm của doanh nghiệp cổ phần hóa",
+                            "position": 232,
+                            "children": [],
+                            "content": "1. Cung cấp tài liệu, thông tin đầy đủ, chính xác về doanh nghiệp cổ phần hóa (bao gồm cả phương án cổ phần hóa, dự thảo Điều lệ tổ chức và hoạt động của công ty cổ phần) trước khi bán cổ phần theo quy định tại Thông tư này.\n2. Ký Biên bản xác định kết quả dựng sổ theo quy định tại Thông tư này.\n3. Nộp tiền thu từ cổ phần hóa theo quy định. Trường hợp chậm nộp, doanh nghiệp cổ phần hoá phải nộp thêm tiền lãi theo quy định tại khoản 3 Điều 39 Nghị định số 126/2017/NĐ-CP.\n4. Thực hiện công khai, minh bạch thông tin về cổ phần hóa doanh nghiệp theo quy định tại khoản 1 Điều 11 Nghị định số 126/2017/NĐ-CP.\n5. Khi có tổn thất xảy ra do vi phạm, không thực hiện đúng các quy định tại Thông tư này thì doanh nghiệp cổ phần hóa và các cá nhân có liên quan phải chịu trách nhiệm bồi thường theo quy định của pháp luật."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "30",
+                            "title": "Trách nhiệm của Trung tâm Lưu ký chứng khoán Việt Nam và Sở Giao dịch chứng khoán",
+                            "position": 238,
+                            "children": [],
+                            "content": "1. Trách nhiệm của Trung tâm Lưu ký chứng khoán Việt Nam\nThực hiện cấp mã cổ phần chào bán theo phương thức dựng sổ, đăng ký, lưu ký và thanh toán bù trừ giao dịch cho số cổ phần đã thanh toán của doanh nghiệp cổ phần hóa bán theo phương thức dựng sổ. Mã cổ phần này sẽ được sử dụng thống nhất khi chào bán cổ phần theo phương thức dựng sổ, đăng ký, lưu ký và đăng ký giao dịch hoặc đăng ký niêm yết.\n2. Trách nhiệm của Sở Giao dịch chứng khoán\nTổ chức giao dịch cổ phần được phân phối theo phương thức dựng sổ của\ndoanh nghiệp cổ phần hóa đã hoàn tất nghĩa vụ thanh toán theo quy định tại Thông tư này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "31",
+                            "title": "Trách nhiệm của Chủ sở hữu vốn đối với việc chuyển nhượng vốn",
+                            "position": 245,
+                            "children": [],
+                            "content": "1. Quyết định phương án chuyển nhượng cổ phần theo phương thức dựng số theo quy định tại Điều 14 Thông tư này.\n2. Kiểm tra, hoàn tất các thông tin liên quan đến việc bán cổ phần theo phương thức dựng số.\n3. Gửi Đơn đăng ký bán cổ phần theo phương thức dựng số và các tài liệu liên quan đến việc chuyển nhượng vốn cho Tổ chức quản lý sổ lệnh.\n4. Lựa chọn Đại lý dựng số.\n5. Ký hợp đồng cung cấp dịch vụ bán cổ phần theo phương thức dựng số với các tổ chức thực hiện việc bán cổ phần.\n6. Quyết định giá mở sổ.\n7. Thực hiện công bố, cung cấp cho Tổ chức quản lý sổ lệnh thông tin đầy đủ, chính xác và các tài liệu có liên quan đến việc bán cổ phần theo phương thức dựng số trước khi bán cổ phần theo quy định.\n8. Ban hành Bản công bố thông tin về chuyển nhượng vốn theo phương thức dựng số, Quy chế chuyển nhượng vốn theo phương thức dựng số.\n9. Phối hợp với Tổ chức quản lý sổ lệnh, Đại lý dựng số công bố công khai cho các nhà đầu tư các thông tin liên quan đến việc bán cổ phần theo quy định.\n10. Giám sát việc bán cổ phần khi doanh nghiệp thực hiện bán tại Tổ chức quản lý sổ lệnh.\n11. Bảo mật các thông tin trên Phiếu đặt lệnh mua cổ phần của các nhà đầu tư đến khi đóng sổ lệnh.\n12. Quyết định và công bố thông tin về việc hủy kết quả sổ lệnh (nếu có) theo quy định.\n13. Công bố danh sách nhà đầu tư đã đặt lệnh mua mà chưa được mua hết số cổ phần đã đặt lệnh theo quy định tại khoản 2 Điều 20 Thông tư này.\n14. Quyết định giá phân phối và kết quả dựng số.\n15. Ký Biên bản xác định kết quả dựng số.\n16. Công bố công khai kết quả dựng số.\n17. Tổng hợp, báo cáo cấp có thẩm quyền về kết quả bán cổ phần theo quy định.\n18. Thực hiện các trách nhiệm khác theo quy định tại Thông tư này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "32",
+                            "title": "Trách nhiệm của Tổ chức bảo lãnh phát hành",
+                            "position": 265,
+                            "children": [],
+                            "content": "1. Tiếp cận tài liệu, thông tin về cổ phần hoá từ giai đoạn xác định giá trị doanh nghiệp đến giai đoạn bán cổ phần.\n2. Tiếp cận tài liệu, thông tin về doanh nghiệp có cổ phần được chào bán và phương án chuyển nhượng vốn.\n3. Thực hiện các nghĩa vụ và cam kết theo Hợp đồng bảo lãnh phát hành. 4. Chịu trách nhiệm thực hiện các nghĩa vụ và cam kết theo Hợp đồng bảo lãnh phát hành (nếu có).\n4. Chịu trách nhiệm thực hiện các nghĩa vụ và cam kết theo Hợp đồng đồng bảo lãnh phát hành (nếu có)."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "33",
+                            "title": "Trách nhiệm của Tổ chức quản lý số lệnh",
+                            "position": 270,
+                            "children": [],
+                            "content": "1. Yêu cầu doanh nghiệp cổ phần hóa/Ban chỉ đạo cổ phần hóa/Chủ sở hữu vốn cung cấp đầy đủ tài liệu, thông tin về việc bán cổ phần theo quy định.\n2. Công bố thông tin theo quy định tại Thông tư này.\n3. Mở sổ lệnh để tiếp nhận lệnh đặt mua của nhà đầu tư qua Đại lý dựng số và tổ chức thực hiện quản lý số lệnh.\n4. Công bố thông tin về khối lượng đặt mua theo quy định.\n5. Bảo mật các thông tin trên Phiếu đặt lệnh mua cổ phần của các nhà đầu tư đến khi đóng sổ lệnh.\n6. Đóng sổ lệnh và kết thúc quá trình dựng số.\n7. Ký Biên bản xác định kết quả dựng số, công bố kết quả dựng số và nhận tiền thanh toán mua cổ phần theo quy định.\n8. Nộp tiền thu từ bán cổ phần theo quy định tại Thông tư này. Trường hợp chậm nộp, Tổ chức quản lý số lệnh phải nộp thêm tiền lãi theo quy định tại khoản 3 Điều 39 Nghị định số 126/2017/NĐ-CP; Nghị định số 91/2015/NĐ-CP và Nghị định số 32/2018/NĐ-CP.\n9. Báo cáo cơ quan quản lý nhà nước về kết quả bán cổ phần theo quy định.\n10. Thực hiện các trách nhiệm khác theo quy định tại Thông tư này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "34",
+                            "title": "Trách nhiệm của Đại lý dựng số",
+                            "position": 281,
+                            "children": [],
+                            "content": "1. Đăng ký với Tổ chức quản lý số lệnh về việc thực hiện vai trò của đại lý dựng số.\n2. Tiếp nhận Đơn đăng ký tham gia mua cổ phần, nhận tiền đặt cọc, cấp Phiếu đặt lệnh mua cổ phần cho nhà đầu tư.\n3. Tiếp nhận Phiếu đặt lệnh mua cổ phần, nhập thông tin trên Phiếu đặt lệnh mua cổ phần vào hệ thống của Tổ chức quản lý số lệnh.\n4. Bảo mật các thông tin trên Phiếu đặt lệnh mua cổ phần của các nhà đầu tư đến khi đóng sổ lệnh.\n5. Thực hiện các trách nhiệm khác theo quy định tại Thông tư này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "35",
+                            "title": "Trách nhiệm của Bộ Tài chính",
+                            "position": 288,
+                            "children": [],
+                            "content": "1. Hướng dẫn các cơ quan, tổ chức, doanh nghiệp cổ phần hóa, doanh nghiệp nhà nước trong việc bán cổ phần theo phương thức dựng sổ theo quy định tại Thông tư này và các quy định liên quan.\n2. Phối hợp với các cơ quan, tổ chức, doanh nghiệp cổ phần hóa, doanh nghiệp nhà nước xử lý các vấn đề phát sinh trong quá trình bán cổ phần."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "36",
+                            "title": "Trách nhiệm của nhà đầu tư",
+                            "position": 291,
+                            "children": [],
+                            "content": "Các nhà đầu tư tham gia mua cổ phần có trách nhiệm thực hiện các quy định về quyền mua cổ phần, Quy chế bán cổ phần theo phương thức dựng sổ và các quy định tại Thông tư này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "37",
+                            "title": "Hiệu lực thi hành",
+                            "position": 293,
+                            "children": [],
+                            "content": "1. Thông tư này có hiệu lực kể từ ngày 03 tháng 06 năm 2019.\n2. Trong quá trình thực hiện, nếu có vướng mắc đề nghị các tổ chức, cá nhân phản ánh kịp thời về Bộ Tài chính để xem xét, xử lý./.\nThủ tướng, các Phó Thủ tướng Chính phủ; Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; HĐND, UBND các tỉnh, thành phố trực thuộc Trung ư Văn phòng Trung ương và các Ban của Đảng; Văn phòng Quốc hội; Văn phòng Tổng Bí thư; Văn phòng Chủ tịch nước; Văn phòng Chính phủ; Toà án nhân dân tối cao; Viện Kiểm sát nhân dân tối cao; Kiểm toán Nhà nước; Cơ quan Trung ương của các đoàn thể; Sở Tài chính, Cục thuế các tỉnh, thành phố trực thuộc Trung ương; Các Tập đoàn kinh tế nhà nước; Các Tổng công ty nhà nước; Văn phòng Ban chỉ đạo Trung ương về phòng, chống tham nhũng; Cục Kiểm tra văn bản (Bộ Tư pháp); Website Chính phủ; Các đơn vị thuộc Bộ Tài chính; Website Bộ Tài chính: Lưu: VT, UBCK. (380 b)"
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "I",
+                    "title": "QUY ĐỊNH CHUNG",
+                    "position": 400,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "1",
+                            "title": "Phạm vi điều chỉnh",
+                            "position": 401,
+                            "children": [],
+                            "content": "Quy chế này áp dụng đối với việc tổ chức bán cổ phần lần đầu của ... (tên Doanh nghiệp cổ phần hóa) theo phương thức dựng sở tại ... (tên Sở giao dịch chứng khoán)."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "2",
+                            "title": "Giải thích từ ngữ",
+                            "position": 403,
+                            "children": [],
+                            "content": "Trong Quy chế này, các từ ngữ dưới đây được hiểu như sau:\n1. \"Doanh nghiệp cổ phần hóa\" là ... (tên Doanh nghiệp cổ phần hóa).\n2. \"Bán cổ phần theo phương thức dựng sở\" là hình thức bán cổ phần của doanh nghiệp công khai cho các đối tượng có sự cạnh tranh về giá trên cơ sở tham khảo nhu cầu của thị trường.\n3. \"Bảo lãnh phát hành theo phương thức dựng sở\" là hoạt động bảo lãnh phát hành chứng khoán theo quy định tại khoản 22 Điều 6 Luật chứng khoán được sửa đổi, bổ sung theo quy định tại khoản 3 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật chứng khoán và quy định tại khoản 9 Điều 2 Nghị định số 58/2012/NĐ-CP ngày 20/7/2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật chứng khoán.\n4. \"Nhà đầu tư\" là tổ chức, cá nhân trong và ngoài nước theo quy định tại Điều 6 Nghị định số 126/2017/NĐ-CP ngày 16/11/2017 của Chính phủ về chuyển doanh nghiệp nhà nước và công ty trách nhiệm hữu hạn một thành viên do doanh nghiệp nhà nước đầu tư 100% vốn điều lệ thành công ty cổ phần.\n5. \"Nhà đầu tư chiến lược\" là nhà đầu tư đáp ứng quy định tại điểm a khoản 3 Điều 6 Nghị định số 126/2017/NĐ-CP.\n6. \"Cơ quan quyết định cổ phần hóa\" là ... (tên Cơ quan có thẩm quyền quyết định cổ phần hóa).\n7. [\"Cơ quan đại diện chủ sở hữu\" là ... (tên Cơ quan đại diện chủ sở hữu)].\n8. \"Tổ chức tư vấn bán cổ phần\" (nếu có) là ... (tên Tổ chức tư vấn bán cổ phần).\n9. “Tổ chức bảo lãnh phát hành theo phương thức dựng sổ” (nếu có) là ... (tên Tổ chức bảo lãnh phát hành).\n10. “Tổ chức quản lý số lệnh” là … (tên SGDCK).\n11. “Hội đồng bán cổ phần” là tổ chức thực hiện chỉ đạo việc bán cổ phần theo phương thức dựng sổ bao gồm: đại diện Ban chỉ đạo cổ phần hóa, đại diện Doanh nghiệp cổ phần hóa, đại diện Tổ chức quản lý số lệnh và đại diện Tổ chức tư vấn bán cổ phần. Chủ tịch Hội đồng bán cổ phần là Trưởng Ban chỉ đạo cổ phần hóa hoặc thành viên Ban chỉ đạo cổ phần hóa do Trưởng Ban chỉ đạo cổ phần hóa ủy quyền bằng văn bản. Chủ tịch Hội đồng bán cổ phần thay mặt cho Hội đồng bán cổ phần ký các văn bản thuộc thẩm quyền.\n12. “Ban tổ chức bán cổ phần” là tổ chức do … (tên SGDCK) thành lập để thực hiện việc bán cổ phần theo phương thức dựng sổ và các công việc liên quan theo quy định.\n13. “Đại lý dựng sổ” là các công ty chứng khoán tham gia vào việc tổ chức bán cổ phần theo phương thức dựng sổ.\n14. “Mệnh giá cổ phần” là 10.000 đồng.\n15. “Giá khởi điểm” là giá được xác định theo quy định tại khoản 8 Điều 3 Nghị định số 126/2017/NĐ-CP.\n16. “Khoảng giá dựng sổ” là khoảng giá được xây dựng nhằm phản ánh nhu cầu thị trường của cổ phần chào bán.\n17. “Giá mở sổ” là giá của một cổ phần chào bán được xác định trong khoảng giá dựng sổ.\n18. “Bước giá” là khoảng cách giá giữa các lần đặt mua liên tiếp [100 đồng].\n19. “Bước khối lượng” là khoảng cách giữa các khối lượng đặt mua liên tiếp.\n20. “Giá phân phối” là giá bán một cổ phần nhà đầu tư được mua trên cơ sở kết quả dựng sổ.\n21. “Ngày kết thúc việc dựng sổ” là ngày nhập xong các thông tin trên Phiếu đặt lệnh mua cổ phần của nhà đầu tư vào hệ thống và đã xác định được kết quả dựng sổ.\n22. “Ngày kết thúc việc bán cổ phần” là ngày cuối cùng nhà đầu tư thanh toán tiền mua cổ phần theo thông báo của Tổ chức quản lý số lệnh."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "3",
+                            "title": "Trách nhiệm và quyền hạn của Ban chỉ đạo cổ phần hóa",
+                            "position": 429,
+                            "children": [],
+                            "content": "1. Gửi Đơn đăng ký bán cổ phần theo phương thức dựng sổ và các tài liệu liên quan đến cổ phần hóa cho Tổ chức quản lý số lệnh, đồng gửi Trung tâm lưu\nký chứng khoán Việt Nam, Sở giao dịch chứng khoán để thực hiện đồng thời việc đăng ký bán cổ phần theo phương thức dựng sổ với đăng ký mã cổ phần, đăng ký, lưu ký và đăng ký giao dịch hoặc đăng ký niêm yết (nếu đủ điều kiện) số cổ phần đã được phân phối.\n2. Lựa chọn Đại lý dựng sổ.\n3. Ký hợp đồng hoặc ủy quyền cho Doanh nghiệp cổ phần hóa ký Hợp đồng cung cấp dịch vụ bán cổ phần lần đầu theo phương thức dựng sổ với các tổ chức thực hiện việc bán cổ phần.\n4. Xây dựng và ban hành Quyết định thành lập Hội đồng bán cổ phần và Quy chế bán cổ phần lần đầu theo phương thức dựng sổ.\n5. Cử đại diện tham gia Hội đồng bán cổ phần và tham gia kiểm tra, giám sát việc bán cổ phần theo Quy chế này và các quy định hiện hành.\n6. Kiểm tra, hoàn tất các thông tin liên quan đến cổ phần hóa. Thực hiện công bố, cung cấp cho Tổ chức quản lý số lệnh thông tin đầy đủ, chính xác về Doanh nghiệp cổ phần hóa và các tài liệu liên quan đến việc bán cổ phần theo phương thức dựng sổ trước khi bán cổ phần theo quy định. Trường hợp Ban chỉ đạo cổ phần hóa ủy quyền cho Tổ chức tư vấn soạn thảo bản thông tin về Doanh nghiệp cổ phần hóa thì Tổ chức tư vấn phải chịu trách nhiệm liên đới về tính chính xác và đầy đủ của bản công bố thông tin về Doanh nghiệp cổ phần hóa.\n7. Phối hợp với Tổ chức quản lý số lệnh, Đại lý dựng sổ công bố công khai cho các nhà đầu tư các thông tin liên quan đến Doanh nghiệp cổ phần hóa và việc bán cổ phần theo phương thức dựng sổ theo Điều 9 Quy chế này.\n8. Phối hợp với Tổ chức quản lý số lệnh thuyết trình về doanh nghiệp cổ phần hóa cho các nhà đầu tư (nếu cần).\n9. Giám sát việc bán cổ phần theo phương thức dựng sổ.\n10. Bảo mật các thông tin trên Phiếu đặt lệnh mua cổ phần của các nhà đầu tư đến khi đóng số lệnh.\n11. Xác định và trình [Cơ quan đại diện chủ sở hữu (đối với doanh nghiệp nhà nước)/Hội đồng thành viên hoặc Chủ tịch doanh nghiệp nhà nước (đối với doanh nghiệp cấp II)] quyết định giá phân phối và kết quả dựng sổ.\n12. Trường hợp hủy kết quả số lệnh, quyết định hủy kết quả số lệnh, báo cáo [Cơ quan đại diện chủ sở hữu (đối với doanh nghiệp nhà nước)/Hội đồng thành viên hoặc Chủ tịch doanh nghiệp nhà nước (đối với công ty trách nhiệm hữu hạn một thành viên do doanh nghiệp nhà nước đầu tư 100% vốn điều lệ - sau đây gọi là doanh nghiệp cấp II)] và thực hiện công bố thông tin về việc hủy kết quả số lệnh theo quy định.\n13. Đồng ký Biên bản xác định kết quả dựng sổ.\n14. Tổng hợp, báo cáo kết quả dựng sổ gửi [Cơ quan đại diện chủ sở hữu (đối với doanh nghiệp nhà nước)/Hội đồng thành viên hoặc Chủ tịch doanh nghiệp nhà nước (đối với doanh nghiệp cấp II)].\n15. Phối hợp với Tổ chức quản lý số lệnh công bố công khai kết quả dựng sổ.\n16. Phối hợp với Tổ chức quản lý số lệnh gửi kết quả dựng sổ cho các Đại lý dựng sổ.\n17. Phối hợp với Tổ chức quản lý số lệnh và Đại lý dựng sổ hoàn trả tiền đặt cọc cho nhà đầu tư đặt lệnh mua cổ phần hợp lệ nhưng không được phân phối cổ phần theo Quy chế này.\n18. Báo cáo cấp có thẩm quyền và xử lý đối với số lượng cổ phần chưa bán hết theo phương thức dựng sổ theo quy định.\n19. Thực hiện các công việc khác theo quy định."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "4",
+                            "title": "Trách nhiệm và quyền hạn của Hội đồng bán cổ phần",
+                            "position": 452,
+                            "children": [],
+                            "content": "1. Tổ chức chỉ đạo và tham gia kiểm tra, giám sát hoạt động bán cổ phần theo phương thức dựng sổ theo quy định.\n2. Giám sát, xử lý, báo cáo trong trường hợp tài liệu đăng ký/Phiếu đặt lệnh mua cổ phần của nhà đầu tư có vấn đề.\n3. Xem xét, xử lý các trường hợp vi phạm Quy chế bán cổ phần và các trường hợp vi phạm khác tùy theo mức độ vi phạm.\n4. Ký Biên bản xác định kết quả dựng sổ.\n5. Thực hiện các công việc khác theo quyết định hoặc ủy quyền của Ban chỉ đạo cổ phần hóa."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "5",
+                            "title": "Trách nhiệm và quyền hạn của Doanh nghiệp cổ phần hóa",
+                            "position": 458,
+                            "children": [],
+                            "content": "1. Cử đại diện tham gia Hội đồng bán cổ phần.\n2. Cung cấp tài liệu, thông tin đầy đủ, chính xác về Doanh nghiệp cổ phần hóa (bao gồm cả phương án cổ phần hóa, dự thảo điều lệ tổ chức và hoạt động của công ty cổ phần) cho Ban chỉ đạo cổ phần hóa và các đơn vị liên quan trước khi bán cổ phần theo quy định.\n3. Phối hợp với Tổ chức quản lý số lệnh công bố công khai cho nhà đầu tư thông tin liên quan đến Doanh nghiệp cổ phần hóa và việc bán cổ phần theo phương thức dựng sổ theo Điều 9 Quy chế này.\n4. Ký Biên bản xác định kết quả dựng sổ.\n5. Lưu trữ tài liệu đăng ký, đặt lệnh mua cổ phần của nhà đầu tư sau khi hoàn thành đợt bán cổ phần theo phương thức dựng sổ và các tài liệu khác liên quan (nếu có).\n6. Thực hiện công bố công khai trên cổng thông tin điện tử Chính phủ, đồng thời gửi về Bộ Tài chính, Ban Chỉ đạo Đổi mới và Phát triển doanh nghiệp để theo dõi theo quy định tại khoản 1 Điều 11 Nghị định số 126/2017/NĐ-CP bao gồm:\n- Lộ trình và tiến độ triển khai cổ phần hóa;\n- Các thông tin về doanh nghiệp (trong đó có phương án sử dụng đất đã được\nphê duyệt, các diện tích đất đang có tranh chấp cần tiếp tục giải quyết – nếu có);\nCác vấn đề về xử lý tài chính trong quá trình cổ phần hóa, phương pháp định giá và kết quả xác định giá trị doanh nghiệp;\nPhương án cổ phần hóa, tình hình và kết quả triển khai phương án cổ phần hóa;\nTình hình quản lý và sử dụng đất đai;\nPhương án sắp xếp và mua cổ phần của người lao động;\nDự thảo điều lệ của doanh nghiệp theo đúng quy định tại Luật doanh nghiệp.\n7. Trong thời hạn mười lăm (15) ngày kể từ ngày Doanh nghiệp cổ phần hóa chính thức chuyển thành công ty cổ phần (ngày được cấp Giấy đăng ký doanh nghiệp), Doanh nghiệp cổ phần hóa có trách nhiệm đăng ký thông tin chính thức với Trung tâm Lưu ký chứng khoán Việt Nam theo quy định của pháp luật về chứng khoán và hướng dẫn của Trung tâm Lưu ký chứng khoán Việt Nam, bao gồm: thông tin về Tổ chức phát hành cổ phần; thông tin về cổ phần phát hành; thông tin về danh sách tổ chức, cá nhân sở hữu cổ phần và số lượng cổ phần sở hữu, bao gồm cả số cổ phần đã bán cho nhà đầu tư chiến lược, tổ chức công đoàn và người lao động.\n8. Thực hiện các công việc khác theo quy định."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "6",
+                            "title": "Trách nhiệm và quyền hạn của Tổ chức quản lý sổ lệnh",
+                            "position": 476,
+                            "children": [],
+                            "content": "1. Yêu cầu Ban chỉ đạo cổ phần hóa, Doanh nghiệp cổ phần hóa cung cấp đầy đủ tài liệu, thông tin về cổ phần hóa và việc bán cổ phần theo phương thức dựng sổ theo quy định.\n2. Cử đại diện tham gia Hội đồng bán cổ phần.\n3. Thành lập Ban tổ chức bán cổ phần theo quy định.\n4. Thông báo việc tiếp nhận đăng ký làm đại lý dựng sổ.\n5. Thông báo với Ban chỉ đạo cổ phần hóa và Doanh nghiệp cổ phần hóa về thời gian, địa điểm tổ chức bán cổ phần theo phương thức dựng sổ.\n6. Thực hiện thông báo và công bố thông tin liên quan đến Doanh nghiệp cổ phần hóa và việc bán cổ phần theo phương thức dựng sổ theo Điều 9 Quy chế này. Trường hợp thông tin công bố không chính xác, phản ánh sai lệch so với thông tin, số liệu do Ban chỉ đạo cổ phần hóa và Doanh nghiệp cổ phần hóa cung cấp thì Tổ chức quản lý sổ lệnh chịu trách nhiệm theo quy định của pháp luật.\n7. Kiểm tra, giám sát việc công bố thông tin theo Điều 9 Quy chế này và các vấn đề khác liên quan đến việc bán cổ phần theo phương thức dựng sổ của các Đại lý dựng sổ.\n8. Mở tài khoản nhận tiền đặt cọc của nhà đầu tư tổ chức và cung cấp giấy xác nhận nộp tiền đặt cọc của nhà đầu tư tổ chức.\n9. Tổng hợp, đối chiếu giữa kết quả đăng ký, đặt lệnh theo báo cáo của các Đại lý dựng sổ với số lượng đăng ký, đặt lệnh trên hệ thống.\n10. Mở sổ lệnh để tiếp nhận lệnh đặt mua của nhà đầu tư và tổ chức thực hiện việc quản lý sổ lệnh.\n11. Bảo mật các thông tin trên Phiếu đặt lệnh mua cổ phần của các nhà đầu tư đến khi đóng sổ lệnh.\n12. Phối hợp với Đại lý dựng sổ công bố thông tin trong thời gian mở sổ lệnh – từ 9h00 đến 9h30 hàng ngày trước mỗi phiên giao dịch về biểu đồ khối lượng cổ phần đặt mua lũy kế theo từng mức giá từ ngày mở sổ lệnh trên trang thông tin điện tử của Tổ chức quản lý sổ lệnh và Đại lý dựng sổ.\n13. Đóng sổ lệnh và kết thúc quá trình dựng sổ.\n14. Tổ chức dựng sổ và chịu trách nhiệm về việc xác định kết quả dựng sổ theo quy định.\n15. Phối hợp với Ban chỉ đạo cổ phần hóa xác định kết quả dựng sổ theo quy định.\n16. Đồng ký Biên bản xác định kết quả dựng sổ.\n17. Phối hợp với Ban chỉ đạo cổ phần hóa công bố công khai kết quả dựng sổ.\n18. Phối hợp với Ban chỉ đạo cổ phần hóa gửi kết quả dựng sổ cho các Đại lý dựng sổ.\n19. Phối hợp với Ban chỉ đạo cổ phần hóa và Đại lý dựng sổ hoàn trả tiền đặt cọc cho nhà đầu tư đặt lệnh mua cổ phần hợp lệ nhưng không được phân phối cổ phần theo Quy chế này và nhận tiền thanh toán mua cổ phần của nhà đầu tư theo quy định.\n20. Chuyển tiền thu từ bán cổ phần theo phương thức dựng sổ và tiền đặt cọc của nhà đầu tư tham gia mua cổ phần không hợp lệ theo Điều 18 và Điều 22 Quy chế này.\n21. Chuyển giao tài liệu đăng ký, đặt lệnh mua cổ phần của nhà đầu tư và các tài liệu khác liên quan (nếu có) cho Ban chỉ đạo cổ phần hóa trong vòng mười (10) ngày kể từ ngày kết thúc việc bán cổ phần.\n22. Thông báo với Trung tâm Lưu ký chứng khoán Việt Nam và Sở giao dịch chứng khoán về giá phân phối kèm theo danh sách nhà đầu tư đã thanh toán số cổ phần được phân phối trong thời hạn mười lăm (15) ngày kể từ ngày hết hạn thanh toán tiền mua cổ phần để thực hiện đăng ký, lưu ký và đăng ký giao dịch/niêm yết số cổ phần đã được phân phối theo quy định.\n23. Thực hiện các công việc khác theo quy định."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "7",
+                            "title": "Trách nhiệm và quyền hạn của Đại lý dựng sổ",
+                            "position": 501,
+                            "children": [],
+                            "content": "1. Ký hợp đồng đại lý dựng sổ theo quy định.\n2. Đăng ký với Tổ chức quản lý sổ lệnh về việc thực hiện vai trò của đại lý dựng sổ.\n3. Phối hợp với Ban chỉ đạo cổ phần hóa, Tổ chức quản lý sổ lệnh thực hiện thông báo và công bố thông tin liên quan đến Doanh nghiệp cổ phần hóa và việc bán cổ phần theo phương thức dựng sở theo Điều 9 Quy chế này. Trường hợp thông tin công bố không chính xác, phản ánh sai lệch so với thông tin, số liệu do Ban chỉ đạo cổ phần hóa, Tổ chức quản lý sổ lệnh cung cấp thì Đại lý dựng sở phải chịu trách nhiệm theo quy định của pháp luật.\n4. Cung cấp thông tin liên quan đến doanh nghiệp và việc bán cổ phần theo phương thức dựng sở, mẫu đơn đăng ký tham gia mua cổ phần cho các nhà đầu tư theo Điều 9 Quy chế này.\n5. Tiếp nhận Đơn đăng ký tham gia mua cổ phần, nhận tiền đặt cọc, kiểm tra điều kiện tham gia mua cổ phần, nhập các thông tin đăng ký mua của các nhà đầu tư vào hệ thống của Tổ chức quản lý sổ lệnh và cấp Phiếu đặt lệnh mua cổ phần theo mẫu tại Mẫu số 2a3 kèm theo Quy chế này cho các nhà đầu tư đáp ứng điều kiện tham gia mua cổ phần theo Điều 10 Quy chế này. Trường hợp nhà đầu tư không đủ điều kiện tham gia mua cổ phần thì Đại lý dựng sở phải thông báo và hoàn trả tiền đặt cọc cho các nhà đầu tư (nếu nhà đầu tư đã đặt cọc).\n6. Chịu trách nhiệm về tính chính xác, đầy đủ của thông tin nhập vào hệ thống của Tổ chức quản lý sổ lệnh theo tài liệu đăng ký tham gia mua cổ phần của nhà đầu tư.\n7. Trước 17h00 hàng ngày, chuyển tiền đặt cọc của nhà đầu tư về Tổ chức quản lý sổ lệnh.\n8. Giải thích những nội dung liên quan đến trình tự, thủ tục bán cổ phần theo phương thức dựng sở khi nhà đầu tư thắc mắc trong thời gian nhận phiếu đặt lệnh mua cổ phần.\n9. Tiếp nhận Phiếu đặt lệnh mua cổ phần của các nhà đầu tư cụ thể như sau:\na) Kiểm tra tính hợp lệ của Phiếu đặt lệnh mua cổ phần và nhập thông tin trên Phiếu đặt lệnh mua cổ phần vào hệ thống của Tổ chức quản lý sổ lệnh. Trường hợp phát sinh vướng mắc, Đại lý dựng sở phải xin ý kiến của Hội đồng bán cổ phần để giải quyết kịp thời;\nb) Chịu trách nhiệm về tính chính xác của các thông tin trên Phiếu đặt lệnh mua cổ phần của nhà đầu tư được nhập vào hệ thống của Tổ chức quản lý sổ lệnh;\nc) Chịu trách nhiệm trực tiếp với nhà đầu tư trong trường hợp Đại lý dựng sở không nhập, không nhập đầy đủ, chính xác các thông tin trên Phiếu đặt lệnh mua cổ phần vào hệ thống của Tổ chức quản lý sổ lệnh hoặc trong những trường hợp khác do lỗi của Đại lý dựng sở.\n10. Thực hiện các thủ tục liên quan đến việc thay đổi lệnh đặt mua cổ phần của nhà đầu tư theo khoản 4 Điều 13 Quy chế này.\n11. Bảo mật các thông tin trên Phiếu đặt lệnh mua cổ phần của các nhà đầu tư đến khi đóng sổ lệnh.\n12. Thông báo và gửi kết quả dựng sở cho các nhà đầu tư theo quy định.\n13. Hoàn trả tiền đặt cọc cho nhà đầu tư đặt lệnh mua cổ phần hợp lệ nhưng không được phân phối cổ phần theo quy định.\n14. Nhận tiền thanh toán mua cổ phần của các nhà đầu tư được mua cổ phần trong thời gian quy định.\n15. Chuyển tiền thanh toán mua cổ phần và danh sách nhà đầu tư nộp tiền thanh toán mua cổ phần cho Tổ chức quản lý số lệnh.\n16. Chuyển giao tài liệu đăng ký, đặt lệnh mua cổ phần của nhà đầu tư và các tài liệu khác liên quan (nếu có) cho Tổ chức quản lý số lệnh (hoặc Ban chỉ đạo cổ phần hóa) trong thời hạn năm (05) ngày làm việc kể từ ngày kết thúc việc bán cổ phần.\n17. Thực hiện các công việc khác theo quy định."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "8",
+                            "title": "Trách nhiệm và quyền hạn của nhà đầu tư tham gia mua cổ phần",
+                            "position": 524,
+                            "children": [],
+                            "content": "1. Tiếp cận thông tin công bố về Doanh nghiệp cổ phần hóa và việc bán cổ phần theo phương thức dựng sở theo quy định.\n2. Gửi Đơn đăng ký tham gia mua cổ phần theo mẫu tại Mẫu số 2a1/Mẫu số 2a2 kèm theo Quy chế này cho Đại lý dựng sở và nhận Phiếu đặt lệnh mua cổ phần.\n3. Thực hiện quy định của pháp luật về đầu tư tại công ty cổ phần và các quy định pháp luật liên quan trong trường hợp nhà đầu tư nước ngoài tham gia mua cổ phần.\n4. Nộp tiền đặt cọc theo quy định.\n5. Nộp Phiếu đặt lệnh mua cổ phần theo quy định.\n6. Nhận hoàn trả tiền đặt cọc theo quy định.\n7. Thanh toán đầy đủ, đúng hạn tiền mua cổ phần theo quy định.\n8. Tuân thủ các nội dung tại Quy chế này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "9",
+                            "title": "Công bố thông tin",
+                            "position": 533,
+                            "children": [],
+                            "content": "1. Ban chỉ đạo cổ phần hóa, Doanh nghiệp cổ phần hóa phối hợp với Tổ chức quản lý số lệnh và Đại lý dựng sở thông báo về thông tin liên quan đến việc bán cổ phần theo phương thức dựng sở (bao gồm cả bản Tiếng Anh) tối thiểu hai mươi (20) ngày làm việc trước ngày mở sổ lệnh theo quy định tại khoản 2 Điều 7 Thông tư số 21/2019/TT-BTC. Việc thông báo được thực hiện trên các phương tiện sau đây:\na) Ba (03) số báo liên tiếp của các báo ... (nêu tên các báo công bố);\nb) Tại Doanh nghiệp cổ phần hóa: ... (nêu địa chỉ, website);\nc) Tại Tổ chức quản lý số lệnh: ... (nêu địa chỉ, website);\nd) Tại các Đại lý dựng sở: ... (nêu địa chỉ, website);\nđ) Cổng thông tin điện tử Chính phủ: ... (nêu địa chỉ website).\n2. Ban chỉ đạo cổ phần hóa, Doanh nghiệp cổ phần hóa phối hợp với Tổ chức quản lý sổ lệnh và Đại lý dựng sổ công bố thông tin liên quan đến doanh nghiệp cổ phần hóa và việc bán cổ phần theo phương thức dựng sổ tối thiểu hai mươi (20) ngày làm việc trước ngày mở sổ lệnh, cụ thể:\na) Nội dung công bố thông tin bao gồm:\n- Bản công bố thông tin theo mẫu tại Phụ lục số 01a ban hành kèm theo Thông tư số 21/2019/TT-BTC;\n- Phương án cổ phần hóa;\n- Dự thảo Điều lệ Công ty cổ phần;\n- Quy chế bán cổ phần theo phương thức dựng sổ;\n- Các thông tin liên quan khác đến việc bán cổ phần theo phương thức dựng sổ theo quy định.\nb) Địa điểm công bố thông tin\n- Doanh nghiệp cổ phần hóa: …(tên Doanh nghiệp cổ phần hóa)\nĐịa chỉ: .(nêu địa chỉ);\nWebsite: (tên website).\n- Cơ quan đại diện chủ sở hữu/Doanh nghiệp nhà nước: …(tên Cơ quan đại diện chủ sở hữu/Doanh nghiệp nhà nước)\n+ Địa chỉ:…….(nêu địa chỉ); + Địa chỉ:……..(nêu địa chỉ); + Địa chỉ:…….(nêu địa chỉ); + Địa chỉ:…….(nêu địa chỉ);\n+ Website:……. (tên website). + Website:……. (tên website). + Website:……. (tên website). + Website:……. (tên website).\n- Tổ chức quản lý sổ lệnh: …(tên SGDCK)\nĐịa chỉ: .(nêu địa chỉ);\nWebsite: (tên website).\n- Các Đại lý dựng sổ:\nĐịa chỉ: .(nêu địa chỉ);\nWebsite: (tên website).\n- Địa chỉ và tên các website công bố thông tin khác (nếu có):…."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "10",
+                            "title": "Đối tượng tham gia mua cổ phần",
+                            "position": 561,
+                            "children": [],
+                            "content": "1. Đối tượng tham gia mua cổ phần bao gồm tổ chức, cá nhân trong và ngoài nước theo quy định tại khoản 1, khoản 2, khoản 3 Điều 6 Nghị định số 126/2017/NĐ-CP và đáp ứng các điều kiện sau:\na) Đối với nhà đầu tư trong nước\n- Đối với nhà đầu tư cá nhân: Là công dân Việt Nam, có địa chỉ liên hệ, Giấy chứng minh nhân dân/Căn cước công dân/Hộ chiếu, giấy tờ tùy thân hợp lệ và có đủ năng lực hành vi dân sự;\n– Đối với nhà đầu tư tổ chức: Là tổ chức kinh tế, tổ chức xã hội được thành lập và hoạt động theo luật pháp Việt Nam; có tư cách pháp nhân (đối với các tổ chức kinh tế); có Giấy chứng nhận đăng ký kinh doanh/Đăng ký doanh nghiệp/Giấy phép hoạt động; có địa chỉ liên hệ;\n– Tuân thủ quy định hiện hành về góp vốn, mua cổ phần của doanh nghiệp Việt Nam theo quy định của pháp luật chuyên ngành.\nb) Đối với nhà đầu tư nước ngoài: ngoài các quy định như đối với tổ chức và cá nhân trong nước, nhà đầu tư nước ngoài phải tuân thủ các quy định sau:\n– Mở một (01) tài khoản vốn đầu tư gián tiếp bằng đồng Việt Nam tại ngân hàng được phép cung ứng dịch vụ ngoại hối hoạt động trên lãnh thổ Việt Nam và tuân thủ pháp luật Việt Nam. Mọi hoạt động liên quan đến mua cổ phần phải thông qua tài khoản này;\n– Có Giấy chứng nhận mã số giao dịch chứng khoán do Trung tâm Lưu ký chứng khoán Việt Nam cấp (bản sao có xác nhận của ngân hàng lưu ký hoặc công ty chứng khoán nơi nhà đầu tư nước ngoài mở tài khoản lưu ký);\n– Tuân thủ quy định hiện hành về góp vốn, mua cổ phần của nhà đầu tư nước ngoài tại doanh nghiệp.\nc) Các tổ chức tài chính trung gian nhận ủy thác đầu tư: Trường hợp các tổ chức tài chính trung gian nhận ủy thác đầu tư của cả nhà đầu tư trong nước và nước ngoài, tổ chức nhận ủy thác đầu tư có trách nhiệm tách biệt rõ số lượng nhà đầu tư, số cổ phần của từng nhà đầu tư trong và ngoài nước đăng ký mua.\n2. Những đối tượng không được tham gia mua cổ phần phát hành lần đầu của Doanh nghiệp cổ phần hóa theo phương thức dựng sổ theo quy định tại khoản 4 Điều 6 Nghị định số 126/2017/NĐ-CP bao gồm:\na) Thành viên Ban chỉ đạo cổ phần hóa doanh nghiệp, Tổ giúp việc cổ phần hóa doanh nghiệp (trừ các thành viên là đại diện doanh nghiệp);\nb) Các tổ chức tài chính trung gian và các cá nhân thuộc các tổ chức này tham gia vào việc thực hiện tư vấn cổ phần hóa, kiểm toán báo cáo tài chính và cơ quan kiểm toán xác định giá trị doanh nghiệp (trừ các tổ chức bảo lãnh phát hành mua số cổ phần chưa phân phối hết theo hợp đồng bảo lãnh);\nc) Các công ty con, công ty liên kết trong cùng Tập đoàn, Tổng công ty và tổ hợp công ty mẹ - công ty con;\nd) Tổ chức quản lý số lệnh và các cá nhân thuộc tổ chức này có liên quan đến đợt chào bán cổ phần theo phương thức dựng sổ;\nđ) Người có liên quan theo quy định tại khoản 17 Điều 4 Luật doanh nghiệp năm 2014 của tổ chức và cá nhân quy định tại điểm a, điểm b và điểm d khoản này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "11",
+                            "title": "Thông tin cơ bản về phương án bán cổ phần theo phương thức dựng sổ",
+                            "position": 579,
+                            "children": [],
+                            "content": "1. Số lượng cổ phần chào bán theo phương thức dựng sổ: ... cổ phần, trong đó:\na) Số lượng cổ phần bán cho nhà đầu tư công chúng: ... cổ phần (tương đương tỷ lệ ...% vốn điều lệ);\nb) Số lượng cổ phần bán cho nhà đầu tư chiến lược: ... cổ phần (tương đương tỷ lệ ...% vốn điều lệ).\n2. Loại cổ phần chào bán: .....\n3. Mệnh giá: 10.000 đồng.\n4. Giá khởi điểm: ... đồng/cổ phần.\n5. Khoảng giá dựng sổ ....\n6. Giá mở sổ: ... đồng/cổ phần.\n7. Thời gian mở sổ lệnh: từ ngày … tháng … năm … đến ngày … tháng … năm … (05 phiên giao dịch liên tiếp từ 9h30 đến 11h30 hàng ngày).\n8. Bước giá: … [100 đồng].\n9. Bước khối lượng: ….\n10. Số lượng cổ phần đăng ký mua tối thiểu: … cổ phần.\n11. Số lượng cổ phần đăng ký mua tối đa: … (theo quy định của pháp luật hiện hành).\n12. Số lượng cổ phần nhà đầu tư nước ngoài được phép mua: … cổ phần.\n13. Số mức giá: ….\n14. Nguyên tắc ưu tiên xác định giá phân phối theo phương án bán cổ phần lần đầu theo phương thức dựng sổ đã được phê duyệt: … (Xác định giá phân phối theo nhà đầu tư công chúng hoặc Xác định giá phân phối theo nhà đầu tư chiến lược).\n15. Điều kiện dựng sổ:\na) Tỷ lệ khối lượng đặt mua cổ phần tối thiểu: …%;\nb) Số lượng nhà đầu tư đặt mua cổ phần tối thiểu: … nhà đầu tư."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "12",
+                            "title": "Thủ tục đăng ký tham gia mua cổ phần và nộp tiền đặt cọc",
+                            "position": 600,
+                            "children": [],
+                            "content": "1. Nhận Đơn đăng ký tham gia mua cổ phần\nNhà đầu tư nhận hoặc in mẫu đơn đăng ký tham gia mua cổ phần tại các địa điểm và địa chỉ website nêu tại khoản 2 Điều 9 Quy chế này.\n2. Nộp tiền đặt cọc\na) Nhà đầu tư công chúng có trách nhiệm nộp tiền đặt cọc bằng mười phần trăm (10%) giá trị cổ phần đăng ký mua tính theo giá mở sổ bằng đồng Việt Nam vào tài khoản của Đại lý dựng sổ theo quy định. Nhà đầu tư là tổ chức có thể nộp tiền đặt cọc vào tài khoản của Tổ chức quản lý số lệnh theo quy định.\nb) Nhà đầu tư chiến lược có trách nhiệm nộp tiền đặt cọc, ký quỹ hoặc có bảo lãnh của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài theo quy định của\npháp luật với giá trị bằng hai mươi phần trăm (20%) giá trị cổ phần đăng ký mua tính theo giá khởi điểm trong phương án cổ phần hóa đã được phê duyệt theo quy định tại điểm h khoản 3 Điều 6 Nghị định số 126/2017/NĐ-CP.\nc) Tiền đặt cọc không được hưởng lãi.\n3. Nộp Đơn đăng ký tham gia mua cổ phần\nNhà đầu tư điền đầy đủ thông tin vào Đơn đăng ký giam gia mua cổ phần và nộp bản chính tại địa điểm làm thủ tục đăng ký kèm theo xuất trình các giấy tờ sau:\na) Đối với nhà đầu tư là cá nhân trong nước:\n- Chứng minh nhân dân/Căn cước công dân/Hộ chiếu. Trường hợp nhận ủy quyền, phải có Giấy ủy quyền theo quy định của pháp luật hoặc theo mẫu tại Mẫu số 2a4 kèm theo Quy chế này, được công chứng hoặc chứng thực bởi cơ quan công chứng, chứng thực có thẩm quyền, kèm theo xuất trình Chứng minh nhân dân/Căn cước công dân/Hộ chiếu của Người được ủy quyền;\n- Giấy nộp tiền hoặc giấy chuyển tiền đặt cọc.\nb) Đối với nhà đầu tư là tổ chức trong nước:\n- Bản sao hợp lệ Giấy chứng nhận đăng ký kinh doanh/Đăng ký doanh nghiệp hoặc giấy tờ khác tương đương;\n- Giấy ủy quyền cho người đại diện thay mặt tổ chức thực hiện thủ tục kèm theo bản sao hợp lệ Chứng minh nhân dân/Căn cước công dân/Hộ chiếu của Người nhận ủy quyền trừ trường hợp người làm thủ tục là Người đại diện theo pháp luật của tổ chức;\n- Giấy nộp tiền hoặc giấy chuyển tiền đặt cọc hoặc Giấy xác nhận nộp tiền đặt cọc của Tổ chức quản lý sổ lệnh.\nc) Đối với cá nhân và tổ chức nước ngoài: Ngoài các quy định như đối với cá nhân và tổ chức trong nước phải xuất trình:\n- Giấy xác nhận mở tài khoản vốn đầu tư gián tiếp tại một tổ chức cung ứng dịch vụ thanh toán theo quy định của pháp luật Việt Nam về ngoại hối;\n- Giấy chứng nhận mã số giao dịch chứng khoán theo quy định của pháp luật Việt Nam.\n4. Thời gian, địa điểm làm thủ tục đăng ký và đặt cọc\na) Thời gian làm thủ tục đăng ký và đặt cọc:\n- Đăng ký và đặt cọc tại Đại lý dựng sở: Từ ... giờ ... phút ngày ... tháng ... năm ... (tối thiểu 02 ngày làm việc trước ngày mở sổ lệnh) đến ... giờ ... phút ngày ... tháng ... năm ... (ngày đóng sổ lệnh).\n- Đặt cọc của nhà đầu tư là tổ chức tại Tổ chức quản lý sổ lệnh: Số tài khoản nhận tiền đặt cọc của Tổ chức quản lý sổ lệnh ……; Thời gian, địa điểm nộp tiền đặt cọc và nhận Giấy xác nhận nộp tiền đặt cọc: Từ ... giờ ... phút ngày ...\n... tháng ... năm ... (tối thiểu 02 ngày làm việc trước ngày mở sổ lệnh) đến ... giờ ... phút ngày ... tháng ... năm ... (ngày đóng sổ lệnh).\nb) Địa điểm làm thủ tục đăng ký, đặt cọc: Đại lý dựng số (theo danh sách đính kèm) (nội dung bao gồm tên, địa chỉ, số tài khoản nhận tiền đặt cọc).\nc) Sau khi hoàn tất các thủ tục đăng ký, nhà đầu tư được cấp Phiếu đặt lệnh mua cổ phần."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "13",
+                            "title": "Lập và nộp Phiếu đặt lệnh mua cổ phần",
+                            "position": 629,
+                            "children": [],
+                            "content": "1. Nhà đầu tư điền khối lượng cổ phần, mức giá đăng ký mua và ký Phiếu đặt lệnh mua cổ phần. Phiếu đặt lệnh mua cổ phần hợp lệ là:\na) Phiếu do Đại lý dựng số cấp, có đóng dấu treo của nơi cấp phiếu và đảm bảo điều đầy đủ, rõ ràng các thông tin theo quy định; phiếu không được tẩy, xoá hoặc rách nát; giá đặt mua không được thấp hơn giá mở sở; tổng số cổ phần đặt mua tối đa bằng mức đăng ký;\nb) Phiếu đặt lệnh mua cổ phần được được nộp cho Đại lý dựng số từ ... giờ ... phút ngày ... tháng ... năm ... đến ... giờ ... phút ngày ... tháng ... năm .... Thời điểm nhận phiếu được tính là thời điểm Đại lý dựng số ký nhận với nhà đầu tư.\n2. Trường hợp Phiếu đặt lệnh mua cổ phần bị rách nát, tẩy xoá, nhà đầu tư phải yêu cầu Đại lý dựng số nơi nhà đầu tư đăng ký mua đổi phiếu mới sau khi đã nộp phiếu cũ.\n3. Trường hợp nhà đầu tư mất Phiếu đặt lệnh mua cổ phần: Nhà đầu tư phải làm đơn theo mẫu tại Mẫu số 2a6 kèm theo Quy chế này đề nghị Đại lý dựng số nơi đăng ký mua cổ phần cấp lại Phiếu đặt lệnh mới và Phiếu đặt lệnh cũ coi như không còn giá trị.\n4. Nhà đầu tư có thể thay đổi lệnh đặt mua về giá, khối lượng cổ phần đặt mua như sau:\na) Việc thay đổi lệnh đặt mua phải thực hiện trong thời gian quy định;\nb) Trước khi đặt lệnh, nhà đầu tư phải hủy lệnh đặt mua cũ. Nhà đầu tư phải làm Đơn đề nghị hủy mua cổ phần theo mẫu tại Mẫu số 2a5 kèm theo Quy chế này gửi Đại lý dựng số nơi nhà đầu tư đã làm thủ tục đăng ký mua và đặt lệnh. Đại lý dựng số có trách nhiệm tiếp nhận đơn, thực hiện các thủ tục hủy lệnh đặt mua của nhà đầu tư và xác nhận việc hủy lệnh để nhà đầu tư đặt lệnh mua mới. Thời gian đặt lệnh tính theo thời gian lệnh đặt mua mới;\nc) Trường hợp nhà đầu tư hủy lệnh đặt mua mà không đặt lại lệnh mua mới, nhà đầu tư không được hoàn trả tiền đặt cọc;\nd) Trường hợp nhà đầu tư đặt lệnh mua mới với khối lượng lớn hơn khối lượng đặt mua cũ, nhà đầu tư phải bổ sung tiền đặt cọc tương ứng với khối lượng đặt mua thêm;\nđ) Trường hợp nhà đầu tư đặt lệnh mua mới với khối lượng thấp hơn khối lượng đặt mua cũ, nhà đầu tư không được hoàn trả số tiền đặt cọc tương ứng với khối lượng đặt mua giảm."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "14",
+                            "title": "Địa điểm và thời gian tổ chức bán cổ phần theo phương thức dựng sổ",
+                            "position": 642,
+                            "children": [],
+                            "content": "1. Địa điểm tổ chức bán cổ phần: …… (tên và địa chỉ Tổ chức quản lý sổ lệnh, Đại lý dựng sổ).\n2. Thời gian mở sổ lệnh: từ ngày ... tháng ... năm ... đến ngày ... tháng ... năm ... (05 phiên giao dịch liên tiếp từ 9h30 đến 11h30 hàng ngày).\n3. Đại lý dựng sổ có trách nhiệm kết thúc nhận lệnh đăng ký mua của nhà đầu tư trước … phút trước giờ đóng cửa phiên giao dịch hàng ngày (11h30).\n4. Đại lý dựng sổ có trách nhiệm kết thúc nhận Phiếu đặt lệnh mua cổ phần của nhà đầu tư trước … giờ … phút ngày ... tháng ... năm ... (ngày đóng sổ lệnh)."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "15",
+                            "title": "Xem xét điều kiện dựng sổ",
+                            "position": 647,
+                            "children": [],
+                            "content": "1. Ngay sau khi đóng sổ lệnh, Tổ chức quản lý sổ lệnh sẽ xem xét và xác định:\na) Danh sách nhà đầu tư đủ điều kiện tham gia mua cổ phần theo phương thức dựng sổ;\nb) Số lượng nhà đầu tư đặt lệnh mua cổ phần hợp lệ;\nc) Số lượng phiếu đặt lệnh mua cổ phần;\nd) Khối lượng cổ phần đặt mua hợp lệ.\n2. Xác định điều kiện dựng sổ: Việc xác định kết quả dựng sổ chỉ được thực hiện khi tỷ lệ khối lượng đặt mua cổ phần thực tế và số lượng nhà đầu tư đặt mua cổ phần thực tế lớn hơn hoặc bằng Tỷ lệ khối lượng đặt mua cổ phần tối thiểu và Số lượng nhà đầu tư đặt mua cổ phần tối thiểu tại khoản 15 Điều 11 Quy chế này, theo phương án bán cổ phần theo phương thức dựng sổ theo quy định tại điểm e khoản 1 Điều 4 Thông tư số 21/2019/TT-BTC.\n3. Trường hợp không đáp ứng điều kiện dựng sổ theo khoản 2 Điều này, Ban chỉ đạo cổ phần hóa có trách nhiệm quyết định hủy kết quả sổ lệnh, báo cáo [Cơ quan đại diện chủ sở hữu (đối với doanh nghiệp nhà nước)/Hội đồng thành viên hoặc Chủ tịch doanh nghiệp nhà nước (đối với doanh nghiệp cấp II)], công bố thông tin về việc hủy kết quả sổ lệnh theo khoản 4 Điều 17 Quy chế này và hoàn trả tiền đặt cọc cho các nhà đầu tư theo khoản 5 Điều 22 Quy chế này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "16",
+                            "title": "Thực hiện dựng sổ",
+                            "position": 655,
+                            "children": [],
+                            "content": "1. Tại thời điểm mở sổ lệnh, Trưởng Ban tổ chức bán cổ phần hoặc người được ủy quyền công bố những thông tin chủ yếu như:\na) Tên doanh nghiệp cổ phần hóa, vốn điều lệ dự kiến, tổng số lượng cổ phần chào bán theo phương thức dựng sổ;\nb) Trình tự, thủ tục bán cổ phần theo phương thức dựng sổ, giá mở sổ, nguyên tắc ưu tiên xác định giá phân phối, điều kiện dựng sổ, nguyên tắc xác định giá phân phối và việc phân phối cổ phần cho các nhà đầu tư;\nc) Số lượng đại lý dựng sổ tham gia;\nd) Giải thích về những vấn đề mà nhà đầu tư hoặc các bên liên quan còn thắc mắc.\n2. Nhập thông tin trên Phiếu đặt lệnh mua cổ phần\nTrong thời gian mở sổ lệnh, Đại lý dựng sổ nhập thông tin trên Phiếu đặt lệnh mua cổ phần của nhà đầu tư vào hệ thống của Tổ chức quản lý sổ lệnh. Trường hợp phát sinh vướng mắc, Đại lý dựng sổ phải xin ý kiến của Hội đồng bán cổ phần để giải quyết kịp thời.\n3. Xác định kết quả dựng sổ\nKết quả dựng sổ được xác định theo quy định tại khoản 2, khoản 3, khoản 4 và khoản 5 Điều 10 Thông tư số 21/2019/TT-BTC, cụ thể như sau:\n3a. Trường hợp áp dụng nguyên tắc ưu tiên xác định giá phân phối theo nhà đầu tư công chúng thực hiện như sau:\na) Xác định giá phân phối:\nGiá phân phối là mức giá cao nhất mà tại mức giá đó phân phối được tối đa số lượng cổ phần dự kiến chào bán cho nhà đầu tư công chúng;\nGiá phân phối này được sử dụng để phân phối cổ phần cho nhà đầu tư công chúng và nhà đầu tư chiến lược.\nb) Việc phân phối cổ phần cho các nhà đầu tư công chúng và nhà đầu tư chiến lược được thực hiện như sau:\nNhà đầu tư được mua cổ phần là nhà đầu tư đặt giá lớn hơn hoặc bằng giá phân phối. Khối lượng cổ phần được phân phối theo nguyên tắc ưu tiên theo thứ tự như sau: thứ nhất ưu tiên về giá; thứ hai ưu tiên về thời gian đặt lệnh (theo ngày tổ chức phiên giao dịch); và thứ ba ưu tiên phân phối theo tỷ lệ khối lượng đặt mua trong trường hợp nhiều nhà đầu tư đặt lệnh mua tại cùng mức giá, cùng thời gian;\nTrường hợp có nhiều nhà đầu tư đặt lệnh mua tại cùng mức giá với cùng thời gian đặt lệnh theo thứ tự ưu tiên thứ ba nêu trên, số cổ phần phân phối cho từng nhà đầu tư được xác định như sau:\nSố cổ phần nhà đầu tư đặt mua tại cùng mức giá và cùng thời gian đặt lệnh Số cổ phần chưa được phân phối tại cùng mức giá\nSố cổ phần nhà đầu tư được mua = Tổng số cổ phần các nhà đầu đặt mua tại cùng mức giá và cùng thời gian đặt lệnh\nc) Sau khi thực hiện xác định kết quả phân phối cổ phần theo quy định tại điểm a và điểm b khoản 3a Điều này, việc phân phối tiếp số lượng cổ phần chưa phân phối hết cho nhà đầu tư chiến lược thực hiện như sau:\nViệc phân phối cho từng nhà đầu tư thực hiện theo nguyên tắc ưu tiên về giá, thời gian đã đặt lệnh mua tại sổ lệnh. Trường hợp nhiều nhà đầu tư đã đặt\nlệnh mua tại cùng mức giá và cùng thời gian đặt lệnh, việc phân phối cổ phần được thực hiện theo nguyên tắc phân phối theo tỷ lệ khối lượng cổ phần đăng ký mua tương tự tại điểm b khoản 3a Điều này.\n– Đối tượng được đăng ký mua là nhà đầu tư chiến lược đã đặt lệnh mua và chưa được mua hết số lượng cổ phần đã đặt mua.\n– Ban chỉ đạo cổ phần hóa phối hợp với Tổ chức quản lý sổ lệnh có trách nhiệm công bố danh sách nhà đầu tư chiến lược được đăng ký mua nếu trên trong vòng một (01) ngày làm việc kể từ ngày đóng sổ lệnh.\n– Trong vòng ba (03) ngày làm việc kể từ ngày công bố danh sách nhà đầu tư chiến lược được đăng ký mua, nhà đầu tư có tên trong danh sách thực hiện đăng ký mua cổ phần theo mức giá phân phối với khối lượng cổ phần không được vượt quá khối lượng cổ phần chưa được mua.\n3b. Trường hợp áp dụng nguyên tắc ưu tiên xác định giá phân phối theo nhà đầu tư chiến lược thực hiện như sau:\na) Xác định giá phân phối\n– Giá phân phối là mức giá cao nhất mà tại mức giá đó phân phối được tối đa số lượng cổ phần dự kiến chào bán cho nhà đầu tư chiến lược;\n– Giá phân phối này được sử dụng để phân phối cổ phần cho nhà đầu tư chiến lược và nhà đầu tư công chúng.\nb) Việc phân phối cổ phần cho các nhà đầu tư chiến lược và nhà đầu tư công chúng được thực hiện như sau:\n– Nhà đầu tư được mua cổ phần là nhà đầu tư đặt giá lớn hơn hoặc bằng giá phân phối. Khối lượng cổ phần được phân phối theo nguyên tắc ưu tiên theo thứ tự như sau: thứ nhất ưu tiên về giá; thứ hai ưu tiên về thời gian đặt lệnh (theo ngày tổ chức phiên giao dịch); và thứ ba ưu tiên phân phối theo tỷ lệ khối lượng đặt mua trong trường hợp nhiều nhà đầu tư đặt lệnh mua tại cùng mức giá, cùng thời gian;\n– Trường hợp có nhiều nhà đầu tư đặt lệnh mua tại cùng mức giá với cùng thời gian đặt lệnh theo thứ tự ưu tiên thứ ba nêu trên, số cổ phần phân phối cho từng nhà đầu tư được xác định như sau:\nSố cổ phần nhà đầu tư đặt mua tại cùng mức giá và cùng thời gian đặt lệnh Số cổ phần nhà đầu tư được mua = Số cổ phần chưa được phân phối tại cùng mức giá x $\\frac{Số cổ phần nhà đầu tư đặt mua tại cùng mức giá và cùng thời gian đặt lệnh}{Tổng số cổ phần các nhà đầu tư đặt mua tại cùng mức giá và cùng thời gian đặt lệnh}$\nc) Sau khi thực hiện xác định kết quả phân phối cổ phần theo quy định tại điểm a và điểm b khoản 3b Điều này, việc phân phối tiếp số lượng cổ phần chưa phân phối hết cho nhà đầu tư công chúng thực hiện như sau:\nViệc phân phối cho từng nhà đầu tư thực hiện theo nguyên tắc ưu tiên về giá, thời gian đã đặt lệnh mua tại sổ lệnh. Trường hợp nhiều nhà đầu tư đã đặt lệnh mua tại cùng mức giá và cùng thời gian đặt lệnh, việc phân phối cổ phần được thực hiện theo nguyên tắc phân phối theo tỷ lệ khối lượng cổ phần đăng ký mua tương tự tại điểm b khoản 3b Điều này.\nĐối tượng được đăng ký mua là nhà đầu tư công chúng đã đặt lệnh mua và chưa được mua hết số lượng cổ phần đã đặt mua.\nBan chỉ đạo cổ phần hóa phối hợp với Tổ chức quản lý sổ lệnh có trách nhiệm công bố danh sách nhà đầu tư công chúng được đăng ký mua nêu trên trong vòng một (01) ngày làm việc kể từ ngày đóng sổ lệnh.\nTrong vòng ba (03) ngày kể từ ngày công bố danh sách nhà đầu tư công chúng được đăng ký mua, nhà đầu tư có tên trong danh sách thực hiện đăng ký mua cổ phần theo mức giá phân phối với khối lượng cổ phần không được vượt quá khối lượng cổ phần chưa được mua.\n4. Biên bản xác định kết quả dựng số\nSau khi đóng sổ lệnh, căn cứ kết quả dựng số, đại diện Ban chỉ đạo cổ phần hóa, đại diện Doanh nghiệp cổ phần hóa, đại diện Hội đồng bán cổ phần và đại diện Tổ chức quản lý sổ lệnh lập và đồng ký Biên bản xác định kết quả dựng số theo Phụ lục số 03a ban hành kèm theo Thông tư số 21/2019/TT-BTC."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "17",
+                            "title": "Thông báo về kết quả dựng số",
+                            "position": 698,
+                            "children": [],
+                            "content": "1. Trong thời hạn tối đa ba (03) ngày làm việc kể từ ngày lập Biên bản xác định kết quả dựng số, Ban chỉ đạo cổ phần hóa và Doanh nghiệp cổ phần hóa phối hợp với Tổ chức quản lý sổ lệnh và Đại lý dựng số công khai kết quả dựng số trên các trang thông tin điện tử của Tổ chức quản lý sổ lệnh, Doanh nghiệp cổ phần hóa và Đại lý dựng số.\n2. Ban chỉ đạo cổ phần hóa có trách nhiệm phối hợp với Tổ chức quản lý sổ lệnh gửi kết quả dựng số cho các Đại lý dựng số trong thời hạn tối đa một (01) ngày làm việc kể từ ngày công bố kết quả dựng số theo khoản 1 Điều này.\n3. Nhà đầu tư nhận kết quả trực tiếp tại Đại lý dựng số trong vòng bốn (04) ngày làm việc kể từ ngày công bố kết quả dựng số. Trường hợp nhà đầu tư không nhận kết quả tại Đại lý dựng số, Đại lý dựng số có trách nhiệm gửi thông báo kết quả phân phối cổ phần cho nhà đầu tư theo đường bưu điện ngay trong ngày làm việc tiếp theo (ngày làm việc thứ 05 kể từ ngày công bố kết quả dựng số).\n4. Trường hợp hủy kết quả sổ lệnh, trong thời hạn một (01) ngày làm việc kể từ ngày quyết định hủy kết quả sổ lệnh theo khoản 3 Điều 15 Quy chế này, Ban chỉ đạo cổ phần hóa phải thực hiện công bố thông tin về việc hủy kết quả sổ lệnh trên trang thông tin điện tử của Tổ chức quản lý sổ lệnh, Doanh nghiệp cổ phần hóa và Đại lý dựng số. Ban chỉ đạo cổ phần hóa có trách nhiệm phối hợp với Tổ chức quản lý sổ lệnh và Đại lý dựng số gửi thông báo về việc hủy kết quả sổ lệnh cho từng nhà đầu tư đã đặt lệnh trong thời hạn ba (03) ngày làm việc kể từ ngày công bố thông tin về việc hủy kết quả sổ lệnh."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "18",
+                            "title": "Phương thức và địa điểm thanh toán tiền mua cổ phần",
+                            "position": 704,
+                            "children": [],
+                            "content": "1. Căn cứ vào thông báo kết quả phân phối cổ phần của nhà đầu tư, nhà đầu tư được mua cổ phần có trách nhiệm thanh toán tiền mua cổ phần trong thời hạn mười (10) ngày kể từ ngày công bố kết quả dựng sổ.\n2. Nhà đầu tư được bù trừ tiền thanh toán mua cổ phần và tiền đặt cọc theo quy định tại Điều 24 Thông tư số 21/2019/TT-BTC.\n3. Thanh toán tiền mua cổ phần\na) Thanh toán bằng đồng Việt Nam theo hình thức nộp vào tài khoản của Đại lý dựng sổ nơi nhà đầu tư làm thủ tục đăng ký mua và đặt lệnh hoặc vào tài khoản của Tổ chức quản lý số lệnh đối với nhà đầu tư tổ chức đã đặt cọc tại Tổ chức quản lý số lệnh.\nb) Đại lý dựng sổ có trách nhiệm gửi báo cáo và danh sách nộp tiền mua cổ phần của nhà đầu tư đồng thời chuyển tiền mua cổ phần của nhà đầu tư về Tổ chức quản lý số lệnh sau hai (02) ngày làm việc kể từ ngày hết hạn thanh toán tiền mua cổ phần.\nc) Tổ chức quản lý số lệnh có trách nhiệm tổng hợp và chuyển tiền thu từ bán cổ phần theo phương thức dựng sổ trong thời hạn năm (05) ngày làm việc kể từ ngày hết hạn thanh toán tiền mua cổ phần theo quy định tại khoản 2 Điều 25 Thông tư số 21/2019/TT-BTC.\nd) Trường hợp Đại lý dựng sổ chậm chuyển tiền thu được từ bán cổ phần theo quy định thì phải trả lãi cho bên bị chậm trả theo ngày trên số tiền chậm chuyển theo mức lãi suất áp dụng tại Ngân hàng nơi Tổ chức quản lý số lệnh mở tài khoản trong trường hợp các bên liên quan không có thỏa thuận khác.\nd) Trường hợp Tổ chức quản lý số lệnh chậm chuyển tiền thu được từ bán cổ phần theo quy định thì phải trả lãi theo quy định tại khoản 3 Điều 39 Nghị định số 126/2017/NĐ-CP."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "19",
+                            "title": "Xử lý các trường hợp vi phạm",
+                            "position": 713,
+                            "children": [],
+                            "content": "1. Những trường hợp sau đây bị coi là vi phạm Quy chế bán cổ phần và nhà đầu tư không được nhận hoàn trả tiền đặt cọc:\na) Không nộp Phiếu đặt lệnh mua cổ phần;\nb) Phiếu đặt lệnh mua cổ phần không hợp lệ quy định tại khoản 1 Điều 13 Quy chế này;\nc) Không ghi giá và/hoặc khối lượng trên Phiếu đặt lệnh mua cổ phần;\nd) Đăng ký nhưng không đặt mua (toàn bộ hoặc một phần), nhà đầu tư không được hoàn trả tiền đặt cọc tương ứng với số cổ phần không đặt mua hoặc bị phạt số tiền tương đương khoản giá trị đặt cọc trong trường hợp nhà đầu tư chiến lược sử dụng hình thức ký quỹ, bảo lãnh;\ne) Không thanh toán toàn bộ hoặc một phần số cổ phần được quyền mua theo kết quả dựng sổ, nhà đầu tư không được hoàn trả tiền đặt cọc tương ứng với\nsố cổ phần từ chối mua hoặc bị phạt số tiền tương đương khoản giá trị đặt cọc trong trường hợp nhà đầu tư chiến lược sử dụng hình thức ký quỹ, bảo lãnh.\n2. Hội đồng bán cổ phần có trách nhiệm xem xét xử lý các trường hợp vi phạm tại khoản 1 Điều này và các trường hợp vi phạm khác tùy theo mức độ vi phạm."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "20",
+                            "title": "Xử lý số cổ phần chưa bán hết theo phương thức dựng sổ",
+                            "position": 723,
+                            "children": [],
+                            "content": "Trong thời hạn ba (03) ngày làm việc kể từ ngày xác định được số cổ phần chưa bán hết theo phương thức dựng sổ, Tổ chức quản lý sở lệnh thông báo cho Ban chỉ đạo cổ phần hóa để xử lý theo quy định."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "21",
+                            "title": "Xử lý trong trường hợp hủy sổ lệnh",
+                            "position": 725,
+                            "children": [],
+                            "content": "Trong thời hạn ba (03) ngày làm việc kể từ ngày quyết định hủy sổ lệnh, Ban chỉ đạo cổ phần hóa có trách nhiệm báo cáo cấp có thẩm quyền để xử lý theo quy định và thực hiện công bố thông tin theo quy định."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "22",
+                            "title": "Xử lý tiền đặt cọc",
+                            "position": 727,
+                            "children": [],
+                            "content": "1. Tổ chức quản lý sở lệnh có trách nhiệm chuyển tiền đặt cọc của nhà đầu tư đặt lệnh hợp lệ nhưng không được mua cổ phần cho Đại lý dựng sổ mà nhà đầu tư nộp tiền đặt cọc (hoặc cho nhà đầu tư tổ chức đã đặt cọc tại Tổ chức quản lý sở lệnh) trong thời hạn ba (03) ngày làm việc kể từ ngày công bố kết quả dựng sổ.\n2. Đại lý dựng sổ có trách nhiệm hoàn trả tiền đặt cọc cho các nhà đầu tư đặt lệnh hợp lệ nhưng không được mua cổ phần theo quyết định của Ban chỉ đạo cổ phần hóa trong thời hạn năm (05) ngày làm việc kể từ ngày công bố kết quả dựng sổ.\n3. Đối với các nhà đầu tư được quyền mua cổ phần theo kết quả dựng sổ thì khoản tiền đã đặt cọc tương ứng với lệnh đặt mua hợp lệ được trừ vào tổng số tiền thanh toán mua cổ phần. Trường hợp khoản tiền đã đặt cọc tương ứng với lệnh đặt mua hợp lệ của nhà đầu tư lớn hơn tiền thanh toán mua cổ phần, nhà đầu tư phải có văn bản gửi Đại lý dựng sổ trước thời hạn hết hạn thanh toán tiền mua cổ phần trong trường hợp muốn từ chối mua cổ phần.\n4. Đối với các khoản tiền đặt cọc không phải hoàn lại do nhà đầu tư thay đổi lệnh đặt mua cổ phần theo điểm c, điểm đ khoản 4 Điều 13 Quy chế này hoặc vi phạm Quy chế bán cổ phần theo khoản 1 Điều 19 Quy chế này được Tổ chức quản lý sở lệnh chuyển tiền theo quy định tại khoản 2 Điều 25 Thông tư số 21/2019/TT-BTC.\n5. Trường hợp hủy kết quả sổ lệnh, Đại lý dựng sổ có trách nhiệm hoàn trả tiền đặt cọc cho các nhà đầu tư trong thời hạn năm (05) ngày làm việc kể từ ngày công bố việc hủy kết quả sổ lệnh."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "23",
+                            "title": "Các quy định khác",
+                            "position": 733,
+                            "children": [],
+                            "content": "1. Mọi thắc mắc của nhà đầu tư (nếu có) về trình tự, thủ tục bán cổ phần theo phương thức dựng sổ phải được nêu lên và giải quyết trong thời gian bán cổ phần theo phương thức dựng sổ. Ban tổ chức bán cổ phần không chịu trách nhiệm\nđối với các thắc mắc của nhà đầu tư sau khi kết thúc việc bán cổ phần theo phương thức dựng sổ.\n2. Tổ chức quản lý số lệnh và Đại lý dựng số không chịu trách nhiệm về giá trị của cổ phần bán chào bán, trừ trường hợp không thông báo đầy đủ, chính xác những thông tin do Ban chỉ đạo cổ phần hóa và Doanh nghiệp cổ phần hóa cung cấp."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "24",
+                            "title": "Hiệu lực thi hành",
+                            "position": 738,
+                            "children": [],
+                            "content": "Quy chế này có hiệu lực thi hành kể từ ngày ký./.\nNơi nhận: ...\nNGƯỜI CÓ THẨM QUYỀN BAN HÀNH QUY CHẾ (ký tên, đóng dấu)"
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "I",
+                    "title": "QUY ĐỊNH CHUNG",
+                    "position": 751,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "1",
+                            "title": "Phạm vi điều chỉnh",
+                            "position": 752,
+                            "children": [],
+                            "content": "Quy chế này áp dụng đối với việc tổ chức bán cổ phần để chuyển nhượng vốn của ... (tên Cơ quan đại diện chủ sở hữu/Doanh nghiệp nhà nước đầu tư) tại ... (tên Công ty cổ phần) theo phương thức dựng sổ tại ... (tên Sở Giao dịch chứng khoán)."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "2",
+                            "title": "Giải thích từ ngữ",
+                            "position": 754,
+                            "children": [],
+                            "content": "Trong Quy chế này, các từ ngữ dưới đây được hiểu như sau:\n1. \"Bán cổ phần theo phương thức dựng sổ\" là hình thức bán cổ phần của doanh nghiệp công khai cho các đối tượng có sự cạnh tranh về giá trên cơ sở tham khảo nhu cầu của thị trường.\n2. \"Bảo lãnh phát hành theo phương thức dựng sổ\" là hoạt động bảo lãnh phát hành chứng khoán theo quy định tại khoản 22 Điều 6 Luật chứng khoán được sửa đổi, bổ sung theo quy định tại khoản 3 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật chứng khoán và quy định tại khoản 9 Điều 2 Nghị định số 58/2012/NĐ-CP ngày 20/7/2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật chứng khoán.\n3. \"Nhà đầu tư\" là tổ chức, cá nhân trong và ngoài nước hoạt động hợp pháp tại Việt Nam, không thuộc các đối tượng bị cấm hoặc hạn chế quyền đầu tư mua cổ phần của các doanh nghiệp tại Việt Nam.\n4. \"Công ty cổ phần\" là... (tên công ty có cổ phần được chào bán).\n5. \"Chủ sở hữu vốn\" là ... (tên Cơ quan đại diện chủ sở hữu/Doanh nghiệp nhà nước).\n6. \"Cơ quan có thẩm quyền quyết định chuyển nhượng vốn\" là...(tên cơ quan có thẩm quyền quyết định).\n7. \"Tổ chức tư vấn bán cổ phần\" (nếu có) là ...(tên Tổ chức tư vấn bán cổ phần).\n8. “Tổ chức bảo lãnh phát hành theo phương thức dựng sổ” (nếu có) là ... (tên Tổ chức bảo lãnh phát hành).\n9. “Tổ chức quản lý số lệnh” là ... (tên SGDCK).\n10. “Hội đồng bán cổ phần” là tổ chức thực hiện chỉ đạo việc bán cổ phần theo phương thức dựng sổ bao gồm: đại diện Chủ sở hữu vốn, đại diện Tổ chức quản lý số lệnh, đại diện Tổ chức tư vấn bán cổ phần, đại diện Công ty cổ phần (nếu có). Chủ tịch Hội đồng bán cổ phần là đại diện Chủ sở hữu vốn, thay mặt cho Hội đồng bán cổ phần ký các văn bản thuộc thẩm quyền.\n11. “Ban tổ chức bán cổ phần” là tổ chức do ...(tên SGDCK) thành lập để thực hiện việc bán cổ phần theo phương thức dựng sổ và các công việc liên quan theo quy định.\n12. “Đại lý dựng sổ” là các công ty chứng khoán tham gia vào việc tổ chức bán cổ phần theo phương thức dựng sổ.\n13. “Mệnh giá cổ phần” là 10.000 đồng.\n14. “Giá khởi điểm” là giá được xác định theo quy định tại khoản 12 và khoản 15 Điều 1 Nghị định số 32/2018/NĐ-CP ngày 08/3/2018 sửa đổi, bổ sung một số điều của Nghị định số 91/2015/NĐ-CP ngày 13/10/2015 của Chính phủ về đầu tư vốn nhà nước vào doanh nghiệp và quản lý, sử dụng vốn, tài sản tại doanh nghiệp.\n15. “Khoảng giá dựng sổ” là khoảng giá được xây dựng nhằm phản ánh nhu cầu thị trường về cổ phần chào bán.\n16. “Giá mở sổ” là giá của một cổ phần chào bán được xác định trong khoảng giá dựng sổ.\n17. “Bước giá” là khoảng cách giá giữa các lần đặt mua liên tiếp [100 đồng].\n18. “Bước khối lượng” là khoảng cách giữa các khối lượng đặt mua liên tiếp.\n19. “Giá phân phối” là giá bán một cổ phần nhà đầu tư được mua trên cơ sở kết quả dựng sổ.\n20. “Ngày kết thúc việc dựng sổ” là ngày nhập xong các thông tin trên Phiếu đặt lệnh mua cổ phần của nhà đầu tư vào hệ thống và đã xác định được kết quả dựng sổ.\n21. “Ngày kết thúc việc bán cổ phần” là ngày cuối cùng nhà đầu tư thanh toán tiền mua cổ phần theo thông báo của Tổ chức quản lý số lệnh."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "3",
+                            "title": "Trách nhiệm và quyền hạn của Chủ sở hữu vốn",
+                            "position": 779,
+                            "children": [],
+                            "content": "1. Gửi Đơn đăng ký bán cổ phần theo phương thức dựng sổ và các tài liệu liên quan đến việc bán cổ phần theo phương thức dựng sổ cho ... (tên SGDCK).\n2. Lựa chọn Đại lý dựng sổ.\n3. Ký Hợp đồng cung cấp dịch vụ bán cổ phần theo phương thức dựng sổ với các tổ chức thực hiện việc bán cổ phần.\n4. Xây dựng và ban hành Quyết định thành lập Hội đồng bán cổ phần và Quy chế chuyển nhượng vốn theo phương thức dựng sổ.\n5. Cử đại diện tham gia Hội đồng bán cổ phần và tham gia kiểm tra, giám sát việc bán cổ phần theo Quy chế này và các quy định hiện hành.\n6. Kiểm tra, hoàn tất các thông tin liên quan đến việc bán cổ phần theo phương thức dựng sổ. Phối hợp với Công ty cổ phần thực hiện công bố, cung cấp cho Tổ chức quản lý số lệnh thông tin đầy đủ, chính xác và các tài liệu có liên quan đến việc bán cổ phần theo phương thức dựng sổ trước khi bán cổ phần theo quy định. Trường hợp Chủ sở hữu vốn ủy quyền cho Tổ chức tư vấn bán cổ phần soạn thảo Bản công bố thông tin thì Tổ chức tư vấn bán cổ phần phải chịu trách nhiệm liên đới về tính chính xác và đầy đủ của Bản công bố thông tin.\n7. Phối hợp với Tổ chức quản lý số lệnh, Đại lý dựng sổ công bố công khai cho các nhà đầu tư thông tin liên quan đến Công ty cổ phần và việc bán cổ phần theo phương thức dựng sổ theo Điều 8 Quy chế này.\n8. Thông báo với Tổ chức quản lý số lệnh về tài khoản nhận tiền thu từ chuyển nhượng vốn.\n9. Phối hợp với Tổ chức quản lý số lệnh thuyết trình về Công ty cổ phần cho các nhà đầu tư (nếu cần).\n10. Giám sát việc bán cổ phần theo phương thức dựng sổ.\n11. Bảo mật các thông tin trên Phiếu đặt lệnh mua cổ phần của các nhà đầu tư đến khi đóng số lệnh.\n12. Quyết định giá phân phối và kết quả dựng sổ.\n13. Trường hợp hủy kết quả số lệnh, quyết định và công bố thông tin về việc hủy kết quả số lệnh theo quy định.\n14. Đồng ký Biên bản xác định kết quả dựng sổ.\n15. Phối hợp với Tổ chức quản lý số lệnh công bố công khai kết quả dựng sổ.\n16. Phối hợp với Tổ chức quản lý số lệnh gửi kết quả dựng sổ cho các Đại lý dựng sổ.\n17. Phối hợp với Tổ chức quản lý số lệnh và Đại lý dựng sổ hoàn trả tiền đặt cọc cho nhà đầu tư đặt lệnh mua cổ phần hợp lệ nhưng không được phân phối cổ phần theo Quy chế này.\n18. Tổng hợp, báo cáo kết quả bán cổ phần theo phương thức dựng sổ gửi các cấp có thẩm quyền theo quy định.\n19. Hỗ trợ làm thủ tục chuyển quyền sở hữu cho các nhà đầu tư được mua\ncổ phần.\n20. Lưu trữ tài liệu đăng ký, đặt lệnh mua cổ phần của nhà đầu tư sau khi hoàn thành đợt bán cổ phần theo phương thức dựng sổ và các tài liệu liên quan (nếu có).\n21. Thực hiện các công việc khác theo quy định."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "4",
+                            "title": "Trách nhiệm và quyền hạn của Hội đồng bán cổ phần",
+                            "position": 804,
+                            "children": [],
+                            "content": "1. Tổ chức chỉ đạo và tham gia kiểm tra, giám sát hoạt động bán cổ phần theo phương thức dựng sổ theo quy định.\n2. Giám sát, xử lý, báo cáo trong trường hợp tài liệu đăng ký/Phiếu đặt lệnh mua cổ phần của nhà đầu tư có vấn đề.\n3. Xem xét, xử lý các trường hợp vi phạm Quy chế chuyển nhượng vốn theo phương thức dựng sổ và các trường hợp vi phạm khác tùy theo mức độ vi phạm.\n4. Ký Biên bản xác định kết quả dựng sổ.\n5. Thực hiện các công việc khác theo quyết định hoặc ủy quyền của Chủ sở hữu vốn."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "5",
+                            "title": "Trách nhiệm và quyền hạn của Tổ chức quản lý số lệnh",
+                            "position": 810,
+                            "children": [],
+                            "content": "1. Yêu cầu Chủ sở hữu vốn cung cấp đầy đủ các tài liệu, thông tin về việc bán cổ phần theo phương thức dựng sổ theo quy định.\n2. Cử đại diện tham gia Hội đồng bán cổ phần.\n3. Thành lập Ban tổ chức bán cổ phần theo quy định.\n4. Thông báo việc tiếp nhận đăng ký làm đại lý dựng sổ.\n5. Thông báo với Chủ sở hữu vốn về thời gian, địa điểm tổ chức bán cổ phần theo phương thức dựng sổ.\n6. Thực hiện thông báo và công bố thông tin về việc bán cổ phần theo phương thức dựng sổ theo Điều 8 Quy chế này. Trường hợp thông tin công bố không chính xác, phản ánh sai lệnh so với thông tin, số liệu do Chủ sở hữu vốn và Công ty cổ phần cung cấp thì Tổ chức quản lý số lệnh chịu trách nhiệm theo quy định.\n7. Kiểm tra, giám sát việc công bố thông tin theo Điều 8 Quy chế này và các vấn đề khác liên quan đến việc bán cổ phần theo phương thức dựng sổ của các Đại lý dựng sổ.\n8. Mở tài khoản nhận tiền đặt cọc của nhà đầu tư tổ chức và cung cấp Giấy xác nhận nộp tiền đặt cọc của nhà đầu tư tổ chức.\n9. Tổng hợp, đối chiếu giữa kết quả đăng ký, đặt lệnh theo báo cáo của các Đại lý dựng sổ với số lượng đăng ký, đặt lệnh trên hệ thống.\n10. Mở sổ lệnh để tiếp nhận lệnh đặt mua của nhà đầu tư và tổ chức thực hiện việc quản lý sổ lệnh.\n11. Bảo mật các thông tin trên Phiếu đặt lệnh mua cổ phần của các nhà đầu tư đến khi đóng sổ lệnh.\n12. Phối hợp với Đại lý dựng sở công bố thông tin trong thời gian mở sổ lệnh từ 9h00 đến 9h30 hàng ngày trước mỗi phiên giao dịch về biểu đồ khối lượng đặt mua lũy kế theo từng mức giá từ ngày mở sổ lệnh trên trang thông tin điện tử của Tổ chức quản lý sổ lệnh và Đại lý dựng sở.\n13. Đóng sổ lệnh và kết thúc quá trình dựng sở.\n14. Tổ chức dựng sở và chịu trách nhiệm về việc xác định kết quả dựng sở theo quy định.\n15. Phối hợp với Chủ sở hữu vốn xác định kết quả dựng sở theo quy định.\n16. Đồng ký Biên bản xác định kết quả dựng sở.\n17. Phối hợp với Chủ sở hữu vốn công bố công khai kết quả dựng sở.\n18. Phối hợp với Chủ sở hữu vốn gửi kết quả dựng sở cho các Đại lý dựng sở.\n19. Phối hợp với Chủ sở hữu vốn và Đại lý dựng sở hoàn trả tiền đặt cọc cho nhà đầu tư đặt lệnh mua cổ phần hợp lệ nhưng không được phân phối cổ phần theo Quy chế này và nhận tiền thanh toán mua cổ phần của nhà đầu tư theo quy định.\n20. Chuyển tiền thu từ bán cổ phần theo phương thức dựng sở và tiền đặt cọc của nhà đầu tư tham gia mua cổ phần không hợp lệ theo Điều 17 và Điều 21 Quy chế này.\n21. Chuyển giao tài liệu đăng ký, đặt lệnh mua cổ phần của nhà đầu tư và các tài liệu khác liên quan (nếu có) cho Chủ sở hữu vốn trong vòng mười (10) ngày kể từ ngày kết thúc việc bán cổ phần.\n22. Thực hiện các công việc khác theo quy định."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "6",
+                            "title": "Trách nhiệm và quyền hạn của Đại lý dựng sở",
+                            "position": 834,
+                            "children": [],
+                            "content": "1. Ký hợp đồng đại lý dựng sở theo quy định.\n2. Đăng ký với Tổ chức quản lý sổ lệnh về việc thực hiện vai trò của đại lý dựng sở.\n3. Phối hợp với Chủ sở hữu vốn, Tổ chức quản lý sổ lệnh thực hiện công bố thông tin liên quan đến việc bán cổ phần theo phương thức dựng sở theo Điều 8 Quy chế này. Trường hợp thông tin công bố không chính xác, phản ánh sai lệch so với thông tin, số liệu do Chủ sở hữu vốn, Tổ chức quản lý sổ lệnh cung cấp thì Đại lý dựng sở phải chịu trách nhiệm theo quy định của pháp luật.\n4. Cung cấp thông tin liên quan đến Công ty cổ phần và việc bán cổ phần theo phương thức dựng sở, mẫu đơn đăng ký tham gia mua cổ phần cho các nhà\nđầu tư theo Điều 8 Quy chế này.\n5. Tiếp nhận Đơn đăng ký tham gia mua cổ phần, nhận tiền đặt cọc, kiểm tra điều kiện tham gia mua cổ phần, nhập các thông tin đăng ký mua của các nhà đầu tư vào hệ thống của Tổ chức quản lý số lệnh và cấp Phiếu đặt lệnh mua cổ phần theo mẫu tại Mẫu số 2b3 kèm theo Quy chế này cho các nhà đầu tư đáp ứng điều kiện theo Điều 9 Quy chế này. Trường hợp nhà đầu tư không đáp ứng điều kiện tham gia mua cổ phần thì Đại lý dựng sổ phải thông báo và hoàn trả tiền đặt cọc cho các nhà đầu tư (trường hợp nhà đầu tư đã đặt cọc).\n6. Chịu trách nhiệm về tính chính xác, đầy đủ của thông tin nhập vào hệ thống của Tổ chức quản lý số lệnh theo tài liệu đăng ký tham gia mua cổ phần của nhà đầu tư.\n7. Trước 17h00 hàng ngày, chuyển tiền đặt cọc của các nhà đầu tư về Tổ chức quản lý số lệnh.\n8. Giải thích những nội dung liên quan đến trình tự, thủ tục bán cổ phần theo phương thức dựng sổ khi nhà đầu tư thắc mắc trong thời gian nhận Phiếu đặt lệnh mua cổ phần.\n9. Tiếp nhận Phiếu đặt lệnh mua cổ phần của các nhà đầu tư cụ thể như sau:\na) Kiểm tra tính hợp lệ của Phiếu đặt lệnh mua cổ phần và nhập thông tin trên Phiếu đặt lệnh mua cổ phần vào hệ thống của Tổ chức quản lý số lệnh. Trường hợp phát sinh vướng mắc, Đại lý dựng sổ phải xin ý kiến của Hội đồng bán cổ phần để giải quyết kịp thời;\nb) Chịu trách nhiệm về tính chính xác của các thông tin trên Phiếu đặt lệnh mua cổ phần của nhà đầu tư được nhập vào hệ thống của Tổ chức quản lý số lệnh;\nc) Chịu trách nhiệm trực tiếp với nhà đầu tư trong trường hợp Đại lý dựng sổ không nhập, không nhập đầy đủ, chính xác các thông tin trên Phiếu đặt lệnh mua cổ phần vào hệ thống của Tổ chức quản lý số lệnh hoặc trong những trường hợp khác do lỗi của Đại lý dựng sổ.\n10. Thực hiện các thủ tục liên quan đến việc thay đổi lệnh đặt mua của nhà đầu tư theo khoản 4 Điều 12 Quy chế này.\n11. Bảo mật các thông tin trên Phiếu đặt lệnh mua cổ phần của các nhà đầu tư đến khi đóng sổ lệnh.\n12. Thông báo và gửi kết quả dựng sổ cho các nhà đầu tư theo quy định.\n13. Hoàn trả tiền đặt cọc cho nhà đầu tư đặt lệnh mua cổ phần hợp lệ nhưng không được phân phối cổ phần theo quy định.\n14. Nhận tiền thanh toán mua cổ phần của các nhà đầu tư được mua cổ phần trong thời gian quy định.\n15. Chuyển tiền thanh toán mua cổ phần và danh sách nhà đầu tư nộp tiền\nthanh toán mua cổ phần cho Tổ chức quản lý sở lệnh.\n16. Chuyển giao tài liệu đăng ký, đặt lệnh mua cổ phần của nhà đầu tư và các tài liệu liên quan (nếu có) cho Tổ chức quản lý sở lệnh (hoặc Chủ sở hữu vốn) trong thời hạn năm (05) ngày làm việc kể từ ngày kết thúc việc bán cổ phần theo phương thức dụng số.\n17. Thực hiện các công việc khác theo quy định."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "7",
+                            "title": "Trách nhiệm và quyền hạn của nhà đầu tư tham gia mua cổ phần",
+                            "position": 859,
+                            "children": [],
+                            "content": "1. Tiếp cận thông tin công bố về Công ty cổ phần và việc bán cổ phần theo phương thức dụng số theo quy định;\n2. Gửi Đơn đăng ký tham gia mua cổ phần theo mẫu tại Mẫu số 2b1/Mẫu số 2b2 kèm theo Quy chế này cho Đại lý dụng số và nhận Phiếu đặt lệnh mua cổ phần;\n3. Thực hiện quy định của pháp luật về đầu tư tại công ty cổ phần và các quy định pháp luật liên quan trong trường hợp nhà đầu tư nước ngoài tham gia mua cổ phần;\n4. Nộp tiền đặt cọc theo quy định;\n5. Nộp Phiếu đặt lệnh mua cổ phần theo quy định;\n6. Nhận hoàn trả tiền đặt cọc theo quy định;\n7. Thanh toán đầy đủ, đúng hạn tiền mua cổ phần theo quy định;\n8. Tuân thủ các nội dung tại Quy chế này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "8",
+                            "title": "Công bố thông tin",
+                            "position": 868,
+                            "children": [],
+                            "content": "1. Chủ sở hữu vốn phối hợp với Tổ chức quản lý sở lệnh và Đại lý dụng số công khai thông tin về việc bán cổ phần theo phương thức dụng số (bao gồm cả bản tiếng Anh) tối thiểu hai mươi (20) ngày trước ngày mở sổ lệnh theo quy định tại khoản 2 Điều 17 Thông tư số 21/2019/TT-BTC. Việc công khai thông tin được thực hiện trên các phương tiện sau đây:\na) Ba (03) số báo liên tiếp của một tờ báo phát hành trong toàn quốc và một tờ báo địa phương nơi Chủ sở hữu vốn có trụ sở chính, Công ty cổ phần có trụ sở chính: ... (nêu tên tờ báo và số báo đăng tải);\nb) Tại Doanh nghiệp nhà nước: ... (nêu tên, địa chỉ);\nc) Tại Công ty cổ phần: ... (nêu tên, địa chỉ);\nd) Tại Tổ chức quản lý sở lệnh: ... (nêu tên, địa chỉ).\nđ) Website của Chủ sở hữu vốn, Tổ chức quản lý sở lệnh, Đại lý dụng số, Công ty cổ phần và Tổ chức tư vấn (nếu có) ... (nêu địa chỉ các website đăng tải nội dung công bố thông tin).\n2. Chủ sở hữu vốn phối hợp với Tổ chức quản lý sở lệnh và Đại lý dụng\nsở cung cấp cho các nhà đầu thông tin liên quan đến Công ty cổ phần và việc bán cổ phần theo phương thức dựng số, cụ thể:\na) Nội dung cung cấp thông tin\n- Bản công bố thông tin theo mẫu tại Phụ lục số 01b ban hành kèm theo Thông tư số 21/2019/TT-BTC;\n- Phương án chuyển nhượng vốn theo phương thức dựng số đã được cấp có thẩm quyền phê duyệt;\n- Quy chế chuyển nhượng vốn theo phương thức dựng số;\n- Tài liệu chứng minh Chủ sở hữu vốn là chủ sở hữu hợp pháp của số cổ phần được chào bán theo phương thức dựng số.\nb) Địa điểm cung cấp thông tin\n- Chủ sở hữu vốn: ... (nêu tên Chủ sở hữu vốn)\n+ Địa chỉ: ... (nêu địa chỉ);\nWebsite: .. (tên website).\n- Công ty cổ phần: ... (nêu tên CTCP).\n+ Địa chỉ: ... (nêu địa chỉ);\n+ Website: ... (tên website).\n- Tổ chức quản lý sở lệnh: ... (nêu tên SGDCK).\n+ Địa chỉ: ... (nêu địa chỉ);\n+ Website: ... (tên website). + Website: ... (tên website).\n- Các Đại lý dựng số: ... (nêu tên các Đại lý dựng số).\n+ Địa chỉ: ... (nêu địa chỉ);\n+ Website: ... (tên website).\n- Địa chỉ và tên các website công bố thông tin khác (nếu có – nêu rõ địa chỉ các website): ....."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "9",
+                            "title": "Đối tượng tham gia mua cổ phần và các quy định liên quan",
+                            "position": 897,
+                            "children": [],
+                            "content": "1. Đối tượng tham gia mua cổ phần bao gồm tổ chức, cá nhân trong và ngoài nước đáp ứng các điều kiện sau:\na) Đối với nhà đầu tư trong nước\n- Đối với nhà đầu tư cá nhân: Là công dân Việt Nam, có địa chỉ liên hệ, có Giấy chứng minh nhân dân/Căn cước công dân/Hộ chiếu/giấy tờ tùy thân hợp lệ và có đủ năng lực hành vi dân sự;\n- Đối với nhà đầu tư tổ chức: Là tổ chức kinh tế, tổ chức xã hội được\nthành lập và hoạt động theo luật pháp Việt Nam; có tư cách pháp nhân (đối với các tổ chức kinh tế); có Giấy chứng nhận đăng ký kinh doanh/Giấy đăng ký doanh nghiệp/Giấy phép hoạt động; có địa chỉ liên hệ;\nTuân thủ quy định hiện hành về góp vốn, mua cổ phần của doanh nghiệp Việt Nam theo quy định của pháp luật chuyên ngành.\nb) Đối với nhà đầu tư nước ngoài: ngoài các quy định như đối với tổ chức và cá nhân trong nước, nhà đầu tư nước ngoài phải tuân thủ các quy định sau:\n- Mở một (01) tài khoản vốn đầu tư gián tiếp bằng đồng Việt Nam tại ngân hàng được phép cung ứng dịch vụ ngoại hối hoạt động trên lãnh thổ Việt Nam và tuân thủ pháp luật Việt Nam. Mọi hoạt động liên quan đến mua cổ phần phải thông qua tài khoản này;\n- Có Giấy chứng nhận mã số giao dịch chứng khoán do Trung tâm lưu ký chứng khoán Việt Nam cấp (bản sao có xác nhận của ngân hàng lưu ký hoặc công ty chứng khoán nơi nhà đầu tư nước ngoài mở tài khoản lưu ký);\n- Tuân thủ quy định hiện hành về góp vốn, mua cổ phần của nhà đầu tư nước ngoài tại doanh nghiệp.\nc) Các tổ chức tài chính trung gian nhận ủy thác đầu tư: Trường hợp các tổ chức tài chính trung gian nhận ủy thác đầu tư của cả nhà đầu tư trong nước và nước ngoài, tổ chức nhận ủy thác đầu tư có trách nhiệm tách biệt rõ số lượng nhà đầu tư, số cổ phần của từng nhà đầu tư trong và ngoài nước đăng ký mua.\n2. Những đối tượng không được tham gia mua cổ phần (nếu có)."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "10",
+                            "title": "Thông tin cơ bản về phương án bán cổ phần theo phương thức dựng số",
+                            "position": 911,
+                            "children": [],
+                            "content": "1. Số lượng cổ phần chào bán theo phương thức dựng số:... cổ phần, trong đó:\na) Số lượng cổ phần bán cho nhà đầu tư công chúng:... cổ phần (tương đương tỷ lệ...% vốn điều lệ);\nb) Số lượng cổ phần bán cho nhà đầu tư chiến lược:... cổ phần (tương đương tỷ lệ...% vốn điều lệ).\n2. Loại cổ phần chào bán:....\n3. Mệnh giá: 10.000 đồng.\n4. Giá khởi điểm:... đồng/cổ phần.\n5. Khoảng giá dựng số:....\n6. Giá mở sổ:... đồng/cổ phần.\n7. Thời gian mở sổ lệnh: từ ngày ... tháng ... năm đến ngày ... tháng ... năm (5 phiên giao dịch liên tiếp từ 9h30 đến 11h30 hàng ngày).\n8. Bước giá:...[100 đồng].\n9. Bước khối lượng:....\n10. Số lượng cổ phần đăng ký mua tối thiểu:... cổ phần.\n11. Số lượng cổ phần đăng ký mua tối đa:... cổ phần (theo quy định của pháp luật hiện hành).\n12. Số lượng cổ phần nhà đầu tư nước ngoài được phép mua:... cổ phần.\n13. Số mức giá:....\n14. Nguyên tắc ưu tiên xác định giá phân phối theo phương án chuyển nhượng vốn theo phương thức dựng sổ đã được cấp có thẩm quyền phê duyệt: ... [Xác định giá phân phối theo nhà đầu tư công chúng hoặc xác định giá phân phối theo nhà đầu tư chiến lược];\n15. Điều kiện dựng sổ:\na) Tỷ lệ khối lượng cổ phần đặt mua tối thiểu:...%;\nb) Số lượng nhà đầu tư đặt mua tối thiểu:... nhà đầu tư."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "11",
+                            "title": "Thủ tục đăng ký tham gia mua cổ phần và nộp tiền đặt cọc",
+                            "position": 932,
+                            "children": [],
+                            "content": "1. Nhận Đơn đăng ký tham gia mua cổ phần\nNhà đầu tư nhận đơn hoặc in mẫu đơn đăng ký tham gia mua cổ phần tại Đại lý dựng số theo các địa điểm và địa chỉ website nêu tại khoản 2 Điều 8 Quy chế này.\n2. Nộp tiền đặt cọc\na) Nhà đầu tư công chúng có trách nhiệm nộp tiền đặt cọc bằng mười phần trăm (10%) giá trị tổng số cổ phần đăng ký mua theo giá mở sổ bằng đồng Việt Nam vào tài khoản của Đại lý dựng số theo quy định. Nhà đầu tư là tổ chức có thể nộp tiền đặt cọc vào tài khoản của Tổ chức quản lý sở lệnh theo quy định.\nb) Nhà đầu tư chiến lược có trách nhiệm nộp tiền đặt cọc, ký quỹ hoặc có bảo lãnh của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài theo quy định của pháp luật với giá trị bằng hai mươi phần trăm (20%) giá trị cổ phần đặt mua tính theo giá khởi điểm trong phương án bán cổ phần theo phương thức dựng số đã được phê duyệt.\nc) Tiền đặt cọc không được hưởng lãi.\n3. Nộp Đơn đăng ký tham gia mua cổ phần\nNhà đầu tư điền đầy đủ thông tin vào Đơn đăng ký tham gia mua cổ phần, nộp bản chính tại địa điểm làm thủ tục đăng ký kèm theo xuất trình các giấy tờ sau:\na) Đối với nhà đầu tư là cá nhân trong nước:\n- Chứng minh nhân dân/Căn cước công dân/Hộ chiếu. Trường hợp nhận\nủy quyền, phải có Giấy ủy quyền theo quy định của pháp luật hoặc theo mẫu tại Mẫu số 2b4 kèm theo Quy chế này, được công chứng hoặc chứng thực bởi Cơ quan công chứng, chứng thực có thẩm quyền, kèm theo xuất trình Chứng minh nhân dân/Căn cước công dân/Hộ chiếu của Người được ủy quyền;\nGiấy nộp tiền hoặc Giấy chuyển tiền đặt cọc.\nb) Đối với nhà đầu tư là tổ chức trong nước:\nBản sao hợp lệ Giấy chứng nhận đăng ký kinh doanh/Đăng ký doanh nghiệp/Giấy phép hoạt động hoặc giấy tờ khác tương đương;\nGiấy ủy quyền cho người đại diện thay mặt tổ chức thực hiện thủ tục kèm theo bản sao hợp lệ Chứng minh nhân dân/Căn cước công dân/Hộ chiếu của Người nhận ủy quyền, trừ trường hợp người làm thủ tục là Người đại diện theo pháp luật của tổ chức;\nGiấy nộp tiền, Giấy chuyển tiền đặt cọc hoặc Giấy xác nhận nộp tiền đặt cọc của Tổ chức quản lý sổ lệnh.\nc) Đối với cá nhân và tổ chức nước ngoài: Ngoài các quy định như đối với cá nhân và tổ chức trong nước phải xuất trình:\nGiấy xác nhận mở tài khoản vốn đầu tư gián tiếp tại một tổ chức cung ứng dịch vụ thanh toán theo quy định của pháp luật Việt Nam về ngoại hối;\nGiấy chứng nhận mã số giao dịch chứng khoán theo quy định của pháp luật Việt Nam.\n4. Thời gian, địa điểm làm thủ tục đăng ký và đặt cọc\na) Thời gian làm thủ tục đăng ký và đặt cọc:\nĐăng ký và đặt cọc tại Đại lý dựng sổ: Từ ... giờ ... phút ngày... tháng ... năm ... (tối thiểu 02 ngày làm việc trước ngày mở sổ lệnh) đến ... giờ ... phút ngày... tháng ... năm ... (ngày đóng sổ lệnh);\nĐặt cọc của nhà đầu tư là tổ chức tại Tổ chức quản lý sổ lệnh: Số tài khoản nhận tiền đặt cọc của Tổ chức quản lý sổ lệnh: ...; Thời gian, địa điểm nộp tiền đặt cọc và nhận Giấy xác nhận nộp tiền đặt cọc: Từ ... giờ ... phút ngày... tháng ... năm ... (tối thiểu 02 ngày làm việc trước ngày mở sổ lệnh) đến ... giờ ... phút ngày... tháng ... năm ... (ngày đóng sổ lệnh).\nb) Địa điểm làm thủ tục đăng ký, đặt cọc: Đại lý dựng sổ (theo danh sách đính kèm) (nội dung bao gồm tên, địa chỉ, số tài khoản nhận tiền đặt cọc);\nc) Sau khi hoàn tất các thủ tục đăng ký, nhà đầu tư được cấp Phiếu đặt lệnh mua cổ phần."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "12",
+                            "title": "Lập và nộp Phiếu đặt lệnh mua cổ phần",
+                            "position": 959,
+                            "children": [],
+                            "content": "1. Nhà đầu tư điền khối lượng cổ phần, giá đăng ký mua và ký Phiếu đặt lệnh mua cổ phần. Phiếu đặt lệnh mua cổ phần hợp lệ là:\na) Phiếu do Đại lý dựng sổ cấp, có đóng dấu treo của nơi cấp phiếu và đảm bảo điền đầy đủ, rõ ràng các thông tin theo quy định; phiếu không được tẩy, xóa hoặc rách nát; giá đặt mua không được thấp hơn giá mở sổ; tổng số cổ phần đặt mua tối đa bằng mức đăng ký;\nb) Phiếu đặt lệnh mua cổ phần được nộp cho Đại lý dựng sổ từ ... giờ ... phút ... ngày ... tháng ... năm ... đến ... giờ ... phút ... ngày ... tháng ... năm .... Thời điểm nhận phiếu được tính là thời điểm Đại lý dựng sổ ký nhận với nhà đầu tư.\n2. Trường hợp Phiếu đặt lệnh mua cổ phần bị rách nát, tẩy xoá, nhà đầu tư phải yêu cầu Đại lý dựng sổ nơi nhà đầu tư đăng ký mua đổi phiếu mới sau khi đã nộp phiếu cũ.\n3. Trường hợp nhà đầu tư mất Phiếu đặt lệnh mua cổ phần: Nhà đầu tư phải làm đơn theo mẫu tại Mẫu số 2b6 kèm theo Quy chế này đề nghị Đại lý dựng sổ nơi đăng ký mua cổ phần cấp lại Phiếu đặt lệnh mới và Phiếu đặt lệnh cũ coi như không còn giá trị.\n4. Nhà đầu tư có thể thay đổi lệnh mua về giá, khối lượng cổ phần đặt mua như sau:\na) Việc thay đổi lệnh đăng mua phải thực hiện trong thời gian quy định;\nb) Trước khi đặt lệnh, nhà đầu tư phải hủy lệnh đặt mua cũ. Nhà đầu tư phải làm Đơn đề nghị hủy mua cổ phần theo mẫu tại Mẫu số 2b5 kèm theo Quy chế này gửi Đại lý dựng sổ nơi nhà đầu tư đã làm thủ tục đăng ký mua và đặt lệnh. Đại lý dựng sổ có trách nhiệm tiếp nhận đơn, thực hiện các thủ tục hủy lệnh đặt mua của nhà đầu tư và xác nhận việc hủy lệnh để nhà đầu tư đặt lệnh mua mới. Thời gian đặt lệnh tính theo thời gian của lệnh đặt mua mới;\nc) Trường hợp nhà đầu tư hủy lệnh đặt mua mà không đặt lại lệnh mua mới, nhà đầu tư không được hoàn trả tiền đặt cọc;\nd) Trường hợp nhà đầu tư đặt lệnh mua mới với khối lượng lớn hơn khối lượng đặt mua cũ, nhà đầu tư phải bổ sung thêm tiền đặt cọc tương ứng với khối lượng đặt mua tăng thêm;\nđ) Trường hợp nhà đầu tư đặt lệnh mua mới với khối lượng thấp hơn khối lượng đặt mua cũ, nhà đầu tư không được hoàn trả số tiền đặt cọc tương ứng với khối lượng đặt mua giảm."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "13",
+                            "title": "Địa điểm và thời gian tổ chức bán cổ phần",
+                            "position": 972,
+                            "children": [],
+                            "content": "1. Địa điểm tổ chức bán cổ phần: … (Tên và địa chỉ Tổ chức quản lý sổ lệnh, các Đại lý dựng sổ).\n2. Thời gian mở sổ lệnh: từ ngày ... tháng ... năm ... đến ngày ... tháng ... năm ...(05 phiên giao dịch liên tiếp từ 9h30 đến 11h30 hàng ngày).\n3. Đại lý dựng sổ có trách nhiệm kết thúc nhận lệnh đăng ký mua của nhà\nđầu tư trước … phút trước giờ đóng cửa (11h30) phiên giao dịch hàng ngày.\n4. Đại lý dựng sổ có trách nhiệm kết thúc nhận Phiếu đặt lệnh mua cổ phần của nhà đầu tư trước … giờ … phút ngày … tháng … năm…(ngày đóng sổ lệnh)."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "14",
+                            "title": "Xem xét điều kiện dựng sổ",
+                            "position": 979,
+                            "children": [],
+                            "content": "1. Ngay sau khi đóng sổ lệnh, Tổ chức quản lý số lệnh xem xét và xác định:\na) Danh sách các nhà đầu tư đủ điều kiện tham gia mua cổ phần theo phương thức dựng sổ;\nb) Số lượng nhà đầu tư đặt lệnh mua cổ phần hợp lệ;\nc) Số lượng phiếu đặt lệnh mua cổ phần;\nd) Khối lượng cổ phần đặt mua hợp lệ.\n2. Xác định điều kiện dựng sổ: Việc xác định kết quả dựng sổ chỉ được thực hiện khi tỷ lệ khối lượng đặt mua cổ phần thực tế và số lượng nhà đầu tư đặt mua cổ phần thực tế lớn hơn hoặc bằng Tỷ lệ khối lượng đặt mua cổ phần tối thiểu và Số lượng nhà đầu tư đặt mua cổ phần tối thiểu tại khoản 15 Điều 10 Quy chế này, theo phương án bán cổ phần theo phương thức dựng sổ theo quy định tại Điều 14 Thông tư số 21/2019/TT-BTC.\n3. Trường hợp không đáp ứng điều kiện dựng sổ theo khoản 2 Điều này, Chủ sở hữu vốn có trách nhiệm quyết định hủy kết quả số lệnh, công bố thông tin về việc hủy kết quả số lệnh theo khoản 4 Điều 16 Quy chế này và hoàn trả tiền đặt cọc cho các nhà đầu tư theo khoản 5 Điều 21 Quy chế này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "15",
+                            "title": "Thực hiện dựng sổ",
+                            "position": 987,
+                            "children": [],
+                            "content": "1. Tại thời điểm mở sổ lệnh, Trưởng Ban tổ chức bán cổ phần hoặc người được ủy quyền công bố những thông tin chủ yếu sau:\na) Tên Chủ sở hữu vốn, tên Công ty cổ phần, Tổng số lượng cổ phần chào bán theo phương thức dựng sổ;\nb) Trình tự, thủ tục bán cổ phần theo phương thức dựng sổ, giá mở sổ, nguyên tắc ưu tiên, điều kiện dựng sổ, nguyên tắc xác định giá phân phối và việc phân phối cổ phần cho các nhà đầu tư;\nc) Số lượng đại lý dựng sổ tham gia;\nd) Giải thích về những vấn đề mà người đầu tư hoặc các bên có liên quan còn thắc mắc.\n2. Nhập thông tin trên Phiếu đặt lệnh mua cổ phần\nTrong thời gian mở sổ lệnh, Đại lý dựng sổ nhập thông tin trên Phiếu đặt lệnh mua cổ phần vào hệ thống của Tổ chức quản lý số lệnh. Trường hợp phát sinh vướng mắc, Đại lý dựng sổ xin ý kiến của Hội đồng bán cổ phần để giải quyết kịp thời.\n3. Xác định kết quả dựng sổ\nKết quả dựng sổ được xác định theo quy định tại khoản 2 Điều 20 Thông tư số 21/2019/TT-BTC, cụ thể như sau:\n3a. Trường hợp áp dụng nguyên tắc ưu tiên xác định giá phân phối theo nhà đầu tư công chúng thực hiện như sau:\na) Xác định giá phân phối:\nGiá phân phối là mức giá cao nhất mà tại mức giá đó phân phối được tối đa số lượng cổ phần dự kiến chào bán cho nhà đầu tư công chúng;\nGiá phân phối này được sử dụng để phân phối cổ phần cho nhà đầu tư công chúng và nhà đầu tư chiến lược.\nb) Việc phân phối cổ phần cho các nhà đầu tư công chúng và nhà đầu tư chiến lược được thực hiện như sau:\nNhà đầu tư được mua cổ phần là nhà đầu tư đặt giá lớn hơn hoặc bằng giá phân phối. Khối lượng cổ phần được phân phối theo nguyên tắc ưu tiên theo thứ tự như sau: thứ nhất ưu tiên về giá; thứ hai ưu tiên về thời gian đặt lệnh (theo ngày tổ chức phiên giao dịch); và thứ ba ưu tiên phân phối theo tỷ lệ khối lượng đặt mua trong trường hợp nhiều nhà đầu tư đặt lệnh mua tại cùng mức giá, cùng thời gian;\nTrường hợp có nhiều nhà đầu tư đặt lệnh mua tại cùng mức giá với cùng thời gian đặt lệnh theo thứ tự ưu tiên thứ ba nêu trên, số cổ phần phân phối cho từng nhà đầu tư được xác định như sau:\nSố cổ phần chưa được tại cùng mức giá phân phối\nSố cổ phần nhà đầu tư đặt mua tại cùng mức giá và cùng thời gian đặt lệnh Tổng số cổ phần các nhà đầu đặt mua tại cùng mức giá và cùng thời gian đặt lệnh\nc) Sau khi thực hiện xác định kết quả phân phối cổ phần theo quy định tại điểm a và điểm b khoản 3a Điều này, số lượng cổ phần còn lại chưa phân phối được xử lý như sau:\nViệc phân phối cho từng nhà đầu tư thực hiện theo nguyên tắc ưu tiên về giá, thời gian đã đặt lệnh mua tại sổ lệnh. Trường hợp nhiều nhà đầu tư đã đặt lệnh mua tại cùng mức giá và cùng thời gian đặt lệnh, việc phân phối cổ phần được thực hiện theo nguyên tắc phân phối theo tỷ lệ khối lượng cổ phần đăng ký mua tương tự tại điểm b khoản 3a Điều này.\nĐối tượng được đăng ký mua là nhà đầu tư chiến lược đã đặt lệnh mua và chưa được mua hết số lượng cổ phần đã đặt mua.\nChủ sở hữu vốn phối hợp với Tổ chức quản lý sổ lệnh có trách nhiệm công bố danh sách nhà đầu tư chiến lược được đăng ký mua nêu trên trong vòng một (01) ngày làm việc kể từ ngày đóng sổ lệnh.\nTrong vòng ba (03) ngày làm việc kể từ ngày công bố danh sách nhà đầu tư chiến lược được đăng ký mua, nhà đầu tư có tên trong danh sách thực hiện đăng ký mua cổ phần theo mức giá phân phối với khối lượng cổ phần không được vượt quá khối lượng cổ phần chưa được mua.\n3b. Trường hợp áp dụng nguyên tắc ưu tiên xác định giá phân phối theo nhà đầu tư chiến lược thực hiện như sau:\na) Xác định giá phân phối\nGiá phân phối là mức giá cao nhất mà tại mức giá đó phân phối được tối đa số lượng cổ phần dự kiến chào bán cho nhà đầu tư chiến lược;\nGiá phân phối này được sử dụng để phân phối cổ phần cho nhà đầu tư chiến lược và nhà đầu tư công chúng.\nb) Việc phân phối cổ phần cho các nhà đầu tư chiến lược và nhà đầu tư công chúng được thực hiện như sau:\nNhà đầu tư được mua cổ phần là nhà đầu tư đặt giá lớn hơn hoặc bằng giá phân phối. Khối lượng cổ phần được phân phối theo nguyên tắc ưu tiên theo thứ tự như sau: thứ nhất ưu tiên về giá; thứ hai ưu tiên về thời gian đặt lệnh (theo ngày tổ chức phiên giao dịch); và thứ ba ưu tiên phân phối theo tỷ lệ khối lượng đặt mua trong trường hợp nhiều nhà đầu tư đặt lệnh mua tại cùng mức giá, cùng thời gian;\nTrường hợp có nhiều nhà đầu tư đặt lệnh mua tại cùng mức giá với cùng thời gian đặt lệnh theo thứ tự ưu tiên thứ ba nêu trên, số cổ phần phân phối cho từng nhà đầu tư được xác định như sau:\nSố cổ phần chưa được phân phối tại cùng mức giá\nSố cổ phần nhà đầu tư đặt mua tại cùng mức giá và cùng thời gian đặt lệnh Số cổ phần nhà đầu tư được mua tại cùng mức giá x Tổng số cổ phần các nhà đầu tư đặt mua tại cùng mức giá và cùng thời gian đặt lệnh\nc) Sau khi thực hiện xác định kết quả phân phối cổ phần theo quy định tại điểm a và điểm b khoản 3b Điều này, số lượng cổ phần còn lại chưa phân phối được xử lý như sau:\nViệc phân phối cho từng nhà đầu tư thực hiện theo nguyên tắc ưu tiên về giá, thời gian đã đặt lệnh mua tại sổ lệnh. Trường hợp nhiều nhà đầu tư đã đặt lệnh mua tại cùng mức giá và cùng thời gian đặt lệnh, việc phân phối cổ phần được thực hiện theo nguyên tắc phân phối theo tỷ lệ khối lượng cổ phần đăng ký mua tương tự tại điểm b khoản 3b Điều này.\nĐối tượng được đăng ký mua là nhà đầu tư công chúng đã đặt lệnh mua và chưa được mua hết số lượng cổ phần đã đặt mua.\nChủ sở hữu vốn phối hợp với Tổ chức quản lý sổ lệnh có trách nhiệm công bố danh sách nhà đầu tư công chúng được đăng ký mua nêu trên trong vòng một (01) ngày làm việc kể từ ngày đóng sổ lệnh.\nTrong vòng ba (03) ngày làm việc kể từ ngày công bố danh sách nhà đầu tư công chúng được đăng ký mua, nhà đầu tư có tên trong danh sách thực hiện đăng ký mua cổ phần theo mức giá phân phối với khối lượng cổ phần không được vượt quá khối lượng cổ phần chưa được mua.\n4. Biên bản xác định kết quả dựng số\nSau khi đóng sổ lệnh, căn cứ kết quả dựng số, đại diện Chủ sở hữu vốn, đại diện Hội đồng bán cổ phần và đại diện Tổ chức quản lý sổ lệnh lập và đồng ký Biên bản xác định kết quả dựng số theo Phụ lục số 03b kèm theo Thông tư số 21/2019/TT-BTC."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "16",
+                            "title": "Thông báo về kết quả dựng số",
+                            "position": 1030,
+                            "children": [],
+                            "content": "1. Trong thời hạn tối đa ba (03) ngày làm việc kể từ ngày lập Biên bản xác định kết quả dựng số, Chủ sở hữu vốn phối hợp với Tổ chức quản lý sổ lệnh công khai kết quả dựng số tại địa điểm bán cổ phần, trên trang thông tin điện tử của Tổ chức quản lý sổ lệnh, Chủ sở hữu vốn và Đại lý dựng số; thông báo cho nhà đầu tư được mua cổ phần và thực hiện thanh toán toàn bộ số tiền mua cổ phần với các nhà đầu tư trong thời hạn không quá mười (10) ngày kể từ ngày công bố kết quả dựng số. Nhà đầu tư được phân phối sẽ được bù trừ số tiền đã đặt cọc để xác định số tiền thanh toán tiền mua cổ phần còn lại.\n2. Chủ sở hữu vốn có trách nhiệm phối hợp với Tổ chức quản lý sổ lệnh gửi kết quả dựng số của nhà đầu tư cho các Đại lý dựng số trong thời hạn tối đa một (01) ngày làm việc kể từ ngày công bố công khai kết quả dựng số;\n3. Nhà đầu tư nhận kết quả trực tiếp tại Đại lý dựng số trong vòng bốn (04) ngày làm việc kể từ ngày công bố kết quả dựng số. Trường hợp nhà đầu tư không nhận kết quả tại Đại lý dựng số, Đại lý dựng số có trách nhiệm gửi kết quả dựng số cho nhà đầu tư theo phương thức đảm bảo ngay trong ngày làm việc tiếp theo (ngày làm việc thứ 05 kể từ ngày công bố kết quả dựng số).\n4. Trường hợp hủy kết quả sổ lệnh, trong thời hạn một (01) ngày làm việc kể từ ngày quyết định hủy kết quả sổ lệnh theo khoản 3 Điều 14 Quy chế này, Chủ sở hữu vốn có trách nhiệm phối hợp với Tổ chức quản lý sổ lệnh và Đại lý dựng số thực hiện công bố thông tin về việc hủy kết quả sổ lệnh trên trang thông tin điện tử của Chủ sở hữu vốn, Tổ chức quản lý sổ lệnh và Đại lý dựng số. Chủ sở hữu vốn có trách nhiệm phối hợp với Tổ chức quản lý sổ lệnh và Đại lý dựng số gửi thông báo về việc hủy sổ lệnh cho từng nhà đầu tư đã đặt lệnh trong thời hạn ba (03) ngày làm việc kể từ ngày công bố thông tin về hủy kết quả sổ lệnh."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "17",
+                            "title": "Phương thức và địa điểm thanh toán tiền mua cổ phần",
+                            "position": 1036,
+                            "children": [],
+                            "content": "1. Căn cứ vào thông báo kết quả dựng sổ, nhà đầu tư được mua cổ phần có trách nhiệm thanh toán tiền mua cổ phần trong thời hạn mười (10) ngày kể từ ngày công bố kết quả dựng sổ.\n2. Nhà đầu tư được bù trừ tiền thanh toán mua cổ phần và tiền đặt cọc theo quy định tại Điều 24 Thông tư số 21/2019/TT-BTC.\n3. Thanh toán tiền mua cổ phần\na) Thanh toán bằng đồng Việt Nam theo hình thức nộp vào tài khoản của Đại lý dựng sổ nơi nhà đầu tư làm thủ tục đăng ký mua và đặt lệnh hoặc vào tài khoản của Tổ chức quản lý sở lệnh đối với nhà đầu tư tổ chức đã đặt cọc tại Tổ chức quản lý sở lệnh;\nb) Đại lý dựng sổ có trách nhiệm gửi danh sách nhà đầu tư nộp tiền mua cổ phần đồng thời chuyển tiền thu từ bán cổ phần về Tổ chức quản lý sở lệnh trong thời hạn hai (02) ngày kể từ khi hết ngày hết hạn thanh toán tiền mua cổ phần;\nc) Tổ chức quản lý sở lệnh có trách nhiệm tổng hợp và chuyển toàn bộ tiền thu từ chuyển nhượng vốn (bao gồm cả số tiền đặt cọc không phải hoàn trả cho nhà đầu tư nếu có) trong thời hạn mười lăm (15) ngày kể từ ngày công bố kết quả dựng sổ theo quy định tại khoản 2 Điều 26 Thông tư số 21/2019/TT-BTC;\nd) Trường hợp Đại lý dựng sổ chậm chuyển tiền thu được từ bán cổ phần theo quy định thì phải trả lãi cho bên bị chậm trả theo ngày trên số tiền chậm chuyển theo mức lãi suất áp dụng tại Ngân hàng nơi Tổ chức quản lý sở lệnh mở tài khoản trong trường hợp các bên liên quan không có thỏa thuận khác;\nđ) Trường hợp Tổ chức quản lý sở lệnh chậm chuyển tiền thu được từ bán cổ phần theo quy định thì phải trả lãi theo quy định tại Nghị định số 91/2015/NĐ-CP và Nghị định số 32/2018/NĐ-CP."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "18",
+                            "title": "Xử lý các trường hợp vi phạm",
+                            "position": 1045,
+                            "children": [],
+                            "content": "1. Những trường hợp sau đây bị coi là vi phạm Quy chế chuyển nhượng vốn theo phương thức dựng sổ và nhà đầu tư không được nhận hoàn trả tiền đặt cọc:\na) Không nộp Phiếu đặt lệnh mua cổ phần;\nb) Phiếu đặt lệnh mua cổ phần không hợp lệ theo khoản 1 Điều 12 Quy chế này;\nc) Không ghi giá và/hoặc khối lượng trên Phiếu đặt lệnh mua cổ phần;\nd) Đăng ký nhưng không đặt mua (toàn bộ hoặc một phần), nhà đầu tư không được hoàn trả tiền đặt cọc tương ứng với số cổ phần không đặt mua hoặc bị phạt số tiền tương đương khoản giá trị đặt cọc trong trường hợp nhà đầu tư chiến lược sử dụng hình thức ký quỹ, bảo lãnh;\nđ) Không thanh toán toàn bộ hoặc một phần số cổ phần được quyền mua theo kết quả dựng sổ, nhà đầu tư sẽ không được hoàn trả số tiền đặt cọc tương ứng với số cổ phần từ chối mua hoặc bị phạt số tiền tương đương khoản giá trị đặt cọc trong trường hợp nhà đầu tư chiến lược sử dụng hình thức ký quỹ, bảo lãnh.\n2. Hội đồng bán cổ phần có trách nhiệm xem xét, xử lý các trường hợp vi phạm tại khoản 1 Điều này và các trường hợp vi phạm khác tùy theo mức độ vi phạm."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "19",
+                            "title": "Xử lý cổ phần chưa bán hết theo phương thức dựng sổ",
+                            "position": 1054,
+                            "children": [],
+                            "content": "Trong thời hạn ba (03) ngày kể từ ngày xác định số lượng cổ phần chưa bán hết theo phương thức dựng sổ, Tổ chức quản lý sở lệnh thông báo cho Chủ sở hữu vốn để xử lý theo quy định."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "20",
+                            "title": "Xử lý trong trường hợp hủy sở lệnh",
+                            "position": 1056,
+                            "children": [],
+                            "content": "Trong thời hạn ba (03) ngày làm việc kể từ ngày quyết định hủy sở lệnh, Chủ sở hữu vốn có trách nhiệm báo cáo cấp có thẩm quyền để xử lý và thực hiện công bố thông tin về việc hủy sở lệnh theo quy định."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "21",
+                            "title": "Xử lý tiền đặt cọc",
+                            "position": 1058,
+                            "children": [],
+                            "content": "1. Tổ chức quản lý sở lệnh có trách nhiệm chuyển tiền đặt cọc của nhà đầu tư đặt lệnh hợp lệ nhưng không được mua cổ phần cho Đại lý dựng sổ mà nhà đầu tư nộp tiền đặt cọc (hoặc cho nhà đầu tư tổ chức đã đặt cọc tại Tổ chức quản lý sở lệnh) trong thời hạn ba (03) ngày làm việc kể từ ngày công bố kết quả dựng sổ;\n2. Đại lý dựng sổ có trách nhiệm hoàn trả tiền đặt cọc cho các nhà đầu tư đặt lệnh mua hợp lệ nhưng không được mua cổ phần theo quyết định của Chủ sở hữu vốn trong thời hạn năm (05) ngày làm việc kể từ ngày công bố kết quả dựng sổ;\n3. Đối với các nhà đầu tư được quyền mua cổ phần theo kết quả dựng sổ thì khoản tiền đã đặt cọc tương ứng với lệnh đặt mua hợp lệ được trừ vào tổng số tiền thanh toán mua cổ phần. Trường hợp khoản tiền đã đặt cọc tương ứng với lệnh đặt mua hợp lệ của nhà đầu tư lớn hơn tiền thanh toán mua cổ phần, nhà đầu tư phải có văn bản gửi Đại lý dựng sổ trước thời hạn hết hạn thanh toán tiền mua cổ phần trong trường hợp muốn từ chối mua cổ phần;\n4. Đối với các khoản tiền đặt cọc không phải hoàn lại do nhà đầu tư thay đổi lệnh đặt mua cổ phần theo điểm c, điểm đ khoản 4 Điều 12 Quy chế này hoặc vi phạm Quy chế chuyển nhượng vốn theo phương thức dựng sổ theo khoản 1 Điều 18 Quy chế này được Tổ chức quản lý sở lệnh chuyển tiền theo quy định tại khoản 2 Điều 25 Thông tư 21/2019/TT-BTC;\n5. Trường hợp hủy kết quả sở lệnh, Đại lý dựng sổ có trách nhiệm hoàn trả tiền đặt cọc cho các nhà đầu tư trong thời hạn năm (05) ngày làm việc kể từ ngày công bố việc hủy kết quả sở lệnh."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "22",
+                            "title": "Các quy định khác",
+                            "position": 1065,
+                            "children": [],
+                            "content": "1. Mọi thắc mắc của nhà đầu tư (nếu có) về trình tự, thủ tục bán cổ phần theo phương thức dựng sổ phải được nêu lên và giải quyết trong thời gian bán cổ phần theo phương thức dựng sổ. Ban tổ chức bán cổ phần không chịu trách nhiệm đối với các thắc mắc của nhà đầu tư sau khi đóng sổ lệnh.\n2. Tổ chức quản lý sổ lệnh và Đại lý dựng sổ không chịu trách nhiệm về giá trị của cổ phần chào bán, trừ trường hợp không thông báo đầy đủ, chính xác những thông tin do Chủ sở hữu vốn cung cấp."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "23",
+                            "title": "Hiệu lực thi hành",
+                            "position": 1068,
+                            "children": [],
+                            "content": "Quy chế này có hiệu lực thi hành kể từ ngày ký.\nNơi nhận:\n..., ngày ... tháng ... năm ... NGƯỜI CÓ THẨM QUYỀN BAN HÀNH QUY CHẾ (ký tên, đóng dấu)"
+                        }
+                    ]
+                }
+            ],
+            "metadata": {
+                "total_units": 107,
+                "total_articles": 84,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 2,
+                "source": "ocr"
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [
+            "Đất đai",
+            "Đất đai",
+            "Đất đai"
+        ],
+        "edges": {
+            "amends": [],
+            "mentions": [],
+            "abolished": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 1,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "57/2022/TT-BTC"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "[amends] LLM thiếu target so với crawl: ['57/2022/TT-BTC']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "21/2019/TT-BTC",
+            "target_id": "57/2022/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ]
+}

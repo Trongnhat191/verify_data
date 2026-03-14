@@ -1,0 +1,81 @@
+{
+    "file_name": "28_2012_ttlt_bgdđt_btc_blđtbxh",
+    "source": "ocr_json",
+    "crawled_metadata": {
+        "officialNumber": "28/2012/TTLT-BGDĐT-BTC-BLĐTBXH",
+        "title": "Thông tư hướng dẫn thực hiện một số điều của Quyết định số 45/2011/QĐ-TTg ngày 18/8/2011 về quy định hỗ trợ một phần kinh phí đóng BHXH tự nguyện đối với giáo viên mầm non có thời gian công tác từ trước năm 1995 nhưng chưa đủ chế độ hưởng hưu trí",
+        "promulgationDate": "2012-08-14",
+        "effectiveDate": "2012-10-01",
+        "expirationDate": "9999-12-31",
+        "gazetteDate": null,
+        "sigerName": "Phạm Minh Huân; Nguyễn Thị Nghĩa; Nguyễn Thị Minh",
+        "draftingUnit": "",
+        "documentType": "THONG_TU_LIEN_TICH",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": null,
+        "_raw_co_quan_ban_hanh": "Bộ Lao Động, Thương Binh Và Xã Hội; Bộ Giáo Dục Và Đào Tạo; Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư liên tịch",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:26Z",
+        "_doc_id": "37855"
+    },
+    "crawled_edges": [],
+    "regex_data": {
+        "file_name": "28_2012_ttlt_bgdđt_btc_blđtbxh",
+        "file_path": "/Users/dangnam/Documents/FCI/legal_knowledge_graph/graph_new/54_doc/54vb_structure/28_2012_ttlt_bgdđt_btc_blđtbxh/document_structure.json",
+        "official_number": null,
+        "dates": {
+            "promulgation_date": null,
+            "effective_date": null,
+            "expiration_date": null
+        },
+        "issuing_place": null,
+        "document_structure": {
+            "root_units": [],
+            "metadata": {
+                "total_units": 0,
+                "total_articles": 0,
+                "depth": 0
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [],
+            "mentions": [],
+            "abolished": []
+        }
+    },
+    "verification": {
+        "official_number_match": null,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": []
+    },
+    "final_edges": []
+}

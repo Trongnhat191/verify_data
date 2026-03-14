@@ -1,0 +1,193 @@
+{
+    "file_name": "89_tc_tct",
+    "source": "ocr_json",
+    "crawled_metadata": {
+        "officialNumber": "89-TC/TCT",
+        "title": "Thông tư hướng dẫn thi hành Quyết định của Thủ tướng Chính phủ về bổ sung sửa đổi một số điểm trong chế độ thu sử dụng vốn ngân sách Nhà nước",
+        "promulgationDate": "1992-12-30",
+        "effectiveDate": "1992-09-30",
+        "expirationDate": "1996-01-01",
+        "gazetteDate": null,
+        "sigerName": "Phan Văn Dĩnh",
+        "draftingUnit": "",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "EXPIRED",
+        "scopeLevel": null,
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:49:54Z",
+        "_doc_id": "2240"
+    },
+    "crawled_edges": [
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "89-TC/TCT",
+            "target_id": "89-TC/TCT",
+            "properties": {
+                "type": "REPLACE",
+                "amendment_scope": "FULL",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "89_tc_tct",
+        "file_path": "/Users/dangnam/Documents/FCI/legal_knowledge_graph/graph_new/54_doc/54vb_structure/89_tc_tct/document_structure.json",
+        "official_number": null,
+        "dates": {
+            "promulgation_date": null,
+            "effective_date": "1992-10-01",
+            "expiration_date": null
+        },
+        "issuing_place": null,
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "I",
+                    "title": "BỔ SUNG MỘT SỐ LOẠI VỐN NGÂN SÁCH NHÀ NƯỚC TẠM THỜI CHƯA TÍNH THU SỬ DỤNG VỐN",
+                    "position": 3,
+                    "children": [],
+                    "content": "Theo điều 1 Quyết định số 110-TTg, một số loại vốn ngân sách Nhà nước và vốn có nguồn gốc từ ngân sách Nhà nước sau đây tạm thời chưa phải tính thu sử dụng vốn:\n1- Giá trị đất đai và tài sản cố định không phải trích khấu hao theo chế độ quy định.\n2- Nhà ở của cán bộ, công nhân viên, nhà trẻ, nhà mẫu giáo, câu lạc bộ, nhà ăn tập thể, công trình phúc lợi tập thể đầu tư bằng vốn Ngân sách Nhà nước phục vụ cho cán bộ, công nhân viên trong đơn vị.\n3- Vốn ngân sách Nhà nước dùng để dự trữ tài sản, vật tư hàng hoá ứ đọng, chậm luân chuyển, không cần dùng, chờ thanh lý do tồn tại từ cơ chế cũ để lại.\n4- Vật tư, hàng hoá, phụ tùng... thuộc vốn dự trữ đặc biệt do ngân sách cấp.\nViệc xác định các loại vốn tạm thời chưa tính thu sử dụng vốn căn cứ vào hồ sơ giao nhận vốn, biên bản kiểm tra quyết toán hàng năm của đơn vị, có sự kiểm tra xác nhận của cơ quan tài chính, cơ quan chủ quản cấp trên và cơ quan thuế trực tiếp quản lý thu thuế tại đơn vị."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "II",
+                    "title": "BỔ SUNG TỶ LỆ THU SỬ DỤNG VỐN NGÂN SÁCH NHÀ NƯỚC",
+                    "position": 10,
+                    "children": [],
+                    "content": "Theo điều 2 Quyết định số 110-TTg, bổ sung một số danh mục ngành nghề sản xuất kinh doanh được áp dụng tỷ lệ thu sử dụng vốn 0,2% tháng như sau:\n1- Ngành nước: bao gồm khai thác, làm sạch, cung cấp nước cho sản xuất và sinh hoạt.\n2- Sản xuất các ngành hàng: dược phẩm, trang thiết bị dụng cụ y tế, đồ dùng dạy học, dụng cụ thể dục thể thao.\n3- Kinh doanh các ngành hàng: sách giáo khoa, đồ dùng dạy học, dụng cụ thể dục thể thao, phát hành sách, kinh doanh lương thực."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "III",
+                    "title": "MIỄN, GIẢM THU SỬ DỤNG VỐN NGÂN SÁCH NHÀ NƯỚC.",
+                    "position": 16,
+                    "children": [],
+                    "content": "Theo điều 3 Quyết định số 110-TTg: \"Sửa đổi điểm 1, điều 7 Nghị định số 22-HĐBT quy định xét giảm thu sử dụng vốn như sau: Đơn vị nộp thu về sử dụng vốn ngân sách Nhà nước gặp khó khăn khách quan trong sản xuất kinh doanh, nếu nộp đủ tiền thu sử dụng vốn mà bị lỗ thì được xét giảm thu sử dụng tương ứng với số lỗ do nguyên nhân khách quan.\nViệc xét giảm thu sử dụng vốn được tiến hành trước khi xét giảm thuế danh thu (nếu có) theo hướng dẫn của Bộ Tài chính\". Bộ Tài chính hướng dẫn cụ thể như sau:\n1- Các nguyên nhân khách quan làm căn cứ xét giảm thu sử dụng vốn:\nDoanh nghiệp bị khó khăn do tồn tại từ cơ chế cũ để lại như việc hình thành cơ cấu tài sản cố định, công nghệ sản xuất trước đây bị lạc hậu, không đồng bộ, không phù hợp với quy mô và nhiệm vụ sản xuất kinh doanh hiện nay.\nDoanh nghiệp không thực hiện được các Hiệp định đã ký trước đây với các nước thuộc khối SEV do các nước đó có sự thay đổi về thể chế chính trị.\nDoanh nghiệp sản xuất, kinh doanh các sản phẩm, dịch vụ do Nhà nước hướng dẫn hoặc quản lý giá bán.\nChi phí tăng do Nhà nước thay đổi đột ngột chính sách thuế nhập khẩu, thay đổi giá năng lượng làm cho doanh nghiệp bị lỗ.\n2- Nguyên tắc, thủ tục xét giảm:\na) Việc xét giảm, miễn thu sử dụng vốn được thực hiện sau khi kết thúc năm, đơn vị có báo cáo quyết toán xác định chính thức số lỗ trong năm và được tiến hành trước khi xét giảm thuế doanh thu (nếu có).\nTrong năm chỉ xét tạm hoãn nộp khoản thu sử dụng vốn cho những đơn vị có lỗ do khách quan, đủ thủ tục hồ sơ. Các đơn vị không được căn cứ vào quyết định tạm hoãn nộp thu sử dụng vốn để hạch toán giảm số thu sử dụng vốn phải nộp theo chế độ.\nb) Thủ tục, hồ sơ xét giảm, miễn hoặc hoãn nộp. Trong mọi trường hợp xét miễn, giảm hoặc tạm hoãn nộp thu vốn, đơn vị phải gửi đến cơ quan thuế có thẩm quyền xem xét các hồ sơ, tài liệu sau:\nVăn bản đề nghị của đơn vị trong đó nêu rõ nguyên nhân, thời hạn và số tiền thu sử dụng vốn đề nghị xét miễn, giảm, hoãn nộp.\nBáo cáo quyết toán quý, năm kèm theo bản số liệu giải trình về doanh thu, chi phí, các khoản thuế doanh thu, thuế tiêu thụ đặc biệt, thu sử dụng vốn phải nộp, kết quả lãi, lỗ.\nBiên bản kiểm tra của cơ quan thuế trực tiếp quản lý đơn vị hoặc biên bản kiểm tra quyết toán có cơ quan thuế trực tiếp quản lý đơn vị tham gia.\nĐối với các đơn vị kinh tế thuộc Trung ương quản lý, hồ sơ xét giảm,\nĐối với các đơn vị kinh tế thuộc Trung ương quản lý, hồ sơ xét giảm, miễn, hoãn nộp thu sử dụng vốn phải kèm theo văn bản đề nghị của Cục thuế tỉnh, thành phố quản lý thu thuế tại đơn vị.\nc) Mức giảm, hoãn thu sử dụng vốn ấn định bằng số tiền tuyệt đối hoặc tỷ lệ phần trăm (5) trên tổng số thu sử dụng vốn phải nộp theo chế độ tương ứng với số lỗ do nguyên nhân khách quan nhưng tối đa không vượt quá tổng số thu sử dụng vốn phải nộp trong năm.\nd) Thẩm quyền xét miễn, giảm, hoãn nộp thu sử dụng vốn được thực hiện theo quy định trong điểm 2, Mục IV Thông tư số 13-TC/TCT ngày 28-2-1991 của Bộ Tài chính, cụ thể như sau:\nCục thuế xét miễn, giảm, hoãn nộp thu sử dụng vốn cho các đơn vị kinh tế địa phương quản lý.\nTổng cục thuế xét miễn, giảm, hoãn nộp thu sử dụng vốn cho các đơn vị kinh tế thuộc Trung ương quản lý."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "IV",
+                    "title": "ĐIỀU KHOẢN THI HÀNH",
+                    "position": 38,
+                    "children": [],
+                    "content": "Thông tư này có hiệu lực thi hành từ ngày 1 tháng 10 năm 1992. Những quy định trong Thông tư số 13-TC/TCT ngày 28-2-1991; Thông tư số 31-TC/CN ngày 27-5-1991 của Bộ Tài chính trái với Thông tư này thì không còn hiệu lực thi hành.\nCác trường hợp tồn tại về phân định vốn để tính thu sử dụng vốn, về miễn, giảm thu sử dụng vốn chưa giải quyết sẽ được xem xét xử lý cho từng trường hợp cụ thể theo các quy định trong Thông tư này.\nTrong quá trình thực hiện nếu có khó khăn vướng mắc, đề nghị phản ánh với Bộ Tài chính để nghiên cứu giải quyết."
+                }
+            ],
+            "metadata": {
+                "total_units": 4,
+                "total_articles": 4,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 1,
+                "source": "ocr"
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [
+            "Thuế, phí, lệ phí, các khoản thu khác",
+            "Ngân hàng, tiền tệ"
+        ],
+        "edges": {
+            "amends": [
+                {
+                    "official_number_target": "13-TC/TCT",
+                    "type": "AMEND_ADD",
+                    "effective_from": "1992-10-01",
+                    "affected_articles": [],
+                    "amendment_scope": "PARTIAL"
+                },
+                {
+                    "official_number_target": "31-TC/CN",
+                    "type": "AMEND_ADD",
+                    "effective_from": "1992-10-01",
+                    "affected_articles": [],
+                    "amendment_scope": "PARTIAL"
+                }
+            ],
+            "mentions": [],
+            "abolished": []
+        }
+    },
+    "verification": {
+        "official_number_match": null,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 1,
+                "llm_count": 2,
+                "missing_in_llm": [
+                    "89-TC/TCT"
+                ],
+                "extra_in_llm": [
+                    "13-TC/TCT",
+                    "31-TC/CN"
+                ],
+                "match": false
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "[amends] LLM thiếu target so với crawl: ['89-TC/TCT']",
+            "[amends] LLM tìm thêm target không có trong crawl: ['13-TC/TCT', '31-TC/CN']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "89-TC/TCT",
+            "target_id": "89-TC/TCT",
+            "properties": {
+                "type": "REPLACE",
+                "amendment_scope": "FULL",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "",
+            "target_id": "13-TC/TCT",
+            "properties": {
+                "type": "AMEND_ADD",
+                "effective_from": "1992-10-01",
+                "affected_articles": [],
+                "amendment_scope": "PARTIAL",
+                "source": "llm_only"
+            },
+            "_crawled": false
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "",
+            "target_id": "31-TC/CN",
+            "properties": {
+                "type": "AMEND_ADD",
+                "effective_from": "1992-10-01",
+                "affected_articles": [],
+                "amendment_scope": "PARTIAL",
+                "source": "llm_only"
+            },
+            "_crawled": false
+        }
+    ]
+}

@@ -1,0 +1,196 @@
+{
+    "file_name": "60_2022_tt_btc",
+    "source": "ocr_json",
+    "crawled_metadata": {
+        "officialNumber": "60/2022/TT-BTC",
+        "title": "Quy định danh mục các lĩnh vực và thời hạn người có chức vụ, quyền hạn không được thành lâp, giữ chức danh, chức vu quản lý, điều hành doanh nghiệp tư nhân, công ty trách nhiệm hữu hạn, công ty cổ phần, công ty hợp danh, hợp tác xã thuộc lĩnh vực trước đây mình có trách nhiệm quản lý sau khi thôi giử chức vụ trong lĩnh vực thuộc phạm vi quản lỷ của Bộ Tàỉ chính",
+        "promulgationDate": "2022-10-03",
+        "effectiveDate": "2022-11-17",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "sigerName": "Võ Thành Hưng",
+        "draftingUnit": "Vụ Pháp chế",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:20Z",
+        "_doc_id": "107981"
+    },
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "60/2022/TT-BTC",
+            "target_id": "59/2019/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "60/2022/TT-BTC",
+            "target_id": "36/2018/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "60/2022/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "60_2022_tt_btc",
+        "file_path": "/Users/dangnam/Documents/FCI/legal_knowledge_graph/graph_new/54_doc/54vb_structure/60_2022_tt_btc/document_structure.json",
+        "official_number": null,
+        "dates": {
+            "promulgation_date": "2018-11-20",
+            "effective_date": null,
+            "expiration_date": null
+        },
+        "issuing_place": null,
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Phạm vi điều chỉnh",
+                    "position": 8,
+                    "children": [],
+                    "content": "Thông tư này quy định danh mục các lĩnh vực và thời hạn người có chức vụ, quyền hạn không được thành lập, giữ chức danh, chức vụ quản lý, điều hành doanh nghiệp tư nhân, công ty trách nhiệm hữu hạn, công ty cổ phần, công ty hợp danh, hợp tác xã (sau đây gọi chung là doanh nghiệp, hợp tác xã) thuộc lĩnh vực trước đây mình có trách nhiệm quản lý sau khi thôi giữ chức vụ trong lĩnh vực thuộc phạm vi quản lý của Bộ Tài chính."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Đối tượng áp dụng",
+                    "position": 10,
+                    "children": [],
+                    "content": "Thông tư này áp dụng đối với người có chức vụ, quyền hạn có thời gian công tác tại các đơn vị thuộc Bộ Tài chính; các cơ quan, đơn vị quản lý người có chức vụ, quyền hạn thuộc Bộ Tài chính và các cơ quan, tổ chức, cá nhân khác có liên quan."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "3",
+                    "title": "Quy tắc ứng xử",
+                    "position": 13,
+                    "children": [],
+                    "content": "1. Người có chức vụ, quyền hạn có thời gian công tác trong các lĩnh vực nêu tại Điều 5 Thông tư này sau khi thôi chức vụ không được thành lập, giữ các chức danh, chức vụ quản lý, điều hành doanh nghiệp, hợp tác xã trong thời hạn quy định tại Điều 6 Thông tư này.\n2. Người có chức vụ, quyền hạn là những người theo quy định tại khoản 2 Điều 3 Luật Phòng, chống tham nhũng.\n3. Các chức danh, chức vụ quản lý, điều hành doanh nghiệp, hợp tác xã theo quy định tại Luật Doanh nghiệp, Luật Hợp tác xã."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "4",
+                    "title": "Nguyên tắc thực hiện",
+                    "position": 17,
+                    "children": [],
+                    "content": "Việc thực hiện quy định thời hạn đối với người có chức vụ, quyền hạn không được thành lập, giữ chức danh, chức vụ quản lý, điều hành doanh nghiệp, hợp tác xã thuộc lĩnh vực trước đây mình có trách nhiệm quản lý sau khi thôi giữ chức vụ tuân thủ theo các quy định của Luật Phòng, chống tham nhũng; Luật Cán bộ, công chức; Luật Viên chức; Luật sửa đổi, bổ sung một số điều của Luật Cán bộ, công chức và Luật Viên chức; Luật Doanh nghiệp; Luật Hợp tác xã và các văn bản quy phạm pháp luật có liên quan."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "5",
+                    "title": "Danh mục các lĩnh vực người có chức vụ, quyền hạn không được thành lập, giữ chức danh, chức vụ quản lý, điều hành doanh nghiệp, hợp tác xã thuộc lĩnh vực trước đây mình có trách nhiệm quản lý sau khi thôi giữ chức vụ",
+                    "position": 19,
+                    "children": [],
+                    "content": "Các lĩnh vực người có chức vụ, quyền hạn không được thành lập, giữ chức danh, chức vụ quản lý, điều hành doanh nghiệp, hợp tác xã thuộc lĩnh vực trước đây mình có trách nhiệm quản lý sau khi thôi giữ chức vụ bao gồm:\n1. Quản lý nhà nước về kế toán, kiểm toán.\n2. Quản lý nhà nước về chứng khoán và thị trường chứng khoán.\n3. Quản lý nhà nước về bảo hiểm.\n4. Quản lý nhà nước về hải quan.\n5. Quản lý nhà nước về giá.\n6. Quản lý nhà nước về thuế, phí, lệ phí và các khoản thu khác của ngân sách nhà nước.\n7. Quản lý nhà nước về tài chính doanh nghiệp và quản lý vốn của Nhà nước tại doanh nghiệp.\n8. Quản lý nhà nước về dự trữ quốc gia.\n9. Quản lý vay nợ, trả nợ trong nước, ngoài nước của Chính phủ, nợ công, nợ nước ngoài của quốc gia và nguồn viện trợ quốc tế cho Việt Nam và nguồn cho vay, viện trợ của Việt Nam cho nước ngoài.\n10. Quản lý nhà nước về ngân sách nhà nước.\n11. Quản lý nhà nước về tài sản công."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "6",
+                    "title": "Thời hạn người có chức vụ, quyền hạn không được thành lập, giữ chức danh, chức vụ quản lý, điều hành doanh nghiệp, hợp tác xã thuộc lĩnh vực trước đây mình có trách nhiệm quản lý sau khi thôi giữ chức vụ",
+                    "position": 33,
+                    "children": [],
+                    "content": "1. Trong thời hạn đú 24 tháng kể từ ngày thôi giữ chức vụ theo quyết định của cấp có thẩm quyền, người có chức vụ, quyền hạn công tác trong các lĩnh vực quy định tại các khoản 1, 2, 3, 4, 5, 6, 7, 8 và khoản 9 Điều 5 Thông tư này không được thành lập, giữ chức danh, chức vụ quản lý, điều hành doanh nghiệp, hợp tác xã thuộc lĩnh vực trước đây mình có trách nhiệm quản lý.\n2. Trong thời hạn đú 12 tháng kể từ ngày thôi giữ chức vụ theo quyết định của cấp có thẩm quyền, người có chức vụ, quyền hạn công tác trong các lĩnh vực quy định tại khoản 10 và khoản 11 Điều 5 Thông tư này không được thành lập, giữ chức danh, chức vụ quản lý, điều hành doanh nghiệp, hợp tác xã thuộc lĩnh vực trước đây mình có trách nhiệm quản lý."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "7",
+                    "title": "Hiệu lực thi hành",
+                    "position": 36,
+                    "children": [],
+                    "content": "Thông tư này có hiệu lực thi hành kể từ ngày 17 tháng 11 năm 2022."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "8",
+                    "title": "Trách nhiệm thi hành",
+                    "position": 38,
+                    "children": [],
+                    "content": "1. Thanh tra Bộ Tài chính chủ trì, phối hợp với các đơn vị liên quan theo dõi, kiểm tra, đôn đốc các đơn vị thực hiện Thông tư này.\n2. Trong quá trình thực hiện nếu có vướng mắc, các cơ quan, đơn vị phản ánh kịp thời về Bộ Tài chính để nghiên cứu, giải quyết./.\nBan Bí thư TW Đảng; Thủ tướng, các Phó Thủ tướng Chính phủ; Văn phòng Tổng Bí thư; Văn phòng TW và các Ban của Đảng; Văn phòng Quốc hội, Văn phòng Chủ tịch nước; Viện KSND tối cao, TAND tối cao; Ủy ban Giám sát Tài chính Quốc gia; Kiểm toán Nhà nước; Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; Cơ quan TW của các đoàn thể; HĐND, UBND các tỉnh, TP trực thuộc TW; Sở TC, KBNN các tỉnh, TP trực thuộc TW; Cục Kiểm tra văn bản QPPL - Bộ Tư pháp; Công báo, Cổng thông tin điện tử: CP, BIC; Các đơn vị thuộc Bộ Tài chính; Lưu: VT, PC (240b)."
+                }
+            ],
+            "metadata": {
+                "total_units": 9,
+                "total_articles": 8,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 1,
+                "source": "ocr"
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [
+            "Chính sách xã hội",
+            "Tài chính"
+        ],
+        "edges": {
+            "amends": [],
+            "mentions": [],
+            "abolished": []
+        }
+    },
+    "verification": {
+        "official_number_match": null,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": []
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "60/2022/TT-BTC",
+            "target_id": "59/2019/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "60/2022/TT-BTC",
+            "target_id": "36/2018/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "60/2022/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        }
+    ]
+}

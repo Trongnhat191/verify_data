@@ -1,0 +1,252 @@
+{
+    "file_name": "103_2005_tt_btc",
+    "source": "ocr_json",
+    "crawled_metadata": {
+        "officialNumber": "103/2005/TT-BTC",
+        "title": "Hướng dẫn tiêu chuẩn và điều kiện của phần mềm kế toán",
+        "promulgationDate": "2005-11-24",
+        "effectiveDate": null,
+        "expirationDate": "9999-12-31",
+        "gazetteDate": null,
+        "sigerName": "Trần Văn Tá",
+        "draftingUnit": "",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": null,
+        "scopeLevel": null,
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:35Z",
+        "_doc_id": "29384"
+    },
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "103/2005/TT-BTC",
+            "target_id": "129/2004/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "103/2005/TT-BTC",
+            "target_id": "128/2004.NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "103/2005/TT-BTC",
+            "target_id": "03/2003/QH11",
+            "properties": {},
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "103_2005_tt_btc",
+        "file_path": "/Users/dangnam/Documents/FCI/legal_knowledge_graph/graph_new/54_doc/54vb_structure/103_2005_tt_btc/document_structure.json",
+        "official_number": "103/2005/TT-BTC",
+        "dates": {
+            "promulgation_date": "2005-11-24",
+            "effective_date": null,
+            "expiration_date": null
+        },
+        "issuing_place": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Hà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "I",
+                    "title": "QUY ĐỊNH CHUNG",
+                    "position": 7,
+                    "children": [],
+                    "content": "1. Thông tư này áp dụng cho các đơn vị kế toán thực hiện kế toán trên máy vi tính bằng phần mềm kế toán. Khi thực hiện kế toán trên máy vi tính bằng phần mềm kế toán, đơn vị kế toán phải vận dụng các tiêu chuẩn và điều kiện của phần mềm kế toán hướng dẫn tại Thông tư này để lựa chọn phần mềm kế toán phù hợp với điều kiện áp dụng phần mềm kế toán của đơn vị. 1\n2. Khi áp dụng phần mềm kế toán, ngoài việc đảm bảo công tác kế toán thực hiện đúng các quy định hiện hành của pháp luật về kế toán, đơn vị kế toán còn phải áp dụng các quy định cụ thể về tiêu chuẩn và điều kiện của phần mềm kế toán hướng dẫn tại Thông tư này.\n3. Các đơn vị cung cấp phần mềm kế toán phải căn cứ vào các quy định hiện hành về kế toán và tham khảo các tiêu chuẩn và điều kiện của phần mềm kế toán hướng dẫn tại Thông tư này để thiết kế, sản xuất phần mềm kế toán phù hợp với yêu cầu của các đơn vị kế toán.\n4. Các thuật ngữ trong Thông tư này được hiểu như sau:\nPhần mềm kế toán là bộ chương trình dùng để tự động xử lý các thông tin kế toán trên máy vi tính, bắt đầu từ khâu nhập chứng từ gốc, phân loại chứng từ, xử lý thông tin trên các chứng từ theo quy trình của chế độ kế toán đến khâu in ra sổ kế toán và báo cáo tài chính, báo cáo kế toán quản trị.\nTiêu chuẩn phần mềm kế toán là những tiêu thức mang tính bắt buộc hoặc hướng dẫn về chất lượng, tính năng kỹ thuật của phần mềm kế toán làm cơ sở cho các đơn vị kế toán lựa chọn phần mềm kế toán phù hợp và đơn vị sản xuất phần mềm kế toán tham khảo khi sản xuất phần mềm kế toán.\nĐiều kiện áp dụng là những yêu cầu về cơ sở vật chất, quy chế kiểm soát, bộ máy tổ chức, con người để thực hiện công việc kế toán bằng phần mềm kế toán tại đơn vị."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "II",
+                    "title": "QUY ĐỊNH CỤ THỂ",
+                    "position": 15,
+                    "children": [],
+                    "content": "1. Tiêu chuẩn của phần mềm kế toán áp dụng tại đơn vị kế toán\n1.1. Phần mềm kế toán phải hỗ trợ cho người sử dụng tuân thủ các quy định của Nhà nước về kế toán; khi sử dụng phần mềm kế toán không làm thay đổi bản chất, nguyên tắc và phương pháp kế toán được quy định tại các văn bản pháp luật hiện hành về kế toán\nPhần mềm kế toán áp dụng tại các đơn vị kế toán phải đảm bảo các yêu cầu của pháp luật hiện hành về kế toán theo các nội dung sau:\na. Đối với chứng từ kế toán: Chứng từ kế toán nếu được lập và in ra trên máy theo phần mềm kế toán phải đảm bảo nội dung của chứng từ kế toán quy định tại Điều 17 của Luật Kế toán và quy định cụ thể đối với mỗi loại chứng từ kế toán trong các chế độ kế toán hiện hành. Đơn vị kế toán có thể bổ sung thêm các nội dung khác vào chứng từ kế toán được lập trên máy vi tính theo yêu cầu quản lý của đơn vị kế toán, trừ các chứng từ kế toán bắt buộc phải áp dụng đúng mẫu quy định. Chứng từ kế toán điện tử được sử dụng để ghi sổ kế toán theo phần mềm kế toán phải tuân thủ các quy định về chứng từ kế toán và các quy định riêng về chứng từ điện tử.\nb. Đối với tài khoản kế toán và phương pháp kế toán: Hệ thống tài khoản kế toán sử dụng và phương pháp kế toán được xây dựng trong phần mềm kế toán phải tuân thủ theo quy định của chế độ kế toán hiện hành phù hợp với tính chất hoạt động và yêu cầu quản lý của đơn vị. Việc mã hóa các tài khoản trong hệ thống tài khoản và các đối tượng kế toán phải đảm bảo tính thống nhất, có hệ thống và đảm bảo thuận lợi cho việc tổng hợp và phân tích thông tin của ngành và đơn vị.\nc. Đối với hệ thống số kế toán: Số kế toán được xây dựng trong phần mềm kế toán khi in ra phải đảm bảo các yêu cầu: Đảm bảo đầy đủ số kế toán; đảm bảo mối quan hệ giữa các số kế toán với nhau; đảm bảo có thể kiểm tra, đối chiếu số liệu giữa các số; phải có đủ nội dung chủ yếu theo quy định về số kế toán trong các chế độ kế toán hiện hành; số liệu được phản ánh trên các số kế toán phải được lấy từ số liệu trên chứng từ đã được truy cập; đảm bảo tính chính xác khi chuyển số dư từ số này sang số khác. Đơn vị kế toán có thể bổ sung thêm các chỉ tiêu khác vào số kế toán theo yêu cầu quản lý của đơn vị.\nd. Đối với báo cáo tài chính: Báo cáo tài chính được xây dựng trong phần mềm kế toán khi in ra phải đúng mẫu biểu, nội dung và phương pháp tính toán các chỉ tiêu theo quy định của chế độ kế toán hiện hành phù hợp với từng lĩnh vực. Việc mã hoá các chỉ tiêu báo cáo phải đảm bảo tính thống nhất, thuận lợi cho việc tổng hợp số liệu kế toán giữa các đơn vị trực thuộc và các đơn vị khác có liên quan.\ne. Chữ số và chữ viết trong kế toán: Chữ số và chữ viết trong kế toán trên giao diện của phần mềm và khi in ra phải tuân thủ theo quy định của Luật Kế toán. Trường hợp đơn vị kế toán cần sử dụng tiếng nước ngoài trên sổ kế toán thì có thể thiết kế, trình bày song ngữ hoặc phiên bản song song bằng tiếng nước ngoài nhưng phải thống nhất với phiên bản tiếng Việt. Giao diện mỗi màn hình phải dễ hiểu, dễ truy cập và dễ tìm kiếm.\nf. In và lưu trữ tài liệu kế toán: Tài liệu kế toán được in ra từ phần mềm kế toán phải có đầy đủ yếu tố pháp lý theo quy định; đảm bảo sự thống nhất giữa số liệu kế toán lưu giữ trên máy và số liệu kế toán trên sổ kế toán, báo cáo tài chính được in ra từ máy để lưu trữ. Thời hạn lưu trữ tài liệu kế toán trên máy được thực hiện theo quy định về thời hạn lưu trữ tài liệu kế toán hiện hành. Trong quá trình lưu trữ, đơn vị kế toán phải đảm bảo các điều kiện kỹ thuật để có thể đọc được các tài liệu lưu trữ.\n1.2. Phần mềm kế toán phải có khả năng nâng cấp, có thể sửa đổi, bổ sung phù hợp với những thay đổi nhất định của chế độ kế toán và chính sách tài chính mà không ảnh hưởng đến cơ sở dữ liệu đã có\na. Có khả năng đảm bảo khâu khai báo dữ liệu ban đầu kể cả trường hợp bổ sung các chứng từ kế toán mới, sửa đổi lại mẫu biểu, nội dung cách ghi chép một số chứng từ kế toán đã được sử dụng trong hệ thống. Có thể loại bỏ bớt các chứng từ kế toán không sử dụng mà không ảnh hưởng đến hệ thống.\nb. Có thể bổ sung tài khoản mới hoặc thay đổi nội dung, phương pháp hạch toán đối với các tài khoản đã được sử dụng trong hệ thống. Có thể bỏ bớt các tài khoản không sử dụng mà không ảnh hưởng đến hệ thống.\nc. Có thể bổ sung mẫu số kế toán mới hoặc sửa đổi lại mẫu biểu, nội dung, cách ghi chép các số kế toán đã được sử dụng trong hệ thống nhưng phải đảm bảo tính liên kết có hệ thống với các số kế toán khác. Có thể loại bỏ bớt số kế toán không sử dụng mà không ảnh hưởng đến hệ thống.\nd. Có thể bổ sung hoặc sửa đổi lại mẫu biểu, nội dung, cách lập và trình bày báo cáo tài chính đã được sử dụng trong hệ thống. Có thể loại bỏ bớt báo cáo tài chính không sử dụng mà không ảnh hưởng đến hệ thống.\n1.3. Phần mềm kế toán phải tự động xử lý và đảm bảo sự chính xác về số liệu kế toán\na. Tự động xử lý, lưu giữ số liệu trên nguyên tắc tuân thủ các quy trình kế toán cũng như phương pháp tính toán các chỉ tiêu trên báo cáo tài chính theo quy định hiện hành.\nb. Đảm bảo sự phù hợp, không trùng lắp giữa các số liệu kế toán.\nc. Có khả năng tự động dự báo, phát hiện và ngăn chặn các sai sót khi nhập dữ liệu và quá trình xử lý thông tin kế toán.\n1.4. Phần mềm kế toán phải đảm bảo tính bảo mật thông tin và an toàn dữ liệu\na. Có khả năng phân quyền đến từng người sử dụng theo chức năng, gồm: Kế toán trưởng (hoặc phụ trách kế toán) và người làm kế toán. Mỗi vị trí được phân công có nhiệm vụ và quyền hạn được phân định rõ ràng, đảm bảo người không có trách\nnhiệm không thể truy cập vào công việc của người khác trong phần mềm kế toán của đơn vị, nếu không được người có trách nhiệm đồng ý.\nb. Có khả năng tổ chức theo dõi được người dùng theo các tiêu thức, như: Thời gian truy cập thông tin kế toán vào hệ thống, các thao tác của người truy cập vào hệ thống, các đối tượng bị tác động của thao tác đó,...\nc. Có khả năng lưu lại các dấu vết trên số kế toán về việc sửa chữa các số liệu kế toán đã được truy cập chính thức vào hệ thống phù hợp với từng phương pháp sửa chữa số kế toán theo quy định; đảm bảo chỉ có người có trách nhiệm mới được quyền sửa chữa sai sót đối với các nghiệp vụ đã được truy cập chính thức vào hệ thống.\nd. Có khả năng phục hồi được các dữ liệu, thông tin kế toán trong các trường hợp phát sinh sự cố kỹ thuật đơn giản trong quá trình sử dụng.\n2. Điều kiện của phần mềm kế toán\na. Phần mềm kế toán trước khi đưa vào sử dụng phải được đặt tên, thuyết minh rõ xuất xứ, tính năng kỹ thuật, mức độ đạt các tiêu chuẩn hướng dẫn tại Thông tư này và các quy định hiện hành về kế toán.\nb. Phần mềm kế toán khi đưa vào sử dụng phải có tài liệu hướng dẫn cụ thể kèm theo để giúp người sử dụng vận hành an toàn, có khả năng xử lý các sự cố đơn giản.\nc. Phần mềm kế toán do tổ chức, cá nhân ngoài đơn vị kế toán cung cấp phải được bảo hành trong thời hạn do hai bên thỏa thuận, ít nhất phải hoàn thành công việc kế toán của một năm tài chính.\n3. Điều kiện áp dụng phần mềm kế toán\n3.1. Đảm bảo điều kiện kỹ thuật\na. Đơn vị kế toán phải căn cứ vào tổ chức hoạt động sản xuất, kinh doanh và yêu cầu quản lý chung, từng phần hành, từng bộ phận cụ thể của đơn vị mình để lựa chọn phần mềm kế toán phù hợp. Phần mềm kế toán được lựa chọn phải đảm bảo tiêu chuẩn, điều kiện phù hợp với tổ chức hoạt động và yêu cầu quản lý của đơn vị.\nb. Đơn vị kế toán phải trang bị hệ thống thiết bị về tin học phù hợp với yêu cầu, trình độ quản lý, trình độ tin học của cán bộ quản lý, đội ngũ nhân viên kế toán.\nc. Đơn vị kế toán được vận hành thử nghiệm trước khi áp dụng chính thức phần mềm kế toán nhưng việc thử nghiệm phải được tiến hành song song với việc ghi sổ bằng tay (trường hợp đơn vị chưa áp dụng phần mềm kế toán) hoặc thực hiện song song với phần mềm kế toán mà đơn vị đang áp dụng (trường hợp đơn vị đã áp dụng phần mềm kế toán). Sau quá trình thử nghiệm, nếu phần mềm kế toán đáp ứng được tiêu chuẩn của phần mềm kế toán và yêu cầu kế toán của đơn vị thì đơn vị mới triển khai áp dụng chính thức.\nd. Đơn vị kế toán phải xây dựng quy chế sử dụng phần mềm kế toán trên máy vi tính theo các yêu cầu: Quản lý máy chủ (nếu có); quản lý dữ liệu; kiểm tra, kiểm soát việc đưa thông tin từ ngoài vào hệ thống; thực hiện công việc sao, lưu dữ liệu định kỳ; phân quyền đối với các máy nhập và xử lý số liệu; phân định chức năng của từng người trong bộ máy kế toán.\nđ. Đơn vị kế toán phải tổ chức trang bị và sử dụng các thiết bị lưu trữ an toàn cho hệ thống, được bố trí và vận hành theo đúng yêu cầu kỹ thuật.\n3.2. Đảm bảo điều kiện về con người và tổ chức bộ máy kế toán\na. Đơn vị kế toán phải lựa chọn hoặc tổ chức đào tạo cán bộ kế toán có đủ trình độ chuyên môn, nghiệp vụ kế toán, trình độ sử dụng máy vi tính đáp ứng yêu cầu sử dụng phần mềm kế toán trên máy vi tính.\nb. Đơn vị kế toán phải lập kế hoạch và tổ chức thực hiện các khâu công việc: Lập chứng từ vào máy; kiểm tra việc nhập số liệu vào máy; thực hiện các thao tác trên máy theo yêu cầu của phần mềm kế toán; phân tích các số liệu trên sổ kế toán và báo cáo tài chính, quản trị mạng và quản trị thông tin kế toán.\nc. Đơn vị kế toán phải quy định rõ trách nhiệm, yêu cầu bảo mật dữ liệu trên máy tính; chức năng, nhiệm vụ của từng người sử dụng trong hệ thống; ban hành quy chế quản lý dữ liệu, quy định chức năng, quyền hạn của từng nhân viên; quy định danh mục thông tin không được phép lưu chuyển.\n3.3. Đảm bảo tính thống nhất trong công tác kế toán\nĐối với các đơn vị kế toán có các đơn vị kế toán trực thuộc (Công ty, Tổng Công ty, Công ty mẹ,...) phải lập báo cáo tài chính tổng hợp hoặc báo cáo tài chính hợp nhất cần chỉ đạo các đơn vị kế toán trực thuộc sử dụng phần mềm kế toán đảm bảo thuận tiện cho việc kết nối thông tin, số liệu báo cáo.\n4. Vận dụng các tiêu chuẩn và điều kiện của phần mềm kế toán\na. Đơn vị kế toán phải lựa chọn phần mềm kế toán có đủ tiêu chuẩn của phần mềm kế toán quy định tại Điểm 1.1 Mục 1 Phần II Thông tư này.\nb. Đơn vị kế toán chưa có đầy đủ các điều kiện áp dụng phần mềm kế toán quy định tại Mục 3 Phần II Thông tư này thì có thể lựa chọn các phần mềm kế toán chưa có đầy đủ các tiêu chuẩn quy định tại điểm 1.2, 1.3 và 1.4 Mục 1 Phần II Thông tư này.\nc. Đơn vị kế toán có đầy đủ các điều kiện quy định tại Mục 3 Phần II Thông tư này và có các yêu cầu về nối mạng, tổng hợp thông tin trong diện rộng, nhanh, hàng ngày,... thì lựa chọn các phần mềm kế toán có đầy đủ các tiêu chuẩn hướng dẫn tại Thông tư này và có các tiêu chuẩn khác cao hơn."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "c",
+                    "title": "Đối với hệ thống số kế toán: Số kế toán được xây dựng trong phần mềm kế toán khi in ra phải đảm bảo các yêu cầu: Đảm bảo đầy đủ số kế toán; đảm bảo mối quan hệ giữa các số kế toán với nhau; đảm bảo có thể kiểm tra, đối chiếu số liệu giữa các số; phải có đủ nội dung chủ yếu theo quy định về số kế toán trong các chế độ kế toán hiện hành; số liệu được phản ánh trên các số kế toán phải được lấy từ số liệu trên chứng từ đã được truy cập; đảm bảo tính chính xác khi chuyển số dư từ số này sang số khác. Đơn vị kế toán có thể bổ sung thêm các chỉ tiêu khác vào số kế toán theo yêu cầu quản lý của đơn vị.",
+                    "position": 21,
+                    "children": [],
+                    "content": "d. Đối với báo cáo tài chính: Báo cáo tài chính được xây dựng trong phần mềm kế toán khi in ra phải đúng mẫu biểu, nội dung và phương pháp tính toán các chỉ tiêu theo quy định của chế độ kế toán hiện hành phù hợp với từng lĩnh vực. Việc mã hoá các chỉ tiêu báo cáo phải đảm bảo tính thống nhất, thuận lợi cho việc tổng hợp số liệu kế toán giữa các đơn vị trực thuộc và các đơn vị khác có liên quan.\ne. Chữ số và chữ viết trong kế toán: Chữ số và chữ viết trong kế toán trên giao diện của phần mềm và khi in ra phải tuân thủ theo quy định của Luật Kế toán. Trường hợp đơn vị kế toán cần sử dụng tiếng nước ngoài trên sổ kế toán thì có thể thiết kế, trình bày song ngữ hoặc phiên bản song song bằng tiếng nước ngoài nhưng phải thống nhất với phiên bản tiếng Việt. Giao diện mỗi màn hình phải dễ hiểu, dễ truy cập và dễ tìm kiếm.\nf. In và lưu trữ tài liệu kế toán: Tài liệu kế toán được in ra từ phần mềm kế toán phải có đầy đủ yếu tố pháp lý theo quy định; đảm bảo sự thống nhất giữa số liệu kế toán lưu giữ trên máy và số liệu kế toán trên sổ kế toán, báo cáo tài chính được in ra từ máy để lưu trữ. Thời hạn lưu trữ tài liệu kế toán trên máy được thực hiện theo quy định về thời hạn lưu trữ tài liệu kế toán hiện hành. Trong quá trình lưu trữ, đơn vị kế toán phải đảm bảo các điều kiện kỹ thuật để có thể đọc được các tài liệu lưu trữ."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "d",
+                    "title": "Đối với báo cáo tài chính: Báo cáo tài chính được xây dựng trong phần mềm kế toán khi in ra phải đúng mẫu biểu, nội dung và phương pháp tính toán các chỉ tiêu theo quy định của chế độ kế toán hiện hành phù hợp với từng lĩnh vực. Việc mã hoá các chỉ tiêu báo cáo phải đảm bảo tính thống nhất, thuận lợi cho việc tổng hợp số liệu kế toán giữa các đơn vị trực thuộc và các đơn vị khác có liên quan.",
+                    "position": 22,
+                    "children": [],
+                    "content": "e. Chữ số và chữ viết trong kế toán: Chữ số và chữ viết trong kế toán trên giao diện của phần mềm và khi in ra phải tuân thủ theo quy định của Luật Kế toán. Trường hợp đơn vị kế toán cần sử dụng tiếng nước ngoài trên sổ kế toán thì có thể thiết kế, trình bày song ngữ hoặc phiên bản song song bằng tiếng nước ngoài nhưng phải thống nhất với phiên bản tiếng Việt. Giao diện mỗi màn hình phải dễ hiểu, dễ truy cập và dễ tìm kiếm.\nf. In và lưu trữ tài liệu kế toán: Tài liệu kế toán được in ra từ phần mềm kế toán phải có đầy đủ yếu tố pháp lý theo quy định; đảm bảo sự thống nhất giữa số liệu kế toán lưu giữ trên máy và số liệu kế toán trên sổ kế toán, báo cáo tài chính được in ra từ máy để lưu trữ. Thời hạn lưu trữ tài liệu kế toán trên máy được thực hiện theo quy định về thời hạn lưu trữ tài liệu kế toán hiện hành. Trong quá trình lưu trữ, đơn vị kế toán phải đảm bảo các điều kiện kỹ thuật để có thể đọc được các tài liệu lưu trữ."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "c",
+                    "title": "Có thể bổ sung mẫu số kế toán mới hoặc sửa đổi lại mẫu biểu, nội dung, cách ghi chép các số kế toán đã được sử dụng trong hệ thống nhưng phải đảm bảo tính liên kết có hệ thống với các số kế toán khác. Có thể loại bỏ bớt số kế toán không sử dụng mà không ảnh hưởng đến hệ thống.",
+                    "position": 29,
+                    "children": [],
+                    "content": "d. Có thể bổ sung hoặc sửa đổi lại mẫu biểu, nội dung, cách lập và trình bày báo cáo tài chính đã được sử dụng trong hệ thống. Có thể loại bỏ bớt báo cáo tài chính không sử dụng mà không ảnh hưởng đến hệ thống."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "d",
+                    "title": "Có thể bổ sung hoặc sửa đổi lại mẫu biểu, nội dung, cách lập và trình bày báo cáo tài chính đã được sử dụng trong hệ thống. Có thể loại bỏ bớt báo cáo tài chính không sử dụng mà không ảnh hưởng đến hệ thống.",
+                    "position": 30,
+                    "children": [],
+                    "content": "d. Có thể bổ sung hoặc sửa đổi lại mẫu biểu, nội dung, cách lập và trình bày báo cáo tài chính đã được sử dụng trong hệ thống. Có thể loại bỏ bớt báo cáo tài chính không sử dụng mà không ảnh hưởng đến hệ thống."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "c",
+                    "title": "Có khả năng tự động dự báo, phát hiện và ngăn chặn các sai sót khi nhập dữ liệu và quá trình xử lý thông tin kế toán.",
+                    "position": 34,
+                    "children": [],
+                    "content": "c. Có khả năng tự động dự báo, phát hiện và ngăn chặn các sai sót khi nhập dữ liệu và quá trình xử lý thông tin kế toán."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "c",
+                    "title": "Có khả năng lưu lại các dấu vết trên số kế toán về việc sửa chữa các số liệu kế toán đã được truy cập chính thức vào hệ thống phù hợp với từng phương pháp sửa chữa số kế toán theo quy định; đảm bảo chỉ có người có trách nhiệm mới được quyền sửa chữa sai sót đối với các nghiệp vụ đã được truy cập chính thức vào hệ thống.",
+                    "position": 40,
+                    "children": [],
+                    "content": "d. Có khả năng phục hồi được các dữ liệu, thông tin kế toán trong các trường hợp phát sinh sự cố kỹ thuật đơn giản trong quá trình sử dụng."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "d",
+                    "title": "Có khả năng phục hồi được các dữ liệu, thông tin kế toán trong các trường hợp phát sinh sự cố kỹ thuật đơn giản trong quá trình sử dụng.",
+                    "position": 41,
+                    "children": [],
+                    "content": "d. Có khả năng phục hồi được các dữ liệu, thông tin kế toán trong các trường hợp phát sinh sự cố kỹ thuật đơn giản trong quá trình sử dụng."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "c",
+                    "title": "Phần mềm kế toán do tổ chức, cá nhân ngoài đơn vị kế toán cung cấp phải được bảo hành trong thời hạn do hai bên thỏa thuận, ít nhất phải hoàn thành công việc kế toán của một năm tài chính.",
+                    "position": 45,
+                    "children": [],
+                    "content": "c. Phần mềm kế toán do tổ chức, cá nhân ngoài đơn vị kế toán cung cấp phải được bảo hành trong thời hạn do hai bên thỏa thuận, ít nhất phải hoàn thành công việc kế toán của một năm tài chính."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "c",
+                    "title": "Đơn vị kế toán được vận hành thử nghiệm trước khi áp dụng chính thức phần mềm kế toán nhưng việc thử nghiệm phải được tiến hành song song với việc ghi sổ bằng tay (trường hợp đơn vị chưa áp dụng phần mềm kế toán) hoặc thực hiện song song với phần mềm kế toán mà đơn vị đang áp dụng (trường hợp đơn vị đã áp dụng phần mềm kế toán). Sau quá trình thử nghiệm, nếu phần mềm kế toán đáp ứng được tiêu chuẩn của phần mềm kế toán và yêu cầu kế toán của đơn vị thì đơn vị mới triển khai áp dụng chính thức.",
+                    "position": 50,
+                    "children": [],
+                    "content": "d. Đơn vị kế toán phải xây dựng quy chế sử dụng phần mềm kế toán trên máy vi tính theo các yêu cầu: Quản lý máy chủ (nếu có); quản lý dữ liệu; kiểm tra, kiểm soát việc đưa thông tin từ ngoài vào hệ thống; thực hiện công việc sao, lưu dữ liệu định kỳ; phân quyền đối với các máy nhập và xử lý số liệu; phân định chức năng của từng người trong bộ máy kế toán.\nđ. Đơn vị kế toán phải tổ chức trang bị và sử dụng các thiết bị lưu trữ an toàn cho hệ thống, được bố trí và vận hành theo đúng yêu cầu kỹ thuật."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "d",
+                    "title": "Đơn vị kế toán phải xây dựng quy chế sử dụng phần mềm kế toán trên máy vi tính theo các yêu cầu: Quản lý máy chủ (nếu có); quản lý dữ liệu; kiểm tra, kiểm soát việc đưa thông tin từ ngoài vào hệ thống; thực hiện công việc sao, lưu dữ liệu định kỳ; phân quyền đối với các máy nhập và xử lý số liệu; phân định chức năng của từng người trong bộ máy kế toán.",
+                    "position": 51,
+                    "children": [],
+                    "content": "đ. Đơn vị kế toán phải tổ chức trang bị và sử dụng các thiết bị lưu trữ an toàn cho hệ thống, được bố trí và vận hành theo đúng yêu cầu kỹ thuật."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "c",
+                    "title": "Đơn vị kế toán phải quy định rõ trách nhiệm, yêu cầu bảo mật dữ liệu trên máy tính; chức năng, nhiệm vụ của từng người sử dụng trong hệ thống; ban hành quy chế quản lý dữ liệu, quy định chức năng, quyền hạn của từng nhân viên; quy định danh mục thông tin không được phép lưu chuyển.",
+                    "position": 56,
+                    "children": [],
+                    "content": "c. Đơn vị kế toán phải quy định rõ trách nhiệm, yêu cầu bảo mật dữ liệu trên máy tính; chức năng, nhiệm vụ của từng người sử dụng trong hệ thống; ban hành quy chế quản lý dữ liệu, quy định chức năng, quyền hạn của từng nhân viên; quy định danh mục thông tin không được phép lưu chuyển."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "c",
+                    "title": "Đơn vị kế toán có đầy đủ các điều kiện quy định tại Mục 3 Phần II Thông tư này và có các yêu cầu về nối mạng, tổng hợp thông tin trong diện rộng, nhanh, hàng ngày,... thì lựa chọn các phần mềm kế toán có đầy đủ các tiêu chuẩn hướng dẫn tại Thông tư này và có các tiêu chuẩn khác cao hơn.",
+                    "position": 62,
+                    "children": [],
+                    "content": "c. Đơn vị kế toán có đầy đủ các điều kiện quy định tại Mục 3 Phần II Thông tư này và có các yêu cầu về nối mạng, tổng hợp thông tin trong diện rộng, nhanh, hàng ngày,... thì lựa chọn các phần mềm kế toán có đầy đủ các tiêu chuẩn hướng dẫn tại Thông tư này và có các tiêu chuẩn khác cao hơn."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "III",
+                    "title": "TỔ CHỨC THỰC HIỆN",
+                    "position": 63,
+                    "children": [],
+                    "content": "1. Thông tư này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng công báo. 5\n2. Nhà nước khuyến khích các đơn vị kế toán áp dụng phần mềm kế toán nhưng phần mềm kế toán phải phù hợp các tiêu chuẩn, điều kiện hướng dẫn tại Thông tư này nhằm nâng cao hiệu quả của công tác kế toán tại đơn vị.\n3. Đơn vị kế toán đang áp dụng phần mềm kế toán nếu xét thấy phần mềm kế toán đó không đảm bảo các tiêu chuẩn và điều kiện hướng dẫn tại Thông tư này, phải có kế hoạch nâng cấp, hoàn thiện lại phần mềm kế toán đang áp dụng đáp ứng các tiêu chuẩn và điều kiện hướng dẫn tại Thông tư này.\n4. Thủ trưởng, kế toán trưởng (hoặc phụ trách kế toán) của các đơn vị kế toán áp dụng phần mềm kế toán trong công tác kế toán có trách nhiệm tổ chức, triển khai thực hiện việc lựa chọn phần mềm kế toán theo các tiêu chuẩn và điều kiện hướng dẫn tại Thông tư này.\nTrong quá trình thực hiện, nếu có vướng mắc đề nghị các đơn vị phản ánh kịp thời về Bộ Tài chính để nghiên cứu, giải quyết./.\nBan Kinh tế TW; Văn phòng Quốc hội; Văn phòng Chính phủ; Các Bộ, cơ quan ngang Bộ; Toà án Nhân dân tối cao; Viện Kiểm sát Nhân dân tối cao; Phòng Thương mại và Công nghiệp Việt Nam; Các cơ quan TW của các đoàn thể; UBND các tỉnh, TP trực thuộc TW; Sở Tài chính, Cục Thuế các tỉnh, TP trực thuộc TW; Cục kiểm tra văn bản (Bộ Tư pháp); Các BQL KCX, KCN, KCNC địa phương; Công báo; Các đơn vị thuộc Bộ Tài chính; Vụ Pháp chế (Bộ Tài chính); Hội Kế toán và Kiểm toán Việt Nam; Hội kiểm toán viên hành nghề Việt Nam; Lưu VT (2b), Vụ CĐKT & Kiểm toán.\nKT/BỘ TRƯỞNG"
+                }
+            ],
+            "metadata": {
+                "total_units": 28,
+                "total_articles": 15,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 1,
+                "source": "ocr"
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [
+            "Kế toán, kiểm toán",
+            "Tài chính"
+        ],
+        "edges": {
+            "amends": [],
+            "mentions": [],
+            "abolished": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": []
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "103/2005/TT-BTC",
+            "target_id": "129/2004/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "103/2005/TT-BTC",
+            "target_id": "128/2004.NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "103/2005/TT-BTC",
+            "target_id": "03/2003/QH11",
+            "properties": {},
+            "_crawled": true
+        }
+    ]
+}

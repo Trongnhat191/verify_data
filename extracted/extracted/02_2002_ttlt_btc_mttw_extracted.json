@@ -1,0 +1,145 @@
+{
+    "file_name": "02_2002_ttlt_btc_mttw",
+    "source": "ocr_json",
+    "crawled_metadata": {
+        "officialNumber": "02/2002/TTLT-BTC-MTTW",
+        "title": "Hướng dẫn công tác quản lý tài chính thực hiện \"cuộc vận động toàn dân đoàn kết xây dựng đời sống văn hoá ở khu dân cư \"và các cuộc vận động quyên góp do uỷ ban TW mặt trận tổ quốc việt nam phát động",
+        "promulgationDate": "2002-01-10",
+        "effectiveDate": "2002-01-25",
+        "expirationDate": null,
+        "gazetteDate": "2016-12-28",
+        "sigerName": "Trần Văn Ðăng, Nguyễn Sinh Hùng",
+        "draftingUnit": "",
+        "documentType": "THONG_TU_LIEN_TICH",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": null,
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư liên tịch",
+        "_source": "crawled",
+        "_crawled_at": "",
+        "_doc_id": ""
+    },
+    "crawled_edges": [],
+    "regex_data": {
+        "file_name": "02_2002_ttlt_btc_mttw",
+        "file_path": "/Users/dangnam/Documents/FCI/legal_knowledge_graph/graph_new/54_doc/54vb_structure/02_2002_ttlt_btc_mttw/document_structure.json",
+        "official_number": null,
+        "dates": {
+            "promulgation_date": "2002-01-10",
+            "effective_date": null,
+            "expiration_date": null
+        },
+        "issuing_place": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Hà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "I",
+                    "title": "ĐỐI TƯỢNG VÀ PHẠM VI ÁP DỤNG",
+                    "position": 4,
+                    "children": [],
+                    "content": "Thông tư này áp dụng đối với cuộc vận động \"Toàn dân đoàn kết xây dựng đời sống văn hóa ở khu dân cư\" do Uỷ ban Mặt trận Tổ quốc các cấp tổ chức thực hiện; “các chương trình dự án Quốc gia” và cuộc “vận động quyên góp đột xuất” ủng hộ đồng bào khắc phục hậu quả thiên tai, trợ giúp quốc tế theo chỉ đạo của Đảng, Chính phủ do Đoàn Chủ tịch Uỷ ban Trung ương Mặt trận Tổ quốc Việt Nam phát động."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "II",
+                    "title": "NGUYÊN TẮC CẤP KINH PHÍ",
+                    "position": 6,
+                    "children": [],
+                    "content": "1- Kinh phí bảo đảm cho cuộc vận động \"Toàn dân đoàn kết xây dựng đời sống văn hóa ở khu dân cư\" do ngân sách Nhà nước bảo đảm theo nguyên tắc cấp nào tổ chức thực hiện do ngân sách cấp đó bảo đảm kinh phí hoạt động. Riêng đối với khu dân cư do ngân sách tỉnh cân đối.\n2- Kinh phí để vận động nhân dân thực hiện một số đề án trong các chương trình, dự án quốc gia được bảo đảm bằng nguồn kinh phí của chương trình, dự án quốc gia theo quy định về sử dụng kinh phí đối với từng chương trình, dự án quốc gia.\n3- Kinh phí bảo đảm cho cuộc vận động quyên góp đột xuất ủng hộ đồng bào khắc phục hậu quả thiên tai, trợ giúp quốc tế theo chỉ đạo của Đảng, Chính phủ do Đoàn chủ tịch Uỷ ban Trung ương Mặt trận Tổ quốc Việt Nam chủ trì phát động do ngân sách Trung ương bảo đảm."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "III",
+                    "title": "– NỘI DUNG CHI VÀ MỨC CHI",
+                    "position": 11,
+                    "children": [],
+                    "content": "III – NỘI DUNG CHI VÀ MỨC CHI"
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "c",
+                    "title": "Các nội dung chi do Uỷ ban Mặt trận Tổ quốc cấp xã, phường, thị trấn tổ chức thực hiện :",
+                    "position": 27,
+                    "children": [],
+                    "content": "Chi tổ chức cuộc vận động : Chi làm khẩu hiệu, panô, áp phích tuyên truyền cho cuộc vận động.\n- Chi họp triển khai thực hiện ở khu dân cư (tiền chè, nước uống).\n- Chi làm giấy chứng nhận công nhận gia đình văn hóa, người tốt việc tốt.\n- Chi sơ kết hàng năm.\n- Chi cho công tác khen thưởng hàng năm.\n- Chi văn phòng phẩm, chi khác (nếu có).\nd- Đối với khu dân cư :\nChi tiền chè, nước uống, dầu đèn, điện ánh sáng cho Ban công tác Mặt trận ở khu dân cư họp bàn biện pháp triển khai vận động nhân dân.\nChi tổ chức ngày Hội đoàn kết toàn dân hàng năm (18-11).\nChi thông tin, tuyên truyền của Ban công tác Mặt trận tại cộng đồng dân cư.\nChi tiền xăng, xe đi công tác vận động của Ban công tác Mặt trận ở khu dân cư và xã, phường.\n- Chi biểu dương thành tích cá nhân, tổ dân cư thực hiện tốt các phong trào, các cuộc vận động do Đảng, Nhà nước, Mặt trận Tổ quốc phát động hàng năm và đột xuất.\n- Chi văn phòng phẩm, chi khác (nếu có)."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "d",
+                    "title": "Đối với khu dân cư :",
+                    "position": 34,
+                    "children": [],
+                    "content": "Chi tiền chè, nước uống, dầu đèn, điện ánh sáng cho Ban công tác Mặt trận ở khu dân cư họp bàn biện pháp triển khai vận động nhân dân.\nChi tổ chức ngày Hội đoàn kết toàn dân hàng năm (18-11).\nChi thông tin, tuyên truyền của Ban công tác Mặt trận tại cộng đồng dân cư.\nChi tiền xăng, xe đi công tác vận động của Ban công tác Mặt trận ở khu dân cư và xã, phường.\n- Chi biểu dương thành tích cá nhân, tổ dân cư thực hiện tốt các phong trào, các cuộc vận động do Đảng, Nhà nước, Mặt trận Tổ quốc phát động hàng năm và đột xuất.\n- Chi văn phòng phẩm, chi khác (nếu có)."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "IV",
+                    "title": "– LẬP, CHẤP HÀNH, QUYẾT TOÁN KINH PHÍ :",
+                    "position": 63,
+                    "children": [],
+                    "content": "Việc lập dự toán, chấp hành và quyết toán kinh phí ngân sách Nhà nước được thực hiện theo hướng dẫn tại Thông tư số 103/1998/TT-BTC ngày 18-7-1998 của Bộ Tài chính Hướng dẫn việc phân cấp, lập, chấp hành và quyết toán ngân sách Nhà nước và các quy định hiện hành về quản lý sử dụng và quyết toán kinh phí đối với các chương trình, dự án quốc gia. Thông tư này hướng dẫn thêm một số nội dung sau :"
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "V",
+                    "title": "– TỔ CHỨC THỰC HIỆN",
+                    "position": 76,
+                    "children": [],
+                    "content": "Cơ quan tài chính các cấp định kỳ và đột xuất tiến hành kiểm tra việc cấp, quản lý, sử dụng kinh phí, nhằm đảm bảo việc sử dụng kinh phí cho các cuộc vận động đúng mục đích, có hiệu quả thiết thực.\nUỷ ban Trung ương Mặt trận Tổ quốc Việt Nam chịu trách nhiệm phối hợp với cơ quan tài chính các cấp để kiểm tra hướng dẫn việc sử dụng kinh phí cho các cuộc vận động đúng nội dung và chế độ quy định.\nThông tư này có hiệu lực thi hành sau 15 ngày kể từ ngày ký và thay thế Thông tư số 71/1999/TTTL/BTC-MTTQTW ngày 11-6-1999 của Liên tịch Bộ Tài chính – Uỷ ban Trung ương Mặt trận Tổ quốc Việt Nam. Trong quá trình thực hiện nếu có vướng mắc đề nghị gửi về Bộ Tài chính và Ban thường trực Đoàn Chủ tịch Uỷ ban Trung ương Mặt trận Tổ quốc Việt Nam để xem xét giải quyết.\nTM. BAN THƯỜNG TRỰC ĐOÀN CHỦ TỊCH ỦY BAN TRUNG ƯƠNG MẶT TRẬN TỔ QUỐC VIỆT NAM TỔNG THƯ KÝ Trần Văn Đăng\nBỘ TRƯỞNG BỘ TÀI CHÍNH Nguyễn Sinh Hùng\nNơi nhận : VPTU' và các Ban của Đảng Văn phòng Quốc hội Văn phòng Chủ tịch nước Văn phòng Chính phủ Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP Uỷ ban Mặt trận Tổ quốc các cấp UBND các tỉnh, thành phố trực thuộc TW Công báo Lưu: Bộ TC, UBTW MTTQVN."
+                }
+            ],
+            "metadata": {
+                "total_units": 16,
+                "total_articles": 7,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 1,
+                "source": "ocr"
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [
+            "Tài chính",
+            "Bảo hiểm",
+            "Bảo hiểm"
+        ],
+        "edges": {
+            "amends": [],
+            "mentions": [],
+            "abolished": []
+        }
+    },
+    "verification": {
+        "official_number_match": null,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": []
+    },
+    "final_edges": []
+}

@@ -1,0 +1,191 @@
+{
+    "file_name": "81_2016_tt_btc",
+    "source": "ocr_json",
+    "crawled_metadata": {
+        "officialNumber": "81/2016/TT-BTC",
+        "title": "Hướng dẫn cơ chế hỗ trợ lãỉ suất do thực hiện chính sách tín dụng theo Nghị định số 75/2015/NĐ-CP ngày 09 tháng 9 năm 2015 của Chính phủ về cơ chế, chính sách bảo vệ và phát triển rừng, gắn với chính sách giảm nghèo nhanh, bền vững và hỗ trợ đồng bào dân tộc thiểu số giai đoạn 2015-2020",
+        "promulgationDate": "2016-06-14",
+        "effectiveDate": "2016-07-29",
+        "expirationDate": null,
+        "gazetteDate": "2016-12-29",
+        "sigerName": "Trần Văn Hiếu",
+        "draftingUnit": "",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": null,
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "",
+        "_doc_id": ""
+    },
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "81/2016/TT-BTC",
+            "target_id": "75/2015/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "81/2016/TT-BTC",
+            "target_id": "60/2003/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "81_2016_tt_btc",
+        "file_path": "/Users/dangnam/Documents/FCI/legal_knowledge_graph/graph_new/54_doc/54vb_structure/81_2016_tt_btc/document_structure.json",
+        "official_number": "81/2016/TT-BTC",
+        "dates": {
+            "promulgation_date": "2016-06-14",
+            "effective_date": "2016-07-29",
+            "expiration_date": null
+        },
+        "issuing_place": "Hạnh phúc Hà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Phạm vi điều chỉnh và đối tượng áp dụng",
+                    "position": 9,
+                    "children": [],
+                    "content": "1. Phạm vi điều chỉnh:\nThông tư này hướng dẫn cơ chế hỗ trợ lãi suất tiền vay do thực hiện chính sách tín dụng theo quy định tại Điều 8 của Nghị định số 75/2015/NĐ-CP ngày 09 tháng 9 năm 2015 của Chính phủ về cơ chế, chính sách bảo vệ và phát triển rừng, gắn với\nchính sách giảm nghèo nhanh, bền vững và hỗ trợ đồng bào dân tộc thiểu số giai đoạn 2015-2020 (sau đây gọi tắt là Nghị định số 75/2015/NĐ-CP).\n2. Đối tượng áp dụng\na) Ngân hàng Chính sách xã hội và Ngân hàng Nông nghiệp và Phát triển nông thôn Việt Nam.\nb) Các hộ gia đình thuộc đối tượng theo quy định tại khoản 1 Điều 2 Nghị định số 75/2015/NĐ-CP.\nc) Các tổ chức, cá nhân khác có liên quan."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Hỗ trợ lãi suất đối với Ngân hàng Chính sách xã hội",
+                    "position": 17,
+                    "children": [],
+                    "content": "Ngân hàng Chính sách xã hội được ngân sách nhà nước hỗ trợ lãi suất khi thực hiện chính sách tín dụng tại Điều 8 Nghị định số 75/2015/NĐ-CP theo cơ chế cấp bù chênh lệch lãi suất theo quy định hiện hành áp dụng đối với Ngân hàng Chính sách xã hội khi cho vay các chương trình hỗ trợ người nghèo và các đối tượng chính sách của Nhà nước."
+                },
+                {
+                    "type": "SECTION",
+                    "number": "2",
+                    "title": "HỖ TRỢ LÃI SUẤT ĐỐI VỚI NGÂN HÀNG NÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN VIỆT NAM",
+                    "position": 19,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "3",
+                            "title": "Điều kiện được ngân sách nhà nước hỗ trợ lãi suất",
+                            "position": 20,
+                            "children": [],
+                            "content": "Các khoản vay được ngân sách nhà nước hỗ trợ lãi suất khi đáp ứng đầy đủ các điều kiện sau:\n1. Đã ký hợp đồng và đã được giải ngân tại Ngân hàng Nông nghiệp và Phát triển nông thôn Việt Nam từ ngày 02/11/2015 đến hết ngày 31/12/2020 theo đúng quy định tại Điều 8 Nghị định số 75/2015/NĐ-CP và hướng dẫn của Ngân hàng Nhà nước Việt Nam.\n2. Đúng đối tượng và khách hàng sử dụng vốn vay đúng mục đích theo quy định của pháp luật.\n3. Là khoản vay trong hạn tại thời điểm hỗ trợ lãi suất.\nTrường hợp các khoản vay (gồm cả gốc và lãi) bị quá hạn trả nợ hoặc được gia hạn nợ (trừ trường hợp các khoản cho vay bị rủi ro do nguyên nhân khách quan, bất khả kháng được gia hạn nợ theo quy định tại Nghị định số 55/2015/NĐ-CP ngày 09/6/2015 của Chính phủ về chính sách tín dụng phục vụ phát triển nông nghiệp, nông thôn và hướng dẫn của Ngân hàng Nhà nước Việt Nam) thì không được hỗ trợ lãi suất đối với khoảng thời gian khoản vay bị quá hạn trả nợ hoặc được gia hạn nợ.\nTrường hợp khách hàng đã thanh toán nợ quá hạn và trả nợ đúng hạn từ kỳ trả nợ tiếp theo thì khách hàng tiếp tục được hưởng hỗ trợ lãi suất theo quy định tại Nghị định số 75/2015/NĐ-CP và hướng dẫn tại Thông tư này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "4",
+                            "title": "Mức chênh lệch lãi suất hỗ trợ",
+                            "position": 28,
+                            "children": [],
+                            "content": "Mức chênh lệch lãi suất hỗ trợ được tính bằng mức lãi suất cho vay thấp nhất đối với lĩnh vực nông nghiệp, nông thôn cùng kỳ hạn trong cùng thời kỳ của Ngân hàng Nông nghiệp và Phát triển nông thôn Việt Nam trừ đi mức lãi suất 1,2%/năm.\nTrường hợp Ngân hàng Nông nghiệp và Phát triển nông thôn Việt Nam không có quy định lãi suất đối với khoản vay có thời hạn cho vay dài tương ứng với thời hạn cho vay thực tế của khoản vay phù hợp với quy định tại Nghị định số 75/2015/NĐ-CP, để xác định mức chênh lệch lãi suất hỗ trợ, Ngân hàng Nông nghiệp và Phát triển nông thôn Việt Nam sử dụng mức lãi suất cho vay áp dụng đối với khoản vay lĩnh vực nông nghiệp, nông thôn có thời hạn cho vay ngắn hơn gần nhất với thời hạn cho vay thực tế của khoản vay. Khi lãi suất cho vay lĩnh vực nông nghiệp, nông thôn có thay đổi, Ngân hàng Nông nghiệp và Phát triển nông thôn Việt Nam có trách nhiệm báo cáo Bộ Tài chính về mức lãi suất cho vay thấp nhất của các kỳ hạn để làm căn cứ xác định mức hỗ trợ lãi suất."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "5",
+                            "title": "Thủ tục hỗ trợ lãi suất",
+                            "position": 31,
+                            "children": [],
+                            "content": "1. Lập kế hoạch hỗ trợ lãi suất:\na) Ngân hàng Nông nghiệp và Phát triển nông thôn Việt Nam lập kế hoạch hỗ trợ lãi suất năm theo công thức sau:\nSố hỗ trợ trong năm kế hoạch = Dư nợ cho vay bình quân năm kế hoạch x Mức chênh lệch lãi suất hỗ trợ năm kế hoạch\nTrong đó:\n- Dư nợ cho vay bình quân năm kế hoạch được tính theo công thức bình quân số học giữa dư nợ đầu năm và dư nợ cuối năm kế hoạch;\n- Mức chênh lệch lãi suất hỗ trợ năm kế hoạch thực hiện theo quy định tại Điều 4 Thông tư này.\nb) Hàng năm, chậm nhất vào ngày 31/7, Ngân hàng Nông nghiệp và Phát triển nông thôn Việt Nam lập kế hoạch hỗ trợ lãi suất cả năm kế hoạch (có chia ra từng quý) theo quy định tại điểm a, khoản này; gửi Bộ Tài chính (01 bộ), Bộ Kế hoạch và Đầu tư (01 bộ) và Ngân hàng Nhà nước Việt Nam (01 bộ) để tổng hợp vào dự toán ngân sách nhà nước.\n2. Tạm cấp hỗ trợ lãi suất hàng quý:\na) Tối đa 30 ngày kể từ ngày nhận được báo cáo quý về tình hình thực hiện cho vay và văn bản đề nghị tạm cấp hỗ trợ lãi suất quý của Ngân hàng Nông nghiệp\nvà Phát triển nông thôn Việt Nam, Bộ Tài chính sẽ thực hiện tạm cấp hỗ trợ lãi suất.\nb) Số tiền tạm cấp hỗ trợ lãi suất trong quý bằng 80% số tiền hỗ trợ lãi suất phát sinh quý trước. Tổng số tiền tạm cấp hỗ trợ lãi suất trong năm tối đa không vượt quá số dự toán được giao.\n3. Quyết toán hỗ trợ lãi suất:\na) Kết thúc năm tài chính, Ngân hàng Nông nghiệp và Phát triển nông thôn Việt Nam xác định số tiền hỗ trợ lãi suất thực tế trong năm đề nghị ngân sách nhà nước hỗ trợ, như sau:\nSố tiền lãi thực tế hỗ trợ cho một khoản giải ngân được tính theo phương pháp tổng các tích số giữa mức lãi suất hỗ trợ với dư nợ cho vay tương ứng với số ngày dư nợ thực tế, theo công thức sau:\n$$ \\frac{\\text{Tổng các tích số giữa số dư nợ (tương ứng với lãi suất cho vay cùng kỳ) với số ngày dư nợ thực tế}}{365 \\text{ ngày}} $$\nTrong đó: Mức chênh lệch lãi suất hỗ trợ theo quy định tại Điều 4 Thông tư này và được tính theo đơn vị %/năm; n là số ngày dư nợ trong kỳ được hỗ trợ lãi suất.\nSố tiền lãi thực tế hỗ trợ cho một khoản vay là tổng số tiền lãi thực tế hỗ trợ cho tất cả các khoản giải ngân của khoản vay đó.\nSố tiền được hỗ trợ lãi suất là tổng số tiền lãi thực tế hỗ trợ của tất cả các khoản cho vay thuộc đối tượng quy định tại Nghị định số 75/2015/NĐ-CP và hướng dẫn của Ngân hàng Nhà nước Việt Nam.\nb) Hồ sơ quyết toán hỗ trợ lãi suất bao gồm:\nBáo cáo tổng hợp số liệu đề nghị quyết toán hỗ trợ lãi suất của từng khoản cho vay đã được kiểm toán bởi kiểm toán độc lập hoặc Kiểm toán Nhà nước theo Phụ lục 01/BC ban hành kèm theo Thông tư này.\nCông văn đề nghị Bộ Tài chính quyết toán hỗ trợ lãi suất, trong đó số đề nghị quyết toán không vượt quá số liệu đã được cơ quan kiểm toán xác nhận.\nCác tài liệu (bản chính hoặc bản sao do Ngân hàng đóng dấu sao y) bao gồm: hợp đồng tín dụng, khế ước hoặc các giấy tờ tương đương để xác định đối tượng khách hàng vay vốn, tình hình thực hiện cho vay, dư nợ, thu nợ; thiết kế - dự toán trồng rừng, phương án phát triển chăn nuôi; các văn bản báo cáo Bộ Tài chính về mức lãi suất cho vay thấp nhất để làm căn cứ phê duyệt quyết toán số hỗ trợ lãi suất.\nsuất vay vốn. Các tài liệu này được Ngân hàng lưu trữ tại trụ sở chính để phục vụ cho công tác thẩm tra quyết toán trong trường hợp cần thiết.\nChủ tịch Hội đồng thành viên, Tổng giám đốc Ngân hàng Nông nghiệp và Phát triển nông thôn Việt Nam chịu trách nhiệm về tính hợp lệ và chính xác của hồ sơ quyết toán và số liệu đề nghị ngân sách nhà nước hỗ trợ lãi suất.\nc) Trong vòng 120 ngày kể từ ngày kết thúc năm tài chính, Ngân hàng Nông nghiệp và Phát triển nông thôn Việt Nam phải hoàn thiện hồ sơ quyết toán và gửi Bộ Tài chính đề nghị quyết toán, báo cáo tổng hợp số liệu đề nghị quyết toán hỗ trợ lãi suất theo quy định tại điểm b khoản 3 Điều này.\n4. Thẩm tra số liệu đề nghị quyết toán hỗ trợ lãi suất.\na) Thực hiện thẩm tra số liệu đề nghị quyết toán hỗ trợ lãi suất.\nBộ Tài chính tiến hành thẩm tra số liệu đề nghị quyết toán hỗ trợ lãi suất của Ngân hàng Nông nghiệp và Phát triển nông thôn Việt Nam trong vòng 60 ngày kể từ ngày nhận được văn bản đề nghị quyết toán hỗ trợ lãi suất của Ngân hàng và Ngân hàng chuẩn bị đầy đủ hồ sơ quyết toán theo quy định tại điểm b khoản 3 Điều này.\nb) Xử lý chênh lệch số liệu.\nTrường hợp có sự chênh lệch giữa số đề nghị quyết toán và số thẩm tra quyết toán của Bộ Tài chính thì Ngân hàng Nông nghiệp và Phát triển nông thôn Việt Nam thực hiện điều chỉnh trên số sách kế toán số quyết toán hỗ trợ lãi suất theo số liệu đã được Bộ Tài chính thẩm tra.\nViệc xử lý chênh lệch giữa số thẩm tra quyết toán và số đề nghị quyết toán được thực hiện trong thời gian 45 ngày kể từ ngày Bộ Tài chính ra thông báo duyệt quyết toán.\nTrường hợp phải kéo dài thời gian xử lý chênh lệch giữa số thẩm tra quyết toán và số đề nghị quyết toán và các trường hợp đặc biệt khác sẽ do Bộ trưởng Bộ Tài chính xem xét, quyết định.\nTrường hợp số ngân sách nhà nước đã tạm hỗ trợ lãi suất cho Ngân hàng Nông nghiệp và Phát triển nông thôn Việt Nam cao hơn số thẩm tra quyết toán của Bộ Tài chính thì số chênh lệch sẽ được Bộ Tài chính chuyển thành số tạm cấp của năm sau.\nc) Xử lý trong trường hợp khách hàng vay vốn sử dụng vốn vay sai mục đích: Khi phát hiện khách hàng sử dụng vốn vay sai mục đích, Ngân hàng Nông nghiệp và Phát triển nông thôn Việt Nam thực hiện xử lý theo quy định của pháp luật đồng thời hoàn trả số tiền đã được ngân sách hỗ trợ lãi suất đối với số tiền cho vay đã bị sử dụng sai mục đích (trong trường hợp ngân sách nhà nước đã hỗ trợ lãi suất) hoặc loại trừ số tiền cho vay đã sử dụng sai mục đích ra khỏi dư nợ cho vay đề nghị ngân sách nhà nước hỗ trợ (trong trường hợp ngân sách nhà nước chưa hỗ trợ lãi suất)."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "6",
+                            "title": "Chế độ báo cáo",
+                            "position": 70,
+                            "children": [],
+                            "content": "1. Đối với báo cáo quý.\nTrong vòng tháng đầu quý tiếp theo, Ngân hàng Nông nghiệp và Phát triển nông thôn Việt Nam gửi báo cáo quý về kết quả thực hiện cho vay theo quy định tại Điều 8 Nghị định số 75/2015/NĐ-CP cho Bộ Tài chính và Ngân hàng Nhà nước Việt Nam theo Phụ lục 02/BC ban hành kèm theo Thông tư này.\n2. Đối với báo cáo năm.\nTrong vòng 90 ngày kể từ ngày kết thúc năm tài chính, Ngân hàng Nông nghiệp và Phát triển nông thôn Việt Nam gửi báo cáo năm về kết quả thực hiện cho vay theo quy định tại Điều 8 Nghị định số 75/2015/NĐ-CP cho Bộ Tài chính và Ngân hàng Nhà nước Việt Nam theo Phụ lục 03/BC ban hành kèm theo Thông tư này. Ngân hàng Nông nghiệp và Phát triển nông thôn;"
+                        }
+                    ]
+                },
+                {
+                    "type": "SECTION",
+                    "number": "3",
+                    "title": "ĐIỀU KHOẢN THI HÀNH",
+                    "position": 75,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "7",
+                            "title": "Tổ chức thực hiện",
+                            "position": 76,
+                            "children": [],
+                            "content": "1. Thông tư này có hiệu lực kể từ ngày 29 tháng 7 năm 2016. 6\n2. Trong quá trình thực hiện nếu phát sinh vướng mắc đề nghị phản ánh về Bộ Tài chính để xem xét, giải quyết./.\nThủ tướng, các Phó Thủ tướng Chính phủ; Văn phòng Chủ tịch nước; Văn phòng TW và các Ban của Đảng; Văn phòng Chính phủ; Viện Kiểm sát nhân dân tối cao; Tòa án nhân dân tối cao; Các Bộ: Nông nghiệp và Phát triển nông thôn; Kế hoạch và Đầu tư; Ngân hàng Nhà nước Việt Nam; Ngân hàng Chính sách xã hội; Cục Kiểm tra văn bản QPPL (Bộ Tư pháp); Website Chính phủ; Website Bộ Tài chính;"
+                        }
+                    ]
+                }
+            ],
+            "metadata": {
+                "total_units": 10,
+                "total_articles": 7,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 2,
+                "source": "ocr"
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [
+            "Tài chính",
+            "Ngân hàng, tiền tệ",
+            "Nông nghiệp, nông thôn"
+        ],
+        "edges": {
+            "amends": [],
+            "mentions": [],
+            "abolished": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": []
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "81/2016/TT-BTC",
+            "target_id": "75/2015/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "81/2016/TT-BTC",
+            "target_id": "60/2003/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    "file_name": "135_2018_tt_btc",
+    "source": "ocr_json",
+    "crawled_metadata": {
+        "officialNumber": "135/2018/TT-BTC",
+        "title": "quy định việc quản lý đối với tiền mặt, giấy tờ có giá, tài sản quý tạm gửi, tạm giữ do Kho bạc Nhà nước nhận bảo quản",
+        "promulgationDate": "2018-12-28",
+        "effectiveDate": "2019-02-15",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "sigerName": "Đỗ Hoàng Anh Tuấn",
+        "draftingUnit": "Kho bạc nhà nước",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:22Z",
+        "_doc_id": "69734"
+    },
+    "crawled_edges": [
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "135/2018/TT-BTC",
+            "target_id": "124/2025/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "135_2018_tt_btc",
+        "file_path": "/Users/dangnam/Documents/FCI/legal_knowledge_graph/graph_new/54_doc/54vb_structure/135_2018_tt_btc/document_structure.json",
+        "official_number": "135/2018/TT-BTC",
+        "dates": {
+            "promulgation_date": "2018-12-28",
+            "effective_date": "2019-02-15",
+            "expiration_date": null
+        },
+        "issuing_place": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Hà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Phạm vi điều chỉnh",
+                    "position": 9,
+                    "children": [],
+                    "content": "Thông tư này quy định về việc quản lý tiền mặt, giấy tờ có giá, tài sản quý tạm gửi, tạm giữ (sau đây gọi chung là tài sản) do Kho bạc Nhà nước nhận bảo quản."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Đối tượng áp dụng",
+                    "position": 11,
+                    "children": [],
+                    "content": "1. Các đơn vị trong hệ thống Kho bạc Nhà nước.\n2. Các tổ chức, cơ quan Nhà nước có liên quan trong việc giao, nhận tài sản gửi bảo quản với các đơn vị Kho bạc Nhà nước theo quy định của pháp luật."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "3",
+                    "title": "Giải thích từ ngữ",
+                    "position": 14,
+                    "children": [],
+                    "content": "Trong Thông tư này, các từ ngữ được hiểu như sau:\n1. Tiền mặt: Là các loại tiền giấy (bao gồm tiền cotton, tiền polymer), tiền kim loại do Ngân hàng Nhà nước Việt Nam phát hành.\n2. Giấy tờ có giá: Gồm trái phiếu, tín phiếu, cổ phiếu, công trái và các loại giấy tờ có giá khác theo quy định của pháp luật.\n3. Tài sản quý: Gồm vàng, bạc, kim loại quý, đá quý, ngoại tệ tiền mặt và các loại tài sản quý khác.\n4. Niêm phong: Là việc sử dụng giấy niêm phong hoặc kẹp chì để ghi dấu hiệu trên hòm/túi/gói tài sản đã được đóng gói, đảm bảo giữ được nguyên vẹn, đầy đủ."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "4",
+                    "title": "Nguồn gốc tài sản do Kho bạc Nhà nước nhận bảo quản",
+                    "position": 21,
+                    "children": [],
+                    "content": "1. Tài sản có quyết định tịch thu hoặc quyết định xác lập quyền sở hữu toàn dân của cơ quan, người có thẩm quyền theo quy định của pháp luật.\n2. Tài sản do các cơ quan chức năng tạm gửi, tạm giữ đang chờ quyết định xử lý của cấp có thẩm quyền."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "5",
+                    "title": "Hình thức nhận bảo quản",
+                    "position": 24,
+                    "children": [],
+                    "content": "1. Kho bạc Nhà nước nhận bảo quản tài sản theo hòm/túi/gói đã được niêm phong của đơn vị gửi tài sản; trên niêm phong đóng dấu của đơn vị gửi, chữ ký của người niêm phong.\n2. Trường hợp đơn vị gửi tài sản bảo quản là tiền mặt hoặc ngoại tệ tiền mặt vào tài khoản tạm giữ chờ xử lý của đơn vị thực hiện như sau:\na) Đối với tiền mặt nộp tại Kho bạc Nhà nước: Kho bạc Nhà nước kiểm đếm xác định giá trị tài sản và hạch toán vào tài khoản tạm giữ chờ xử lý của đơn vị tại Kho bạc Nhà nước theo quy định tại Thông tư số 77/2017/TT-BTC ngày 28/7/2017 của Bộ Tài chính.\nb) Đối với tiền mặt và ngoại tệ tiền mặt (các loại ngoại tệ mà Kho bạc Nhà nước có tài khoản thanh toán bằng ngoại tệ tại Ngân hàng) nộp tại Ngân hàng: Đơn vị nộp trực tiếp tại Ngân hàng thương mại để chuyển vào tài khoản của Kho bạc Nhà nước. Đơn vị thực hiện nộp tiền theo hướng dẫn của Ngân hàng thương mại. Kho bạc Nhà nước hạch toán vào tài khoản tạm giữ chờ xử lý của đơn vị tại Kho bạc Nhà nước theo quy định."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "6",
+                    "title": "Hồ sơ, trình tự Kho bạc Nhà nước nhận bảo quản",
+                    "position": 29,
+                    "children": [],
+                    "content": "1. Đối với loại tài sản có nguồn gốc quy định tại khoản 1 Điều 4 Thông tư này.\na) Hồ sơ Kho bạc Nhà nước nhận tài sản: Khi gửi tài sản vào Kho bạc Nhà nước, bên gửi phải có các loại giấy tờ sau:\nCông văn đề nghị gửi tài sản bảo quản (Mẫu số 01 tại Phụ lục kèm theo Thông tư này).\nQuyết định tịch thu hoặc quyết định xác lập quyền sở hữu toàn dân của cơ quan, người có thẩm quyền.\nPhương án xử lý tài sản của cơ quan, người có thẩm quyền.\nGiấy chứng nhận kết quả kiểm định tài sản (nếu có).\nChứng minh nhân dân hoặc Căn cước công dân của người đến gửi tài sản.\nTài liệu khác về tài sản (nếu có).\nTrường hợp khi gửi tài sản vào Kho bạc Nhà nước bảo quản chưa có phương án xử lý tài sản; sau khi đã được cơ quan, người có thẩm quyền phê duyệt phương án xử lý, cơ quan được giao chủ trì xử lý tài sản phải gửi phương án xử lý tài sản đến Kho bạc Nhà nước.\nb) Trình tự Kho bạc Nhà nước nhận bảo quản tài sản\nKiểm tra các giấy tờ theo đúng quy định tại điểm a khoản 1 Điều này.\nKiểm tra niêm phong, đảm bảo trên niêm phong có dấu của đơn vị gửi và chữ ký của người niêm phong. Kho bạc Nhà nước không nhận bảo quản tài sản của nhiều vụ việc trong một gói niêm phong.\nLập Biên bản bàn giao, tiếp nhận để bảo quản (Mẫu số 02 tại Phụ lục kèm theo thông tư này).\nBan Quản lý kho của Kho bạc Nhà nước cho hòm/túi/gói của đơn vị gửi vào hòm/túi/gói của Kho bạc Nhà nước niêm phong lại và ký tên trên niêm phong. Mỗi hòm/túi/gói chỉ đựng tài sản của một vụ việc.\nTrong ngày làm việc, kể từ khi nhận được đầy đủ hồ sơ quy định tại điểm a khoản 1 Điều này, Kho bạc Nhà nước làm thủ tục nhận tài sản.\nKhi có phương án xử lý tài sản của cơ quan, người có thẩm quyền, Kho bạc Nhà nước thực hiện hạch toán nộp Ngân sách Nhà nước theo quy định của pháp luật về ngân sách nhà nước. Đối với giấy tờ có giá, đơn vị chủ trì xử lý tài sản thực hiện chuyển đổi thành tiền mặt và nộp vào Kho bạc Nhà nước. Trường hợp giấy tờ có giá không đủ điều kiện chuyển đổi thành tiền thì gửi Kho bạc Nhà nước để lưu giữ, bảo quản.\n2. Đối với loại tài sản có nguồn gốc quy định tại khoản 2 Điều 4 Thông tư này.\na) Hồ sơ Kho bạc Nhà nước nhận tài sản: Khi gửi tài sản vào Kho bạc Nhà nước, bên gửi phải có các loại giấy tờ sau:\n- Công văn đề nghị gửi tài sản bảo quản (Mẫu số 01 tại Phụ lục kèm theo Thông tư này).\n- Biên bản tạm giữ tài sản; biên bản giao nhận tài sản.\n- Giấy chứng nhận kết quả kiểm định tài sản (nếu có).\n- Chứng minh nhân dân hoặc Căn cước công dân của người đến gửi tài sản.\n- Tài liệu khác về tài sản (nếu có).\nb) Trình tự Kho bạc Nhà nước nhận bảo quản tài sản:\n- Kiểm tra các giấy tờ theo đúng quy định tại điểm a khoản 2 Điều này.\n- Kiểm tra niêm phong theo quy định tại điểm b khoản 1 Điều này.\n- Lập Biên bản giao nhận (Mẫu số 03 tại Phụ lục kèm theo Thông tư này).\n- Ban Quản lý kho của Kho bạc Nhà nước thực hiện bảo quản hòm/túi/gói tài sản theo quy định tại điểm b khoản 1 Điều này.\n- Trong ngày làm việc, kể từ khi nhận được đầy đủ hồ sơ quy định tại điểm a khoản 2 Điều này, Kho bạc Nhà nước làm thủ tục nhận tài sản."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "7",
+                    "title": "Hồ sơ, trình tự Kho bạc Nhà nước giao tài sản",
+                    "position": 61,
+                    "children": [],
+                    "content": "1. Hồ sơ Kho bạc Nhà nước giao tài sản: Khi nhận lại tài sản, bên gửi phải có các loại giấy tờ sau:\na) Công văn đề nghị nhận tài sản (Mẫu số 01 tại Phụ lục kèm theo Thông tư này).\nb) Quyết định xử lý tài sản của cấp có thẩm quyền.\nc) Phương án xử lý tài sản của cơ quan, người có thẩm quyền.\nd) Chứng minh nhân dân hoặc Căn cước công dân của người nhận tài sản.\n2. Trình tự Kho bạc Nhà nước giao tài sản:\na) Khi giao tài sản, Kho bạc Nhà nước kiểm tra các giấy tờ theo đúng quy định tại khoản 1 Điều này và lập biên bản giao nhận tài sản (Mẫu số 03 tại Phụ\nlục kèm theo Thông tư này).\nb) Trước khi giao tài sản, Kho bạc Nhà nước phải yêu cầu bên gửi kiểm tra lại tình trạng, niêm phong của hòm/túi/gói bảo quản. Nếu có dấu hiệu nghi ngờ về tình trạng niêm phong thì hai bên cùng nhau xác nhận và lập biên bản. Bên gửi có quyền mời cơ quan giám định để kiểm tra niêm phong của hòm/túi/gói trước sự chứng kiến của Kho bạc Nhà nước.\nTrường hợp khi kiểm tra thấy hòm/túi/gói mất niêm phong hoặc không còn nguyên vẹn thì hai bên phải lập biên bản đồng thời mời cơ quan chức năng đến giải quyết theo quy định của pháp luật.\nc) Giao tài sản theo hòm/túi/gói niêm phong của bên gửi.\n3. Trong ngày làm việc, kể từ khi nhận được đầy đủ hồ sơ quy định tại khoản 1 Điều này, Kho bạc Nhà nước làm thủ tục giao tài sản."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "8",
+                    "title": "Trách nhiệm của các bên trong giao, nhận và xử lý tài sản",
+                    "position": 75,
+                    "children": [],
+                    "content": "1. Trách nhiệm của Kho bạc Nhà nước:\na) Mở các loại sổ để ghi chép, theo dõi từng lần nhập, xuất tài sản.\nb) Hướng dẫn thủ tục, tạo điều kiện thuận lợi cho bên gửi đến giao và nhận lại tài sản.\nc) Chuẩn bị đầy đủ các phương tiện: Giấy gói, dây buộc, túi, hòm, niêm phong.\nd) Giữ bí mật và bảo đảm an toàn tuyệt đối hòm/túi/gói niêm phong tài sản của bên gửi tài sản, không để xảy ra nhầm lẫn, mất mát, hư hỏng tài sản.\ne) Trả đúng, đủ tài sản theo hòm/túi/gói niêm phong cho bên gửi khi có quyết định của cấp có thẩm quyền.\nf) Thông báo kịp thời cho bên gửi tài sản biết để có biện pháp xử lý trong trường hợp niêm phong hòm/túi/gói bảo quản có thể bị hư hỏng.\ng) Kho bạc Nhà nước chịu trách nhiệm chấp hành quyết định của cấp có thẩm quyền về việc xử lý tài sản, không chịu trách nhiệm về nội dung của quyết định xử lý tài sản.\nh) Kho bạc Nhà nước không chịu trách nhiệm về số lượng, trọng lượng, chất lượng tài sản trong hòm/túi/gói còn nguyên niêm phong của bên gửi tài sản.\ni) Trước ngày 15/01 hàng năm, Kho bạc Nhà nước gửi thông báo cho đơn\nvị gửi tài sản về số liệu hòm/túi/gói tài sản chưa được xử lý gửi tại Kho bạc Nhà nước đến thời điểm ngày 31/12 năm trước.\nk) Trường hợp Kho bạc Nhà nước phát hiện mất tài sản của đơn vị gửi tài sản tại Kho bạc Nhà nước thì Kho bạc Nhà nước nơi để mất tài sản phải báo ngay cho cơ quan chức năng và đơn vị đã gửi tài sản để phối hợp giải quyết.\n2. Trách nhiệm của cơ quan, tổ chức gửi tài sản tại Kho bạc Nhà nước\na) Chấp hành các thủ tục, quy trình giao và nhận lại tài sản theo quy định.\nb) Thực hiện niêm phong tài sản theo quy định tại khoản 1 Điều 5 Thông tư này, đảm bảo nguyên tắc tài sản thuộc mỗi vụ việc được niêm phong riêng trong một hòm/túi/gói.\nc) Kiểm tra niêm phong hòm/túi/gói khi nhận lại tài sản; chịu trách nhiệm về danh mục tài sản trong hòm/túi/gói niêm phong gửi tại Kho bạc Nhà nước và toàn bộ số lượng, trọng lượng, chất lượng tài sản của mình khi nhận lại gói tài sản còn nguyên niêm phong.\nd) Trường hợp bên gửi phát hiện mất hồ sơ tài sản gửi bảo quản phải báo ngay cho Kho bạc Nhà nước bằng văn bản để phối hợp ngăn ngừa kẻ gian lấy tài sản.\nđ) Trên cơ sở thông báo của Kho bạc Nhà nước về số liệu hòm/túi/gói tài sản, đơn vị gửi tài sản có trách nhiệm kiểm tra số liệu trên sổ sách, đồng thời phản hồi bằng văn bản về Kho bạc Nhà nước nơi nhận gửi tài sản trước ngày 30/01 hàng năm.\ne) Báo cáo kịp thời cấp có thẩm quyền xử lý những tài sản tồn đọng gửi tại Kho bạc Nhà nước hoặc những tài sản đã có quyết định xử lý của cấp có thẩm quyền nhưng chưa xử lý.\ng) Khi thay đổi đơn vị gửi tài sản để bàn giao cho đơn vị khác, đơn vị nhận bàn giao phải có công văn đề nghị Kho bạc Nhà nước tiếp tục bảo quản tài sản theo Quyết định của cấp có thẩm quyền."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "9",
+                    "title": "Hiệu lực thi hành",
+                    "position": 97,
+                    "children": [],
+                    "content": "1. Thông tư này có hiệu lực thi hành từ ngày 15 tháng 02 năm 2019.\n2. Thông tư này thay thế Thông tư số 122/2012/TT-BTC ngày 27/7/2012 của Bộ Tài chính quy định việc quản lý đối với các loại tài sản quý và giấy tờ có giá do Kho bạc Nhà nước nhận gửi và bảo quản.\n3. Các đơn vị trong hệ thống Kho bạc Nhà nước; các tổ chức, cơ quan Nhà nước có liên quan trong việc giao, nhận tài sản gửi bảo quản chịu trách nhiệm thi hành Thông tư này.\nTrong quá trình thực hiện, nếu có khó khăn, vướng mắc đề nghị phản ánh kịp thời về Bộ Tài chính để nghiên cứu, giải quyết./.\nBan Bí thư Trung ương Đảng; Thủ tướng, các Phó thủ tướng Chính phủ; Văn phòng Trung ương và các Ban của Đảng; Văn phòng Tổng Bí thư; Văn phòng Quốc hội; Văn phòng Chủ tịch nước; Văn phòng Chính phủ; Viện Kiểm sát nhân dân tối cao; Tòa án nhân dân tối cao; Kiểm toán Nhà nước; Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; Cơ quan Trung ương của các đoàn thể; HĐND, UBND tỉnh, thành phố trực thuộc Trung ương; Sở Tài chính, Kho bạc Nhà nước các tỉnh, thành phố trực thuộc Trung ương; Cục kiểm tra văn bản QPPL (Bộ Tư pháp); Công báo; Cổng TTĐT Chính phủ; Cổng TTĐT Bộ Tài chính; Các đơn vị thuộc và trực thuộc Bộ Tài chính; Lưu: VT, KBNN (500b)."
+                }
+            ],
+            "metadata": {
+                "total_units": 11,
+                "total_articles": 9,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 1,
+                "source": "ocr"
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [
+            "Tài chính",
+            "Tài sản công, nợ công, dự trữ nhà nước"
+        ],
+        "edges": {
+            "amends": [
+                {
+                    "official_number_target": "122/2012/TT-BTC",
+                    "type": "REPLACE",
+                    "effective_from": "2019-02-15",
+                    "affected_articles": [],
+                    "amendment_scope": "FULL"
+                }
+            ],
+            "mentions": [],
+            "abolished": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 1,
+                "llm_count": 1,
+                "missing_in_llm": [
+                    "124/2025/TT-BTC"
+                ],
+                "extra_in_llm": [
+                    "122/2012/TT-BTC"
+                ],
+                "match": false
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "[amends] LLM thiếu target so với crawl: ['124/2025/TT-BTC']",
+            "[amends] LLM tìm thêm target không có trong crawl: ['122/2012/TT-BTC']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "135/2018/TT-BTC",
+            "target_id": "124/2025/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "",
+            "target_id": "122/2012/TT-BTC",
+            "properties": {
+                "type": "REPLACE",
+                "effective_from": "2019-02-15",
+                "affected_articles": [],
+                "amendment_scope": "FULL",
+                "source": "llm_only"
+            },
+            "_crawled": false
+        }
+    ]
+}

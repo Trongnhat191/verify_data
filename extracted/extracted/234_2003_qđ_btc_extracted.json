@@ -1,0 +1,327 @@
+{
+    "file_name": "234_2003_qđ_btc",
+    "source": "ocr_json",
+    "crawled_metadata": {
+        "officialNumber": "234/2003/QĐ-BTC",
+        "title": "Quyết định của Bộ trưởng Bộ Tài chính về việc ban hành và công bố sáu (06)chuẩn mực kế toán Việt Nam (đợt 3)",
+        "promulgationDate": "2003-12-30",
+        "effectiveDate": "2004-02-16",
+        "expirationDate": "9999-12-31",
+        "gazetteDate": null,
+        "sigerName": "Trần Văn Tá",
+        "draftingUnit": "",
+        "documentType": "VAN_BAN_KHAC",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": null,
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Quyết định",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:45Z",
+        "_doc_id": "7794"
+    },
+    "crawled_edges": [
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "234/2003/QĐ-BTC",
+            "target_id": "234/2003/QĐ-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "234_2003_qđ_btc",
+        "file_path": "/Users/dangnam/Documents/FCI/legal_knowledge_graph/graph_new/54_doc/54vb_structure/234_2003_qđ_btc/document_structure.json",
+        "official_number": null,
+        "dates": {
+            "promulgation_date": "2003-12-30",
+            "effective_date": null,
+            "expiration_date": null
+        },
+        "issuing_place": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Hà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Ban hành sáu (06) chuẩn mực kế toán Việt Nam (đợt 3) có số hiệu và tên gọi sau đây:",
+                    "position": 10,
+                    "children": [],
+                    "content": "1- Chuẩn mực số 05- Bất động sản đầu tư;\n2- Chuẩn mực số 07- Kế toán các khoản đầu tư vào công ty liên kết;\n3- Chuẩn mực số 08- Thông tin tài chính về những khoản vốn góp liên doanh;\n4- Chuẩn mực số 21- Trình bày báo cáo tài chính;\n5- Chuẩn mực số 25- Báo cáo tài chính hợp nhất và kế toán khoản đầu tư vào công ty con;\n6- Chuẩn mực số 26- Thông tin về các bên liên quan.\nĐiều 2: Sáu (06) Chuẩn mực kế toán Việt Nam ban hành kèm theo Quyết định này được áp dụng đối với tất cả các doanh nghiệp thuộc các ngành, các thành phần kinh tế trong cả nước.\nĐiều 3: Quyết định này có hiệu lực thi hành sau 15 ngày kể từ ngày đăng công báo. Các chế độ kế toán cụ thể phải căn cứ vào sáu chuẩn mực kế toán được ban hành kèm theo Quyết định này để sửa đổi, bổ sung cho phù hợp.\nĐiều 4: Vụ trưởng Vụ Chế độ kế toán và kiểm toán, Chánh Văn phòng Bộ và Thủ trưởng các đơn vị liên quan thuộc và trực thuộc Bộ Tài chính chịu trách nhiệm hướng dẫn, kiểm tra và thi hành Quyết định này."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Sáu (06) Chuẩn mực kế toán Việt Nam ban hành kèm theo Quyết định này được áp dụng đối với tất cả các doanh nghiệp thuộc các ngành, các thành phần kinh tế trong cả nước.",
+                    "position": 17,
+                    "children": [],
+                    "content": "Điều 3: Quyết định này có hiệu lực thi hành sau 15 ngày kể từ ngày đăng công báo. Các chế độ kế toán cụ thể phải căn cứ vào sáu chuẩn mực kế toán được ban hành kèm theo Quyết định này để sửa đổi, bổ sung cho phù hợp.\nĐiều 4: Vụ trưởng Vụ Chế độ kế toán và kiểm toán, Chánh Văn phòng Bộ và Thủ trưởng các đơn vị liên quan thuộc và trực thuộc Bộ Tài chính chịu trách nhiệm hướng dẫn, kiểm tra và thi hành Quyết định này."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "3",
+                    "title": "Quyết định này có hiệu lực thi hành sau 15 ngày kể từ ngày đăng công báo. Các chế độ kế toán cụ thể phải căn cứ vào sáu chuẩn mực kế toán được ban hành kèm theo Quyết định này để sửa đổi, bổ sung cho phù hợp.",
+                    "position": 18,
+                    "children": [],
+                    "content": "Điều 4: Vụ trưởng Vụ Chế độ kế toán và kiểm toán, Chánh Văn phòng Bộ và Thủ trưởng các đơn vị liên quan thuộc và trực thuộc Bộ Tài chính chịu trách nhiệm hướng dẫn, kiểm tra và thi hành Quyết định này.",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "4",
+                    "title": "Vụ trưởng Vụ Chế độ kế toán và kiểm toán, Chánh Văn phòng Bộ và Thủ trưởng các đơn vị liên quan thuộc và trực thuộc Bộ Tài chính chịu trách nhiệm hướng dẫn, kiểm tra và thi hành Quyết định này.",
+                    "position": 19,
+                    "children": [],
+                    "content": "Điều 4: Vụ trưởng Vụ Chế độ kế toán và kiểm toán, Chánh Văn phòng Bộ và Thủ trưởng các đơn vị liên quan thuộc và trực thuộc Bộ Tài chính chịu trách nhiệm hướng dẫn, kiểm tra và thi hành Quyết định này."
+                },
+                {
+                    "type": "PART",
+                    "number": "v",
+                    "title": "ốn góp của các bên góp vốn liên doanh; và",
+                    "position": 236,
+                    "children": []
+                }
+            ],
+            "metadata": {
+                "total_units": 78,
+                "total_articles": 4,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 1,
+                "depth": 1,
+                "source": "ocr"
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [
+            "Kế toán, kiểm toán",
+            "Đất đai"
+        ],
+        "edges": {
+            "amends": [],
+            "mentions": [
+                {
+                    "official_number_target": "234/2003/QĐ‑BTC",
+                    "relevance_type": "DIRECT_REFERENCE",
+                    "context": "Ban hành theo Quyết định số 234/2003/QĐ‑BTC ngày 30 tháng 12 năm 2003 của Bộ trưởng Bộ Tài chính"
+                },
+                {
+                    "official_number_target": "Chuẩn mực kế toán số 06",
+                    "relevance_type": "DIRECT_REFERENCE",
+                    "context": "Chuẩn mực này không áp dụng đối với các nội dung đã được quy định trong Chuẩn mực kế toán số 06 \"Thuê tài sản\""
+                },
+                {
+                    "official_number_target": "Chuẩn mực kế toán số 14",
+                    "relevance_type": "DIRECT_REFERENCE",
+                    "context": "theo quy định của Chuẩn mực kế toán số 14 “Doanh thu và thu nhập khác”"
+                },
+                {
+                    "official_number_target": "Chuẩn mực kế toán số 03",
+                    "relevance_type": "DIRECT_REFERENCE",
+                    "context": "áp dụng Chuẩn mực kế toán số 03 “Tài sản cố định hữu hình”"
+                },
+                {
+                    "official_number_target": "Chuẩn mực kế toán số 04",
+                    "relevance_type": "DIRECT_REFERENCE",
+                    "context": "áp dụng Chuẩn mực kế toán số 04 “Tài sản cố định vô hình”"
+                },
+                {
+                    "official_number_target": "Chuẩn mực kế toán số 16",
+                    "relevance_type": "DIRECT_REFERENCE",
+                    "context": "theo quy định của Chuẩn mực kế toán số 16 “Chi phí đi vay”"
+                },
+                {
+                    "official_number_target": "Chuẩn mực kế toán số 25",
+                    "relevance_type": "DIRECT_REFERENCE",
+                    "context": "theo quy định tại Chuẩn mực kế toán số 25 “Báo cáo tài chính hợp nhất và kế toán khoản đầu tư vào công ty con”"
+                },
+                {
+                    "official_number_target": "Chuẩn mực kế toán số 07",
+                    "relevance_type": "DIRECT_REFERENCE",
+                    "context": "theo Chuẩn mực kế toán số 07 “Kế toán các khoản đầu tư vào công ty liên kết”"
+                },
+                {
+                    "official_number_target": "Chuẩn mực kế toán số 08",
+                    "relevance_type": "DIRECT_REFERENCE",
+                    "context": "theo Chuẩn mực kế toán số 08 “Thông tin tài chính về những khoản vốn góp liên doanh”"
+                },
+                {
+                    "official_number_target": "Chuẩn mực kế toán số 21",
+                    "relevance_type": "DIRECT_REFERENCE",
+                    "context": "theo Chuẩn mực kế toán số 21 “Trình bày báo cáo tài chính”"
+                }
+            ],
+            "abolished": []
+        }
+    },
+    "verification": {
+        "official_number_match": null,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 1,
+                "llm_count": 10,
+                "missing_in_llm": [
+                    "234/2003/QĐ-BTC"
+                ],
+                "extra_in_llm": [
+                    "234/2003/QĐ‑BTC",
+                    "CHUẨNMỰCKẾTOÁNSỐ03",
+                    "CHUẨNMỰCKẾTOÁNSỐ04",
+                    "CHUẨNMỰCKẾTOÁNSỐ06",
+                    "CHUẨNMỰCKẾTOÁNSỐ07",
+                    "CHUẨNMỰCKẾTOÁNSỐ08",
+                    "CHUẨNMỰCKẾTOÁNSỐ14",
+                    "CHUẨNMỰCKẾTOÁNSỐ16",
+                    "CHUẨNMỰCKẾTOÁNSỐ21",
+                    "CHUẨNMỰCKẾTOÁNSỐ25"
+                ],
+                "match": false
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "[mentions] LLM thiếu target so với crawl: ['234/2003/QĐ-BTC']",
+            "[mentions] LLM tìm thêm target không có trong crawl: ['234/2003/QĐ‑BTC', 'CHUẨNMỰCKẾTOÁNSỐ03', 'CHUẨNMỰCKẾTOÁNSỐ04', 'CHUẨNMỰCKẾTOÁNSỐ06', 'CHUẨNMỰCKẾTOÁNSỐ07', 'CHUẨNMỰCKẾTOÁNSỐ08', 'CHUẨNMỰCKẾTOÁNSỐ14', 'CHUẨNMỰCKẾTOÁNSỐ16', 'CHUẨNMỰCKẾTOÁNSỐ21', 'CHUẨNMỰCKẾTOÁNSỐ25']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "234/2003/QĐ-BTC",
+            "target_id": "234/2003/QĐ-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "",
+            "target_id": "234/2003/QĐ‑BTC",
+            "properties": {
+                "relevance_type": "DIRECT_REFERENCE",
+                "context": "Ban hành theo Quyết định số 234/2003/QĐ‑BTC ngày 30 tháng 12 năm 2003 của Bộ trưởng Bộ Tài chính",
+                "source": "llm_only"
+            },
+            "_crawled": false
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "",
+            "target_id": "Chuẩn mực kế toán số 06",
+            "properties": {
+                "relevance_type": "DIRECT_REFERENCE",
+                "context": "Chuẩn mực này không áp dụng đối với các nội dung đã được quy định trong Chuẩn mực kế toán số 06 \"Thuê tài sản\"",
+                "source": "llm_only"
+            },
+            "_crawled": false
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "",
+            "target_id": "Chuẩn mực kế toán số 14",
+            "properties": {
+                "relevance_type": "DIRECT_REFERENCE",
+                "context": "theo quy định của Chuẩn mực kế toán số 14 “Doanh thu và thu nhập khác”",
+                "source": "llm_only"
+            },
+            "_crawled": false
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "",
+            "target_id": "Chuẩn mực kế toán số 03",
+            "properties": {
+                "relevance_type": "DIRECT_REFERENCE",
+                "context": "áp dụng Chuẩn mực kế toán số 03 “Tài sản cố định hữu hình”",
+                "source": "llm_only"
+            },
+            "_crawled": false
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "",
+            "target_id": "Chuẩn mực kế toán số 04",
+            "properties": {
+                "relevance_type": "DIRECT_REFERENCE",
+                "context": "áp dụng Chuẩn mực kế toán số 04 “Tài sản cố định vô hình”",
+                "source": "llm_only"
+            },
+            "_crawled": false
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "",
+            "target_id": "Chuẩn mực kế toán số 16",
+            "properties": {
+                "relevance_type": "DIRECT_REFERENCE",
+                "context": "theo quy định của Chuẩn mực kế toán số 16 “Chi phí đi vay”",
+                "source": "llm_only"
+            },
+            "_crawled": false
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "",
+            "target_id": "Chuẩn mực kế toán số 25",
+            "properties": {
+                "relevance_type": "DIRECT_REFERENCE",
+                "context": "theo quy định tại Chuẩn mực kế toán số 25 “Báo cáo tài chính hợp nhất và kế toán khoản đầu tư vào công ty con”",
+                "source": "llm_only"
+            },
+            "_crawled": false
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "",
+            "target_id": "Chuẩn mực kế toán số 07",
+            "properties": {
+                "relevance_type": "DIRECT_REFERENCE",
+                "context": "theo Chuẩn mực kế toán số 07 “Kế toán các khoản đầu tư vào công ty liên kết”",
+                "source": "llm_only"
+            },
+            "_crawled": false
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "",
+            "target_id": "Chuẩn mực kế toán số 08",
+            "properties": {
+                "relevance_type": "DIRECT_REFERENCE",
+                "context": "theo Chuẩn mực kế toán số 08 “Thông tin tài chính về những khoản vốn góp liên doanh”",
+                "source": "llm_only"
+            },
+            "_crawled": false
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "",
+            "target_id": "Chuẩn mực kế toán số 21",
+            "properties": {
+                "relevance_type": "DIRECT_REFERENCE",
+                "context": "theo Chuẩn mực kế toán số 21 “Trình bày báo cáo tài chính”",
+                "source": "llm_only"
+            },
+            "_crawled": false
+        }
+    ]
+}

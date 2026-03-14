@@ -1,0 +1,255 @@
+{
+    "file_name": "04_2022_tt_btc",
+    "source": "ocr_json",
+    "crawled_metadata": {
+        "officialNumber": "04/2022/TT-BTC",
+        "title": "Hướng dẫn chức năng, nhiệm vụ, quyền hạn của cơ quan tài chính địa phương thuộc Ủy ban Nhân dân cấp tỉnh và Ủy ban Nhân dân cấp huyện",
+        "promulgationDate": "2022-01-28",
+        "effectiveDate": "2022-03-15",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "sigerName": "Hồ Đức Phớc",
+        "draftingUnit": "Vụ Tổ chức Cán bộ",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:21Z",
+        "_doc_id": "105708"
+    },
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "04/2022/TT-BTC",
+            "target_id": "107/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "04/2022/TT-BTC",
+            "target_id": "108/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "04/2022/TT-BTC",
+            "target_id": "120/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "04/2022/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "04/2022/TT-BTC",
+            "target_id": "37/2014/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "04/2022/TT-BTC",
+            "target_id": "24/2014/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "04_2022_tt_btc",
+        "file_path": "/Users/dangnam/Documents/FCI/legal_knowledge_graph/graph_new/54_doc/54vb_structure/04_2022_tt_btc/document_structure.json",
+        "official_number": "04/2022/TT-BTC",
+        "dates": {
+            "promulgation_date": "2022-01-28",
+            "effective_date": null,
+            "expiration_date": null
+        },
+        "issuing_place": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Hà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Vị trí và chức năng",
+                    "position": 10,
+                    "children": [],
+                    "content": "1. Sở Tài chính là cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh, thực hiện chức năng tham mưu, giúp Ủy ban nhân dân cấp tỉnh quản lý nhà nước về tài chính; ngân sách nhà nước; nợ chính quyền địa phương, phí, lệ phí và thu khác của ngân sách nhà nước; tài sản công; các quỹ tài chính nhà nước ngoài ngân sách; đầu tư tài chính; tài chính doanh nghiệp; kế toán; kiểm toán độc lập; lĩnh vực giá và các hoạt động dịch vụ tài chính tại địa phương theo quy định của pháp luật.\n2. Sở Tài chính có tư cách pháp nhân, có con dấu và tài khoản riêng; chấp hành chỉ đạo, quản lý về tổ chức, biên chế và công tác của Ủy ban nhân dân cấp tỉnh theo thẩm quyền; đồng thời chấp hành chỉ đạo, hướng dẫn, kiểm tra, thanh tra, về chuyên môn, nghiệp vụ của Bộ Tài chính."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Nhiệm vụ và quyền hạn",
+                    "position": 14,
+                    "children": [],
+                    "content": "1. Trình Ủy ban nhân dân cấp tỉnh:\na) Dự thảo quyết định của Ủy ban nhân dân cấp tỉnh liên quan đến các lĩnh vực thuộc phạm vi quản lý của Sở Tài chính và các văn bản khác theo phân công của Ủy ban nhân dân cấp tỉnh;\nb) Dự thảo kế hoạch phát triển, chương trình, biện pháp tổ chức thực hiện các nhiệm vụ về lĩnh vực tài chính - ngân sách, các nhiệm vụ cải cách hành chính nhà nước thuộc lĩnh vực quản lý nhà nước của Sở theo quy định của pháp luật;\nc) Dự thảo quyết định việc phân cấp, ủy quyền nhiệm vụ quản lý nhà nước về lĩnh vực tài chính - ngân sách cho Sở Tài chính và Ủy ban nhân dân cấp huyện;\nd) Dự thảo quyết định thành lập, tổ chức lại, giải thể các đơn vị sự nghiệp công lập thuộc Sở theo quy định của pháp luật;\nđ) Dự thảo quyết định quy định cụ thể chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở;\ne) Dự thảo quyết định thực hiện xã hội hóa các hoạt động cung ứng dịch vụ sự nghiệp công theo ngành, lĩnh vực thuộc thẩm quyền của Ủy ban nhân dân cấp tỉnh và theo phân cấp của cơ quan nhà nước cấp trên (nếu có);\n2. Trình Chủ tịch Ủy ban nhân dân cấp tỉnh dự thảo các văn bản thuộc thẩm quyền ban hành của Chủ tịch Ủy ban nhân dân cấp tỉnh theo phân công về lĩnh vực quản lý nhà nước của Sở.\n3. Tổ chức thực hiện các văn bản quy phạm pháp luật, quy hoạch, kế hoạch, đề án, dự án, chương trình đã được cấp có thẩm quyền quyết định, phê duyệt; thông tin, tuyên truyền, hướng dẫn, kiểm tra, theo dõi thi hành pháp luật về lĩnh vực thuộc phạm vi quản lý nhà nước được giao.\n4. Về quản lý ngân sách nhà nước\na) Xây dựng, tổng hợp, lập, trình Ủy ban nhân dân cấp tỉnh để trình cấp có thẩm quyền kế hoạch tài chính 05 năm địa phương, kế hoạch tài chính - ngân sách nhà nước 03 năm; dự toán thu ngân sách nhà nước trên địa bàn, dự toán thu, chi ngân sách địa phương và phương án phân bổ ngân sách cấp tỉnh hàng năm; điều chỉnh kế hoạch tài chính 05 năm địa phương, kế hoạch tài chính - ngân sách nhà nước 03 năm, dự toán ngân sách địa phương và phương án phân bổ ngân sách cấp tỉnh trong trường hợp cần thiết;\nb) Xây dựng, trình Ủy ban nhân dân cấp tỉnh để trình cơ quan có thẩm quyền quyết định phương án bổ sung dự toán số tăng thu của ngân sách địa\nphương, phương án phân bổ, sử dụng số tăng thu và tiết kiệm chi của ngân sách địa phương và phương án điều chỉnh dự toán ngân sách địa phương theo quy định;\nc) Xây dựng, trình Ủy ban nhân dân cấp tỉnh để trình cấp có thẩm quyền quy định phân cấp nguồn thu, nhiệm vụ chi, tỷ lệ phần trăm (%) phân chia giữa các cấp ngân sách ở địa phương đối với các khoản thu phân chia và mức bổ sung từ ngân sách cấp trên cho ngân sách cấp dưới theo quy định của Luật Ngân sách nhà nước;\nd) Trình Ủy ban nhân dân cấp tỉnh để trình cấp có thẩm quyền quyết định sử dụng dự phòng ngân sách cấp tỉnh, sử dụng quỹ dự trữ tài chính của địa phương và các nguồn dự trữ tài chính khác theo quy định của pháp luật;\nd) Chủ trì, phối hợp với các cơ quan có liên quan trong việc xây dựng, trình Ủy ban nhân dân cấp tỉnh để trình cấp có thẩm quyền quy định các định mức phân bổ và các chế độ, tiêu chuẩn, định mức chi ngân sách của địa phương theo quy định của pháp luật về ngân sách nhà nước;\ne) Tham mưu, tổ chức thực hiện ngân sách địa phương, điều hành ngân sách địa phương theo thẩm quyền; theo dõi, đôn đốc việc tổ chức thực hiện dự toán ngân sách cấp tỉnh và cấp dưới;\ng) Kiểm tra việc phân bổ dự toán ngân sách được giao; hướng dẫn việc quản lý, điều hành ngân sách; chỉ đạo, kiểm tra việc thực hiện nhiệm vụ thu, chi ngân sách của các cơ quan, đơn vị cùng cấp và ngân sách của cấp dưới;\nh) Hướng dẫn việc hạch toán, quyết toán ngân sách địa phương và định kỳ báo cáo việc thực hiện dự toán thu, chi ngân sách và tổ chức thực hiện chế độ công khai tài chính ngân sách của nhà nước theo quy định của pháp luật;\ni) Tổng hợp, lập quyết toán ngân sách địa phương trình Ủy ban nhân dân cấp tỉnh để trình cấp có thẩm quyền quyết toán ngân sách địa phương theo quy định của Luật Ngân sách nhà nước;\nk) Trình Ủy ban nhân dân cấp tỉnh quyết định chi ứng trước, thu hồi các khoản chi ứng trước của ngân sách cấp tỉnh theo quy định của Luật Ngân sách nhà nước và các văn bản hướng dẫn thực hiện;\nl) Phối hợp với Kho bạc Nhà nước cấp tỉnh lập báo cáo tài chính theo quy định của pháp luật.\n5. Về quản lý vốn đầu tư phát triển\na) Phối hợp với Sở Kế hoạch và Đầu tư, các cơ quan có liên quan để tham mưu Ủy ban nhân dân cấp tỉnh về: chiến lược thu hút, huy động, sử dụng vốn đầu tư ngắn hạn, dài hạn trong và ngoài nước; thẩm định về các đề án, quy hoạch, chủ trương đầu tư, các dự án đầu tư; xây dựng các chính sách, biện pháp điều phối và nâng cao hiệu quả sử dụng nguồn vốn hỗ trợ phát triển chính thức (ODA) trên địa bàn. Giúp Ủy ban nhân dân cấp tỉnh quản lý nhà nước về tài chính đối với các chương trình, dự án ODA trên địa bàn;\nb) Phối hợp với Sở Kế hoạch và Đầu tư và các cơ quan liên quan: xây dựng phương án phân bổ kế hoạch đầu tư công trung hạn, hàng năm từ nguồn vốn ngân sách nhà nước và các nguồn vốn hợp pháp khác theo quy định; thẩm định nguồn vốn và khả năng cân đối vốn đối với chương trình, dự án sử dụng vốn đầu tư công; điều chỉnh, điều hòa kế hoạch vốn đầu tư công đối với các dự án đầu tư do địa phương quản lý; tham mưu Ủy ban nhân dân cấp tỉnh trong việc phân bổ các nguồn vốn đầu tư công của ngân sách tỉnh, bao gồm nguồn bổ sung của ngân sách trung ương và nguồn cân đối ngân sách cấp tỉnh từ nguồn ngân sách tính vay lại.\nc) Thực hiện kiểm tra việc phân bổ dự toán ngân sách nhà nước chi đầu tư công của các đơn vị dự toán cấp I; nhập và phê duyệt dự toán trên hệ thống Tabmis theo quy định của Bộ Tài chính;\nd) Tham gia với Sở Kế hoạch và Đầu tư và các cơ quan liên quan về nội dung tài chính, các chính sách ưu đãi tài chính đối với các dự án;\nđ) Kiểm tra tình hình thực hiện phân bổ, quản lý, sử dụng, thanh toán, quyết toán vốn đầu tư thuộc ngân sách địa phương của chủ đầu tư và cơ quan tài chính huyện, xã và vốn từ các nguồn thu hợp pháp khác của đơn vị sự nghiệp; tình hình kiểm soát, thanh toán vốn đầu tư của Kho bạc Nhà nước ở tỉnh, huyện;\ne) Chủ trì tổ chức thẩm tra quyết toán vốn đầu tư dự án hoàn thành trình người có thẩm quyền quyết định đầu tư phê duyệt đối với các dự án sử dụng vốn đầu tư công thuộc ngân sách do Ủy ban nhân dân cấp tỉnh quản lý (trừ trường hợp Chủ tịch Ủy ban nhân dân cấp tỉnh có quy định khác).\ng) Trình Ủy ban nhân dân cấp tỉnh quy định trình tự, thời hạn lập, gửi, xét duyệt, thẩm định và ra thông báo thẩm định báo cáo quyết toán vốn đầu tư công nguồn ngân sách nhà nước; tổng hợp, báo cáo quyết toán vốn đầu tư công nguồn ngân sách nhà nước theo năm ngân sách do địa phương quản lý theo quy định.\nh) Phối hợp với Sở Kế hoạch và Đầu tư tổng hợp, phân tích, báo cáo tình hình huy động và sử dụng vốn đầu tư, đánh giá hiệu quả quản lý, sử dụng vốn đầu tư;\ni) Phối hợp với Kho bạc Nhà nước cấp tỉnh theo dõi và đôn đốc các chủ đầu tư, đơn vị quản lý dự án thu hồi số vốn đã thanh toán thừa khi dự án hoàn thành được phê duyệt quyết toán có số vốn được quyết toán thấp hơn số vốn đã thanh toán cho dự án và đôn đốc thu hồi các khoản tạm ứng vốn đầu tư xây dựng cơ bản quá hạn chưa thu hồi.\n6. Về quản lý tài chính đối với đất dai\na) Là cơ quan thường trực Hội đồng thẩm định bảng giá đất, Hội đồng thẩm định giá đất cụ thể, thực hiện và chịu trách nhiệm về các nhiệm vụ theo quy định của Luật đất đai hiện hành;\nb) Chủ trì xây dựng và trình Ủy ban nhân dân cấp tỉnh ban hành hệ số điều chỉnh giá đất để tính thu tiền sử dụng đất, thu tiền thuê đất, xác định giá khởi điểm để đấu giá quyền sử dụng đất; mức tỷ lệ phần trăm (%) cụ thể để xác\nđịnh đơn giá thuê đất để tính thu tiền thuê đất, xác định giá khởi điểm đế đấu giá quyền sử dụng đất trả tiền thuê đất hàng năm;\nc) Chủ trì báo cáo Ủy ban nhân dân cấp tỉnh quyết định tăng hệ số điều chỉnh giá đất để xác định giá khởi điểm để đấu giá quyền sử dụng đất trong trường hợp thửa đất hoặc khu đất đấu giá thuộc đô thị, đầu mối giao thông, khu dân cư tập trung có lợi thế, khả năng sinh lợi;\nd) Chủ trì xác định và trình Ủy ban nhân dân cấp tỉnh quy định mức tỷ lệ phần trăm (%) đế tính thu tiền thuê đất đối với đất xây dựng công trình ngầm, đất có mặt nước, mặt nước thuê;\nđ) Chủ trì xác định các khoản được trừ vào tiền sử dụng đất, tiền thuê đất, thuê mặt nước;\ne) Chủ trì xây dựng trình Ủy ban nhân dân cấp tỉnh để trình cấp có thẩm quyền ban hành mức thu tiền bảo vệ, phát triển đất trồng lúa theo quy định;\ng) Chủ trì xác định giá khởi điểm để đấu giá quyền sử dụng đất trong trường hợp xác định giá khởi điểm theo phương pháp hệ số điều chỉnh giá đất theo quy định của pháp luật về đất đai.\n7. Về quản lý tài sản công tại địa phương\na) Xây dựng, trình Uỷ ban nhân dân cấp tỉnh các văn bản quy định chi tiết, hướng dẫn về quản lý, sử dụng tài sản công thuộc phạm vi quản lý của địa phương;\nb) Tham mưu giúp Ủy ban nhân dân cấp tỉnh trình Hội đồng nhân dân cấp tỉnh phân cấp thẩm quyền quyết định trong việc quản lý, sử dụng tài sản công thuộc phạm vi quản lý của địa phương;\nc) Tham mưu Ủy ban nhân dân cấp tỉnh thực hiện nhiệm vụ quản lý nhà nước đối với tài sản công, ban hành danh mục mua sắm tập trung cấp tỉnh (trừ thuốc chữa bệnh, vật tư y tế và các tài sản chuyên dùng) theo quy định của pháp luật; quản lý cơ sở dữ liệu về tài sản công thuộc phạm vi quản lý của địa phương; báo cáo kê khai tài sản công và tình hình quản lý, sử dụng tài sản công theo quy định của pháp luật và phân công của Uỷ ban nhân dân cấp tỉnh;\nd) Chủ trì hoặc phối hợp với các cơ quan chức năng xây dựng, trình Ủy ban nhân dân cấp tỉnh ban hành hoặc phân cấp thẩm quyền ban hành theo quy định đối với tiêu chuẩn, định mức sử dụng diện tích chuyên dùng; xe ô tô chuyên dùng; máy móc, thiết bị chuyên dùng của các cơ quan, tổ chức, đơn vị thuộc phạm vi quản lý của địa phương theo quy định của pháp luật;\nđ) Thẩm định, có ý kiến đối với các nhiệm vụ do cơ quan, người có thẩm quyền thuộc cấp tỉnh xem xét, quyết định theo quy định của pháp luật về quản lý, sử dụng tài sản công;\ne) Quyết định theo thẩm quyền các nội dung về quản lý, sử dụng tài sản công theo phân cấp của Hội đồng nhân dân cấp tỉnh, phân cấp của Ủy ban nhân dân cấp tỉnh; tổ chức thực hiện các quyết định về hình thành, sử dụng, xử lý tài\nsản công do cơ quan, người có thẩm quyền thuộc cấp tỉnh giao theo quy định của pháp luật về quản lý, sử dụng tài sản công;\ng) Thực hiện việc quản lý hóa đơn bán tài sản công, báo cáo tình hình quản lý, sử dụng hóa đơn, thanh quyết toán sử dụng hóa đơn của các cơ quan, tổ chức, đơn vị thuộc phạm vi quản lý của địa phương;\nh) Chủ trì, phối hợp với các cơ quan, tố chức, đơn vị, doanh nghiệp có liên quan lập phương án sắp xếp lại, xử lý nhà, đất của cơ quan, tổ chức, đơn vị, doanh nghiệp thuộc phạm vi quản lý của địa phương trình Ủy ban nhân dân cấp tỉnh hoặc cấp có thấm quyền phê duyệt theo quy định của pháp luật về sắp xếp lại, xử lý tài sản công. Tham mưu Uỷ ban nhân dân cấp tỉnh có ý kiến với các Bộ, ngành đối với phương án sắp xếp lại, xử lý nhà, đất thuộc Trung ương quản lý và nhà, đất thuộc các địa phương khác trên địa bàn tỉnh;\ni) Làm chủ tài khoản tạm giữ quản lý số tiền thu được từ xử lý, khai thác tài sản công theo quy định của pháp luật;\nk) Tham mưu, trình Chủ tịch Ủy ban nhân dân cấp tỉnh hoặc người có thẩm quyền được Hội đồng nhân dân cấp tỉnh phân cấp quyết định: xác lập sở hữu toàn dân về tài sản, phê duyệt phương án xử lý tài sản được xác lập sở hữu toàn dân đối với các loại tài sản được giao trách nhiệm tại các văn bản pháp luật quy định về trình tự, thủ tục xác lập quyền sở hữu toàn dân về tài sản và xử lý đối với tài sản được xác lập quyền sở hữu toàn dân.\n8. Về quán lý nhà nước về tài chính đối với các quỹ tài chính nhà nước ngoài ngân sách\na) Phối hợp cơ quan quản lý quỹ tài chính ngoài ngân sách của địa phương tổng hợp, báo cáo tình hình thực hiện kế hoạch tài chính, kế hoạch tài chính năm sau và quyết toán thu, chi quỹ gửi Ủy ban nhân dân để báo cáo Hội đồng nhân dân cấp tỉnh cùng với báo cáo dự toán và quyết toán ngân sách địa phương; phối hợp giải trình Hội đồng nhân dân cùng cấp khi có yêu cầu;\nb) Thực hiện nhiệm vụ theo quy định của Chính phủ về thành lập, tổ chức và hoạt động của các Quỹ và các nhiệm vụ khác do Ủy ban nhân dân cấp tỉnh phân công.\n9. Về quản lý tài chính doanh nghiệp\na) Hướng dẫn thực hiện các chính sách, chế độ quản lý tài chính doanh nghiệp của các loại hình doanh nghiệp, tài chính hợp tác xã và kinh tế tập thể: chính sách tài chính phục vụ chuyển đối sở hữu, sắp xếp lại doanh nghiệp do nhà nước nắm giữ 100% vốn diều lệ và doanh nghiệp có vốn nhà nước do địa phương thành lập, được giao quản lý hoặc góp vốn theo quy định của pháp luật; chuyển đổi đơn vị sự nghiệp công lập thành công ty cổ phần, chế độ quản lý, bảo toàn và phát triển vốn nhà nước tại doanh nghiệp;\nb) Tham mưu Ủy ban nhân dân tỉnh theo phân công việc quản lý phần vốn và tài sản nhà nước dầu tư tại các doanh nghiệp, tổ chức kinh tế hợp tác, kinh tế\nc) Chủ trì, phối hợp với các cơ quan có liên quan tổ chức công tác kiểm tra chấp hành pháp luật về giá;\nd) Tổ chức hiệp thương giá theo quy định của pháp luật;\nđ) Chủ trì, phối hợp với các cơ quan liên quan để trình Ủy ban nhân dân cấp tỉnh triển khai thực hiện biện pháp bình ốn giá do Chính phủ quyết định và theo hướng dẫn của Bộ Tài chính, các bộ, cơ quan ngang bộ;\ne) Tham mưu Ủy ban nhân dân tỉnh phân công nhiệm vụ tiếp nhận đăng ký giá, kê khai giá cho Sở Tài chính và các Sở quản lý ngành, lĩnh vực theo quy định; tham mưu việc bổ sung mặt hàng thực hiện kê khai giá tại địa phương trong các trường hợp cần thiết;\ng) Tham mưu Ủy ban nhân dân cấp tỉnh trong việc phân công và tổ chức thực hiện thẩm định giá của nhà nước thuộc địa phương quản lý theo quy định của pháp luật; chủ trì, phối hợp với các cơ quan có liên quan thực hiện thẩm định giá nhà nước theo phân công, phân cấp của Ủy ban nhân dân tỉnh;\nh) Thực hiện nhiệm vụ thu thập, theo dõi, tổng hợp, phân tích diễn biến giá cả thị trường trên địa bàn theo quy định và các chỉ đạo về công tác quản lý, điều hành giá của Thủ tướng Chính phủ, Bộ Tài chính;\ni) Xây dựng, quản lý, vận hành và khai thác cơ sở dữ liệu về giá trên địa bàn theo quy định của pháp luật;\nk) Chủ trì tham mưu Ủy ban nhân dân cấp tỉnh thực hiện nhiệm vụ định giá tài sản trong tố tụng hình sự theo quy định của pháp luật.\n11. Về quản lý nợ chính quyền địa phương\na) Xây dựng kế hoạch vay, trả nợ 05 năm, hằng năm và chương trình quản lý nợ 03 năm của chính quyền địa phương để báo cáo Ủy ban nhân dân cấp tỉnh xem xét, quyết định hoặc trình cấp có thẩm quyền quyết định theo quy định của pháp luật về quản lý nợ của chính quyền địa phương.\nb) Căn cứ dự toán chi ngân sách địa phương và nguồn tài chính của địa phương đã được cấp có thẩm quyền quyết định, thực hiện thanh toán nợ gốc, lãi, phí và các chi phí khác liên quan đến khoản vay của chính quyền địa phương đầy đủ, đúng hạn;\nc) Phối hợp với Kho bạc nhà nước theo dõi, hạch toán, quyết toán các khoản rút vốn vay, nhận nợ, trả nợ thuộc nghĩa vụ nợ của ngân sách cấp tỉnh.\nd) Xây dựng phương án phát hành trái phiếu chính quyền địa phương, các khoản vay khác trong nước báo cáo Ủy ban nhân dân cấp tỉnh để báo cáo cấp có thẩm quyền xem xét, quyết định;\nđ) Xây dựng và duy trì cơ sở dữ liệu nợ chính quyền địa phương.\n12. Thống nhất quản lý về tài chính đối với các khoản viện trợ thuộc nguồn thu ngân sách địa phương theo quy định của pháp luật.\n13. Hướng dẫn việc thực hiện cơ chế tự chủ về tài chính của các đơn vị sự nghiệp công lập và chế độ tự chủ, tự chịu trách nhiệm về kinh phí quản lý hành chính đối với các cơ quan hành chính nhà nước theo quy định của pháp luật; tham gia ý kiến đối với phương án tự chủ tài chính năm đầu thời kỳ ổn định của các đơn vị sự nghiệp công lập thuộc phạm vi quản lý của Ủy ban nhân dân cấp tỉnh theo quy định; phối hợp với các cơ quan chuyên ngành ở địa phương kiểm tra việc thực hiện giao nhiệm vụ, đặt hàng, đấu thầu cung cấp sản phẩm, dịch vụ công thuộc nhiệm vụ chi của ngân sách địa phương.\n14. Phối hợp với cơ quan có liên quan trong việc thực hiện công tác quản lý thu phí, lệ phí và các khoản thu khác trên địa bàn.\n15. Hướng dẫn các đơn vị, tổ chức thực hiện đúng chế độ kê khai, cấp, đăng ký, sử dụng mã số đơn vị quan hệ ngân sách và triển khai các công việc khác được phân công theo quy định của pháp luật.\n16. Tổ chức triển khai ứng dụng công nghệ thông tin; xây dựng, quản lý và khai thác hệ thống thông tin, cơ sở dữ liệu, lưu trữ phục vụ công tác quản lý tài chính, quản lý giá, quản lý tài sản và chuyên môn nghiệp vụ được giao; tổng hợp các chỉ tiêu thống kê trong Hệ thống chỉ tiêu thống kê ngành Tài chính và Chế độ báo cáo thống kê ngành Tài chính theo quy định; chủ trì công bố số liệu tài chính, cung cấp thông tin thống kê tài chính trên địa bàn theo quy định của pháp luật.\n17. Thực hiện thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo theo thẩm quyền thuộc phạm vi quản lý nhà nước của Sở Tài chính; tuyên truyền, hướng dẫn, kiểm tra, đôn đốc cơ quan, đơn vị thuộc quyền quản lý của Sở Tài chính trong việc thực hiện pháp luật về thanh tra, phòng chống tham nhũng, tiêu cực và thực hành tiết kiệm chống lãng phí; tổng kết, rút kinh nghiệm về công tác thanh tra trong phạm vi quản lý nhà nước của Sở Tài chính; tổng hợp kết quả thực hiện kiến nghị của thanh tra, kiểm toán nhà nước về lĩnh vực tài chính ngân sách báo cáo Uỷ ban nhân dân cấp tỉnh.\n18. Quy định cụ thể chức năng, nhiệm vụ, quyền hạn của các đơn vị thuộc và trực thuộc Sở Tài chính (trừ các đơn vị thuộc thẩm quyền của Ủy ban nhân dân cấp tỉnh và Chủ tịch Ủy ban nhân dân cấp tỉnh) theo quy định của pháp luật; Quản lý tổ chức bộ máy, biên chế công chức, cơ cấu ngạch công chức, vị trí việc làm, cơ cấu viên chức theo chức danh nghề nghiệp và số lượng người làm việc trong các đơn vị sự nghiệp công lập; thực hiện các chính sách, chế độ về công tác cán bộ đối với công chức, viên chức và lao động thuộc phạm vi quản lý của Sở theo quy định của pháp luật và theo phân công, phân cấp của Uỷ ban nhân dân cấp tỉnh.\n19. Tham gia hợp tác quốc tế, ký kết và thực hiện thỏa thuận quốc tế trong lĩnh vực tài chính theo quy định của pháp luật về ký kết và thực hiện thỏa thuận quốc tế.\n20. Thực hiện công tác thông tin, báo cáo định kỳ, báo cáo chuyên đề và đột xuất về tình hình thực hiện nhiệm vụ được giao với Ủy ban nhân dân cấp tỉnh, các bộ, cơ quan ngang bộ.\n21. Chủ trì, phối hợp với Sở Tư pháp thực hiện các nhiệm vụ về giám định tư pháp thuộc lĩnh vực chuyên môn quản lý ở địa phương theo quy định của pháp luật về giám định tư pháp.\n22. Thực hiện các nhiệm vụ khác do Uỷ ban nhân dân, Chủ tịch Uỷ ban nhân dân cấp tỉnh giao và theo quy định của pháp luật."
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "II",
+                    "title": "PHÒNG TÀI CHÍNH - KẾ HOẠCH",
+                    "position": 106,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "3",
+                            "title": "Vị trí và chức năng trong lĩnh vực tài chính - ngân sách",
+                            "position": 107,
+                            "children": [],
+                            "content": "1. Phòng Tài chính - Kế hoạch là cơ quan chuyên môn thuộc Uỷ ban nhân dân cấp huyện, có chức năng tham mưu, giúp Uỷ ban nhân dân cấp huyện thực hiện chức năng quản lý nhà nước về lĩnh vực tài chính - ngân sách và thực hiện một số nhiệm vụ, quyền hạn theo sự ủy quyền của Uỷ ban nhân dân cấp huyện và theo quy định của pháp luật.\nViệc thực hiện chức năng tham mưu, giúp Uỷ ban nhân dân cấp huyện thực hiện chức năng quản lý nhà nước trong lĩnh vực quy hoạch, kế hoạch và đầu tư (thuộc trách nhiệm của Bộ Kế hoạch và Đầu tư) của Phòng Tài chính - Kế hoạch theo quy định do Bộ Kế hoạch và Đầu tư hướng dẫn.\n2. Phòng Tài chính - Kế hoạch có con dấu và tài khoản riêng; chấp hành sự chỉ đạo, quản lý về tổ chức, vị trí việc làm, biên chế công chức, cơ cấu ngành công chức và công tác của Uỷ ban nhân dân cấp huyện; đồng thời chấp hành sự chỉ đạo, kiểm tra, hướng dẫn về chuyên môn nghiệp vụ của Sở Tài chính."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "4",
+                            "title": "Nhiệm vụ và quyền hạn trong lĩnh vực tài chính - ngân sách",
+                            "position": 111,
+                            "children": [],
+                            "content": "1. Trình Uỷ ban nhân dân cấp huyện, Chủ tịch Uỷ ban nhân dân cấp huyện:\na) Trình Uỷ ban nhân dân cấp huyện: Dự thảo quyết định quy hoạch, kế hoạch phát triển trung hạn và hàng năm; chương trình, biện pháp tổ chức thực hiện các nhiệm vụ cải cách hành chính nhà nước thuộc lĩnh vực quản lý nhà nước được giao; dự thảo văn bản quy định cụ thể chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Phòng Tài chính - Kế hoạch thuộc Uỷ ban nhân dân cấp huyện;\nb) Trình Chủ tịch Uỷ ban nhân dân cấp huyện dự thảo các văn bản về lĩnh vực tài chính - ngân sách thuộc thẩm quyền ban hành của Chủ tịch Uỷ ban nhân dân cấp huyện theo phân công.\n2. Tổ chức thực hiện các văn bản pháp luật, các chương trình, kế hoạch và các văn bản khác trong lĩnh vực tài chính - ngân sách sau khi đã được cấp có thẩm quyền phê duyệt; thông tin, tuyên truyền, phổ biến, giáo dục pháp luật và theo dõi thi hành pháp luật trong lĩnh vực tài chính - ngân sách trên địa bàn.\n3. Hướng dẫn các cơ quan, đơn vị dự toán thuộc huyện, Ủy ban nhân dân cấp xã xây dựng dự toán ngân sách hàng năm, tổng hợp trình Ủy ban nhân dân cấp huyện theo quy định.\n4. Là đơn vị đầu mối tổng hợp, lập dự toán thu ngân sách nhà nước đối với những khoản thu được phân cấp quản lý, dự toán chi ngân sách cấp huyện và tổng hợp dự toán ngân sách cấp xã, phương án phân bổ ngân sách huyện trình Ủy ban nhân dân cấp huyện; lập dự toán ngân sách điều chỉnh trong trường hợp cần thiết đề trình Ủy ban nhân dân cấp huyện; tổ chức thực hiện dự toán ngân sách đã được quyết định.\n5. Hướng dẫn, kiểm tra việc quản lý tài chính, ngân sách, giá, thực hiện chế độ kế toán của chính quyền cấp xã, tài chính hợp tác xã, tài chính kinh tế tập thể và các cơ quan, đơn vị hành chính, sự nghiệp của nhà nước thuộc cấp huyện.\n6. Phối hợp với cơ quan có liên quan trong việc quản lý công tác thu ngân sách nhà nước trên địa bàn theo quy định của pháp luật.\n7. Chủ trì tổ chức thẩm tra quyết toán vốn đầu tư dự án hoàn thành đối với các dự án sử dụng vốn đầu tư công thuộc ngân sách do Ủy ban nhân dân cấp huyện quản lý (trừ trường hợp Chủ tịch Ủy ban nhân dân cấp huyện có quy định khác) và dự án sử dụng vốn đầu tư công thuộc ngân sách Ủy ban nhân dân cấp xã khi có đề nghị bằng văn bản của Chủ tịch Ủy ban nhân dân cấp xã; thẩm định quyết toán thu, chi ngân sách xã; lập quyết toán thu, chi ngân sách huyện; tổng hợp, lập báo cáo quyết toán thu ngân sách nhà nước trên địa bàn huyện và quyết toán thu, chi ngân sách cấp huyện (bao gồm quyết toán thu, chi ngân sách huyện và quyết toán thu, chi ngân sách cấp xã) báo cáo Ủy ban nhân dân huyện để trình cơ quan có thẩm quyền phê chuẩn.\n8. Quản lý tài sản công tại các cơ quan, tổ chức, đơn vị thuộc cấp huyện quản lý theo quy định của pháp luật về quản lý, sử dụng tài sản công và phân cấp của Hội đồng nhân dân cấp tỉnh. Thẩm định, có ý kiến đối với các nhiệm vụ do cơ quan, người có thẩm quyền thuộc cấp huyện xem xét, quyết định theo quy định của pháp luật về quản lý, sử dụng tài sản công; tổ chức thực hiện các quyết định về hình thành, sử dụng, xử lý tài sản công do cơ quan, người có thẩm quyền thuộc cấp huyện giao theo quy định của pháp luật về quản lý, sử dụng tài sản công. Làm chủ tài khoản tạm giữ quản lý số tiền thu được từ xử lý, khai thác tài sản công theo quy định của pháp luật.\n9. Quản lý nguồn kinh phí được uỷ quyền của cấp trên; quản lý các dịch vụ tài chính theo quy định của pháp luật.\n10. Quản lý giá theo quy định của Ủy ban nhân dân cấp tỉnh; kiểm tra việc chấp hành niêm yết giá và bán theo giá niêm yết của các tổ chức, cá nhân kinh doanh hoạt động trên địa bàn; tổ chức thực hiện tiếp nhận kê khai giá theo phân công, phân cấp của Ủy ban nhân dân tỉnh và theo quy định của pháp luật; chủ trì thực hiện thẩm định giá đối với tài sản nhà nước địa phương theo phân cấp của Ủy ban nhân dân cấp tỉnh; chủ trì, tham mưu cho Ủy ban nhân dân cấp huyện\nthực hiện nhiệm vụ định giá tài sản trong tố tụng hình sự và thực hiện nhiệm vụ thẩm định giá của nhà nước theo quy định của pháp luật.\n11. Triển khai ứng dụng tiến bộ khoa học, công nghệ; xây dựng hệ thống thông tin, lưu trữ phục vụ công tác quản lý tài chính và chuyên môn nghiệp vụ được giao.\n12. Thực hiện chế độ thông tin báo cáo định kỳ và đột xuất về tài chính, ngân sách, đầu tư, giá thị trường với Ủy ban nhân dân cấp huyện và Sở Tài chính theo quy định.\n13. Chủ trì, phối hợp với các cơ quan, đơn vị có liên quan kiểm tra việc chấp hành pháp luật tài chính - ngân sách; giúp Ủy ban nhân dân cấp huyện giải quyết các tranh chấp, khiếu nại, tố cáo về lĩnh vực tài chính - ngân sách theo quy định của pháp luật.\n14. Quản lý cán bộ, công chức, tài chính, tài sản được giao theo quy định của pháp luật và phân công của Ủy ban nhân dân cấp huyện.\n15. Cấp phát, thanh toán, thẩm định quyết toán kinh phí cho các đơn vị, tổ chức, cá nhân theo quy định của pháp luật về ngân sách nhà nước.\n16. Thực hiện các nhiệm vụ khác về quản lý nhà nước trong lĩnh vực tài chính theo phân công, phân cấp hoặc uỷ quyền của Ủy ban nhân dân cấp huyện và theo quy định của pháp luật."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "5",
+                            "title": "Chi cục Tài chính doanh nghiệp",
+                            "position": 134,
+                            "children": [],
+                            "content": "1. Vị trí và chức năng\nChi cục Tài chính doanh nghiệp (nếu có) là tổ chức hành chính trực thuộc Sở Tài chính, có tư cách pháp nhân, có con dấu và tài khoản riêng, giúp Giám đốc Sở Tài chính thực hiện chức năng tham mưu Ủy ban nhân dân cấp tỉnh quản lý nhà nước về tài chính doanh nghiệp theo quy định của pháp luật.\n2. Nhiệm vụ và quyền hạn\nChi cục Tài chính doanh nghiệp thực hiện các nhiệm vụ, quyền hạn về lĩnh vực tài chính doanh nghiệp quy định tại khoản 9 Điều 2 của Thông tư này theo phân công của Giám đốc Sở Tài chính căn cứ vào tình hình phát triển và yêu cầu thực tế của địa phương."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "6",
+                            "title": "Đơn vị sự nghiệp công lập thuộc Sở",
+                            "position": 139,
+                            "children": [],
+                            "content": "Căn cứ đặc điểm, tình hình phát triển và yêu cầu thực tế tại địa phương, Giám đốc Sở Tài chính tham mưu Ủy ban nhân dân cấp tỉnh, Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định thành lập, quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của các đơn vị sự nghiệp công lập thuộc Sở Tài chính phù hợp với quy hoạch phát triển ngành được cơ quan có thẩm quyền phê duyệt và quy định của pháp luật.\nTiêu chí, điều kiện thành lập, sáp nhập, hợp nhất, giải thể đơn vị sự nghiệp công lập thuộc lĩnh vực tài chính thực hiện theo quy định chung của Chính phủ về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập."
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "IV",
+                    "title": "TỔ CHỨC THỰC HIỆN",
+                    "position": 143,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "7",
+                            "title": "Hiệu lực thi hành",
+                            "position": 144,
+                            "children": [],
+                            "content": "1. Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 3 năm 2022.\n2. Thông tư này thay thế Thông tư liên tịch số 220/2015/TTLT-BTC-BNV ngày 31 tháng 12 năm 2015 của Bộ Tài chính và Bộ Nội vụ hướng dẫn chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Tài chính thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và Phòng Tài chính - Kế hoạch thuộc Ủy ban nhân dân quận, huyện, thị xã, thành phố thuộc tỉnh."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "8",
+                            "title": "Trách nhiệm thi hành",
+                            "position": 147,
+                            "children": [],
+                            "content": "1. Căn cứ quy định của Chính phủ và hướng dẫn tại Thông tư này, Ủy ban nhân dân cấp tỉnh quy định cụ thể chức năng, nhiệm vụ và quyền hạn của Sở Tài chính; Ủy ban nhân dân cấp huyện quy định cụ thể chức năng, nhiệm vụ, quyền hạn của Phòng Tài chính - Kế hoạch.\n2. Chủ tịch Ủy ban nhân dân cấp tỉnh chịu trách nhiệm tổ chức triển khai thực hiện Thông tư này. Trong quá trình thực hiện Thông tư, nếu có vướng mắc hoặc cần bổ sung, sửa đổi, Ủy ban nhân dân cấp tỉnh cần phản ánh kịp thời về Bộ Tài chính để xem xét, giải quyết theo thẩm quyền./TAC\nBan Bí thư Trung ương Đảng; Thủ tướng, các Phó Thủ tướng Chính phủ; Văn phòng Trung ương và các Ban của Đảng; Văn phòng Quốc hội; Văn phòng Chủ tịch nước; Văn phòng Chính phủ; Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; Viện Kiểm sát nhân dân tối cao; Tòa án nhân dân tối cao; Kiểm toán Nhà nước; Ủy ban TW Mặt trận Tổ quốc Việt Nam; Cơ quan Trung ương của các đoàn thể; HĐND, UBND các tỉnh, thành phố trực thuộc TW; Sở Tài chính các tỉnh, thành phố trực thuộc Trung ương; Cục Thuế, Cục HQ, DTNN, KBNN các tỉnh, thành phố trực thuộc Trung ương; Các đơn vị, tổ chức thuộc Bộ Tài chính; Cục Kiểm tra văn bản (Bộ Tư pháp); Cổng TTĐT: Chính phủ, Bộ Tài chính; Lưu: VT, Vụ TCCB (450 b) _vn/"
+                        }
+                    ]
+                }
+            ],
+            "metadata": {
+                "total_units": 11,
+                "total_articles": 8,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 2,
+                "source": "ocr"
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [
+            "Tài chính",
+            "Ngân hàng, tiền tệ",
+            "Ngân hàng, tiền tệ"
+        ],
+        "edges": {
+            "amends": [],
+            "mentions": [],
+            "abolished": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": []
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "04/2022/TT-BTC",
+            "target_id": "107/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "04/2022/TT-BTC",
+            "target_id": "108/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "04/2022/TT-BTC",
+            "target_id": "120/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "04/2022/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "04/2022/TT-BTC",
+            "target_id": "37/2014/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "04/2022/TT-BTC",
+            "target_id": "24/2014/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        }
+    ]
+}

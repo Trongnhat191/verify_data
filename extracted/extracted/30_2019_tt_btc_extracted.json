@@ -1,0 +1,409 @@
+{
+    "file_name": "30_2019_tt_btc",
+    "source": "ocr_json",
+    "crawled_metadata": {
+        "officialNumber": "30/2019/TT-BTC",
+        "title": "Hướng dẫn đăng ký, lưu ký, niêm yết, giao dịch và thanh toán giao dịch công cụ nợ của Chính phủ, trái phiếu được Chính phủ bảo lãnh do ngân hàng chính sách phát hành và trái phiếu chính quyền địa phương",
+        "promulgationDate": "2019-05-28",
+        "effectiveDate": "2019-07-15",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "sigerName": "Huỳnh Quang Hải",
+        "draftingUnit": "Uỷ ban Chứng khoán Nhà nước",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:22Z",
+        "_doc_id": "70216"
+    },
+    "crawled_edges": [],
+    "regex_data": {
+        "file_name": "30_2019_tt_btc",
+        "file_path": "/Users/dangnam/Documents/FCI/legal_knowledge_graph/graph_new/54_doc/54vb_structure/30_2019_tt_btc/document_structure.json",
+        "official_number": null,
+        "dates": {
+            "promulgation_date": "2019-05-28",
+            "effective_date": null,
+            "expiration_date": null
+        },
+        "issuing_place": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Hà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "CHAPTER",
+                    "number": "I",
+                    "title": "QUY ĐỊNH CHUNG",
+                    "position": 14,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "1",
+                            "title": "Phạm vi áp dụng",
+                            "position": 15,
+                            "children": [],
+                            "content": "Thông tư này hướng dẫn chi tiết hoạt động đăng ký, lưu ký, niêm yết, giao dịch và thanh toán giao dịch công cụ nợ của Chính phủ (gồm trái phiếu Chính phủ, tín phiếu Kho bạc, công trái xây dựng Tổ quốc), trái phiếu được Chính phủ bảo lãnh do ngân hàng chính sách phát hành và trái phiếu chính quyền địa phương (sau đây gọi tắt là công cụ nợ)."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "2",
+                            "title": "Giải thích thuật ngữ",
+                            "position": 17,
+                            "children": [],
+                            "content": "1. Công cụ nợ tương đương có thể thay thế là công cụ nợ niêm yết trên Sở Giao dịch Chứng khoán và được sử dụng để thanh toán thay cho công cụ nợ gốc trong giao dịch công cụ nợ trong trường hợp không có đủ công cụ nợ gốc để thanh toán.\n2. Giá thực hiện là giá tính trên một trái phiếu dùng để xác định số tiền phải thanh toán trong các giao dịch công cụ nợ.\n3. Giá yết là giá công cụ nợ được các thành viên giao dịch yết trên hệ thống. Giá yết được hiểu là giá không gộp lãi danh nghĩa (nếu có).\n4. Hệ thống giao dịch công cụ nợ (sau đây gọi tắt là hệ thống giao dịch) là hệ thống cơ sở vật chất, hạ tầng kỹ thuật phục vụ hoạt động giao dịch công cụ nợ tại Sở Giao dịch Chứng khoán. Hệ thống giao dịch cho phép nhận, chuyển, sửa, ghi nhận, theo dõi, kết xuất dữ liệu phục vụ việc thực hiện giao dịch công cụ nợ.\n5. Ngân hàng thanh toán giao dịch công cụ nợ là Sở Giao dịch Ngân hàng Nhà nước Việt Nam thực hiện chức năng thanh toán tiền cho các giao dịch công cụ nợ trên Sở Giao dịch Chứng khoán.\n6. Ngân hàng thành viên thanh toán là ngân hàng thương mại có tài khoản tiền gửi thanh toán tại Sở Giao dịch Ngân hàng Nhà nước Việt Nam và là thành viên trực tiếp của hệ thống thanh toán điện tử liên ngân hàng, thực hiện chức năng thanh toán tiền giao dịch công cụ nợ cho các tổ chức thanh toán tiền gián tiếp và (hoặc) cho chính mình.\n7. Thanh toán theo từng giao dịch là phương thức thanh toán tiền, công cụ nợ trong đó việc chuyển giao tiền, công cụ nợ giữa các bên tham gia giao dịch qua Ngân hàng Nhà nước Việt Nam, Trung tâm Lưu ký Chứng khoán Việt Nam được thực hiện trên cơ sở từng giao dịch ngay khi bên mua chuyển tiền và bên bán chuyển công cụ nợ.\n8. Tổ chức mở tài khoản trực tiếp là tổ chức mở tài khoản lưu ký chứng khoán trực tiếp tại Trung tâm Lưu ký Chứng khoán Việt Nam và sử dụng các dịch vụ lưu ký, thanh toán của Trung tâm Lưu ký Chứng khoán Việt Nam trên\ncơ sở hợp đồng cung cấp dịch vụ với Trung tâm Lưu ký Chứng khoán Việt Nam.\n9. Tổ chức thanh toán tiền gián tiếp là tổ chức không phải là thành viên của hệ thống thanh toán điện tử liên ngân hàng của Ngân hàng Nhà nước Việt Nam và phải mở tài khoản tại một ngân hàng thành viên thanh toán để thực hiện thanh toán tiền giao dịch công cụ nợ của mình và khách hàng của mình; bao gồm: công ty chứng khoán là thành viên lưu ký, tổ chức mở tài khoản trực tiếp không phải là ngân hàng thương mại và Trung tâm Lưu ký Chứng khoán Việt Nam.\n10. Tổ chức thanh toán tiền trực tiếp là tổ chức thực hiện thanh toán tiền giao dịch công cụ nợ trực tiếp tại hệ thống thanh toán điện tử liên ngân hàng của Ngân hàng Nhà nước Việt Nam."
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "II",
+                    "title": "ĐĂNG KÝ, LƯU KÝ VÀ NIÊM YẾT",
+                    "position": 30,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "3",
+                            "title": "Đăng ký, lưu ký công cụ nợ",
+                            "position": 31,
+                            "children": [],
+                            "content": "1. Trái phiếu Chính phủ, công trái xây dựng Tổ quốc phát hành theo phương thức phát hành riêng lẻ đăng ký, lưu ký tập trung tại Trung tâm Lưu ký Chứng khoán Việt Nam theo đề nghị của Kho bạc Nhà nước.\n2. Tín phiếu Kho bạc phát hành trực tiếp cho Ngân hàng Nhà nước Việt Nam được đăng ký, lưu ký tập trung tại Trung tâm Lưu ký Chứng khoán Việt Nam theo đề nghị của Ngân hàng Nhà nước Việt Nam và Kho bạc Nhà nước.\n3. Tín phiếu Kho bạc phát hành theo phương thức đấu thầu, trái phiếu Chính phủ, công trái xây dựng Tổ quốc phát hành theo phương thức đấu thầu, bảo lãnh phát hành, trái phiếu được Chính phủ bảo lãnh do ngân hàng chính sách phát hành và trái phiếu chính quyền địa phương được đăng ký, lưu ký tập trung tại Trung tâm Lưu ký Chứng khoán Việt Nam theo đề nghị của chủ thể phát hành. Việc đăng ký, lưu ký được thực hiện như sau:\na) Căn cứ vào văn bản thông báo kết quả phát hành công cụ nợ của chủ thể phát hành, Trung tâm Lưu ký Chứng khoán Việt Nam thực hiện đăng ký công cụ nợ đã được phát hành. Thời gian đăng ký công cụ nợ đã được phát hành là trong ngày thanh toán tiền mua công cụ nợ.\nb) Trung tâm Lưu ký Chứng khoán Việt Nam gửi văn bản thông báo đăng ký công cụ nợ đã được phát hành đến Sở Giao dịch Chứng khoán để thực hiện niêm yết trái phiếu.\nc) Trung tâm Lưu ký Chứng khoán Việt Nam thực hiện lưu ký công cụ nợ vào tài khoản của chủ sở hữu sau khi nhận được văn bản xác nhận hoàn tất thanh toán tiền mua trái phiếu của chủ thể phát hành.\n4. Trung tâm Lưu ký Chứng khoán Việt Nam thực hiện hủy đăng ký công cụ nợ như sau:\na) Hủy đăng ký công cụ nợ không thực hiện thanh toán tiền mua trái phiếu căn cứ vào văn bản thông báo hủy kết quả phát hành công cụ nợ của chủ thể phát hành.\nb) Hủy đăng ký công cụ nợ đến ngày đáo hạn căn cứ vào thông báo hủy niêm yết của Sở Giao dịch Chứng khoán.\nc) Hủy đăng ký trái phiếu Chính phủ phát hành đảm bảo thanh khoản căn cứ vào văn bản thông báo của Kho bạc Nhà nước và văn bản thông báo hủy niêm yết của Sở Giao dịch Chứng khoán.\n5. Trung tâm Lưu ký Chứng khoán Việt Nam thực hiện đăng ký, lưu ký bổ sung đối với trái phiếu Chính phủ phát hành để đảm bảo thanh khoản theo đề nghị của Kho bạc Nhà nước và đăng ký, lưu ký bổ sung đối với các loại công cụ nợ khác theo đề nghị của chủ thể phát hành.\n6. Việc đăng ký, lưu ký đối với các công cụ nợ hoán đổi, mua lại thực hiện theo quy định tại Thông tư số 110/2018/TT-BTC ngày 15 tháng 11 năm 2018 của Bộ trưởng Bộ Tài chính hướng dẫn mua lại, hoán đổi công cụ nợ của Chính phủ, trái phiếu được Chính phủ bảo lãnh và trái phiếu Chính quyền địa phương tại thị trường trong nước."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "4",
+                            "title": "Niêm yết công cụ nợ",
+                            "position": 45,
+                            "children": [],
+                            "content": "1. Trái phiếu Chính phủ, công trái xây dựng Tổ quốc phát hành theo phương thức phát hành riêng lẻ được niêm yết, niêm yết bổ sung và giao dịch tại Sở Giao dịch Chứng khoán theo đề nghị của Kho bạc Nhà nước.\n2. Tín phiếu Kho bạc phát hành trực tiếp cho Ngân hàng Nhà nước Việt Nam được niêm yết tại Sở Giao dịch Chứng khoán theo đề nghị của Ngân hàng Nhà nước Việt Nam và Kho bạc nhà nước.\n3. Tín phiếu Kho bạc phát hành theo phương thức đấu thầu, trái phiếu Chính phủ, công trái xây dựng Tổ quốc phát hành theo phương thức đấu thầu, bảo lãnh phát hành, trái phiếu được Chính phủ bảo lãnh do ngân hàng chính sách phát hành và trái phiếu chính quyền địa phương được niêm yết, niêm yết bổ sung tại Sở Giao dịch Chứng khoán căn cứ vào văn bản đề nghị của chủ thể phát hành, thông báo đăng ký công cụ nợ của Trung tâm Lưu ký Chứng khoán Việt Nam và được giao dịch chậm nhất vào ngày làm việc liền kề sau ngày đăng ký công cụ nợ.\n4. Trái phiếu Chính phủ phát hành đảm bảo thanh khoản được niêm yết và giao dịch tại Sở Giao dịch Chứng khoán căn cứ theo đề nghị của Kho bạc Nhà nước và thông báo đăng ký công cụ nợ của Trung tâm Lưu ký Chứng khoán Việt Nam.\n5. Việc hủy niêm yết các công cụ nợ không thực hiện thanh toán tiền mua công cụ nợ, hủy niêm yết trái phiếu Chính phủ phát hành để đảm bảo thanh\nkhoản được Sở Giao dịch Chứng khoán thực hiện căn cứ vào văn bản thông báo hủy kết quả phát hành công cụ nợ của chủ thể phát hành.\n6. Việc niêm yết đối với các công cụ nợ hoán đổi, mua lại thực hiện theo quy định tại Thông tư số 110/2018/TT-BTC ngày 15 tháng 11 năm 2018 của Bộ trưởng Bộ Tài chính hướng dẫn mua lại, hoán đổi công cụ nợ của Chính phủ, trái phiếu được Chính phủ bảo lãnh và trái phiếu Chính quyền địa phương tại thị trường trong nước."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "5",
+                            "title": "Phân loại thành viên giao dịch",
+                            "position": 54,
+                            "children": [],
+                            "content": "1. Thị trường giao dịch công cụ nợ tại Sở Giao dịch Chứng khoán có hai (02) loại thành viên giao dịch là thành viên giao dịch thông thường và thành viên giao dịch đặc biệt.\na) Thành viên giao dịch thông thường là các công ty chứng khoán được Sở Giao dịch Chứng khoán chấp thuận làm thành viên giao dịch. Thành viên giao dịch thông thường được phép thực hiện nghiệp vụ môi giới và tự doanh công cụ nợ tại Sở Giao dịch Chứng khoán.\nb) Thành viên giao dịch đặc biệt là các ngân hàng thương mại, chi nhánh ngân hàng thương mại được Sở Giao dịch Chứng khoán chấp thuận làm thành viên giao dịch. Thành viên giao dịch đặc biệt chỉ được phép thực hiện mua, bán công cụ nợ cho chính mình tại Sở Giao dịch Chứng khoán.\n2. Kho bạc Nhà nước tham gia thị trường giao dịch trái phiếu Chính phủ theo quy định tại Nghị định số 24/2016/NĐ-CP ngày 05 tháng 4 năm 2016 của Chính phủ quy định chế độ quản lý ngân quỹ nhà nước và các văn bản sửa đổi, bổ sung, thay thế (nếu có).\na) Kho bạc Nhà nước được thực hiện giao dịch mua trong các giao dịch mua bán lại trái phiếu Chính phủ trên hệ thống giao dịch tại Sở Giao dịch Chứng khoán với thời hạn giao dịch mua bán lại tối đa không quá ba (03) tháng và nộp giá dịch vụ giao dịch theo quy định pháp luật. Kho bạc Nhà nước được sử dụng hệ thống giao dịch và các dịch vụ do Sở Giao dịch Chứng khoán, Trung tâm Lưu ký Chứng khoán Việt Nam cung cấp.\nb) Kho bạc Nhà nước không phải tuân thủ các quy định về tiêu chuẩn làm thành viên giao dịch, đăng ký làm thành viên giao dịch, nghĩa vụ của thành viên giao dịch, chế độ báo cáo của thành viên giao dịch, chế độ công bố thông tin của thành viên giao dịch quy định tại các Điều 6, Điều 7, Điều 8, Điều 11 và Mục III Chương III Thông tư này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "6",
+                            "title": "Tiêu chuẩn làm thành viên giao dịch",
+                            "position": 62,
+                            "children": [],
+                            "content": "1. Đối với thành viên giao dịch thông thường:\na) Là công ty chứng khoán được Ủy ban Chứng khoán Nhà nước cấp Giấy phép thành lập và hoạt động công ty chứng khoán; được phép thực hiện tất cả các nghiệp vụ kinh doanh bao gồm: môi giới chứng khoán, tự doanh chứng khoán, tư vấn đầu tư chứng khoán, bảo lãnh phát hành chứng khoán;\nb) Là thành viên lưu ký của Trung tâm Lưu ký Chứng khoán Việt Nam;\nc) Có đủ điều kiện cơ sở vật chất kỹ thuật, nhân sự phục vụ hoạt động giao dịch công cụ nợ do Sở Giao dịch Chứng khoán quy định đối với thành viên giao dịch thông thường trên hệ thống giao dịch.\n2. Đối với thành viên giao dịch đặc biệt:\na) Là ngân hàng thương mại hoặc chi nhánh ngân hàng thương mại có giấy phép đăng ký kinh doanh, giấy phép hoạt động hợp lệ do cơ quan có thẩm quyền cấp;\nb) Có số vốn điều lệ thực góp hoặc được cấp tối thiểu bằng mức vốn pháp định theo quy định hiện hành của Chính phủ về ban hành danh mục mức vốn pháp định của các tổ chức tín dụng và các quy định hiện hành có liên quan;\nc) Có đủ điều kiện cơ sở vật chất kỹ thuật, nhân sự phục vụ hoạt động giao dịch công cụ nợ do Sở Giao dịch Chứng khoán quy định đối với thành viên giao dịch đặc biệt trên hệ thống giao dịch."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "7",
+                            "title": "Đăng ký làm thành viên giao dịch",
+                            "position": 71,
+                            "children": [],
+                            "content": "Sở Giao dịch Chứng khoán quy định cụ thể về hồ sơ và thủ tục đăng ký làm thành viên giao dịch."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "8",
+                            "title": "Quyền và nghĩa vụ của thành viên giao dịch",
+                            "position": 73,
+                            "children": [],
+                            "content": "1. Quyền của thành viên giao dịch\na) Thành viên giao dịch thông thường và thành viên giao dịch đặc biệt có các quyền sau:\nSử dụng hệ thống giao dịch và các dịch vụ do Sở Giao dịch Chứng khoán cung cấp;\nSử dụng các thông tin khai thác từ hệ thống thông tin thị trường trái phiếu của Sở Giao dịch Chứng khoán phục vụ cho các hoạt động nghiệp vụ của thành viên giao dịch, nhưng không được sử dụng thông tin và dữ liệu khai thác từ hệ thống này để bán lại cho bên thứ ba;\nRút khỏi tư cách thành viên giao dịch sau khi được Sở Giao dịch Chứng khoán chấp thuận.\nb) Ngoài các quyền quy định tại Điểm a Khoản 1 Điều này, thành viên giao dịch thông thường có các quyền sau:\nThực hiện giao dịch tự doanh trên hệ thống giao dịch của Sở Giao dịch Chứng khoán;\nCung cấp dịch vụ môi giới công cụ nợ cho khách hàng;\nThu giá dịch vụ theo quy định của pháp luật.\nc) Ngoài các quyền quy định tại Điểm a Khoản 1 Điều này, thành viên giao dịch đặc biệt có quyền mua, bán công cụ nợ cho chính mình trên hệ thống giao dịch của Sở Giao dịch Chứng khoán.\n2. Nghĩa vụ của thành viên giao dịch\nThành viên giao dịch thông thường và thành viên giao dịch đặc biệt có các nghĩa vụ sau:\na) Duy trì việc đáp ứng tiêu chuẩn trở thành thành viên giao dịch quy định tại Điều 6 Thông tư này;\nb) Tuân thủ các quy định về thành viên giao dịch của Sở Giao dịch Chứng khoán;\nc) Chịu sự kiểm tra giám sát của Ủy ban Chứng khoán Nhà nước và Sở Giao dịch Chứng khoán;\nd) Nộp tiền sử dụng dịch vụ quản lý thành viên giao dịch, dịch vụ giao dịch và các dịch vụ khác theo quy định của pháp luật;\nđ) Tuân thủ chế độ báo cáo và công bố thông tin theo quy định tại Thông tư này và pháp luật khác có liên quan;\ne) Khi tham gia giao dịch công cụ nợ trên hệ thống giao dịch của Sở Giao dịch Chứng khoán với tư cách tự doanh hay môi giới phải thông báo với đối tác tư cách của mình trong giao dịch, đồng thời phải bảo đảm giữ bí mật thông tin của đối tác trong giao dịch ngoại trừ các trường hợp: các bên có liên quan đồng ý bằng văn bản; theo yêu cầu bằng văn bản của các cơ quan chức năng có thẩm quyền; khi giao dịch chính thức bị xem là không thể tiếp tục do các bên tham gia từ chối hoặc mất khả năng thực hiện các nghĩa vụ trong giao dịch."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "9",
+                            "title": "Chấm dứt tư cách thành viên giao dịch",
+                            "position": 93,
+                            "children": [],
+                            "content": "1. Thành viên giao dịch tự nguyện xin chấm dứt tư cách thành viên và được Sở Giao dịch Chứng khoán chấp thuận.\n2. Thành viên giao dịch bị buộc chấm dứt tư cách thành viên khi thuộc một trong các trường hợp sau:\na) Không còn đáp ứng các tiêu chuẩn làm thành viên giao dịch quy định tại Điều 6 Thông tư này;\nb) Vi phạm nghiêm trọng hoặc mang tính hệ thống quy định về thành viên giao dịch công cụ nợ theo quy định Sở Giao dịch Chứng khoán đối với thành viên giao dịch;\nc) Giải thể, phá sản, tạm ngừng hoạt động hoặc bị thu hồi giấy phép thành lập và hoạt động; hoặc tổ chức chấm dứt tồn tại sau khi hợp nhất (công ty bị hợp nhất), sáp nhập (công ty bị sáp nhập), chia (công ty bị chia); hoặc tổ chức hình thành sau khi sáp nhập (công ty nhận sáp nhập), tách (công ty bị tách) nhưng không đáp ứng một trong các điều kiện quy định tại Điều 6 Thông tư này.\n3. Trường hợp chấm dứt tư cách thành viên giao dịch là nhà tạo lập thị trường, Sở Giao dịch Chứng khoán báo cáo Bộ Tài chính trước khi thực hiện.\n4. Sở Giao dịch Chứng khoán quy định cụ thể về chấm dứt tư cách thành viên giao dịch sau khi được Ủy ban Chứng khoán Nhà nước chấp thuận."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "10",
+                            "title": "Giao dịch công cụ nợ của thành viên giao dịch",
+                            "position": 102,
+                            "children": [],
+                            "content": "1. Giao dịch công cụ nợ niêm yết được thực hiện bởi thành viên giao dịch thông qua hệ thống giao dịch của Sở Giao dịch Chứng khoán.\n2. Phiếu xác nhận kết quả giao dịch in từ hệ thống giao dịch được lưu trữ bởi thành viên giao dịch sử dụng làm căn cứ pháp lý phục vụ công tác báo cáo, kiểm tra, đối chiếu giao dịch khi phát sinh tranh chấp.\n3. Đối với giao dịch môi giới:\na) Thành viên giao dịch phải ký hợp đồng bằng văn bản khi mở tài khoản giao dịch công cụ nợ cho khách hàng;\nb) Thành viên giao dịch phải thống nhất và công khai hình thức tiếp nhận, xử lý giao dịch công cụ nợ của khách hàng tại trụ sở chính, chi nhánh, phòng giao dịch. Kết quả thực hiện giao dịch phải được thông báo cho khách hàng ngay sau khi giao dịch được thực hiện theo đúng hình thức đã thỏa thuận với khách hàng. Thành viên giao dịch phải gửi sao kê tài khoản tiền và công cụ nợ hàng tháng khi có yêu cầu từ khách hàng;\nc) Thành viên giao dịch có nghĩa vụ đăng ký tài khoản trao đổi thông tin cho khách hàng trên hệ thống giao dịch công cụ nợ trên Internet nhằm giúp khách hàng trao đổi tin tức, thông tin liên quan tới giao dịch trên hệ thống giao dịch của Sở Giao dịch Chứng khoán với các đại diện giao dịch, cơ quan quản lý, điều hành thị trường khi có yêu cầu từ phía khách hàng;\nd) Thành viên giao dịch phải ưu tiên thực hiện lệnh môi giới cho khách hàng trước lệnh tự doanh của thành viên giao dịch với mức giá thực hiện tốt nhất có thể trên hệ thống giao dịch của Sở Giao dịch Chứng khoán. Mức giá thực hiện tốt nhất có thể là mức giá theo yêu cầu khách hàng hoặc tốt hơn mức giá theo yêu cầu của khách hàng;\nđ) Thành viên giao dịch phải lưu trữ, bảo mật tài khoản và hồ sơ giao dịch công cụ nợ của khách hàng theo quy định của pháp luật;\ne) Thành viên giao dịch có nghĩa vụ cung cấp những thông tin liên quan đến tài khoản của khách hàng nhằm mục đích quản lý, giám sát, thanh tra theo\nyêu cầu của Sở Giao dịch Chứng khoán, Ủy ban Chứng khoán Nhà nước và cơ quan nhà nước có thẩm quyền;\ng) Thành viên giao dịch phải đảm bảo khả năng thanh toán của khách hàng khi tham gia giao dịch đúng thời hạn quy định.\n4. Đối với giao dịch tự doanh của thành viên giao dịch thông thường và hoạt động mua, bán công cụ nợ cho chính mình của thành viên giao dịch đặc biệt: Thành viên giao dịch phải đảm bảo đủ tiền và công cụ nợ để hoàn tất các nghĩa vụ của thành viên giao dịch trong các giao dịch có liên quan trên hệ thống giao dịch."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "11",
+                            "title": "Chế độ báo cáo của thành viên giao dịch",
+                            "position": 115,
+                            "children": [],
+                            "content": "1. Thành viên giao dịch định kỳ phải báo cáo Sở Giao dịch Chứng khoán về hoạt động kinh doanh, bao gồm:\na) Báo cáo tình hình hoạt động kinh doanh công cụ nợ hàng tháng trong vòng mười (10) ngày làm việc kể từ ngày kết thúc tháng (theo mẫu tại Phụ lục số 01 ban hành kèm theo Thông tư này);\nb) Báo cáo năm tổng hợp tình hình hoạt động kinh doanh công cụ nợ (theo mẫu tại Phụ lục số 02 ban hành kèm theo Thông tư này) trước ngày 31 tháng 3 năm tiếp theo năm báo cáo.\n2. Hình thức báo cáo:\nThành viên giao dịch báo cáo Sở Giao dịch Chứng khoán bằng dữ liệu điện tử thông qua hệ thống tiếp nhận báo cáo và công bố thông tin của Sở Giao dịch Chứng khoán. Trong trường hợp cần thiết, Sở Giao dịch Chứng khoán có quyền yêu cầu thành viên giao dịch báo cáo bằng văn bản."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "12",
+                            "title": "Các hình thức kỷ luật thành viên giao dịch",
+                            "position": 121,
+                            "children": [],
+                            "content": "Thành viên giao dịch vi phạm các quy định hoạt động trên thị trường giao dịch công cụ nợ tại Sở Giao dịch Chứng khoán sẽ phải chịu một hoặc một số hình thức kỷ luật sau theo quy chế của Sở Giao dịch Chứng khoán:\n1. Khiển trách;\n2. Cảnh cáo;\n3. Đình chỉ có thời hạn hoạt động giao dịch công cụ nợ trên Sở Giao dịch Chứng khoán;\n4. Buộc chấm dứt tư cách thành viên giao dịch."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "13",
+                            "title": "Loại hình giao dịch",
+                            "position": 129,
+                            "children": [],
+                            "content": "1. Các loại hình giao dịch công cụ nợ bao gồm:\na) Giao dịch mua bán thông thường là giao dịch trên hệ thống giao dịch trong đó một bên bán và chuyển giao quyền sở hữu công cụ nợ cho một bên khác và không kèm theo cam kết mua lại công cụ nợ.\nb) Giao dịch mua bán lại là giao dịch trên hệ thống giao dịch trong đó một bên bán và chuyển giao quyền sở hữu công cụ nợ cho một bên khác, đồng thời cam kết sẽ mua lại và nhận lại quyền sở hữu công cụ nợ đó sau một thời gian xác định với một mức giá xác định. Giao dịch mua bán lại bao gồm giao dịch bán (Giao dịch lần 1) và giao dịch mua lại (Giao dịch lần 2). Trong giao dịch mua bán lại, bên bán được hiểu là bên bán trong Giao dịch lần 1, bên mua được hiểu là bên mua trong Giao dịch lần 1.\nc) Giao dịch bán kết hợp mua lại là giao dịch trên hệ thống giao dịch kết hợp hai giao dịch mua bán thông thường tại cùng một thời điểm với cùng một đối tác giao dịch, bao gồm một giao dịch bán công cụ nợ (Giao dịch thông thường lần 1) kết hợp với một giao dịch mua lại cùng công cụ nợ đó (Giao dịch thông thường lần 2) tại một thời điểm xác định trong tương lai. Trong đó, bên bán trong giao dịch thông thường lần 1 là bên mua trong giao dịch thông thường lần 2; đồng thời giá, khối lượng, thời điểm thực hiện của giao dịch thông thường lần 2 phải được xác định trước tại thời điểm giao kết hai giao dịch.\nd) Giao dịch vay và cho vay là giao dịch trong đó bên đi vay thực hiện vay công cụ nợ và cam kết sẽ hoàn trả công cụ nợ đã vay cho bên cho vay sau một thời gian xác định.\nGiao dịch vay và cho vay được thực hiện theo thỏa thuận giữa các bên và trên hệ thống giao dịch tại Sở Giao dịch Chứng khoán hoặc trên hệ thống vay, cho vay chứng khoán tại Trung tâm Lưu ký Chứng khoán Việt Nam. Các bên liên quan tự thỏa thuận và chịu trách nhiệm về các nội dung liên quan đến khối lượng vay, tài sản vay và hoàn trả, tài sản đảm bảo, lãi suất vay và các điều khoản khác, đảm bảo các thỏa thuận này tuân thủ đầy đủ các quy định pháp luật áp dụng cho các bên tham gia giao dịch và quy chế của Sở Giao dịch Chứng khoán, Trung tâm Lưu ký Chứng khoán Việt Nam.\n2. Khi thực hiện nghĩa vụ tạo lập thị trường theo quy định tại Điểm c Khoản 2 Điều 27 Nghị định số 95/2018/NĐ-CP ngày 30 tháng 6 năm 2018 của Chính phủ quy định về phát hành, đăng ký, lưu ký, niêm yết và giao dịch công cụ nợ của Chính phủ trên thị trường chứng khoán, nhà tạo lập thị trường được bán công cụ nợ khi chưa có đủ công cụ nợ tại thời điểm giao dịch. Trong trường hợp này, nhà tạo lập thị trường phải có đủ công cụ nợ để chuyển giao tại ngày\nthanh toán theo quy định tại Khoản 3 Điều 29 Thông tư này và quy chế của Trung tâm Lưu ký Chứng khoán Việt Nam.\n3. Chỉ nhà tạo lập thị trường được thực hiện vay trong giao dịch vay và cho vay.\n4. Sở Giao dịch Chứng khoán, Trung tâm Lưu ký Chứng khoán Việt Nam ban hành quy chế hướng dẫn cụ thể của từng loại hình giao dịch công cụ nợ sau khi được Ủy ban Chứng khoán Nhà nước chấp thuận."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "14",
+                            "title": "Công cụ nợ tương đương có thể thay thế",
+                            "position": 141,
+                            "children": [],
+                            "content": "1. Công cụ nợ tương đương có thể thay thế được sử dụng trong các giao dịch mua bán lại, giao dịch bán kết hợp mua lại, giao dịch vay và cho vay.\n2. Công cụ nợ tương đương có thể thay thế được thực hiện trên cơ sở thỏa thuận giữa các bên tham gia giao dịch. Sở Giao dịch Chứng khoán quy định cụ thể về cơ chế sử dụng công cụ nợ tương đương có thể thay thế trong các giao dịch công cụ nợ.",
+                            "is_amendment": true
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "15",
+                            "title": "Thời gian giao dịch",
+                            "position": 144,
+                            "children": [],
+                            "content": "1. Sở Giao dịch Chứng khoán tổ chức giao dịch từ thứ Hai đến thứ Sáu hàng tuần, trừ các ngày nghỉ theo quy định của Bộ luật Lao động và những ngày nghỉ giao dịch theo quy định của cơ quan quản lý.\n2. Thời gian giao dịch cụ thể do Tổng Giám đốc Sở Giao dịch Chứng khoán quy định sau khi được Ủy ban Chứng khoán Nhà nước chấp thuận. Riêng thời gian chào giá cam kết chắc chắn thực hiện theo quy định tại Khoản 3 Điều 19 Thông tư số 111/2018/TT-BTC ngày 15 tháng 11 năm 2018 hướng dẫn phát hành và thanh toán công cụ nợ của Chính phủ tại thị trường trong nước."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "16",
+                            "title": "Phương thức giao dịch",
+                            "position": 147,
+                            "children": [],
+                            "content": "1. Sở Giao dịch Chứng khoán áp dụng phương thức giao dịch thỏa thuận đối với các giao dịch công cụ nợ trên hệ thống giao dịch.\n2. Trong trường hợp cần thiết, Sở Giao dịch Chứng khoán quyết định thay đổi phương thức giao dịch sau khi được Ủy ban Chứng khoán Nhà nước chấp thuận."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "17",
+                            "title": "Hình thức giao dịch",
+                            "position": 150,
+                            "children": [],
+                            "content": "1. Giao dịch công cụ nợ tại Sở Giao dịch Chứng khoán được thực hiện theo hai hình thức thỏa thuận điện tử và thỏa thuận thông thường.\n2. Thỏa thuận điện tử là hình thức giao dịch trong đó các lệnh giao dịch được chào với cam kết chắc chắn và thực hiện ngay khi có đối tác lựa chọn mà không cần có sự xác nhận lại. Giao dịch theo hình thức thỏa thuận điện tử được thực hiện theo một trong hai nguyên tắc sau:\na) Đối với hình thức thỏa thuận điện tử có tính chất toàn thị trường: Đại diện giao dịch của thành viên giao dịch nhập lệnh chào mua, chào bán với cam kết chắc chắn vào hệ thống và lựa chọn các lệnh đối ứng phù hợp để thực hiện giao dịch. Nội dung lệnh chào mua, chào bán với cam kết chắc chắn được quy định tại quy trình giao dịch công cụ nợ do Sở Giao dịch Chứng khoán ban hành.\nb) Đối với hình thức thỏa thuận điện tử có tính chất lựa chọn: Đại diện giao dịch của thành viên giao dịch, dựa trên các yêu cầu chào giá trên hệ thống, gửi các lệnh chào mua, chào bán với cam kết chắc chắn đến đích danh đối tác gửi yêu cầu chào giá tương ứng và đối tác này sẽ lựa chọn lệnh chào phù hợp để thực hiện giao dịch. Nội dung của yêu cầu chào giá được quy định tại quy trình giao dịch công cụ nợ do Sở Giao dịch Chứng khoán ban hành.\n3. Thỏa thuận thông thường là hình thức giao dịch trong đó các bên tự thỏa thuận với nhau về các điều kiện giao dịch dưới hình thức trao đổi tin nhắn trên hệ thống giao dịch hoặc thông qua các phương tiện liên lạc khác và báo cáo kết quả vào hệ thống giao dịch để xác lập giao dịch. Kết quả giao dịch phải được báo cáo và nhập vào hệ thống giao dịch theo hướng dẫn tại quy chế của Sở Giao dịch Chứng khoán sau khi được Ủy ban Chứng khoán Nhà nước chấp thuận.\nSau khi đã thỏa thuận xong, giao dịch theo hình thức thỏa thuận thông thường được ghi nhận hiệu lực khi bên mua hoặc bên bán nhập lệnh giao dịch vào hệ thống giao dịch và bên bán hoặc bên mua đối ứng xác nhận lệnh giao dịch này. Nội dung báo cáo giao dịch được quy định trong quy trình giao dịch công cụ nợ do Sở Giao dịch Chứng khoán ban hành.\n4. Sở Giao dịch Chứng khoán quyết định thay đổi hoặc bổ sung hình thức giao dịch sau khi được Ủy ban Chứng khoán Nhà nước chấp thuận."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "18",
+                            "title": "Xác lập và hủy bỏ giao dịch",
+                            "position": 159,
+                            "children": [],
+                            "content": "1. Giao dịch được xác lập khi hệ thống giao dịch thực hiện ghi nhận, ngoại trừ trường hợp Ủy ban Chứng khoán Nhà nước có quy định khác.\n2. Trong trường hợp giao dịch đã được xác lập ảnh hưởng nghiêm trọng đến quyền lợi của các nhà đầu tư hoặc toàn bộ giao dịch trên thị trường, Sở Giao dịch Chứng khoán có thể quyết định sửa hoặc hủy bỏ giao dịch và báo cáo Chủ tịch Ủy ban Chứng khoán Nhà nước."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "19",
+                            "title": "Lãi suất",
+                            "position": 162,
+                            "children": [],
+                            "content": "Lãi suất trong giao dịch mua bán lại, giao dịch vay và cho vay phù hợp với quy định pháp luật khác, được tính trên cơ sở ngày thực tế/ngày thực tế. Cách tính lãi suất được quy định cụ thể trong quy định nghiệp vụ của Sở Giao dịch Chứng khoán hoặc của Trung tâm Lưu ký Chứng khoán Việt Nam (đối với loại hình giao dịch vay và cho vay tại Trung tâm Lưu ký Chứng khoán Việt Nam)."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "20",
+                            "title": "Giá thực hiện",
+                            "position": 165,
+                            "children": [],
+                            "content": "1. Giá thực hiện các giao dịch trên Sở Giao dịch Chứng khoán được tính dựa trên giá yết, lãi danh nghĩa tích gộp (nếu có) và tỷ lệ phòng vệ rủi ro (nếu có).\n2. Công thức tính giá thực hiện theo quy định của Sở Giao dịch Chứng khoán."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "21",
+                            "title": "Tỷ lệ phòng vệ rủi ro",
+                            "position": 168,
+                            "children": [],
+                            "content": "1. Tỷ lệ phòng vệ rủi ro là tỷ lệ phần trăm được chiết giảm hoặc bổ sung trên giá gộp lãi danh nghĩa tại thời điểm bắt đầu giao dịch mua bán lại.\n2. Tỷ lệ phòng vệ rủi ro áp dụng đối với từng mã công cụ nợ sử dụng trong giao dịch mua bán lại do hai bên đối tác tự thỏa thuận. Trong trường hợp cần thiết, Sở Giao dịch Chứng khoán có thể quy định cụ thể về mức trần tỷ lệ phòng vệ rủi ro.\n3. Tỷ lệ phòng vệ rủi ro cố định suốt thời hạn giao dịch mua bán lại."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "22",
+                            "title": "Thu nhập từ công cụ nợ trong giao dịch mua bán lại, giao dịch vay và cho vay",
+                            "position": 172,
+                            "children": [],
+                            "content": "1. Quyền hưởng lãi danh nghĩa và các thu nhập liên quan (nếu có) từ công cụ nợ thuộc về bên bán (trong giao dịch mua bán lại) hoặc bên cho vay (trong giao dịch vay và cho vay).\n2. Trong trường hợp bên mua (hoặc bên vay) nhận được lãi danh nghĩa tại (các) thời điểm nằm trong thời hạn giao dịch, bên mua (hoặc bên vay) có trách nhiệm trả lại bên bán (hoặc bên cho vay) số lãi danh nghĩa đã nhận được. Nếu việc hoàn trả lãi danh nghĩa phát sinh thực hiện bên ngoài hệ thống giao dịch, thời điểm hoàn trả lãi danh nghĩa sẽ do hai bên tự thống nhất nhưng không được muộn hơn năm (05) ngày làm việc kể từ ngày thực thanh toán lãi trái phiếu. Nếu việc hoàn trả lãi danh nghĩa phát sinh thực hiện qua hệ thống giao dịch, thời điểm hoàn trả là khi giao dịch kết thúc và tại thời điểm bắt đầu thực hiện giao dịch, hai bên tự thỏa thuận với nhau về lãi suất (nếu có) tính trên phần lãi danh nghĩa phát sinh."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "23",
+                            "title": "Xử lý nghĩa vụ trong trường hợp các bên không thực hiện thanh toán theo thỏa thuận trong giao dịch mua bán lại, giao dịch vay và cho vay công cụ nợ",
+                            "position": 175,
+                            "children": [],
+                            "content": "1. Đối với giao dịch mua bán lại, giao dịch vay và cho vay công cụ nợ trên hệ thống giao dịch tại Sở Giao dịch Chứng khoán\na) Khi đến hạn tất toán giao dịch mua bán lại và giao dịch vay công cụ nợ (tất toán giao dịch lần 2), một hoặc hai bên tham gia giao dịch không thực hiện thanh toán theo đúng thỏa thuận đã thống nhất và được ghi nhận trên hệ thống giao dịch: Hai bên tham gia giao dịch tự thỏa thuận với nhau về việc thay đổi quyền và nghĩa vụ trong giao dịch mua bán lại, giao dịch vay và cho vay công\ncụ nợ đã ghi nhận trên hệ thống giao dịch nhằm mục đích xử lý việc mất khả năng thanh toán tạm thời của các bên và phải báo cáo Sở Giao dịch Chứng khoán bằng văn bản trước khi thực hiện và ngay sau khi hoàn tất việc tất toán giao dịch. Trường hợp hai bên tham gia giao dịch không thống nhất được về việc thay đổi quyền và nghĩa vụ của các bên trong giao dịch lần 2, việc xử lý vi phạm nghĩa vụ thanh toán giao dịch được thực hiện theo hướng dẫn tại quy chế của Sở Giao dịch Chứng khoán.\nb) Các thành viên tham gia giao dịch trên hệ thống giao dịch của Sở Giao dịch Chứng khoán có thể sử dụng hợp đồng nguyên tắc hoặc hợp đồng riêng biệt khác để thỏa thuận về quyền và nghĩa vụ cụ thể phát sinh từ các giao dịch. Trong trường hợp có sự mâu thuẫn giữa các hợp đồng này và quy định của Sở Giao dịch Chứng khoán thì quy định của Sở Giao dịch Chứng khoán sẽ được áp dụng để xác định quyền và nghĩa vụ liên quan.\n2. Đối với giao dịch vay và cho vay công cụ nợ trên hệ thống vay, cho vay chứng khoán tại Trung tâm Lưu ký Chứng khoán Việt Nam, việc xử lý nghĩa vụ trong trường hợp các bên không thực hiện thanh toán theo thỏa thuận được thực hiện theo quy định tại quy chế của Trung tâm Lưu ký Chứng khoán Việt Nam."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "24",
+                            "title": "Đối tượng thực hiện công bố thông tin",
+                            "position": 183,
+                            "children": [],
+                            "content": "Đối tượng công bố thông tin gồm các thành viên giao dịch và Sở Giao dịch Chứng khoán."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "25",
+                            "title": "Công bố thông tin của thành viên giao dịch thông thường",
+                            "position": 185,
+                            "children": [],
+                            "content": "Thành viên giao dịch thông thường thực hiện nghĩa vụ công bố thông tin theo quy định tại Thông tư số 155/2015/TT-BTC ngày 06 tháng 10 năm 2015 của Bộ trưởng Bộ Tài chính hướng dẫn công bố thông tin trên thị trường chứng khoán."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "26",
+                            "title": "Công bố thông tin của thành viên giao dịch đặc biệt",
+                            "position": 187,
+                            "children": [],
+                            "content": "1. Thành viên giao dịch đặc biệt là công ty đại chúng, công ty đại chúng quy mô lớn, công ty niêm yết thực hiện công bố thông tin theo quy định tại Thông tư số 155/2015/TT-BTC ngày 06 tháng 10 năm 2015 của Bộ trưởng Bộ Tài chính hướng dẫn công bố thông tin trên thị trường chứng khoán.\n2. Thành viên giao dịch đặc biệt không thuộc đối tượng của Khoản 1 Điều này thực hiện công bố thông tin trên trang thông tin điện tử của Sở Giao dịch Chứng khoán và trang thông tin điện tử của chính mình như sau:\na) Công bố thông tin định kỳ\nThành viên giao dịch đặc biệt công bố báo cáo tài chính năm đã được kiểm toán (theo mẫu tại Phụ lục số 03 ban hành kèm theo Thông tư này) trong vòng bốn (04) tháng kể từ ngày kết thúc năm tài chính.\nb) Công bố thông tin bất thường\nThành viên giao dịch đặc biệt công bố thông tin bất thường trong thời hạn hai mươi bốn (24) giờ, kể từ khi xảy ra một trong các sự kiện sau đây:\nBị cơ quan quản lý nhà nước đưa vào diện kiểm soát đặc biệt;\nCó quyết định khởi tố, bản án, quyết định của Tòa án đối với thành viên Hội đồng quản trị, Chủ tịch, Giám đốc hoặc Tổng Giám đốc, Phó Giám đốc hoặc Phó Tổng Giám đốc, Kế toán trưởng;\nĐại hội đồng cổ đông thông qua việc sáp nhập với một công ty khác;\nCác thay đổi về thành viên Hội đồng quản trị, Chủ tịch, Giám đốc hoặc Tổng Giám đốc, Phó Giám đốc hoặc Phó Tổng Giám đốc;\nThành viên giao dịch có những thay đổi quan trọng trong hoạt động kinh doanh, bao gồm: bị tổn thất từ mười phần trăm (10%) giá trị tài sản trở lên; tạm ngừng kinh doanh tự nguyện hoặc bị phong tỏa hoạt động giao dịch; bị thu hồi Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy phép thành lập và hoạt động hoặc Giấy phép hoạt động; quyết định sửa đổi, bổ sung điều lệ ngân hàng; thay đổi tên ngân hàng; quyết định tăng hoặc giảm vốn điều lệ;\nThay đổi người đại diện theo pháp luật;\nThay đổi người được ủy quyền công bố thông tin;\nThay đổi địa điểm đặt trụ sở chính.\nc) Công bố thông tin theo yêu cầu\nThành viên giao dịch đặc biệt công bố thông tin trong thời hạn hai mươi bốn (24) giờ, kể từ khi nhận được yêu cầu của Ủy ban Chứng khoán Nhà nước, Sở Giao dịch Chứng khoán đối với các thông tin sau đây:\nThông tin liên quan đến thành viên giao dịch và ảnh hưởng đến lợi ích của các chủ thể đầu tư và kinh doanh khác trên thị trường;\nThông tin liên quan đến hoạt động bất thường của thành viên giao dịch và cần phải xác nhận lại thông tin này.\nNội dung công bố thông tin phải nêu rõ sự kiện được Ủy ban Chứng khoán Nhà nước và Sở Giao dịch Chứng khoán yêu cầu công bố, nguyên nhân, mức độ xác thực của sự kiện đó."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "27",
+                            "title": "Công bố thông tin của Sở Giao dịch Chứng khoán",
+                            "position": 208,
+                            "children": [],
+                            "content": "Sở Giao dịch Chứng khoán có nghĩa vụ thực hiện công bố các thông tin sau đây trên trang thông tin điện tử của mình:\n1. Thông tin về giao dịch công cụ nợ trên hệ thống giao dịch của Sở Giao dịch Chứng khoán:\na) Thông tin về các mã công cụ nợ được phép giao dịch, bao gồm: mã, kỳ hạn danh nghĩa, ngày phát hành, ngày đáo hạn, loại hình trả lãi (coupon hoặc zero coupon), lãi suất danh nghĩa (nếu có);\nb) Thông tin về mức giá, khối lượng thực hiện gần nhất của mỗi kỳ hạn trong giao dịch mua bán thông thường công cụ nợ;\nc) Thông tin về khối lượng đặt mua, đặt bán tại mức giá tốt nhất và giá trị tương ứng cho từng kỳ hạn trong giao dịch mua bán thông thường công cụ nợ;\nd) Tổng khối lượng giao dịch toàn thị trường của từng loại hình giao dịch: Giao dịch thông thường và Giao dịch mua bán lại;\nđ) Thông tin về đường cong lợi suất chuẩn (nếu có);\ne) Các thông tin khác theo yêu cầu của Ủy ban Chứng khoán Nhà nước.\n2. Thông tin về thành viên giao dịch:\na) Danh sách thành viên;\nb) Thông tin về kết nạp thành viên;\nc) Thông tin về xử phạt thành viên;\nd) Thông tin về chấm dứt tư cách thành viên;\nđ) Các thông tin khác.\n3. Thông tin về hoạt động niêm yết:\na) Thông tin về niêm yết lần đầu;\nb) Thông tin về niêm yết bổ sung;\nc) Thông tin về hủy niêm yết;\nd) Thông tin về thay đổi niêm yết;\nđ) Các thông tin khác."
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "IV",
+                    "title": "THANH TOÁN GIAO DỊCH",
+                    "position": 230,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "28",
+                            "title": "Các tổ chức tham gia hệ thống thanh toán giao dịch công cụ nợ",
+                            "position": 231,
+                            "children": [],
+                            "content": "1. Các tổ chức thực hiện chuyển giao công cụ nợ trên hệ thống tài khoản lưu ký tại Trung tâm Lưu ký Chứng khoán Việt Nam bao gồm:\na) Thành viên lưu ký thực hiện thanh toán đối với hoạt động giao dịch công cụ nợ của chính mình và cho khách hàng của thành viên lưu ký;\nb) Tổ chức mở tài khoản trực tiếp thực hiện thanh toán đối với hoạt động giao dịch công cụ nợ của chính mình;\nc) Kho bạc Nhà nước thực hiện thanh toán đối với hoạt động giao dịch mua bán lại công cụ nợ;\nd) Trung tâm Lưu ký Chứng khoán Việt Nam thực hiện thanh toán đối với hoạt động giao dịch công cụ nợ quy định tại Thông tư này và chuyển giao công cụ nợ khi thực hiện hợp đồng đối với chứng khoán phái sinh thanh toán theo hình thức chuyển giao vật chất.\n2. Các tổ chức thanh toán tiền trực tiếp trên hệ thống thanh toán điện tử liên ngân hàng của Ngân hàng Nhà nước Việt Nam bao gồm:\na) Sở Giao dịch Ngân hàng Nhà nước Việt Nam;\nb) Ngân hàng thành viên thanh toán, thành viên lưu ký là ngân hàng thương mại, tổ chức mở tài khoản trực tiếp là ngân hàng thương mại;\nc) Kho bạc Nhà nước."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "29",
+                            "title": "Phương thức và nguyên tắc tổ chức hệ thống thanh toán giao dịch công cụ nợ",
+                            "position": 242,
+                            "children": [],
+                            "content": "1. Việc thanh toán giao dịch mua, bán công cụ nợ niêm yết trên Sở Giao dịch Chứng khoán được thực hiện theo phương thức thanh toán theo từng giao dịch.\n2. Căn cứ vào dữ liệu giao dịch do Sở Giao dịch Chứng khoán cung cấp, Trung tâm Lưu ký Chứng khoán Việt Nam xác định nghĩa vụ thanh toán tiền, công cụ nợ của từng bên liên quan và gửi thông tin thanh toán tiền cho Sở Giao dịch Ngân hàng Nhà nước Việt Nam.\n3. Việc chuyển giao công cụ nợ được thực hiện trên hệ thống của Trung tâm Lưu ký Chứng khoán Việt Nam trên cơ sở chuyển khoản công cụ nợ giữa các tài khoản lưu ký của các tổ chức quy định tại Khoản 1 Điều 28 Thông tư này và đảm bảo nguyên tắc tại ngày thanh toán bên bán phải có đủ công cụ nợ để chuyển giao, bên mua phải có đủ tiền để thực hiện thanh toán tiền giao dịch công cụ nợ.\n4. Việc thanh toán tiền giao dịch công cụ nợ giữa các tổ chức thanh toán tiền trực tiếp qua Ngân hàng Nhà nước Việt Nam quy định tại Khoản 2 Điều 28 Thông tư này được thực hiện trên hệ thống thanh toán điện tử liên ngân hàng.\n5. Trường hợp khách hàng mở tài khoản lưu ký tại thành viên lưu ký không phải là thành viên giao dịch thông thường, việc đặt lệnh giao dịch được thực hiện thông qua công ty chứng khoán là thành viên giao dịch thông thường và việc thanh toán giao dịch được thực hiện bởi thành viên lưu ký.\n6. Tổ chức thanh toán tiền gián tiếp có trách nhiệm lựa chọn một ngân hàng thành viên thanh toán cho mình và cho khách hàng của mình.\n7. Thời gian thanh toán giao dịch công cụ nợ do Ủy ban Chứng khoán Nhà nước quyết định trên cơ sở thống nhất với Ngân hàng Nhà nước Việt Nam. Trung tâm Lưu ký Chứng khoán Việt Nam hướng dẫn cụ thể về thời gian, trình tự, thủ tục thanh toán giao dịch công cụ nợ tại quy chế hướng dẫn."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "30",
+                            "title": "Ngân hàng thành viên thanh toán",
+                            "position": 251,
+                            "children": [],
+                            "content": "1. Quyền của ngân hàng thành viên thanh toán:\na) Được chỉ định đầu mối thực hiện chức năng ngân hàng thành viên thanh toán;\nb) Được đề nghị tổ chức thanh toán tiền gián tiếp phải tuân thủ thỏa thuận về thanh toán giữa các bên và cung cấp thông tin cần thiết để thực hiện thanh toán giao dịch công cụ nợ;\nc) Được thu tiền cung cấp dịch vụ theo quy định của pháp luật.\n2. Nghĩa vụ của ngân hàng thành viên thanh toán:\na) Thanh toán đầy đủ và đúng thời gian quy định đối với giao dịch công cụ nợ của mình và của các tổ chức thanh toán tiền gián tiếp;\nb) Hỗ trợ tiền thanh toán giao dịch công cụ nợ cho tổ chức thanh toán tiền gián tiếp trong trường hợp tổ chức này bị tạm thời thiếu hụt tiền thanh toán theo thỏa thuận hỗ trợ thanh toán ký kết giữa các bên phù hợp với quy định của pháp luật;\nc) Đăng ký thông tin đầy đủ, chính xác theo hướng dẫn của Ngân hàng Nhà nước Việt Nam và Trung tâm Lưu ký Chứng khoán Việt Nam;\nd) Kết nối với Trung tâm Lưu ký Chứng khoán Việt Nam để nhận thông tin về thanh toán tiền giao dịch công cụ nợ;\nđ) Tuân thủ các nghĩa vụ theo quy định về hoạt động thanh toán qua hệ thống thanh toán điện tử liên ngân hàng của Ngân hàng Nhà nước Việt Nam;\ne) Tuân thủ các quy định về hoạt động thanh toán giao dịch công cụ nợ do Trung tâm Lưu ký Chứng khoán Việt Nam ban hành;\ng) Tuân thủ chế độ công bố thông tin, báo cáo và bảo mật thông tin theo quy định của pháp luật.\n3. Ngân hàng thương mại bị Ngân hàng Nhà nước Việt Nam đặt vào tình trạng kiểm soát đặc biệt không được đăng ký là ngân hàng thành viên thanh toán với Trung tâm Lưu ký Chứng khoán Việt Nam.\n4. Ngân hàng thành viên thanh toán không thực hiện đầy đủ các nghĩa vụ theo Khoản 2 Điều này hoặc bị Ngân hàng Nhà nước Việt Nam đặt vào tình trạng kiểm soát đặc biệt sẽ bị ngừng tham gia hoạt động thanh toán tiền giao dịch công cụ nợ cho các tổ chức thanh toán tiền gián tiếp.\n5. Ngân hàng thương mại được đăng ký lại làm ngân hàng thành viên thanh toán sau khi đã chấm dứt tình trạng nêu tại Khoản 4 Điều này.\n6. Ngay sau khi ngân hàng thành viên thanh toán bị đặt vào hoặc chấm dứt tình trạng kiểm soát đặc biệt của Ngân hàng Nhà nước Việt Nam thì Ngân hàng Nhà nước Việt Nam có công văn thông báo cho Trung tâm Lưu ký Chứng khoán Việt Nam."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "31",
+                            "title": "Đối chiếu, xác nhận và xử lý lỗi giao dịch công cụ nợ",
+                            "position": 269,
+                            "children": [],
+                            "content": "1. Sau khi nhận kết quả giao dịch từ Trung tâm Lưu ký Chứng khoán Việt Nam, các thành viên lưu ký, tổ chức mở tài khoản trực tiếp và Kho bạc Nhà nước có trách nhiệm đối chiếu và xác nhận lại với Trung tâm Lưu ký Chứng khoán Việt Nam.\n2. Trường hợp thành viên giao dịch là công ty chứng khoán, thành viên lưu ký là ngân hàng thương mại, tổ chức mở tài khoản trực tiếp nhập sai số hiệu tài khoản tự doanh vào hệ thống giao dịch của Sở Giao dịch Chứng khoán, Trung tâm Lưu ký Chứng khoán Việt Nam sẽ thực hiện điều chỉnh về đúng số hiệu tài khoản tự doanh của thành viên giao dịch để thực hiện thanh toán giao dịch.\n3. Trừ trường hợp quy định tại Khoản 2 Điều này, Trung tâm Lưu ký Chứng khoán Việt Nam sẽ thực hiện loại bỏ giao dịch và không thanh toán cho các giao dịch lỗi của thành viên giao dịch. Thành viên giao dịch có trách nhiệm bồi thường tổn thất phát sinh liên quan (nếu có) cho tổ chức, cá nhân có giao dịch đối ứng liên quan do giao dịch không được thanh toán.\n4. Việc đối chiếu, xác nhận, xử lý lỗi đối với lệnh thanh toán tiền giao dịch công cụ nợ được thực hiện theo quy định của Ngân hàng Nhà nước Việt Nam."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "32",
+                            "title": "Biện pháp khắc phục tình trạng tạm thời thiếu hụt khả năng thanh toán tiền giao dịch công cụ nợ",
+                            "position": 274,
+                            "children": [],
+                            "content": "1. Tổ chức thanh toán tiền gián tiếp tạm thời thiếu hụt khả năng thanh toán tiền giao dịch công cụ nợ được sử dụng tiền vay của ngân hàng thành viên thanh toán theo thỏa thuận hỗ trợ thanh toán ký kết giữa các bên phù hợp với quy định của pháp luật. Trường hợp thỏa thuận hỗ trợ thanh toán của hai bên có quy định sử dụng chứng khoán để làm tài sản đảm bảo cho khoản vay, Trung tâm Lưu ký Chứng khoán Việt Nam sẽ thực hiện phong tỏa chứng khoán theo đề nghị của ngân hàng thành viên thanh toán.\n2. Ngân hàng thành viên thanh toán, thành viên lưu ký là ngân hàng thương mại, tổ chức mở tài khoản trực tiếp là ngân hàng thương mại tạm thời thiếu hụt khả năng thanh toán tiền giao dịch công cụ nợ được Ngân hàng Nhà nước Việt Nam hỗ trợ thông qua nghiệp vụ thấu chi và cho vay qua đêm để thực hiện thanh toán tiền giao dịch công cụ nợ.\n3. Trường hợp đến thời hạn thanh toán theo quy định mà bên mua vẫn không đủ tiền để thực hiện thanh toán, Trung tâm Lưu ký Chứng khoán Việt Nam sẽ lùi thời hạn thanh toán đối với giao dịch tạm thời thiếu hụt khả năng thanh toán tiền theo đề nghị của bên mua đã được bên bán chấp thuận. Việc lùi thời hạn thanh toán được thực hiện theo quy định tại Khoản 4 Điều này.\n4. Việc lùi thời hạn thanh toán được thực hiện theo nguyên tắc sau:\na) Thời hạn lùi tối đa là hai (02) ngày làm việc kể từ ngày thanh toán của giao dịch thiếu tiền;\nb) Trường hợp bên mua có đủ tiền để thanh toán trong thời hạn quy định tại Điểm a Khoản này, giao dịch lùi thời hạn thanh toán sẽ được thực hiện thanh toán như giao dịch công cụ nợ thông thường;\nc) Trường hợp hết thời hạn thanh toán mà bên mua không có đủ tiền thanh toán thì Trung tâm Lưu ký Chứng khoán Việt Nam thực hiện loại bỏ thanh toán giao dịch theo quy định tại Điều 33 Thông tư này.\n5. Bên mua thiếu tiền có giao dịch bị lùi thời hạn thanh toán phải chịu hoàn toàn trách nhiệm đối với các tổn thất phát sinh cho khách hàng và thành viên có liên quan do giao dịch không được thanh toán đúng thời hạn quy định. Mức bồi thường do các bên tự thỏa thuận theo quy định pháp luật hiện hành.\n6. Trung tâm Lưu ký Chứng khoán Việt Nam hướng dẫn chi tiết các biện pháp khắc phục tình trạng tạm thời thiếu hụt khả năng thanh toán giao dịch công cụ nợ."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "33",
+                            "title": "Loại bỏ thanh toán giao dịch công cụ nợ",
+                            "position": 285,
+                            "children": [],
+                            "content": "1. Trung tâm Lưu ký Chứng khoán Việt Nam loại bỏ thanh toán giao dịch công cụ nợ trong các trường hợp sau:\na) Các giao dịch quy định tại Khoản 3 Điều 31 Thông tư này;\nb) Các giao dịch tạm thời thiếu công cụ nợ và đã áp dụng các biện pháp hỗ trợ nhưng vẫn không có đủ công cụ nợ để thanh toán;\nc) Các giao dịch thiếu tiền tại ngày thanh toán nhưng không đề nghị Trung tâm Lưu ký Chứng khoán Việt Nam áp dụng biện pháp lùi thời hạn thanh toán;\nd) Các giao dịch bị lùi thời hạn thanh toán nhưng hết thời hạn lùi vẫn không có đủ tiền để thanh toán;\nđ) Các giao dịch bán khống công cụ nợ khi chưa có hướng dẫn của Bộ Tài chính.\n2. Trung tâm Lưu ký Chứng khoán Việt Nam có trách nhiệm thông báo cho Sở Giao dịch Chứng khoán, các tổ chức liên quan ngay sau khi thực hiện loại bỏ thanh toán giao dịch công cụ nợ.\n3. Bên phát sinh lỗi dẫn tới giao dịch bị loại bỏ thanh toán phải chịu hoàn toàn trách nhiệm đối với các tổn thất phát sinh cho khách hàng hoặc thành viên đối ứng có liên quan do giao dịch không được thanh toán. Mức bồi thường do các bên tự thỏa thuận theo quy định pháp luật hiện hành."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "34",
+                            "title": "Nghĩa vụ báo cáo",
+                            "position": 295,
+                            "children": [],
+                            "content": "1. Trung tâm Lưu ký Chứng khoán Việt Nam phải báo cáo Ủy ban Chứng khoán Nhà nước theo các quy định hiện hành để phục vụ công tác quản lý, giám sát của Ủy ban Chứng khoán Nhà nước.\n2. Trung tâm Lưu ký Chứng khoán Việt Nam, ngân hàng thành viên thanh toán phải báo cáo Ủy ban Chứng khoán Nhà nước trong thời hạn hai mươi bốn (24) giờ kể từ khi hệ thống thanh toán công cụ nợ hoặc hệ thống thanh toán tiền gặp sự cố.\n3. Trong trường hợp cần thiết, để bảo vệ lợi ích của nhà đầu tư, Ủy ban Chứng khoán Nhà nước có thể yêu cầu Trung tâm Lưu ký Chứng khoán Việt Nam, ngân hàng thành viên thanh toán báo cáo hoạt động thanh toán giao dịch công cụ nợ. Trung tâm Lưu ký Chứng khoán Việt Nam, ngân hàng thành viên thanh toán phải nộp báo cáo theo yêu cầu của Ủy ban Chứng khoán Nhà nước theo đúng nội dung và thời hạn được yêu cầu."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "35",
+                            "title": "Xử lý vi phạm đối với thành viên lưu ký, ngân hàng thành viên thanh toán thiếu hụt khả năng thanh toán",
+                            "position": 299,
+                            "children": [],
+                            "content": "Thành viên lưu ký, ngân hàng thành viên thanh toán thiếu hụt khả năng thanh toán giao dịch công cụ nợ phải áp dụng các cơ chế hỗ trợ hoặc bị lùi thời hạn thanh toán, loại bỏ thanh toán giao dịch sẽ bị xem xét xử lý tùy theo mức độ vi phạm. Việc xử lý vi phạm được thực hiện theo các quy định pháp luật hiện hành. Riêng đối với thành viên lưu ký còn phải thực hiện theo các quy chế của Trung tâm Lưu ký Chứng khoán Việt Nam."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "36",
+                            "title": "Điều khoản chuyển tiếp",
+                            "position": 302,
+                            "children": [],
+                            "content": "Các trái phiếu doanh nghiệp được Chính phủ bảo lãnh đang niêm yết và giao dịch trên hệ thống giao dịch trái phiếu Chính phủ tại Sở Giao dịch Chứng khoán Hà Nội trước ngày Thông tư này có hiệu lực thi hành tiếp tục được niêm yết và giao dịch theo quy định về niêm yết và giao dịch công cụ nợ của Chính phủ cho đến khi hủy niêm yết."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "37",
+                            "title": "Điều khoản thi hành",
+                            "position": 304,
+                            "children": [],
+                            "content": "1. Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 7 năm 2019 và thay thế các văn bản sau đây:\na) Thông tư số 234/2012/TT-BTC ngày 28 tháng 12 năm 2012 của Bộ\ntrưởng Bộ Tài chính hướng dẫn quản lý giao dịch trái phiếu Chính phủ, trái phiếu được Chính phủ bảo lãnh và trái phiếu chính quyền địa phương;\nb) Thông tư số 10/2017/TT-BTC ngày 06 tháng 02 năm 2017 của Bộ trưởng Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 234/2012/TT-BTC ngày 28 tháng 12 năm 2012 của Bộ trưởng Bộ Tài chính hướng dẫn quản lý giao dịch trái phiếu Chính phủ, trái phiếu được Chính phủ bảo lãnh và trái phiếu chính quyền địa phương;\nc) Thông tư số 46/2017/TT-BTC ngày 12 tháng 5 năm 2017 của Bộ trưởng Bộ Tài chính hướng dẫn hoạt động thanh toán giao dịch trái phiếu Chính phủ, trái phiếu được Chính phủ bảo lãnh và trái phiếu chính quyền địa phương.\n2. Trên cơ sở quy định tại Thông tư này, Sở Giao dịch Chứng khoán, Trung tâm Lưu ký Chứng khoán Việt Nam ban hành quy chế hoạt động nghiệp vụ sau khi được Ủy ban Chứng khoán Nhà nước chấp thuận.\n3. Ủy ban Chứng khoán Nhà nước, Ngân hàng thanh toán giao dịch công cụ nợ, Sở Giao dịch Chứng khoán, Trung tâm Lưu ký Chứng khoán Việt Nam và các cơ quan, tổ chức, cá nhân liên quan có trách nhiệm thực hiện Thông tư này.\n4. Trường hợp các văn bản quy phạm pháp luật được dẫn chiếu tại Thông tư này được sửa đổi, bổ sung hoặc thay thế thì thực hiện theo các văn bản sửa đổi, bổ sung hoặc thay thế đó.\nThủ tướng, các Phó Thủ tướng Chính phủ; Văn phòng Quốc hội; Văn phòng Tổng Bí thư; Văn phòng Chủ tịch nước; Văn phòng TƯ và các ban của Đảng; Văn phòng Ban chỉ đạo TƯ về phòng chống tham nhũng Các Bộ, cơ quan ngang Bộ; cơ quan thuộc Chính phủ; Tòa án Nhân dân tối cao; Viện Kiểm sát Nhân dân tối cao; Kiểm toán Nhà nước; UBND, HĐND các tỉnh, thành phố trực thuộc TƯ; Website Chính phủ; Cục Kiểm tra văn bản - Bộ Tư pháp; Các đơn vị thuộc Bộ Tài chính, Website Bộ Tài chính; Lưu: VT, UBCK (300b).\n1.2. Hoạt động tự doanh"
+                        }
+                    ]
+                }
+            ],
+            "metadata": {
+                "total_units": 71,
+                "total_articles": 37,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 1,
+                "depth": 2,
+                "source": "ocr"
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [
+            "Tài chính",
+            "Thương mại, đầu tư, chứng khoán"
+        ],
+        "edges": {
+            "amends": [],
+            "mentions": [],
+            "abolished": []
+        }
+    },
+    "verification": {
+        "official_number_match": null,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": []
+    },
+    "final_edges": []
+}

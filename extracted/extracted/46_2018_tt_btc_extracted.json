@@ -1,0 +1,180 @@
+{
+    "file_name": "46_2018_tt_btc",
+    "source": "ocr_json",
+    "crawled_metadata": {
+        "officialNumber": "46/2018/TT-BTC",
+        "title": "Quy định chi tiết chi phí thực tế để in, sao, chụp và gửi thông tin theo quy định tại khoản 2 Điều 12 Luật Tiếp cận thông tin",
+        "promulgationDate": "2018-05-14",
+        "effectiveDate": "2018-07-01",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "sigerName": "Đỗ Hoàng Anh Tuấn",
+        "draftingUnit": "Vụ Pháp chế",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:22Z",
+        "_doc_id": "62573"
+    },
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "46/2018/TT-BTC",
+            "target_id": "13/2018/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "46/2018/TT-BTC",
+            "target_id": "104/2016/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "46/2018/TT-BTC",
+            "target_id": "83/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "46_2018_tt_btc",
+        "file_path": "/Users/dangnam/Documents/FCI/legal_knowledge_graph/graph_new/54_doc/54vb_structure/46_2018_tt_btc/document_structure.json",
+        "official_number": "46/2018/TT-BTC",
+        "dates": {
+            "promulgation_date": "2018-05-14",
+            "effective_date": "2018-07-01",
+            "expiration_date": null
+        },
+        "issuing_place": "Hạnh phúc Hà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Phạm vi điều chỉnh",
+                    "position": 9,
+                    "children": [],
+                    "content": "Thông tư này quy định chi tiết chi phí thực tế để in, sao, chụp và gửi thông tin theo quy định tại khoản 2 Điều 12 Luật Tiếp cận thông tin."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Đối tượng áp dụng",
+                    "position": 11,
+                    "children": [],
+                    "content": "1. Tổ chức, cá nhân có yêu cầu cơ quan nhà nước cung cấp thông tin.\n2. Cơ quan nhà nước, đơn vị đầu mối cung cấp thông tin và cán bộ làm đầu mối cung cấp thông tin của cơ quan nhà nước.\n3. Các tổ chức, cá nhân khác có liên quan đến việc cung cấp thông tin."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "3",
+                    "title": "Chi phí cung cấp thông tin",
+                    "position": 15,
+                    "children": [],
+                    "content": "1. Tổ chức, cá nhân có yêu cầu cơ quan nhà nước cung cấp thông tin (sau đây gọi là người yêu cầu cung cấp thông tin) không phải trả phí, lệ phí cung cấp thông tin nhưng phải trả chi phí thực tế để in, sao, chụp và gửi thông tin yêu cầu cung cấp, cụ thể:\n1.1. Chi phí in, sao, chụp thông tin:\na) Chi phí in, sao, chụp thông tin thực hiện theo mức thu quy định tại phụ lục ban hành kèm theo Thông tư này.\nb) Đối với cơ quan nhà nước cung cấp thông tin đóng trên địa bàn có điều kiện kinh tế - xã hội khó khăn, địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn, mức thu như sau:\n- Địa bàn có điều kiện kinh tế - xã hội khó khăn, mức thu bằng 70% mức thu quy định tại phụ lục ban hành kèm theo Thông tư này.\n- Địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn, mức thu bằng 50% mức thu quy định tại phụ lục ban hành kèm theo Thông tư này.\nĐịa bàn có điều kiện kinh tế - xã hội khó khăn, địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn được xác định theo quy định tại Phụ lục II ban hành kèm theo Nghị định số 118/2015/NĐ-CP ngày 12/11/2015 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Đầu tư.\n1.2. Chi phí gửi thông tin yêu cầu cung cấp: Mức thu chi phí thực hiện theo mức giá cước tối đa quy định tại Điều 3 và Phụ lục ban hành kèm theo Thông tư số 22/2017/TT-BTTTT ngày 29/9/2017 của Bộ Thông tin và truyền thông quy định mức giá cước tối đa và chính sách miễn, giảm giá cước dịch vụ nhận gửi hồ sơ giải quyết thủ tục hành chính và dịch vụ chuyển trả kết quả giải quyết thủ tục hành chính qua dịch vụ bưu chính công ích.\n2. Người yêu cầu cung cấp thông tin không phải trả chi phí gửi thông tin yêu cầu cung cấp qua mạng điện tử, fax."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "4",
+                    "title": "Thu, nộp chi phí để in, sao, chụp và gửi thông tin",
+                    "position": 25,
+                    "children": [],
+                    "content": "1. Hình thức và quy trình, thủ tục thu, nộp chi phí để in, sao, chụp và gửi thông tin được thực hiện theo quy trình thu ngân sách nhà nước quy định tại Thông tư số 328/2016/TT-BTC ngày 26/12/2016 của Bộ Tài chính hướng dẫn thu và quản lý các khoản thu ngân sách nhà nước qua Kho bạc Nhà nước. Thông tư này hướng dẫn một số nội dung cụ thể như sau:\na) Căn cứ vào Phiếu yêu cầu cung cấp thông tin (mẫu số 01a hoặc mẫu số 01b ban hành kèm theo Nghị định số 13/2018/NĐ-CP ngày 23 tháng 01 năm 2018 của Chính phủ quy định chi tiết và biện pháp thi hành Luật Tiếp cận thông tin) do người yêu cầu cung cấp thông tin lập và mức thu chi phí để in, sao, chụp, gửi thông tin được quy định tại Điều 3 Thông tư này, cán bộ làm đầu mối cung cấp thông tin có trách nhiệm tính toán, xác định chi phí cung cấp thông tin, thời hạn nộp chi phí cung cấp thông tin; xác định cụ thể thông tin về tên cơ quan quản lý thu (cơ quan thuế), tên cơ quan kho bạc nhà nước tiếp nhận khoản thu ngân sách để ghi chi tiết tại chỉ tiêu Phương thức thanh toán (gồm: Tên cơ quan quản lý thu: .../Tên cơ quan kho bạc nhà nước tiếp nhận khoản thu ngân sách: ...) để trình lãnh đạo đơn vị đầu mối cung cấp thông tin duyệt, ghi vào Phiếu giải quyết yêu cầu cung cấp thông tin (mẫu số 03 ban hành kèm theo Nghị định số 13/2018/NĐ-CP ngày 23 tháng 01 năm 2018 của Chính phủ quy định chi tiết và biện pháp thi hành Luật Tiếp cận thông tin).\nb) Người yêu cầu cung cấp thông tin có trách nhiệm nộp chi phí cung cấp thông tin đầy đủ theo Phiếu giải quyết yêu cầu cung cấp thông tin (mẫu số 03 ban hành kèm theo Nghị định số 13/2018/NĐ-CP ngày 23 tháng 01 năm 2018 của Chính phủ quy định chi tiết và biện pháp thi hành Luật Tiếp cận thông tin) do đơn vị đầu mối cung cấp thông tin của cơ quan nhà nước cấp trước khi được cơ quan nhà nước cung cấp thông tin.\n2. Tiền thu từ chi phí in, sao, chụp và gửi thông tin được hạch toán vào Chương của cơ quan nhà nước cung cấp thông tin, mục 4900 – các khoản thu khác và tiểu mục 4949 – các khoản thu khác theo quy định tại Thông tư số 324/2016/TT-BTC ngày 21/12/2016 của Bộ Tài chính quy định hệ thống mục lục ngân sách nhà nước."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "5",
+                    "title": "Lập dự toán, quyết toán kinh phí ngân sách nhà nước cho việc in, sao, chụp và gửi thông tin",
+                    "position": 31,
+                    "children": [],
+                    "content": "Kinh phí in, sao, chụp và gửi thông tin theo quy định tại Thông tư này do ngân sách nhà nước bảo đảm, được bố trí trong lĩnh vực chi quản lý nhà nước (trong định mức phân bổ chi thường xuyên lĩnh vực quản lý nhà nước). Việc lập dự toán, sử dụng, thanh, quyết toán theo quy định của Luật ngân sách nhà nước và các văn bản hướng dẫn Luật."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "6",
+                    "title": "Điều khoản thi hành",
+                    "position": 33,
+                    "children": [],
+                    "content": "1. Thông tư này có hiệu lực kể từ ngày 01 tháng 07 năm 2018.\n2. Trường hợp các văn bản quy phạm pháp luật trích dẫn tại Thông tư này được sửa đổi, bổ sung hoặc thay thế bằng văn bản quy phạm pháp luật khác thì áp dụng quy định tại văn bản sửa đổi, bổ sung hoặc thay thế.\n3. Trong quá trình thực hiện, nếu phát sinh vướng mắc đề nghị các cơ quan, đơn vị phản ánh về Bộ Tài chính để nghiên cứu, sửa đổi, bổ sung cho phù hợp./.()()*\nTTCP, các Phó TTCP; VP Tổng Bí thư; VP Quốc hội, VP Chủ tịch nước, VP CP; VP TW và các Ban của Đảng; Viện Kiểm sát nhân dân tối cao; Tòa án nhân dân tối cao; Kiểm toán NN; Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP; UBND các tỉnh, t/p trực thuộc TW; Cơ quan TW của các hội, đoàn thể; Sở Tài chính, Sở Tư pháp, Kho bạc NN các tỉnh, thành phố trực thuộc TW; Cục Kiểm tra văn bản Bộ Tư pháp; Công báo, Cổng thông tin điện tử Chính phủ, Công thông tin điện tử Bộ Tài chính; Lưu: VT, PC."
+                }
+            ],
+            "metadata": {
+                "total_units": 7,
+                "total_articles": 6,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 1,
+                "source": "ocr"
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [
+            "Thông tin, báo chí, xuất bản",
+            "Tài chính"
+        ],
+        "edges": {
+            "amends": [],
+            "mentions": [],
+            "abolished": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": []
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "46/2018/TT-BTC",
+            "target_id": "13/2018/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "46/2018/TT-BTC",
+            "target_id": "104/2016/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "46/2018/TT-BTC",
+            "target_id": "83/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        }
+    ]
+}

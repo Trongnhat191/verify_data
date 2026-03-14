@@ -1,0 +1,205 @@
+{
+    "file_name": "01_2024_tt_btc",
+    "source": "ocr_json",
+    "crawled_metadata": {
+        "officialNumber": "01/2024/TT-BTC",
+        "title": "Quy định thời hạn bảo quản hồ sơ, tài liệu chuyên môn, nghiệp vụ ngành Tài chính",
+        "promulgationDate": "2024-01-08",
+        "effectiveDate": "2024-03-01",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "sigerName": "Nguyễn Đức Chi",
+        "draftingUnit": "Văn phòng Bộ",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:19Z",
+        "_doc_id": "194361"
+    },
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "01/2024/TT-BTC",
+            "target_id": "01/2011/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "01/2024/TT-BTC",
+            "target_id": "01/2013/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "01/2024/TT-BTC",
+            "target_id": "14/2023/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "01/2024/TT-BTC",
+            "target_id": "155/2013/TT-BTC",
+            "properties": {
+                "note": "het_hieu_luc",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "01_2024_tt_btc",
+        "file_path": "/Users/dangnam/Documents/FCI/legal_knowledge_graph/graph_new/54_doc/54vb_structure/01_2024_tt_btc/document_structure.json",
+        "official_number": null,
+        "dates": {
+            "promulgation_date": "2024-01-08",
+            "effective_date": null,
+            "expiration_date": null
+        },
+        "issuing_place": "Hạnh phúc Hà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Phạm vi điều chỉnh",
+                    "position": 8,
+                    "children": [],
+                    "content": "Thông tư này quy định về thời hạn bào quản hồ sơ, tài liệu chuyên môn, nghiệp vụ ngành Tài chính."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Đối tượng áp dụng",
+                    "position": 10,
+                    "children": [],
+                    "content": "1. Các cơ quan, đơn vị trong ngành Tài chính.\n2. Các cơ quan, tổ chức, cá nhân có liên quan."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "3",
+                    "title": "Thời hạn bảo quản hồ sơ, tài liệu chuyên môn, nghiệp vụ",
+                    "position": 13,
+                    "children": [],
+                    "content": "1. Ban hành kèm theo Thông tư này Thời hạn bảo quản hồ sơ, tài liệu chuyên môn, nghiệp vụ ngành Tài chính.\n2. Việc áp dụng các quy định về thời hạn bảo quản hồ sơ, tài liệu chuyên môn, nghiệp vụ được thực hiện như sau:\na) Thời hạn bảo quản hồ sơ, tài liệu dùng để xác định thời hạn bảo quản cho các hồ sơ, tài liệu chuyên môn, nghiệp vụ ngành Tài chính.\nb) Mức xác định thời hạn bảo quản hồ sơ, tài liệu không được thấp hơn mức quy định thời hạn bảo quản hồ sơ, tài liệu ban hành kèm theo Thông tư này.\nc) Đối với hồ sơ, tài liệu hình thành trong hoạt động của cơ quan, tổ chức chưa được quy định tại Thông tư này, các cơ quan, tổ chức căn cứ thời hạn bảo quản của hồ sơ, tài liệu tương ứng để xác định."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "4",
+                    "title": "Điều khoản thi hành",
+                    "position": 20,
+                    "children": [],
+                    "content": "1. Thông tư này có hiệu lực kể từ ngày 0.4 tháng 3.năm 2024\n2. Thông tư số 155/2013/TT-BTC ngày 06 tháng 11 năm 2013 của Bộ Tài chính quy định về thời hạn bảo quản hồ sơ, tài liệu hình thành phổ biến trong hoạt động của ngành Tài chính hết hiệu lực kể từ ngày Thông tư này có hiệu lực."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "5",
+                    "title": "Tổ chức thực hiện",
+                    "position": 23,
+                    "children": [],
+                    "content": "Chánh Văn phòng Bộ Tài chính, Thủ trưởng các cơ quan, đơn vị trong ngành Tài chính và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này EN\nNơi nhận: Ban Bí thư Trung ương Đảng; Thủ tướng Chính phú, các Phó thủ tướng Chính phủ; Văn phòng Trung ương Đảng và các Ban của Đảng Văn phòng Tổng Bí thư; Văn phòng Quốc hội; Hội đồng dân tộc; Ủy ban Tài chính Ngân sách; Văn phòng Chủ tịch nước; Viện Kiem sát nhân dân tối cao; Tòa án nhân dân tối cao; Kiểm toán nhà nước; Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; Cơ quan Trung ương của các Hội, Đoàn thể; HĐND; UBND các tỉnh, thành phố trực thuộc TW; Sở Tài chính, Cục Thuế, Cục Hải quan, Cục Dự trữ NN, KBNN các tỉnh, thành phố trực thuộc TW; Cục Kiem tra văn bản QPPL(Bộ Tư pháp); Công báo; Cống thông tin điện tử Chính phủ; Công thông tin điện tử Bộ Tài chinh; Các đơn vị thuộc Bộ Tài chính; Lưu: VT, VP (4 8 b). 100"
+                }
+            ],
+            "metadata": {
+                "total_units": 6,
+                "total_articles": 5,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 1,
+                "source": "ocr"
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [
+            "Tài chính"
+        ],
+        "edges": {
+            "amends": [],
+            "mentions": [],
+            "abolished": [
+                {
+                    "official_number_target": "155/2013/TT-BTC",
+                    "scope": "FULL",
+                    "date_abolished": "2024-03-04",
+                    "affected_details": [
+                        "Toàn văn"
+                    ]
+                }
+            ]
+        }
+    },
+    "verification": {
+        "official_number_match": null,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 1,
+                "llm_count": 1,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": []
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "01/2024/TT-BTC",
+            "target_id": "01/2011/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "01/2024/TT-BTC",
+            "target_id": "01/2013/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "01/2024/TT-BTC",
+            "target_id": "14/2023/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "01/2024/TT-BTC",
+            "target_id": "155/2013/TT-BTC",
+            "properties": {
+                "note": "het_hieu_luc",
+                "source": "crawled",
+                "scope": "FULL",
+                "date_abolished": "2024-03-04",
+                "affected_details": [
+                    "Toàn văn"
+                ]
+            },
+            "_crawled": true
+        }
+    ]
+}

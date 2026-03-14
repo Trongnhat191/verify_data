@@ -1,0 +1,347 @@
+{
+    "file_name": "172_2005_ttlt_bqp_btc",
+    "source": "ocr_json",
+    "crawled_metadata": {
+        "officialNumber": "172/2005/TTLT/BQP-BTC",
+        "title": "Hướng dẫn thực hiện một số điều của Nghị định số 132/2004/NĐ-CP ngày 04 tháng 6 năm 2004 của Chính phủ quy định chi tiết thi hành pháp lệnh động viên công nghiệp",
+        "promulgationDate": "2005-10-18",
+        "effectiveDate": null,
+        "expirationDate": "9999-12-31",
+        "gazetteDate": null,
+        "sigerName": "Nguyễn Văn Được; Trần Văn Tá",
+        "draftingUnit": "",
+        "documentType": "THONG_TU_LIEN_TICH",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": null,
+        "scopeLevel": null,
+        "_raw_co_quan_ban_hanh": "Bộ Quốc Phòng; Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư liên tịch",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:36Z",
+        "_doc_id": "29317"
+    },
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "172/2005/TTLT/BQP-BTC",
+            "target_id": "132/2004/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "172/2005/TTLT/BQP-BTC",
+            "target_id": "06/2005/QĐ-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "172/2005/TTLT/BQP-BTC",
+            "target_id": "05/2004/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "172/2005/TTLT/BQP-BTC",
+            "target_id": "206/2003/QĐ-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "172_2005_ttlt_bqp_btc",
+        "file_path": "/Users/dangnam/Documents/FCI/legal_knowledge_graph/graph_new/54_doc/54vb_structure/172_2005_ttlt_bqp_btc/document_structure.json",
+        "official_number": "172/2005/TTLT",
+        "dates": {
+            "promulgation_date": "2005-10-18",
+            "effective_date": null,
+            "expiration_date": null
+        },
+        "issuing_place": "CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM Hà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "I",
+                    "title": "GIÁ THANH TOÁN SẢN PHẨM ĐỘNG VIÊN CÔNG NGHIỆP",
+                    "position": 4,
+                    "children": [],
+                    "content": "1. Đối tượng áp dụng: các doanh nghiệp công nghiệp trực tiếp tham gia sản xuất, sửa chữa trang bị để duy trì năng lực của dây chuyền, huấn luyện, diễn tập động viên công nghiệp và thực hành động viên công nghiệp.\n2. Giá thanh toán sản phẩm động viên công nghiệp thực hiện theo quy định tại Thông tư số 05/2004/TT-BTC ngày 30 tháng 01 năm 2004 của Bộ Tài chính hướng dẫn quản lý giá hàng hóa, dịch vụ do Nhà nước đặt hàng thanh toán bằng nguồn ngân sách nhà nước theo nguyên tắc tính đúng, tính đủ chi phí hợp lý trên cơ sở định mức, khung giá của Nhà nước và Bộ Quốc phòng tại thời điểm thanh toán, bảo đảm lợi ích hợp pháp của doanh nghiệp và người lao động.\nViệc xác định giá thanh toán sản phẩm động viên công nghiệp được thực hiện theo quy định của Quy chế tính giá tài sản, hàng hóa, dịch vụ ban hành kèm theo Quyết định số 06/2005/QĐ-BTC ngày 18 tháng 01 năm 2005 của Bộ trưởng Bộ Tài chính.\n3. Doanh nghiệp công nghiệp lập phương án giá cho từng loại sản phẩm theo nhiệm vụ được giao trình Bộ Quốc phòng phê duyệt.\nII. QUẢN LÝ TÀI LIỆU CÔNG NGHỆ ĐÃ ĐƯỢC CHUYỂN GIAO VÀ CÁC TRANG THIẾT BỊ DO NHÀ NƯỚC GIAO CHO DOANH NGHIỆP CÔNG NGHIỆP ĐỂ HOÀN CHỈNH DÂY CHUYỀN SẢN XUẤT, SỬA CHỮA TRANG BỊ\n1. Bộ Quốc phòng là đại diện chủ sở hữu nhà nước đối với tài liệu công nghệ đã được chuyển giao và các trang thiết bị do Nhà nước giao cho doanh nghiệp công nghiệp để hoàn chỉnh dây chuyền sản xuất, sửa chữa trang bị (sau đây gọi chung là tài liệu công nghệ và trang thiết bị do Nhà nước giao).\n2. Các doanh nghiệp công nghiệp có trách nhiệm quản lý tài liệu công nghệ và các trang thiết bị do Nhà nước giao theo quy định quản lý, sử dụng tài sản cố định tại Mục II Chế\nđộ quản lý, sử dụng và trích khấu hao tài sản cố định ban hành kèm theo Quyết định số 206/2003/QĐ-BTC ngày 12 tháng 12 năm 2003 của Bộ trưởng Bộ Tài chính.\nCác trang thiết bị do Nhà nước giao cho doanh nghiệp công nghiệp, trong thời gian cất giữa, bảo quản và khi thực hiện nhiệm vụ theo kế hoạch động viên công nghiệp không phải trích khấu hao, nhưng được tính mức hao mòn theo quy định tại khoản 2 Điều 9 Mục III Chế độ quản lý, sử dụng và trích khấu hao tài sản cố định ban hành kèm theo Quyết định số 206/2003/QĐ-BTC ngày 12 tháng 12 năm 2003 của Bộ trưởng Bộ Tài chính.\n3. Trong quá trình quản lý, sử dụng tài liệu công nghệ và các trang thiết bị do Nhà nước giao mà bị hỏng, bị mất, bị tiêu hủy, doanh nghiệp công nghiệp phải lập biên bản, xác định nguyên nhân và có biện pháp xử lý theo quy định để bảo đảm khả năng sẵn sàng sản xuất, sửa chữa trang bị; nội dung biên bản được thực hiện theo quy định tại phụ lục ban hành kèm theo Thông tư này."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "II",
+                    "title": "QUẢN LÝ TÀI LIỆU CÔNG NGHỆ ĐÃ ĐƯỢC CHUYỂN GIAO VÀ CÁC TRANG THIẾT BỊ DO NHÀ NƯỚC GIAO CHO DOANH NGHIỆP CÔNG NGHIỆP ĐỂ HOÀN CHỈNH DÂY CHUYỀN SẢN XUẤT, SỬA CHỮA TRANG BỊ",
+                    "position": 9,
+                    "children": [],
+                    "content": "1. Bộ Quốc phòng là đại diện chủ sở hữu nhà nước đối với tài liệu công nghệ đã được chuyển giao và các trang thiết bị do Nhà nước giao cho doanh nghiệp công nghiệp để hoàn chỉnh dây chuyền sản xuất, sửa chữa trang bị (sau đây gọi chung là tài liệu công nghệ và trang thiết bị do Nhà nước giao).\n2. Các doanh nghiệp công nghiệp có trách nhiệm quản lý tài liệu công nghệ và các trang thiết bị do Nhà nước giao theo quy định quản lý, sử dụng tài sản cố định tại Mục II Chế\nđộ quản lý, sử dụng và trích khấu hao tài sản cố định ban hành kèm theo Quyết định số 206/2003/QĐ-BTC ngày 12 tháng 12 năm 2003 của Bộ trưởng Bộ Tài chính.\nCác trang thiết bị do Nhà nước giao cho doanh nghiệp công nghiệp, trong thời gian cất giữa, bảo quản và khi thực hiện nhiệm vụ theo kế hoạch động viên công nghiệp không phải trích khấu hao, nhưng được tính mức hao mòn theo quy định tại khoản 2 Điều 9 Mục III Chế độ quản lý, sử dụng và trích khấu hao tài sản cố định ban hành kèm theo Quyết định số 206/2003/QĐ-BTC ngày 12 tháng 12 năm 2003 của Bộ trưởng Bộ Tài chính.\n3. Trong quá trình quản lý, sử dụng tài liệu công nghệ và các trang thiết bị do Nhà nước giao mà bị hỏng, bị mất, bị tiêu hủy, doanh nghiệp công nghiệp phải lập biên bản, xác định nguyên nhân và có biện pháp xử lý theo quy định để bảo đảm khả năng sẵn sàng sản xuất, sửa chữa trang bị; nội dung biên bản được thực hiện theo quy định tại phụ lục ban hành kèm theo Thông tư này."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "III",
+                    "title": "TRÍCH KHẤU HAO VÀ SỬ DỤNG TIỀN TRÍCH KHẤU HAO TRANG THIẾT BỊ DO NHÀ NƯỚC GIAO KHI KHAI THÁC CÔNG DỤNG NGOÀI KẾ HOẠCH ĐỘNG VIÊN CÔNG NGHIỆP TẠI CÁC DOANH NGHIỆP CÔNG NGHIỆP",
+                    "position": 16,
+                    "children": [],
+                    "content": "1. Trong thời gian được phép khai thác công dụng các trang thiết bị do Nhà nước giao ngoài kế hoạch động viên công nghiệp, doanh nghiệp công nghiệp phải tính và trích khấu hao trang thiết bị theo quy định tại Mục III Chế độ quản lý, sử dụng và trích khấu hao tài sản cố định ban hành kèm theo Quyết định số 206/2003/QĐ-BTC ngày 12 tháng 12 năm 2003 của Bộ trưởng Bộ Tài chính.\n2. Doanh nghiệp công nghiệp có trách nhiệm sử dụng tiền trích khấu hao trang thiết bị này để tái đầu tư phục vụ bảo dưỡng, sửa chữa các trang thiết bị trong và ngay sau khi kết thúc thời gian khai thác để bảo đảm duy trì tính năng kỹ thuật, sẵn sàng thực hiện nhiệm vụ sản xuất, sửa chữa trang bị.\n3. Doanh nghiệp công nghiệp phải ghi sổ theo dõi số trích khấu hao và sử dụng tiền trích khấu hao các trang thiết bị; định kỳ hàng năm lập văn bản báo cáo cơ quan quản lý cấp trên (nếu có) của doanh nghiệp và Bộ Quốc phòng."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "IV",
+                    "title": "XÁC ĐỊNH BỒI THƯỜNG CÁC TỔN THẤT ĐỐI VỚI TÀI LIỆU CÔNG NGHỆ ĐÃ ĐƯỢC CHUYỂN GIAO VÀ TRANG THIẾT BỊ DO NHÀ NƯỚC GIAO KHI CÓ QUYẾT ĐỊNH THU HỒI",
+                    "position": 20,
+                    "children": [],
+                    "content": "1. Khi thực hiện quyết định thu hồi tài liệu công nghệ và trang thiết bị do Nhà nước giao, nếu có tổn thất (bị hỏng, bị mất, bị tiêu hủy) thì doanh nghiệp công nghiệp hoặc cá nhân có liên quan phải bồi thường theo nguyên tắc:\na. Đối với tài liệu công nghệ khi bị tổn thất phải bồi thường đủ chi phí cho việc xây dựng hoặc khôi phục lại đầy đủ các nội dung của tài liệu công nghệ tương đương lúc doanh nghiệp công nghiệp tiếp nhận;\nb. Đối với trang thiết bị khi bị tổn thất phải bồi thường đủ chi phí cho việc mua sắm, chế tạo hoặc sửa chữa khôi phục lại tính đồng bộ của trang thiết bị tương đương trước thời điểm xảy ra tổn thất.\n2. Căn cứ xác định mức bồi thường.\na. Căn cứ vào biên bản thu hồi hoặc tiếp nhận chuyển giao tài liệu công nghệ và trang thiết bị do Nhà nước giao;\nb. Căn cứ vào biên bản bàn giao tài liệu công nghệ và trang thiết bị do Nhà nước giao cho doanh nghiệp công nghiệp;\nc. Căn cứ vào hồ sơ kế toán của trang thiết bị: nguyên giá, giá trị còn lại;\nd. Căn cứ vào biên bản xác nhận tài liệu công nghệ và trang thiết bị bị mất, bị tiêu hủy.\n3. Phương pháp xác định mức bồi thường.\na. Các cơ quan chức năng của Bộ Quốc phòng đã được Bộ trưởng Bộ Quốc phòng giao nhiệm vụ chuyển giao tài liệu công nghệ và ủy quyền tổ chức nghiệm thu dây chuyền công nghệ sản xuất, sửa chữa trang bị phải thành lập Hội đồng xác định mức bồi thường. Thành phần của Hội đồng gồm đại diện của cơ quan kỹ thuật, cơ quan tài chính, đại diện của doanh nghiệp công nghiệp và cá nhân có liên quan đến việc bồi thường (nếu có) do Thủ trưởng cơ quan chức năng thành lập Hội đồng làm Chủ tịch Hội đồng.\nCăn cứ vào hồ sơ, tài liệu hướng dẫn tại điểm 2, Hội đồng tiến hành xác định mức bồi thường đối với tài liệu công nghệ và trang thiết bị bị tổn thất, lập văn bản trình Bộ trưởng Bộ Quốc phòng quyết định.\nb. Việc xác định mức bồi thường đối với các trang thiết bị bị tổn thất được áp dụng thực hiện theo quy định tại điểm 3.2 Mục 3 Phần III Thông tư liên tịch số 234/2003/TTLT-BQP-BTC ngày 17 tháng 9 năm 2003 của liên Bộ Quốc phòng - Tài chính hướng dẫn thực hiện chế độ chính sách đối với chủ phương tiện có phương tiện được huy động trực tiếp tham gia huấn luyện, diễn tập, kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu; tăng cường cho lực lượng thường trực của Quân đội và huy động phục vụ cho các nhiệm vụ nói trên.\n4. Trách nhiệm bồi thường.\na. Doanh nghiệp công nghiệp có trách nhiệm bồi thường các tổn thất về tài liệu công nghệ và trang thiết bị do Nhà nước giao. Kinh phí bồi thường được trích từ quỹ phát triển sản xuất của doanh nghiệp công nghiệp;\nb. Cá nhân phải tự chịu trách nhiệm bồi thường các tổn thất về tài liệu công nghệ và trang thiết bị do Nhà nước giao nếu tổn thất do cá nhân gây ra;\nc. Trường hợp tổn thất vì lý do bất khả kháng (thiên tai, địch họa, hỏa hoạn và các lý do bất khả kháng khác) thì không phải bồi thường.\nV. CHẾ ĐỘ, CHÍNH SÁCH ĐỐI VỚI CHỦ PHƯƠNG TIỆN CÓ PHƯƠNG TIỆN ĐƯỢC HUY ĐỘNG VÀ CHỦ SỞ HỮU CÁC TÀI SẢN KHÁC CÓ TÀI SẢN THAM GIA HUẤN LUYỆN, DIỄN TẬP HOẶC PHỤC VỤ DI CHUYỂN DÂY CHUYỀN ĐỘNG VIÊN CÔNG NGHIỆP.\n1. Đối tượng áp dụng.\na. Chủ phương tiện có phương tiện được huy động tham gia huấn luyện, diễn tập động viên công nghiệp hoặc phục vụ di chuyển dây chuển động viên công nghiệp;\nb. Chủ sở hữu các tài sản khác có tài sản được huy động tham gia huấn luyện, diễn tập động viên công nghiệp hoặc phục vụ di chuyển dây chuển động viên công nghiệp.\n2. Điều kiện được hưởng chế độ chính sách.\na. Phương tiện và các tài sản khác được huy động theo kế hoạch đã được Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Chủ tịch Ủy ban nhân dân cấp tỉnh, người đứng đầu Tổng công ty phê duyệt;\nb. Phương tiện phải đúng loại phương tiện được ghi trong kế hoạch huy động; các tài sản khác phải đúng danh mục ghi trong kế hoạch huy động. Trường hợp thay thế phương tiện hoặc tài sản được huy động phải được sự đồng ý bằng văn bản của cấp có thẩm quyền ra quyết định huy động và phê duyệt kế hoạch;\nc. Phải có biên bản bàn giao tình trạng kỹ thuật của phương tiện và tình trạng của các tài sản khác tại thời điểm huy động giữa chủ phương tiện, chủ sở hữu các tài sản khác với đơn vị sử dụng phương tiện, tài sản;\nd. Phương tiện và các tài sản khác được sử dụng đúng mục đích trong thời gian huy động.\n3. Chế độ, chính sách đối với chủ phương tiện và chủ sở hữu các tài sản; căn cứ xác định mức chi trả; phương pháp tính toán mức chi trả và thủ tục thanh toán được áp dụng thực hiện theo quy định tại Mục 1, 2, 3, 4 Phần III Thông tư liên tịch số 234/2003/TTLT-BQP-BTC ngày 17/9/2003 của liên Bộ Quốc phòng - Tài chính hướng dẫn thực hiện chế độ chính sách đối với chủ phương tiện có phương tiện được huy động trực tiếp tham gia huấn luyện, diễn tập, kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu; tăng cường cho lực lượng thường trực của Quân đội và huy động phục vụ cho các nhiệm vụ nói trên.\n4. Ngân sách đảm bảo.\na. Ngân sách địa phương bảo đảm cho thực hiện chế độ chính sách đối với chủ phương tiện, chủ sở hữu tài sản có phương tiện và tài sản được huy động tham gia huấn luyện, diễn tập thuộc nhiệm vụ chuẩn bị động viên công nghiệp của địa phương hoặc do địa phương huy động phục vụ di chuyển dây chuyền động viên công nghiệp (kể cả cho các doanh nghiệp công nghiệp không thuộc cấp tỉnh quản lý) trong thực hành động viên công nghiệp;\nb. Ngân sách Trung ương bảo đảm cho thực hiện chế độ chính sách với chủ phương tiện, chủ sở hữu tài sản có phương tiện và tài sản được huy động tham gia huấn luyện, diễn tập thuộc nhiệm vụ chuẩn bị động viên công nghiệp của Bộ Quốc phòng, các Bộ, cơ quan ngang Bộ, Tổng công ty hoặc phục vụ di chuyển dây chuyền trong thực hành động viên công nghiệp cho các doanh nghiệp công nghiệp trực thuộc các Bộ, cơ quan ngang Bộ, Tổng công ty (trừ số phương tiện và tài sản do địa phương huy động nói tại khoản a điểm này);\nc. Trường hợp do cá nhân sử dụng phương tiện, tài sản làm mất, tiêu hủy hoặc hư hỏng phương tiện, tài sản được huy động tham gia huấn luyện, diễn tập và phục vụ di chuyển dây chuyền động viên công nghiệp thì cá nhân phải tự chịu trách nhiệm đền bù thiệt hại theo pháp luật hiện hành."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "c",
+                    "title": "Căn cứ vào hồ sơ kế toán của trang thiết bị: nguyên giá, giá trị còn lại;",
+                    "position": 28,
+                    "children": [],
+                    "content": "d. Căn cứ vào biên bản xác nhận tài liệu công nghệ và trang thiết bị bị mất, bị tiêu hủy.\n3. Phương pháp xác định mức bồi thường.\na. Các cơ quan chức năng của Bộ Quốc phòng đã được Bộ trưởng Bộ Quốc phòng giao nhiệm vụ chuyển giao tài liệu công nghệ và ủy quyền tổ chức nghiệm thu dây chuyền công nghệ sản xuất, sửa chữa trang bị phải thành lập Hội đồng xác định mức bồi thường. Thành phần của Hội đồng gồm đại diện của cơ quan kỹ thuật, cơ quan tài chính, đại diện của doanh nghiệp công nghiệp và cá nhân có liên quan đến việc bồi thường (nếu có) do Thủ trưởng cơ quan chức năng thành lập Hội đồng làm Chủ tịch Hội đồng.\nCăn cứ vào hồ sơ, tài liệu hướng dẫn tại điểm 2, Hội đồng tiến hành xác định mức bồi thường đối với tài liệu công nghệ và trang thiết bị bị tổn thất, lập văn bản trình Bộ trưởng Bộ Quốc phòng quyết định.\nb. Việc xác định mức bồi thường đối với các trang thiết bị bị tổn thất được áp dụng thực hiện theo quy định tại điểm 3.2 Mục 3 Phần III Thông tư liên tịch số 234/2003/TTLT-BQP-BTC ngày 17 tháng 9 năm 2003 của liên Bộ Quốc phòng - Tài chính hướng dẫn thực hiện chế độ chính sách đối với chủ phương tiện có phương tiện được huy động trực tiếp tham gia huấn luyện, diễn tập, kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu; tăng cường cho lực lượng thường trực của Quân đội và huy động phục vụ cho các nhiệm vụ nói trên.\n4. Trách nhiệm bồi thường.\na. Doanh nghiệp công nghiệp có trách nhiệm bồi thường các tổn thất về tài liệu công nghệ và trang thiết bị do Nhà nước giao. Kinh phí bồi thường được trích từ quỹ phát triển sản xuất của doanh nghiệp công nghiệp;\nb. Cá nhân phải tự chịu trách nhiệm bồi thường các tổn thất về tài liệu công nghệ và trang thiết bị do Nhà nước giao nếu tổn thất do cá nhân gây ra;\nc. Trường hợp tổn thất vì lý do bất khả kháng (thiên tai, địch họa, hỏa hoạn và các lý do bất khả kháng khác) thì không phải bồi thường.\nV. CHẾ ĐỘ, CHÍNH SÁCH ĐỐI VỚI CHỦ PHƯƠNG TIỆN CÓ PHƯƠNG TIỆN ĐƯỢC HUY ĐỘNG VÀ CHỦ SỞ HỮU CÁC TÀI SẢN KHÁC CÓ TÀI SẢN THAM GIA HUẤN LUYỆN, DIỄN TẬP HOẶC PHỤC VỤ DI CHUYỂN DÂY CHUYỀN ĐỘNG VIÊN CÔNG NGHIỆP.\n1. Đối tượng áp dụng.\na. Chủ phương tiện có phương tiện được huy động tham gia huấn luyện, diễn tập động viên công nghiệp hoặc phục vụ di chuyển dây chuển động viên công nghiệp;\nb. Chủ sở hữu các tài sản khác có tài sản được huy động tham gia huấn luyện, diễn tập động viên công nghiệp hoặc phục vụ di chuyển dây chuển động viên công nghiệp.\n2. Điều kiện được hưởng chế độ chính sách.\na. Phương tiện và các tài sản khác được huy động theo kế hoạch đã được Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Chủ tịch Ủy ban nhân dân cấp tỉnh, người đứng đầu Tổng công ty phê duyệt;\nb. Phương tiện phải đúng loại phương tiện được ghi trong kế hoạch huy động; các tài sản khác phải đúng danh mục ghi trong kế hoạch huy động. Trường hợp thay thế phương tiện hoặc tài sản được huy động phải được sự đồng ý bằng văn bản của cấp có thẩm quyền ra quyết định huy động và phê duyệt kế hoạch;\nc. Phải có biên bản bàn giao tình trạng kỹ thuật của phương tiện và tình trạng của các tài sản khác tại thời điểm huy động giữa chủ phương tiện, chủ sở hữu các tài sản khác với đơn vị sử dụng phương tiện, tài sản;\nd. Phương tiện và các tài sản khác được sử dụng đúng mục đích trong thời gian huy động.\n3. Chế độ, chính sách đối với chủ phương tiện và chủ sở hữu các tài sản; căn cứ xác định mức chi trả; phương pháp tính toán mức chi trả và thủ tục thanh toán được áp dụng thực hiện theo quy định tại Mục 1, 2, 3, 4 Phần III Thông tư liên tịch số 234/2003/TTLT-BQP-BTC ngày 17/9/2003 của liên Bộ Quốc phòng - Tài chính hướng dẫn thực hiện chế độ chính sách đối với chủ phương tiện có phương tiện được huy động trực tiếp tham gia huấn luyện, diễn tập, kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu; tăng cường cho lực lượng thường trực của Quân đội và huy động phục vụ cho các nhiệm vụ nói trên.\n4. Ngân sách đảm bảo.\na. Ngân sách địa phương bảo đảm cho thực hiện chế độ chính sách đối với chủ phương tiện, chủ sở hữu tài sản có phương tiện và tài sản được huy động tham gia huấn luyện, diễn tập thuộc nhiệm vụ chuẩn bị động viên công nghiệp của địa phương hoặc do địa phương huy động phục vụ di chuyển dây chuyền động viên công nghiệp (kể cả cho các doanh nghiệp công nghiệp không thuộc cấp tỉnh quản lý) trong thực hành động viên công nghiệp;\nb. Ngân sách Trung ương bảo đảm cho thực hiện chế độ chính sách với chủ phương tiện, chủ sở hữu tài sản có phương tiện và tài sản được huy động tham gia huấn luyện, diễn tập thuộc nhiệm vụ chuẩn bị động viên công nghiệp của Bộ Quốc phòng, các Bộ, cơ quan ngang Bộ, Tổng công ty hoặc phục vụ di chuyển dây chuyền trong thực hành động viên công nghiệp cho các doanh nghiệp công nghiệp trực thuộc các Bộ, cơ quan ngang Bộ, Tổng công ty (trừ số phương tiện và tài sản do địa phương huy động nói tại khoản a điểm này);\nc. Trường hợp do cá nhân sử dụng phương tiện, tài sản làm mất, tiêu hủy hoặc hư hỏng phương tiện, tài sản được huy động tham gia huấn luyện, diễn tập và phục vụ di chuyển dây chuyền động viên công nghiệp thì cá nhân phải tự chịu trách nhiệm đền bù thiệt hại theo pháp luật hiện hành."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "d",
+                    "title": "Căn cứ vào biên bản xác nhận tài liệu công nghệ và trang thiết bị bị mất, bị tiêu hủy.",
+                    "position": 29,
+                    "children": [],
+                    "content": "3. Phương pháp xác định mức bồi thường.\na. Các cơ quan chức năng của Bộ Quốc phòng đã được Bộ trưởng Bộ Quốc phòng giao nhiệm vụ chuyển giao tài liệu công nghệ và ủy quyền tổ chức nghiệm thu dây chuyền công nghệ sản xuất, sửa chữa trang bị phải thành lập Hội đồng xác định mức bồi thường. Thành phần của Hội đồng gồm đại diện của cơ quan kỹ thuật, cơ quan tài chính, đại diện của doanh nghiệp công nghiệp và cá nhân có liên quan đến việc bồi thường (nếu có) do Thủ trưởng cơ quan chức năng thành lập Hội đồng làm Chủ tịch Hội đồng.\nCăn cứ vào hồ sơ, tài liệu hướng dẫn tại điểm 2, Hội đồng tiến hành xác định mức bồi thường đối với tài liệu công nghệ và trang thiết bị bị tổn thất, lập văn bản trình Bộ trưởng Bộ Quốc phòng quyết định.\nb. Việc xác định mức bồi thường đối với các trang thiết bị bị tổn thất được áp dụng thực hiện theo quy định tại điểm 3.2 Mục 3 Phần III Thông tư liên tịch số 234/2003/TTLT-BQP-BTC ngày 17 tháng 9 năm 2003 của liên Bộ Quốc phòng - Tài chính hướng dẫn thực hiện chế độ chính sách đối với chủ phương tiện có phương tiện được huy động trực tiếp tham gia huấn luyện, diễn tập, kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu; tăng cường cho lực lượng thường trực của Quân đội và huy động phục vụ cho các nhiệm vụ nói trên.\n4. Trách nhiệm bồi thường.\na. Doanh nghiệp công nghiệp có trách nhiệm bồi thường các tổn thất về tài liệu công nghệ và trang thiết bị do Nhà nước giao. Kinh phí bồi thường được trích từ quỹ phát triển sản xuất của doanh nghiệp công nghiệp;\nb. Cá nhân phải tự chịu trách nhiệm bồi thường các tổn thất về tài liệu công nghệ và trang thiết bị do Nhà nước giao nếu tổn thất do cá nhân gây ra;\nc. Trường hợp tổn thất vì lý do bất khả kháng (thiên tai, địch họa, hỏa hoạn và các lý do bất khả kháng khác) thì không phải bồi thường.\nV. CHẾ ĐỘ, CHÍNH SÁCH ĐỐI VỚI CHỦ PHƯƠNG TIỆN CÓ PHƯƠNG TIỆN ĐƯỢC HUY ĐỘNG VÀ CHỦ SỞ HỮU CÁC TÀI SẢN KHÁC CÓ TÀI SẢN THAM GIA HUẤN LUYỆN, DIỄN TẬP HOẶC PHỤC VỤ DI CHUYỂN DÂY CHUYỀN ĐỘNG VIÊN CÔNG NGHIỆP.\n1. Đối tượng áp dụng.\na. Chủ phương tiện có phương tiện được huy động tham gia huấn luyện, diễn tập động viên công nghiệp hoặc phục vụ di chuyển dây chuển động viên công nghiệp;\nb. Chủ sở hữu các tài sản khác có tài sản được huy động tham gia huấn luyện, diễn tập động viên công nghiệp hoặc phục vụ di chuyển dây chuển động viên công nghiệp.\n2. Điều kiện được hưởng chế độ chính sách.\na. Phương tiện và các tài sản khác được huy động theo kế hoạch đã được Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Chủ tịch Ủy ban nhân dân cấp tỉnh, người đứng đầu Tổng công ty phê duyệt;\nb. Phương tiện phải đúng loại phương tiện được ghi trong kế hoạch huy động; các tài sản khác phải đúng danh mục ghi trong kế hoạch huy động. Trường hợp thay thế phương tiện hoặc tài sản được huy động phải được sự đồng ý bằng văn bản của cấp có thẩm quyền ra quyết định huy động và phê duyệt kế hoạch;\nc. Phải có biên bản bàn giao tình trạng kỹ thuật của phương tiện và tình trạng của các tài sản khác tại thời điểm huy động giữa chủ phương tiện, chủ sở hữu các tài sản khác với đơn vị sử dụng phương tiện, tài sản;\nd. Phương tiện và các tài sản khác được sử dụng đúng mục đích trong thời gian huy động.\n3. Chế độ, chính sách đối với chủ phương tiện và chủ sở hữu các tài sản; căn cứ xác định mức chi trả; phương pháp tính toán mức chi trả và thủ tục thanh toán được áp dụng thực hiện theo quy định tại Mục 1, 2, 3, 4 Phần III Thông tư liên tịch số 234/2003/TTLT-BQP-BTC ngày 17/9/2003 của liên Bộ Quốc phòng - Tài chính hướng dẫn thực hiện chế độ chính sách đối với chủ phương tiện có phương tiện được huy động trực tiếp tham gia huấn luyện, diễn tập, kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu; tăng cường cho lực lượng thường trực của Quân đội và huy động phục vụ cho các nhiệm vụ nói trên.\n4. Ngân sách đảm bảo.\na. Ngân sách địa phương bảo đảm cho thực hiện chế độ chính sách đối với chủ phương tiện, chủ sở hữu tài sản có phương tiện và tài sản được huy động tham gia huấn luyện, diễn tập thuộc nhiệm vụ chuẩn bị động viên công nghiệp của địa phương hoặc do địa phương huy động phục vụ di chuyển dây chuyền động viên công nghiệp (kể cả cho các doanh nghiệp công nghiệp không thuộc cấp tỉnh quản lý) trong thực hành động viên công nghiệp;\nb. Ngân sách Trung ương bảo đảm cho thực hiện chế độ chính sách với chủ phương tiện, chủ sở hữu tài sản có phương tiện và tài sản được huy động tham gia huấn luyện, diễn tập thuộc nhiệm vụ chuẩn bị động viên công nghiệp của Bộ Quốc phòng, các Bộ, cơ quan ngang Bộ, Tổng công ty hoặc phục vụ di chuyển dây chuyền trong thực hành động viên công nghiệp cho các doanh nghiệp công nghiệp trực thuộc các Bộ, cơ quan ngang Bộ, Tổng công ty (trừ số phương tiện và tài sản do địa phương huy động nói tại khoản a điểm này);\nc. Trường hợp do cá nhân sử dụng phương tiện, tài sản làm mất, tiêu hủy hoặc hư hỏng phương tiện, tài sản được huy động tham gia huấn luyện, diễn tập và phục vụ di chuyển dây chuyền động viên công nghiệp thì cá nhân phải tự chịu trách nhiệm đền bù thiệt hại theo pháp luật hiện hành."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "c",
+                    "title": "Trường hợp tổn thất vì lý do bất khả kháng (thiên tai, địch họa, hỏa hoạn và các lý do bất khả kháng khác) thì không phải bồi thường.",
+                    "position": 37,
+                    "children": [],
+                    "content": "V. CHẾ ĐỘ, CHÍNH SÁCH ĐỐI VỚI CHỦ PHƯƠNG TIỆN CÓ PHƯƠNG TIỆN ĐƯỢC HUY ĐỘNG VÀ CHỦ SỞ HỮU CÁC TÀI SẢN KHÁC CÓ TÀI SẢN THAM GIA HUẤN LUYỆN, DIỄN TẬP HOẶC PHỤC VỤ DI CHUYỂN DÂY CHUYỀN ĐỘNG VIÊN CÔNG NGHIỆP.\n1. Đối tượng áp dụng.\na. Chủ phương tiện có phương tiện được huy động tham gia huấn luyện, diễn tập động viên công nghiệp hoặc phục vụ di chuyển dây chuển động viên công nghiệp;\nb. Chủ sở hữu các tài sản khác có tài sản được huy động tham gia huấn luyện, diễn tập động viên công nghiệp hoặc phục vụ di chuyển dây chuển động viên công nghiệp.\n2. Điều kiện được hưởng chế độ chính sách.\na. Phương tiện và các tài sản khác được huy động theo kế hoạch đã được Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Chủ tịch Ủy ban nhân dân cấp tỉnh, người đứng đầu Tổng công ty phê duyệt;\nb. Phương tiện phải đúng loại phương tiện được ghi trong kế hoạch huy động; các tài sản khác phải đúng danh mục ghi trong kế hoạch huy động. Trường hợp thay thế phương tiện hoặc tài sản được huy động phải được sự đồng ý bằng văn bản của cấp có thẩm quyền ra quyết định huy động và phê duyệt kế hoạch;\nc. Phải có biên bản bàn giao tình trạng kỹ thuật của phương tiện và tình trạng của các tài sản khác tại thời điểm huy động giữa chủ phương tiện, chủ sở hữu các tài sản khác với đơn vị sử dụng phương tiện, tài sản;\nd. Phương tiện và các tài sản khác được sử dụng đúng mục đích trong thời gian huy động.\n3. Chế độ, chính sách đối với chủ phương tiện và chủ sở hữu các tài sản; căn cứ xác định mức chi trả; phương pháp tính toán mức chi trả và thủ tục thanh toán được áp dụng thực hiện theo quy định tại Mục 1, 2, 3, 4 Phần III Thông tư liên tịch số 234/2003/TTLT-BQP-BTC ngày 17/9/2003 của liên Bộ Quốc phòng - Tài chính hướng dẫn thực hiện chế độ chính sách đối với chủ phương tiện có phương tiện được huy động trực tiếp tham gia huấn luyện, diễn tập, kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu; tăng cường cho lực lượng thường trực của Quân đội và huy động phục vụ cho các nhiệm vụ nói trên.\n4. Ngân sách đảm bảo.\na. Ngân sách địa phương bảo đảm cho thực hiện chế độ chính sách đối với chủ phương tiện, chủ sở hữu tài sản có phương tiện và tài sản được huy động tham gia huấn luyện, diễn tập thuộc nhiệm vụ chuẩn bị động viên công nghiệp của địa phương hoặc do địa phương huy động phục vụ di chuyển dây chuyền động viên công nghiệp (kể cả cho các doanh nghiệp công nghiệp không thuộc cấp tỉnh quản lý) trong thực hành động viên công nghiệp;\nb. Ngân sách Trung ương bảo đảm cho thực hiện chế độ chính sách với chủ phương tiện, chủ sở hữu tài sản có phương tiện và tài sản được huy động tham gia huấn luyện, diễn tập thuộc nhiệm vụ chuẩn bị động viên công nghiệp của Bộ Quốc phòng, các Bộ, cơ quan ngang Bộ, Tổng công ty hoặc phục vụ di chuyển dây chuyền trong thực hành động viên công nghiệp cho các doanh nghiệp công nghiệp trực thuộc các Bộ, cơ quan ngang Bộ, Tổng công ty (trừ số phương tiện và tài sản do địa phương huy động nói tại khoản a điểm này);\nc. Trường hợp do cá nhân sử dụng phương tiện, tài sản làm mất, tiêu hủy hoặc hư hỏng phương tiện, tài sản được huy động tham gia huấn luyện, diễn tập và phục vụ di chuyển dây chuyền động viên công nghiệp thì cá nhân phải tự chịu trách nhiệm đền bù thiệt hại theo pháp luật hiện hành."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "V",
+                    "title": "CHẾ ĐỘ, CHÍNH SÁCH ĐỐI VỚI CHỦ PHƯƠNG TIỆN CÓ PHƯƠNG TIỆN ĐƯỢC HUY ĐỘNG VÀ CHỦ SỞ HỮU CÁC TÀI SẢN KHÁC CÓ TÀI SẢN THAM GIA HUẤN LUYỆN, DIỄN TẬP HOẶC PHỤC VỤ DI CHUYỂN DÂY CHUYỀN ĐỘNG VIÊN CÔNG NGHIỆP.",
+                    "position": 38,
+                    "children": [],
+                    "content": "1. Đối tượng áp dụng.\na. Chủ phương tiện có phương tiện được huy động tham gia huấn luyện, diễn tập động viên công nghiệp hoặc phục vụ di chuyển dây chuển động viên công nghiệp;\nb. Chủ sở hữu các tài sản khác có tài sản được huy động tham gia huấn luyện, diễn tập động viên công nghiệp hoặc phục vụ di chuyển dây chuển động viên công nghiệp.\n2. Điều kiện được hưởng chế độ chính sách.\na. Phương tiện và các tài sản khác được huy động theo kế hoạch đã được Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Chủ tịch Ủy ban nhân dân cấp tỉnh, người đứng đầu Tổng công ty phê duyệt;\nb. Phương tiện phải đúng loại phương tiện được ghi trong kế hoạch huy động; các tài sản khác phải đúng danh mục ghi trong kế hoạch huy động. Trường hợp thay thế phương tiện hoặc tài sản được huy động phải được sự đồng ý bằng văn bản của cấp có thẩm quyền ra quyết định huy động và phê duyệt kế hoạch;\nc. Phải có biên bản bàn giao tình trạng kỹ thuật của phương tiện và tình trạng của các tài sản khác tại thời điểm huy động giữa chủ phương tiện, chủ sở hữu các tài sản khác với đơn vị sử dụng phương tiện, tài sản;\nd. Phương tiện và các tài sản khác được sử dụng đúng mục đích trong thời gian huy động.\n3. Chế độ, chính sách đối với chủ phương tiện và chủ sở hữu các tài sản; căn cứ xác định mức chi trả; phương pháp tính toán mức chi trả và thủ tục thanh toán được áp dụng thực hiện theo quy định tại Mục 1, 2, 3, 4 Phần III Thông tư liên tịch số 234/2003/TTLT-BQP-BTC ngày 17/9/2003 của liên Bộ Quốc phòng - Tài chính hướng dẫn thực hiện chế độ chính sách đối với chủ phương tiện có phương tiện được huy động trực tiếp tham gia huấn luyện, diễn tập, kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu; tăng cường cho lực lượng thường trực của Quân đội và huy động phục vụ cho các nhiệm vụ nói trên.\n4. Ngân sách đảm bảo.\na. Ngân sách địa phương bảo đảm cho thực hiện chế độ chính sách đối với chủ phương tiện, chủ sở hữu tài sản có phương tiện và tài sản được huy động tham gia huấn luyện, diễn tập thuộc nhiệm vụ chuẩn bị động viên công nghiệp của địa phương hoặc do địa phương huy động phục vụ di chuyển dây chuyền động viên công nghiệp (kể cả cho các doanh nghiệp công nghiệp không thuộc cấp tỉnh quản lý) trong thực hành động viên công nghiệp;\nb. Ngân sách Trung ương bảo đảm cho thực hiện chế độ chính sách với chủ phương tiện, chủ sở hữu tài sản có phương tiện và tài sản được huy động tham gia huấn luyện, diễn tập thuộc nhiệm vụ chuẩn bị động viên công nghiệp của Bộ Quốc phòng, các Bộ, cơ quan ngang Bộ, Tổng công ty hoặc phục vụ di chuyển dây chuyền trong thực hành động viên công nghiệp cho các doanh nghiệp công nghiệp trực thuộc các Bộ, cơ quan ngang Bộ, Tổng công ty (trừ số phương tiện và tài sản do địa phương huy động nói tại khoản a điểm này);\nc. Trường hợp do cá nhân sử dụng phương tiện, tài sản làm mất, tiêu hủy hoặc hư hỏng phương tiện, tài sản được huy động tham gia huấn luyện, diễn tập và phục vụ di chuyển dây chuyền động viên công nghiệp thì cá nhân phải tự chịu trách nhiệm đền bù thiệt hại theo pháp luật hiện hành."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "c",
+                    "title": "Phải có biên bản bàn giao tình trạng kỹ thuật của phương tiện và tình trạng của các tài sản khác tại thời điểm huy động giữa chủ phương tiện, chủ sở hữu các tài sản khác với đơn vị sử dụng phương tiện, tài sản;",
+                    "position": 46,
+                    "children": [],
+                    "content": "d. Phương tiện và các tài sản khác được sử dụng đúng mục đích trong thời gian huy động.\n3. Chế độ, chính sách đối với chủ phương tiện và chủ sở hữu các tài sản; căn cứ xác định mức chi trả; phương pháp tính toán mức chi trả và thủ tục thanh toán được áp dụng thực hiện theo quy định tại Mục 1, 2, 3, 4 Phần III Thông tư liên tịch số 234/2003/TTLT-BQP-BTC ngày 17/9/2003 của liên Bộ Quốc phòng - Tài chính hướng dẫn thực hiện chế độ chính sách đối với chủ phương tiện có phương tiện được huy động trực tiếp tham gia huấn luyện, diễn tập, kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu; tăng cường cho lực lượng thường trực của Quân đội và huy động phục vụ cho các nhiệm vụ nói trên.\n4. Ngân sách đảm bảo.\na. Ngân sách địa phương bảo đảm cho thực hiện chế độ chính sách đối với chủ phương tiện, chủ sở hữu tài sản có phương tiện và tài sản được huy động tham gia huấn luyện, diễn tập thuộc nhiệm vụ chuẩn bị động viên công nghiệp của địa phương hoặc do địa phương huy động phục vụ di chuyển dây chuyền động viên công nghiệp (kể cả cho các doanh nghiệp công nghiệp không thuộc cấp tỉnh quản lý) trong thực hành động viên công nghiệp;\nb. Ngân sách Trung ương bảo đảm cho thực hiện chế độ chính sách với chủ phương tiện, chủ sở hữu tài sản có phương tiện và tài sản được huy động tham gia huấn luyện, diễn tập thuộc nhiệm vụ chuẩn bị động viên công nghiệp của Bộ Quốc phòng, các Bộ, cơ quan ngang Bộ, Tổng công ty hoặc phục vụ di chuyển dây chuyền trong thực hành động viên công nghiệp cho các doanh nghiệp công nghiệp trực thuộc các Bộ, cơ quan ngang Bộ, Tổng công ty (trừ số phương tiện và tài sản do địa phương huy động nói tại khoản a điểm này);\nc. Trường hợp do cá nhân sử dụng phương tiện, tài sản làm mất, tiêu hủy hoặc hư hỏng phương tiện, tài sản được huy động tham gia huấn luyện, diễn tập và phục vụ di chuyển dây chuyền động viên công nghiệp thì cá nhân phải tự chịu trách nhiệm đền bù thiệt hại theo pháp luật hiện hành."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "d",
+                    "title": "Phương tiện và các tài sản khác được sử dụng đúng mục đích trong thời gian huy động.",
+                    "position": 47,
+                    "children": [],
+                    "content": "3. Chế độ, chính sách đối với chủ phương tiện và chủ sở hữu các tài sản; căn cứ xác định mức chi trả; phương pháp tính toán mức chi trả và thủ tục thanh toán được áp dụng thực hiện theo quy định tại Mục 1, 2, 3, 4 Phần III Thông tư liên tịch số 234/2003/TTLT-BQP-BTC ngày 17/9/2003 của liên Bộ Quốc phòng - Tài chính hướng dẫn thực hiện chế độ chính sách đối với chủ phương tiện có phương tiện được huy động trực tiếp tham gia huấn luyện, diễn tập, kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu; tăng cường cho lực lượng thường trực của Quân đội và huy động phục vụ cho các nhiệm vụ nói trên.\n4. Ngân sách đảm bảo.\na. Ngân sách địa phương bảo đảm cho thực hiện chế độ chính sách đối với chủ phương tiện, chủ sở hữu tài sản có phương tiện và tài sản được huy động tham gia huấn luyện, diễn tập thuộc nhiệm vụ chuẩn bị động viên công nghiệp của địa phương hoặc do địa phương huy động phục vụ di chuyển dây chuyền động viên công nghiệp (kể cả cho các doanh nghiệp công nghiệp không thuộc cấp tỉnh quản lý) trong thực hành động viên công nghiệp;\nb. Ngân sách Trung ương bảo đảm cho thực hiện chế độ chính sách với chủ phương tiện, chủ sở hữu tài sản có phương tiện và tài sản được huy động tham gia huấn luyện, diễn tập thuộc nhiệm vụ chuẩn bị động viên công nghiệp của Bộ Quốc phòng, các Bộ, cơ quan ngang Bộ, Tổng công ty hoặc phục vụ di chuyển dây chuyền trong thực hành động viên công nghiệp cho các doanh nghiệp công nghiệp trực thuộc các Bộ, cơ quan ngang Bộ, Tổng công ty (trừ số phương tiện và tài sản do địa phương huy động nói tại khoản a điểm này);\nc. Trường hợp do cá nhân sử dụng phương tiện, tài sản làm mất, tiêu hủy hoặc hư hỏng phương tiện, tài sản được huy động tham gia huấn luyện, diễn tập và phục vụ di chuyển dây chuyền động viên công nghiệp thì cá nhân phải tự chịu trách nhiệm đền bù thiệt hại theo pháp luật hiện hành."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "c",
+                    "title": "Trường hợp do cá nhân sử dụng phương tiện, tài sản làm mất, tiêu hủy hoặc hư hỏng phương tiện, tài sản được huy động tham gia huấn luyện, diễn tập và phục vụ di chuyển dây chuyền động viên công nghiệp thì cá nhân phải tự chịu trách nhiệm đền bù thiệt hại theo pháp luật hiện hành.",
+                    "position": 52,
+                    "children": [],
+                    "content": "c. Trường hợp do cá nhân sử dụng phương tiện, tài sản làm mất, tiêu hủy hoặc hư hỏng phương tiện, tài sản được huy động tham gia huấn luyện, diễn tập và phục vụ di chuyển dây chuyền động viên công nghiệp thì cá nhân phải tự chịu trách nhiệm đền bù thiệt hại theo pháp luật hiện hành."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "VI",
+                    "title": "HỖ TRỢ SẢN XUẤT CHO DOANH NGHIỆP SAU KHI HOÀN THÀNH NHIỆM VỤ THỰC HÀNH ĐỘNG VIÊN CÔNG NGHIỆP",
+                    "position": 53,
+                    "children": [],
+                    "content": "1. Các doanh nghiệp công nghiệp sau khi hoàn thành nhiệm vụ thực hành động viên công nghiệp, ngoài việc được ngân sách nhà nước cấp kinh phí cho việc tháo dỡ, bao gói, bốc xếp, khắc phục hư hỏng trong quá trình vận chuyển, lắp đặt, vận hành dây chuyền sản\n1. Thông tư liên tịch này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.\nVII. TỔ CHỨC THỰC HIỆN\n2. Trong quá trình tổ chức thực hiện nếu có gì vướng mắc, các Bộ, cơ quan ngang Bộ, Ủy bna nhân dân tỉnh, thành phố trực thuộc Trung ương, Tổng công ty, các doanh nghiệp công nghiệp và các đơn vị quân đội phản ánh kịp thời về Bộ Quốc phòng và Bộ Tài chính để xem xét giải quyết.\na. Ngân sách Trung ương hỗ trợ các doanh nghiệp công nghiệp trực thuộc các Bộ, cơ quan ngang Bộ, Tổng công ty sau khi hoàn thành nhiệm vụ thực hành động viên công nghiệp.\nb. Ngân sách địa phương hỗ trợ các doanh nghiệp công nghiệp do địa phương quản lý sau khi hoàn thành nhiệm vụ thực hành động viên công nghiệp.\n2. Ngân sách đảm bảo."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "VII",
+                    "title": "TỔ CHỨC THỰC HIỆN",
+                    "position": 57,
+                    "children": [],
+                    "content": "2. Trong quá trình tổ chức thực hiện nếu có gì vướng mắc, các Bộ, cơ quan ngang Bộ, Ủy bna nhân dân tỉnh, thành phố trực thuộc Trung ương, Tổng công ty, các doanh nghiệp công nghiệp và các đơn vị quân đội phản ánh kịp thời về Bộ Quốc phòng và Bộ Tài chính để xem xét giải quyết.\na. Ngân sách Trung ương hỗ trợ các doanh nghiệp công nghiệp trực thuộc các Bộ, cơ quan ngang Bộ, Tổng công ty sau khi hoàn thành nhiệm vụ thực hành động viên công nghiệp."
+                }
+            ],
+            "metadata": {
+                "total_units": 14,
+                "total_articles": 13,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 1,
+                "source": "ocr"
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [
+            "Công nghiệp",
+            "Tài sản công, nợ công, dự trữ nhà nước",
+            "Tài chính"
+        ],
+        "edges": {
+            "amends": [],
+            "mentions": [
+                {
+                    "official_number_target": "Thông tư số 05/2004/TT-BTC",
+                    "relevance_type": "GUIDELINE",
+                    "context": "giá thanh toán sản phẩm động viên công nghiệp thực hiện theo quy định tại Thông tư số 05/2004/TT-BTC ngày 30 tháng 01 năm 2004 của Bộ Tài chính hướng dẫn quản lý giá hàng hóa, dịch vụ..."
+                },
+                {
+                    "official_number_target": "Quyết định số 06/2005/QĐ-BTC",
+                    "relevance_type": "DIRECT_REFERENCE",
+                    "context": "Việc xác định giá thanh toán sản phẩm động viên công nghiệp được thực hiện theo quy định của Quy chế tính giá tài sản, hàng hóa, dịch vụ ban hành kèm theo Quyết định số 06/2005/QĐ-BTC ngày 18 tháng 01 năm 2005 của Bộ trưởng Bộ Tài chính."
+                },
+                {
+                    "official_number_target": "Quyết định số 206/2003/QĐ-BTC",
+                    "relevance_type": "DIRECT_REFERENCE",
+                    "context": "các doanh nghiệp công nghiệp có trách nhiệm quản lý tài liệu công nghệ và các trang thiết bị do Nhà nước giao theo quy định quản lý, sử dụng tài sản cố định tại Mục II Chế độ ... ban hành kèm theo Quyết định số 206/2003/QĐ-BTC ngày 12 tháng 12 năm 2003 của Bộ trưởng Bộ Tài chính."
+                },
+                {
+                    "official_number_target": "Thông tư liên tịch số 234/2003/TTLT-BQP-BTC",
+                    "relevance_type": "GUIDELINE",
+                    "context": "việc bồi thường các tổn thất đối với tài liệu công nghệ và trang thiết bị bị tổn thất được áp dụng thực hiện theo quy định tại điểm 3.2 Mục 3 Phần III Thông tư liên tịch số 234/2003/TTLT-BQP-BTC ngày 17 tháng 9 năm 2003 của liên Bộ Quốc phòng - Tài chính hướng dẫn..."
+                }
+            ],
+            "abolished": []
+        }
+    },
+    "verification": {
+        "official_number_match": false,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 3,
+                "llm_count": 4,
+                "missing_in_llm": [
+                    "05/2004/TT-BTC",
+                    "06/2005/QĐ-BTC",
+                    "206/2003/QĐ-BTC"
+                ],
+                "extra_in_llm": [
+                    "QUYẾTĐỊNHSỐ06/2005/QĐ-BTC",
+                    "QUYẾTĐỊNHSỐ206/2003/QĐ-BTC",
+                    "THÔNGTƯLIÊNTỊCHSỐ234/2003/TTLT-BQP-BTC",
+                    "THÔNGTƯSỐ05/2004/TT-BTC"
+                ],
+                "match": false
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "Số hiệu không khớp: crawl='172/2005/TTLT/BQP-BTC', regex='172/2005/TTLT'",
+            "[mentions] LLM thiếu target so với crawl: ['05/2004/TT-BTC', '06/2005/QĐ-BTC', '206/2003/QĐ-BTC']",
+            "[mentions] LLM tìm thêm target không có trong crawl: ['QUYẾTĐỊNHSỐ06/2005/QĐ-BTC', 'QUYẾTĐỊNHSỐ206/2003/QĐ-BTC', 'THÔNGTƯLIÊNTỊCHSỐ234/2003/TTLT-BQP-BTC', 'THÔNGTƯSỐ05/2004/TT-BTC']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "172/2005/TTLT/BQP-BTC",
+            "target_id": "132/2004/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "172/2005/TTLT/BQP-BTC",
+            "target_id": "06/2005/QĐ-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "172/2005/TTLT/BQP-BTC",
+            "target_id": "05/2004/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "172/2005/TTLT/BQP-BTC",
+            "target_id": "206/2003/QĐ-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "",
+            "target_id": "Thông tư số 05/2004/TT-BTC",
+            "properties": {
+                "relevance_type": "GUIDELINE",
+                "context": "giá thanh toán sản phẩm động viên công nghiệp thực hiện theo quy định tại Thông tư số 05/2004/TT-BTC ngày 30 tháng 01 năm 2004 của Bộ Tài chính hướng dẫn quản lý giá hàng hóa, dịch vụ...",
+                "source": "llm_only"
+            },
+            "_crawled": false
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "",
+            "target_id": "Quyết định số 06/2005/QĐ-BTC",
+            "properties": {
+                "relevance_type": "DIRECT_REFERENCE",
+                "context": "Việc xác định giá thanh toán sản phẩm động viên công nghiệp được thực hiện theo quy định của Quy chế tính giá tài sản, hàng hóa, dịch vụ ban hành kèm theo Quyết định số 06/2005/QĐ-BTC ngày 18 tháng 01 năm 2005 của Bộ trưởng Bộ Tài chính.",
+                "source": "llm_only"
+            },
+            "_crawled": false
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "",
+            "target_id": "Quyết định số 206/2003/QĐ-BTC",
+            "properties": {
+                "relevance_type": "DIRECT_REFERENCE",
+                "context": "các doanh nghiệp công nghiệp có trách nhiệm quản lý tài liệu công nghệ và các trang thiết bị do Nhà nước giao theo quy định quản lý, sử dụng tài sản cố định tại Mục II Chế độ ... ban hành kèm theo Quyết định số 206/2003/QĐ-BTC ngày 12 tháng 12 năm 2003 của Bộ trưởng Bộ Tài chính.",
+                "source": "llm_only"
+            },
+            "_crawled": false
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "",
+            "target_id": "Thông tư liên tịch số 234/2003/TTLT-BQP-BTC",
+            "properties": {
+                "relevance_type": "GUIDELINE",
+                "context": "việc bồi thường các tổn thất đối với tài liệu công nghệ và trang thiết bị bị tổn thất được áp dụng thực hiện theo quy định tại điểm 3.2 Mục 3 Phần III Thông tư liên tịch số 234/2003/TTLT-BQP-BTC ngày 17 tháng 9 năm 2003 của liên Bộ Quốc phòng - Tài chính hướng dẫn...",
+                "source": "llm_only"
+            },
+            "_crawled": false
+        }
+    ]
+}

@@ -1,0 +1,224 @@
+{
+    "file_name": "27_2024_tt_btc",
+    "source": "ocr_json",
+    "crawled_metadata": {
+        "officialNumber": "27/2024/TT-BTC",
+        "title": "Quy định danh mục và thời hạn định kỳ chuyển đổi vị trí công tác đối với công chức, viên chức không giữ chức vụ lãnh đạo, quản lý trực tiếp tiếp xúc và giải quyết công việc thuộc lĩnh vực tài chính tại chính quyền địa phương",
+        "promulgationDate": "2024-05-03",
+        "effectiveDate": "2024-06-17",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "sigerName": "Hồ Đức Phớc",
+        "draftingUnit": "Vụ Tổ chức Cán bộ",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:19Z",
+        "_doc_id": "324376"
+    },
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "27/2024/TT-BTC",
+            "target_id": "63/2020/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "27/2024/TT-BTC",
+            "target_id": "14/2023/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "27/2024/TT-BTC",
+            "target_id": "80/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "27/2024/TT-BTC",
+            "target_id": "59/2019/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "27/2024/TT-BTC",
+            "target_id": "36/2018/QH14",
+            "properties": {},
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "27_2024_tt_btc",
+        "file_path": "/Users/dangnam/Documents/FCI/legal_knowledge_graph/graph_new/54_doc/54vb_structure/27_2024_tt_btc/document_structure.json",
+        "official_number": "27/2024/TT-BTC",
+        "dates": {
+            "promulgation_date": "2024-05-03",
+            "effective_date": null,
+            "expiration_date": null
+        },
+        "issuing_place": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Hà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Phạm vi điều chỉnh và đối tượng áp dụng",
+                    "position": 9,
+                    "children": [],
+                    "content": "1. Thông tư này quy định danh mục và thời hạn định kỳ chuyển đổi vị trí công tác trong các cơ quan, tổ chức, đơn vị (sau đây gọi tắt là cơ quan) thuộc lĩnh vực tài chính tại chính quyền địa phương.\n2. Thông tư này áp dụng đối với công chức, viên chức không giữ chức vụ lãnh đạo, quản lý trực tiếp tiếp xúc và giải quyết công việc thuộc lĩnh vực tài chính tại các cơ quan thuộc phạm vi thẩm quyền quản lý tại chính quyền địa phương."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Nguyên tắc thực hiện định kỳ chuyển đổi vị trí công tác",
+                    "position": 12,
+                    "children": [],
+                    "content": "1. Các cơ quan theo thẩm quyền có trách nhiệm định kỳ chuyển đổi vị trí công tác đối với công chức, viên chức không giữ chức vụ lãnh đạo, quản lý nhằm phòng ngừa tham nhũng.\n2. Việc định kỳ chuyển đổi vị trí công tác phải đảm bảo khách quan, hợp lý, phù hợp với chuyên môn, nghiệp vụ và không làm ảnh hưởng đến hoạt động của đơn vị.\n3. Việc định kỳ chuyển đổi vị trí công tác phải được thực hiện theo kế hoạch và được công khai trong đơn vị.\n4. Không được lợi dụng việc định kỳ chuyển đổi vị trí công tác đối với công chức, viên chức vì vụ lợi hoặc để trù dập công chức, viên chức.\n5. Không thực hiện định kỳ chuyển đổi vị trí công tác đối với người có thời gian công tác còn lại dưới 18 tháng cho đến khi đủ tuổi nghỉ hưu.\n6. Ngoài việc thực hiện nguyên tắc theo Thông tư này, đối với viên chức còn phải căn cứ vào hợp đồng làm việc đã ký với đơn vị sự nghiệp."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "3",
+                    "title": "Phương thức thực hiện định kỳ chuyển đổi vị trí công tác",
+                    "position": 20,
+                    "children": [],
+                    "content": "1. Việc chuyển đổi vị trí công tác là một nội dung trong công tác cán bộ đặt dưới sự lãnh đạo của Đảng, trực tiếp là các cấp ủy, tổ chức đảng; bao đảm nguyên tắc tập trung dân chủ, nâng cao trách nhiệm của tập thể lãnh đạo và người đứng đầu cơ quan.\n2. Định kỳ hàng năm, cấp ủy và người đứng đầu cơ quan phải ban hành, công khai kế hoạch định kỳ chuyển đổi vị trí công tác; kế hoạch định kỳ chuyển đổi vị trí công tác phải nêu rõ mục đích, yêu cầu, trường hợp cụ thể phải chuyển đổi vị trí công tác, thời gian thực hiện chuyển đổi, quyền, nghĩa vụ của người phải chuyển đổi vị trí công tác và biện pháp tổ chức thực hiện.\nViệc rà soát, xây dựng kế hoạch định kỳ chuyển đổi vị trí công tác được thực hiện trong Quý I hàng năm.\n3. Chuyển đổi vị trí công tác cùng chuyên môn, nghiệp vụ từ bộ phận này sang bộ phận khác trong cơ quan; giữa các lĩnh vực, địa bàn được phân công theo dõi, phụ trách, quản lý hoặc giữa các cơ quan trong phạm vi quản lý của chính quyền địa phương.\n4. Đối với cơ quan chỉ có một vị trí trong danh mục vị trí công tác định kỳ chuyển đổi mà vị trí này có yêu cầu chuyên môn, nghiệp vụ khác với các vị trí còn lại của cơ quan đó thì việc chuyển đổi do người đứng đầu cơ quan cấp trên trực tiếp lập kế hoạch chuyển đổi chung."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "4",
+                    "title": "Trường hợp chưa thực hiện định kỳ chuyển đổi vị trí công tác",
+                    "position": 26,
+                    "children": [],
+                    "content": "Các trường hợp chưa thực hiện định kỳ chuyển đổi vị trí công tác thực hiện theo quy định tại Điều 38 của Nghị định số 59/2019/NĐ-CP ngày 01/7/2019 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Phòng, chống tham nhũng."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "5",
+                    "title": "Danh mục thuộc lĩnh vực tài chính phải thực hiện định kỳ chuyển đổi vị trí công tác",
+                    "position": 28,
+                    "children": [],
+                    "content": "1. Phân bổ ngân sách;\n2. Kế toán, Kế toán trưởng;\n3. Mua sắm công;\n4. Thẩm định, kiểm tra và quyết toán kinh phí theo quy định của Luật Ngân sách Nhà nước;\n5. Thẩm định, định giá trong đấu giá."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "6",
+                    "title": "Thời hạn định kỳ chuyển đổi vị trí công tác",
+                    "position": 35,
+                    "children": [],
+                    "content": "1. Thời hạn định kỳ chuyển đổi vị trí công tác đối với công chức, viên chức trực tiếp tiếp xúc và giải quyết công việc quy định tại Điều 5 Thông tư này là từ đủ 02 năm đến 05 năm theo quy định (không bao gồm thời gian tập sự của công chức, viên chức).\n2. Thời điểm tính thời hạn chuyển đổi vị trí công tác là thời điểm có quyết định điều động, bố trí phân công nhiệm vụ của cấp có thẩm quyền theo phân cấp quản lý cán bộ."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "7",
+                    "title": "Hiệu lực thi hành",
+                    "position": 38,
+                    "children": [],
+                    "content": "Thông tư này có hiệu lực thi hành kể từ ngày 17 tháng 6 năm 2024."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "8",
+                    "title": "Trách nhiệm thi hành",
+                    "position": 40,
+                    "children": [],
+                    "content": "1. Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương; các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.\n2. Trong quá trình thực hiện nếu có vướng mắc đề nghị các cơ quan, cá nhân phản ánh về Bộ Tài chính để tổng hợp, xem xét và hướng dẫn./<\nBan Bí thư Trung ương Đảng; Thủ tướng Chính phủ; các Phó Thủ tướng Chính phủ; Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; Văn phòng Quốc hội; Văn phòng Chủ tịch nước; Văn phòng Chính phủ; Viện kiểm sát nhân dân tối cao; Tòa án nhân dân tối cao; Kiểm toán Nhà nước; Uỷ ban Trung ương Mặt trận Tổ quốc Việt Nam; Cơ quan Trung ương của các Đoàn thể; HĐND, UBND các tỉnh, thành phố trực thuộc TW; Công báo, Cổng thông tin điện tử Chính phủ; Cục Kiểm tra văn bản QPPL, Bộ Tư pháp; Bộ Tài chính: Bộ trưởng, các Thứ trưởng, các đơn vị thuộc, trực thuộc Bộ; Các Sở thuộc UBND tỉnh, thành phố trực thuộc TW; Lưu: VT, TCCB (20b)."
+                }
+            ],
+            "metadata": {
+                "total_units": 8,
+                "total_articles": 8,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 1,
+                "source": "ocr"
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [
+            "Bảo hiểm",
+            "Tài chính"
+        ],
+        "edges": {
+            "amends": [],
+            "mentions": [],
+            "abolished": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": []
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "27/2024/TT-BTC",
+            "target_id": "63/2020/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "27/2024/TT-BTC",
+            "target_id": "14/2023/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "27/2024/TT-BTC",
+            "target_id": "80/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "27/2024/TT-BTC",
+            "target_id": "59/2019/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "27/2024/TT-BTC",
+            "target_id": "36/2018/QH14",
+            "properties": {},
+            "_crawled": true
+        }
+    ]
+}

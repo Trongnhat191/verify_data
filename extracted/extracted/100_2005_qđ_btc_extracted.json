@@ -1,0 +1,121 @@
+{
+    "file_name": "100_2005_qđ_btc",
+    "source": "ocr_json",
+    "crawled_metadata": {
+        "officialNumber": "100/2005/QĐ-BTC",
+        "title": "Về việc ban hành và công bố bốn (04) chuẩn mực kế toán Việt Nam (đợt 5)",
+        "promulgationDate": "2005-12-28",
+        "effectiveDate": null,
+        "expirationDate": "9999-12-31",
+        "gazetteDate": null,
+        "sigerName": "Trần Văn Tá",
+        "draftingUnit": "",
+        "documentType": "VAN_BAN_KHAC",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": null,
+        "scopeLevel": null,
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Quyết định",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:35Z",
+        "_doc_id": "29489"
+    },
+    "crawled_edges": [],
+    "regex_data": {
+        "file_name": "100_2005_qđ_btc",
+        "file_path": "/Users/dangnam/Documents/FCI/legal_knowledge_graph/graph_new/54_doc/54vb_structure/100_2005_qđ_btc/document_structure.json",
+        "official_number": null,
+        "dates": {
+            "promulgation_date": "2005-12-28",
+            "effective_date": null,
+            "expiration_date": null
+        },
+        "issuing_place": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Hà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Ban hành bốn (04) Chuẩn mực kế toán Việt Nam (đợt 5) có số hiệu và tên gọi sau đây:",
+                    "position": 9,
+                    "children": [],
+                    "content": "Chuẩn mực số 11 – “Hợp nhất kinh doanh”;\nChuẩn mực số 18 – “Các khoản dự phòng, tài sản và nợ tiềm tàng”;\nChuẩn mực số 19 – “Hợp đồng bảo hiểm”;\nChuẩn mực số 30 – “Lãi trên cổ phiếu”.\nĐiều 2: Bốn (04) Chuẩn mực kế toán Việt Nam ban hành kèm theo Quyết định này được áp dụng đối với tất cả các doanh nghiệp thuộc các ngành, các thành phần kinh tế trong cả nước.\nĐiều 3: Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng công báo. Các chế độ kế toán cụ thể phải căn cứ vào bốn chuẩn mực kế\ntoán được ban hành kèm theo Quyết định này để sửa đổi, bổ sung cho phù hợp.\nĐiều 4: Vụ trưởng Vụ Chế độ kế toán và kiểm toán, Chánh Văn phòng Bộ và Thủ trưởng các đơn vị liên quan thuộc Bộ Tài chính chịu trách nhiệm hướng dẫn, kiểm tra và thi hành Quyết định này.\nThủ tướng Chính phủ, các Phó Thủ tướng Chính phủ (để báo cáo); Văn phòng TW Đảng; Văn phòng Chủ tịch nước; Văn phòng Quốc hội; Văn phòng Chính phủ; Tòa án Nhân dân tối cao; Viện Kiểm sát Nhân dân tối cao; Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; UBND các tỉnh, thành phố trực thuộc TW; Sở Tài chính, Cục Thuế các tỉnh, thành phố trực thuộc TW; Các Tổng công ty Nhà nước; Cục kiểm tra văn bản (Bộ Tư pháp); Hội kế toán và kiểm toán Việt Nam; Hội kiểm toán viên hành nghề Việt Nam; Các công ty kế toán, kiểm toán; Công báo; Các đơn vị thuộc Bộ Tài chính; Lưu VT, Vụ CDKT.\nKT. BỘ TRƯỞNG"
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Bốn (04) Chuẩn mực kế toán Việt Nam ban hành kèm theo Quyết định này được áp dụng đối với tất cả các doanh nghiệp thuộc các ngành, các thành phần kinh tế trong cả nước.",
+                    "position": 14,
+                    "children": [],
+                    "content": "Điều 3: Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng công báo. Các chế độ kế toán cụ thể phải căn cứ vào bốn chuẩn mực kế\ntoán được ban hành kèm theo Quyết định này để sửa đổi, bổ sung cho phù hợp.\nĐiều 4: Vụ trưởng Vụ Chế độ kế toán và kiểm toán, Chánh Văn phòng Bộ và Thủ trưởng các đơn vị liên quan thuộc Bộ Tài chính chịu trách nhiệm hướng dẫn, kiểm tra và thi hành Quyết định này.\nThủ tướng Chính phủ, các Phó Thủ tướng Chính phủ (để báo cáo); Văn phòng TW Đảng; Văn phòng Chủ tịch nước; Văn phòng Quốc hội; Văn phòng Chính phủ; Tòa án Nhân dân tối cao; Viện Kiểm sát Nhân dân tối cao; Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; UBND các tỉnh, thành phố trực thuộc TW; Sở Tài chính, Cục Thuế các tỉnh, thành phố trực thuộc TW; Các Tổng công ty Nhà nước; Cục kiểm tra văn bản (Bộ Tư pháp); Hội kế toán và kiểm toán Việt Nam; Hội kiểm toán viên hành nghề Việt Nam; Các công ty kế toán, kiểm toán; Công báo; Các đơn vị thuộc Bộ Tài chính; Lưu VT, Vụ CDKT.\nKT. BỘ TRƯỞNG"
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "3",
+                    "title": "Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng công báo. Các chế độ kế toán cụ thể phải căn cứ vào bốn chuẩn mực kế",
+                    "position": 15,
+                    "children": [],
+                    "content": "toán được ban hành kèm theo Quyết định này để sửa đổi, bổ sung cho phù hợp.\nĐiều 4: Vụ trưởng Vụ Chế độ kế toán và kiểm toán, Chánh Văn phòng Bộ và Thủ trưởng các đơn vị liên quan thuộc Bộ Tài chính chịu trách nhiệm hướng dẫn, kiểm tra và thi hành Quyết định này.\nThủ tướng Chính phủ, các Phó Thủ tướng Chính phủ (để báo cáo); Văn phòng TW Đảng; Văn phòng Chủ tịch nước; Văn phòng Quốc hội; Văn phòng Chính phủ; Tòa án Nhân dân tối cao; Viện Kiểm sát Nhân dân tối cao; Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; UBND các tỉnh, thành phố trực thuộc TW; Sở Tài chính, Cục Thuế các tỉnh, thành phố trực thuộc TW; Các Tổng công ty Nhà nước; Cục kiểm tra văn bản (Bộ Tư pháp); Hội kế toán và kiểm toán Việt Nam; Hội kiểm toán viên hành nghề Việt Nam; Các công ty kế toán, kiểm toán; Công báo; Các đơn vị thuộc Bộ Tài chính; Lưu VT, Vụ CDKT.\nKT. BỘ TRƯỞNG"
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "4",
+                    "title": "Vụ trưởng Vụ Chế độ kế toán và kiểm toán, Chánh Văn phòng Bộ và Thủ trưởng các đơn vị liên quan thuộc Bộ Tài chính chịu trách nhiệm hướng dẫn, kiểm tra và thi hành Quyết định này.",
+                    "position": 17,
+                    "children": [],
+                    "content": "Thủ tướng Chính phủ, các Phó Thủ tướng Chính phủ (để báo cáo); Văn phòng TW Đảng; Văn phòng Chủ tịch nước; Văn phòng Quốc hội; Văn phòng Chính phủ; Tòa án Nhân dân tối cao; Viện Kiểm sát Nhân dân tối cao; Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; UBND các tỉnh, thành phố trực thuộc TW; Sở Tài chính, Cục Thuế các tỉnh, thành phố trực thuộc TW; Các Tổng công ty Nhà nước; Cục kiểm tra văn bản (Bộ Tư pháp); Hội kế toán và kiểm toán Việt Nam; Hội kiểm toán viên hành nghề Việt Nam; Các công ty kế toán, kiểm toán; Công báo; Các đơn vị thuộc Bộ Tài chính; Lưu VT, Vụ CDKT.\nKT. BỘ TRƯỞNG"
+                }
+            ],
+            "metadata": {
+                "total_units": 103,
+                "total_articles": 4,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 1,
+                "source": "ocr"
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [
+            "Kế toán, kiểm toán",
+            "Tài chính",
+            "Thuế, phí, lệ phí, các khoản thu khác"
+        ],
+        "edges": {
+            "amends": [],
+            "mentions": [],
+            "abolished": []
+        }
+    },
+    "verification": {
+        "official_number_match": null,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": []
+    },
+    "final_edges": []
+}

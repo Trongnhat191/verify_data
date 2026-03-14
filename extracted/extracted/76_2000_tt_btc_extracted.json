@@ -1,0 +1,320 @@
+{
+    "file_name": "76_2000_tt_btc",
+    "source": "ocr_json",
+    "crawled_metadata": {
+        "officialNumber": "76/2000/TT-BTC",
+        "title": "hướng dẫn thực hiện quyết định số 219/1999/QÐ-ttg ngày 11/11/1999 của thủ tướng chính phủ về chính sách bảo hộ quyền lợi của nhân dân địa phương nơi có khoáng sản được khai thác, chế biến và bảo vệ tài nguyên khoáng sản chưa khai thác",
+        "promulgationDate": "2000-07-25",
+        "effectiveDate": "1999-11-11",
+        "expirationDate": "9999-12-31",
+        "gazetteDate": null,
+        "sigerName": "Trần Văn Tá",
+        "draftingUnit": "",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": null,
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:49:04Z",
+        "_doc_id": "5533"
+    },
+    "crawled_edges": [
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "76/2000/TT-BTC",
+            "target_id": "219/1999/QĐ-TTg",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "76_2000_tt_btc",
+        "file_path": "/Users/dangnam/Documents/FCI/legal_knowledge_graph/graph_new/54_doc/54vb_structure/76_2000_tt_btc/document_structure.json",
+        "official_number": "76/2000/TT-BTC",
+        "dates": {
+            "promulgation_date": "2000-07-25",
+            "effective_date": null,
+            "expiration_date": null
+        },
+        "issuing_place": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Hà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "I",
+                    "title": "ĐỐI TƯỢNG VÀ PHẠM VI ÁP DỤNG",
+                    "position": 4,
+                    "children": [],
+                    "content": "1/ Đối tượng áp dụng các chính sách bảo hộ quyền lợi được hướng dẫn tại Thông tư này bao gồm tổ chức, hộ gia đình, cá nhân đang cư trú, sản xuất hợp pháp tại địa phương nơi có khoáng sản, phải thay đổi nơi cư trú, nơi sản xuất theo quyết định của cơ quan Nhà nước có thẩm quyền để thực hiện việc khai thác, chế biến khoáng sản hoặc để bảo vệ tài nguyên khoáng sản chưa khai thác.\n2/ Tổ chức, cá nhân được phép khai thác, chế biến khoáng sản phải có trách nhiệm đền bù thiệt hại bảo đảm quyền lợi của tổ chức, hộ gia đình, cá nhân do ảnh hưởng của hoạt động khai thác, chế biến khoáng sản phải thay đổi nơi cư trú, nơi sản xuất theo hướng dẫn tại Thông tư này.\n3/ Nhà nước bảo hộ quyền lợi của tổ chức, hộ gia đình, cá nhân nơi có khoáng sản được khai thác, chế biến hoặc nơi có tài nguyên khoáng sản chưa khai thác cần bảo vệ thông qua các chính sách đầu tư phát triển hạ tầng kinh tế xã hội, bảo hộ ổn định đời sống và sản xuất. Nhà nước đảm bảo kinh phí thực hiện các phương án bảo vệ tài nguyên khoáng sản chưa khai thác."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "II",
+                    "title": "VIỆC THỰC HIỆN CÁC CHÍNH SÁCH BẢO HỘ",
+                    "position": 8,
+                    "children": [],
+                    "content": "1/ Tổ chức, cá nhân được phép khai thác, chế biến khoáng sản phải có trách nhiệm:\n1.1- Đền bù thiệt hại về đất và tài sản gắn liền với đất của tổ chức, hộ gia đình, cá nhân phải thay đổi nơi cư trú, nơi sản xuất do ảnh hưởng của việc khai thác, chế biến khoáng sản theo quy định hiện hành của Nhà nước.\n1.2- Hỗ trợ ổn định đời sống, sản xuất cho tổ chức, hộ gia đình, cá nhân phải thay đổi nơi cư trú, nơi sản xuất do ảnh hưởng của việc khai thác, chế biến khoáng sản, cụ thể như sau:\nTrợ cấp ổn định đời sống và sản xuất cho người dân phải di chuyển chỗ ở trong thời hạn 6 tháng với mức trợ cấp tính bằng tiền cho 01 nhân khẩu/01 tháng tương đương 30 kg gạo theo thời giá trung bình tại địa phương tại thời điểm đền bù;\nTrợ cấp ngừng việc cho người lao động của các cơ sở sản xuất kinh doanh (không bao gồm những người lao động theo hợp đồng ngắn hạn hoặc hợp đồng vụ việc) trong thời gian ngừng sản xuất kinh doanh để thực hiện việc di chuyển địa điểm nhưng tối đa là một (01) năm; Mức trợ cấp bằng mức lương theo ngạch bậc của từng cán bộ công nhân viên được hưởng trợ cấp hoặc theo hợp đồng lao động;\nHỗ trợ chi phí đào tạo lao động nông nghiệp phải chuyển làm nghề khác theo mức chi cụ thể do Ủy ban nhân dân tỉnh quy định và chuyển cho người lao động hoặc tổ chức đào tạo nghề nơi người lao động theo học;\nHỗ trợ cho mỗi hộ gia đình di chuyển chỗ ở trong phạm vi tỉnh, thành phố trực thuộc Trung ương từ 1.000.000 đồng đến 3.000.000 đồng; nếu di chuyển chỗ ở sang tỉnh khác thì được đền bù từ 3.000.000 đồng đến 5.000.000; Mức cụ thể do Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương quy định; Khoản hỗ trợ di chuyển này không áp dụng cho các đối tượng đang được hưởng chế độ trợ cấp di dân phát triển vùng kinh tế mới;\nChi trả chi phí di chuyển nhà, công trình có thể tháo dời để di chuyển, tài sản cố định, tư liệu sản xuất khác đến địa điểm mới cho các cơ sở sản xuất kinh doanh phải di chuyển;\nChi trả chi phí di chuyển nhà, công trình có thể tháo rời, tài sản công khác cho cơ quan Nhà nước, tổ chức chính trị xã hội, đơn vị sự nghiệp, lực lượng vũ trang nhân dân phải di chuyển đến địa điểm mới; Mức chi do đơn vị di chuyển lập và gửi Sở Tài chính - Vật giá trình Chủ tịch Uỷ ban nhân dân cấp tỉnh phê duyệt;\nHỗ trợ tiền thuê nhà cho các hộ gia đình, cá nhân phải di chuyển chỗ ở nhưng chưa nhận được nơi ở mới mà phải tạm thuê nhà trong khi chờ đợi; Mức hỗ trợ do Uỷ ban ban nhân dân tỉnh quy định cụ thể trong phương án đền bù và phải được công bố công khai.\n1.3- Chi trả kinh phí đền bù cơ sở hạ tầng nơi thu hồi đất cho ngân sách địa phương; Mức đền bù thiệt hại đối với công trình cơ sở hạ tầng bằng giá trị xây mới của công trình có tiêu chuẩn kỹ thuật tương đương với công trình nơi thu hồi đất. Trường hợp đặc biệt do Thủ tướng Chính phủ hoặc Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương quyết định. 3\nCác công trình hạ tầng (đường xá, trạm điện, trạm bơm cấp thoát nước, hệ thống lưới điện) nằm trong vùng dự án được cấp đất, nếu không bị phá huỷ và vẫn phục vụ được cho nhu cầu của địa phương thì không thuộc diện phải đền bù.\n1.4- Hỗ trợ kinh phí xây dựng cơ sở hạ tầng ở khu tái định cư theo quy định tại khoản 3, Điều 31, Nghị định số 22/1998/NĐ-CP ngày 24/4/1998 của Chính phủ; Mức hỗ trợ cụ thể do Uỷ ban nhân dân cấp tỉnh quyết định trên cơ sở đã thỏa thuận với tổ chức, cá nhân được phép khai thác, chế biến khoáng sản.\n1.5- Ưu tiên tuyển chọn lao động cho các hoạt động khoáng sản của mình từ bộ phận dân cư phải thay đổi nơi cư trú do ảnh hưởng của việc khai thác, chế biến khoáng sản.\n2/ Tổ chức, hộ gia đình, cá nhân đang sử dụng đất hợp pháp ở nơi có tài nguyên khoáng sản chưa khai thác cần được bảo vệ mà phải thay đổi nơi cư trú, nơi sản xuất thì được Nhà nước giao đất, cho thuê đất theo quy định tại Nghị định số 04/2000/NĐ-CP ngày 11/02/2000 của Chính phủ về thi hành Luật sửa đổi, bổ sung một số Điều của Luật đất đai, Nghị định số 22/1998/NĐ-CP nêu trên và các văn bản quy phạm pháp luật liên quan bổ sung, sửa đổi và hướng dẫn thi hành hai Nghị định này.\n3/ Các cơ sở sản xuất kinh doanh phải di chuyển đến nơi sản xuất kinh doanh mới được coi như cơ sở mới thành lập và được hưởng các chế độ ưu đãi về khuyến khích đầu tư như sau:\nCác cơ sở sản xuất kinh doanh trong nước được hưởng các chế độ ưu đãi đầu tư theo quy định tại Nghị định số 51/1999/NĐ-CP ngày 8/7/1999 của Chính phủ quy định chi tiết thi hành Luật khuyến khích đầu tư trong nước.\nTrong thời hạn 10 ngày sau khi ổn định sản xuất kinh doanh, cơ sở sản xuất kinh doanh phải nộp hồ sơ đăng ký ưu đãi về khuyến khích đầu tư kèm\ntheo quyết định di chuyển để thực hiện các dự án khai thác, chế biến, bảo vệ tài nguyên khoáng sản chưa khai thác đối với cơ sở của cấp có thẩm quyền.\nTrong thời hạn 20 ngày kể từ khi Sở Kế hoạch và Đầu tư, Uỷ ban nhân dân huyện nhận đủ hồ sơ hợp lệ, Chủ tịch Uỷ ban nhân dân tỉnh cấp giấy chứng nhận ưu đãi về khuyến khích đầu tư như đối với cơ sở mới thành lập theo đề nghị của Sở Kế hoạch và Đầu tư hoặc Uỷ ban nhân dân huyện. Trường hợp doanh nghiệp thuộc thẩm quyền cấp phép của Bộ Kế hoạch và Đầu tư thì trong thời hạn 30 ngày kể từ khi nhận đủ hồ sơ hợp lệ, Bộ Kế hoạch và Đầu tư cấp giấy chứng nhận ưu đãi về khuyến khích đầu tư.\nHồ sơ, thủ tục, trình tự đăng ký ưu đãi miễn, giảm thuế được thực hiện theo hướng dẫn tại Thông tư số 146/1999/TT-BTC ngày 17/12/1999 của Bộ Tài chính hướng dẫn thực hiện việc miễn, giảm thuế theo quy định tại Nghị định số 51/1999/NĐ-CP ngày 8/7/1999 của Chính phủ.\nCác doanh nghiệp có vốn đầu tư nước ngoài được hưởng các chế độ ưu đãi đầu tư theo quy định tại điểm 3, Điều 3, Nghị định số 22/1998/NĐ-CP ngày 24/4/1998 của Chính phủ.\n4/ Trường hợp phải thay đổi nơi cư trú sang tỉnh khác, bộ phận nhân dân phải di chuyển ngoài việc được bảo hộ quyền lợi theo Quyết định 219/1999/QĐ-TTg ngày 11/11/1999 của Thủ tướng chính phủ nếu đủ điều kiện còn được hưởng chính sách ưu đãi về định canh, định cư và di dân phát triển vùng kinh tế mới. Riêng thời gian được hưởng trợ cấp ổn định đời sống và sản xuất nêu tại điểm 1.2, khoản 1, Phần II, Thông tư này là một năm. 4\n5/ Chủ tịch Uỷ ban nhân dân cấp tỉnh căn cứ vào tình hình địa phương quyết định:\nHỗ trợ bằng tiền đối với hộ gia đình có người đang hưởng chế độ trợ cấp xã hội của Nhà nước phải di chuyển chỗ ở do bị thu hồi đất; Mức hỗ trợ tối thiểu là 1.000.000 đồng;\nThưởng cho tổ chức, hộ gia đình, cá nhân là chủ sử dụng đất bị thu hồi đất thực hiện di chuyển đúng kế hoạch của Hội đồng đền bù giải phóng mặt bằng. Mức thưởng cụ thể do Chủ tịch Uỷ ban nhân dân tỉnh quy định.\n6/ Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương trực tiếp tổ chức thực hiện việc đền bù và chi trả đền bù theo nội dung hướng dẫn tại điểm 1.1, 1.2, 1.3, khoản 1, Phần II, Thông tư này cho tổ chức, hộ gia đình, cá nhân nêu tại khoản 2, Phần II, Thông tư này. Toàn bộ kinh phí đền bù được cấp từ ngân sách cấp tỉnh. Các tổ chức, cá nhân được cấp phép khai thác, chế biến khoáng sản trên phạm vi diện tích đất đã được UBND cấp tỉnh trực tiếp đền bù, giải phóng mặt bằng phải nộp trả tiền đền bù cho ngân sách cấp tỉnh\ntheo quy định tại điểm 8, Điều 34, Nghị định số 22/1998/NĐ-CP ngày 24/4/1998 của Chính phủ.\n7/ Chính quyền địa phương các cấp phải ưu tiên tuyển dụng lao động từ bộ phận dân cư phải di chuyển do ảnh hưởng của việc khai thác chế biến khoáng sản hoặc để bảo vệ tài nguyên khoáng sản chưa khai thác vào hoạt động theo các phương án đầu tư phát triển kinh tế, bảo hộ ổn định đời sống và sản xuất, bảo vệ tài nguyên khoáng sản chưa khai thác nêu tại Điều 2, Quyết định số 219/1999/QĐ-TTg ngày 11/11/1999 của Thủ tướng Chính phủ."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "III",
+                    "title": "SỬ DỤNG NGUỒN THU TỪ HOẠT ĐỘNG KHOÁNG SẢN ĐỂ BẢO HỘ QUYỀN LỢI CỦA NHÂN DÂN ĐỊA PHƯƠNG VÀ BẢO VỆ TÀI NGUYÊN KHOÁNG SẢN CHƯA KHAI THÁC",
+                    "position": 39,
+                    "children": [],
+                    "content": "1/ Dự toán thu về hoạt động khoáng sản của ngân sách cấp tỉnh được lập như sau:\n1.1- Khi lập dự toán thu thuế hàng năm, Cục thuế cấp tỉnh nơi có hoạt động khoáng sản hoặc có tài nguyên khoáng sản chưa khai thác cần bảo vệ, lập dự toán thu từ hoạt động khoáng sản trên địa bàn tỉnh theo từng loại thuế và phí dưới đây gửi Sở Tài chính - Vật giá của tỉnh:\nTiền cho thuê mặt đất, mặt nước đối với các doanh nghiệp hoạt động khai thác, chế biến khoáng sản;\nLệ phí cấp giấy phép hoạt động khoáng sản theo quy định tại khoản 2 Điều 9 Nghị định số 68/CP ngày 01/11/1996 của Chính phủ;\nThu phạt xử lý vi phạm hành chính trong lĩnh vực khoáng sản quy định tại Nghị định số 35/CP ngày 23/4/1997 của Chính phủ; 5\nThuế tài nguyên;\nCác khoản thu khác từ hoạt động khoáng sản theo quy định của pháp luật.\n1.2- Trên cơ sở dự toán thu thuế của Cục thuế và hướng dẫn tại Thông tư số 103/1998/TT-BTC ngày 18/7/1998 của Bộ Tài chính hướng dẫn việc phân cấp, lập, chấp hành và quyết toán Ngân sách Nhà nước, Sở Tài chính - Vật giá tỉnh chịu trách nhiệm lập dự toán nguồn thu từ hoạt động khoáng sản mà ngân sách cấp tỉnh được hưởng;\nLập dự toán thu bổ sung từ ngân sách Trung ương: Trường hợp ngân sách tỉnh không có nguồn thu từ hoạt động khoáng sản (hoặc nguồn thu không đảm bảo được nhiệm vụ chi) mà trong địa giới hành chính của tỉnh có tài\nnguyên khoáng sản chưa khai thác cần được bảo vệ, khi lập dự toán ngân sách tỉnh hàng năm, căn cứ theo các phương án bảo vệ khoáng sản đã được duyệt lập dự toán thu bổ sung từ ngân sách Trung ương;\nNguồn thu về hoạt động khoáng sản mà ngân sách cấp tỉnh được hưởng không bao gồm các khoản thu về hoạt động dầu khí và các loại nước thiên nhiên (trừ nước khoáng và nước nóng thiên nhiên), thuế tài nguyên sản phẩm rừng tự nhiên, nước thuỷ điện, thuỷ hải sản.\n2/ Việc sử dụng nguồn thu từ hoạt động khoáng sản nhằm đảm bảo chính sách bảo hộ quyền lợi của nhân dân địa phương nơi có khoáng sản được khai thác, chế biến và bảo vệ khoáng sản chưa khai thác được thực hiện như sau:\n2.1- Dự toán các khoản kinh phí theo các phương án bảo hộ quyền lợi của nhân dân địa phương nơi có khoáng sản khai thác, chế biến và bảo vệ tài nguyên khoáng sản chưa khai thác bao gồm các nội dung sau:\n2.1.1- Dự toán chi đầu tư phát triển kinh tế - xã hội của địa phương nơi có khoáng sản được khai thác, chế biến:\nChi đầu tư xây dựng mới hoặc nâng cấp, sửa chữa các công trình kết cấu hạ tầng khu dân cư như: hệ thống cấp thoát nước, đường giao thông địa phương, cầu cống, hệ thống lưới điện, điện thoại;\nChi đầu tư xây dựng mới hoặc nâng cấp sửa chữa các công trình giáo dục, y tế, phúc lợi xã hội của địa phương như: trường học, cơ sở khám chữa bệnh, trung tâm dạy nghề;\nChi đầu tư xây dựng mới hoặc nâng cấp, sửa chữa các công trình phát triển kinh tế - thương mại như: chợ, bến bãi, trung tâm cụm xã, trung tâm thương mại, các công trình thuỷ lợi phục vụ sản xuất nông nghiệp, lâm nghiệp, ...;\nChi quy hoạch, kế hoạch phát triển công nghiệp khai thác, chế biến, sử dụng và kinh doanh khoáng sản của địa phương, quy hoạch phát triển đô thị nông thôn.\nDự toán chi đầu tư phát triển kinh tế - xã hội được bao gồm trong dự toán chi đầu tư phát triển kinh tế của ngân sách cấp tỉnh hàng năm.\n2.1.2- Dự toán chi bảo hộ ổn định đời sống và sản xuất cho tổ chức, bộ phận nhân dân nơi có khoáng sản được khai thác, chế biến phải thay đổi nơi cư trú, nơi sản xuất:\nƯu tiên đầu tư cơ sở hạ tầng nơi di chuyển đến; ngoài kinh phí đền bù cơ sở hạ tầng và mức hỗ trợ xây dựng cơ sở hạ tầng do tổ chức, cá nhân được phép khai thác, chế biến khoáng sản chi trả quy định tại Điều 31, Nghị định số 22/1998/NĐ-CP ngày 24/4/1998 của Chính phủ và hướng dẫn tại điểm 1.3, 1.4, khoản 1, Phần II, Thông tư này, việc đầu tư cơ sở hạ tầng nơi ở mới còn được cấp từ nguồn thu từ hoạt động khoáng sản của ngân sách tỉnh theo các nội dung chi đầu tư phát triển kinh tế - xã hội hướng dẫn tại tiết 2.1.1, điểm 2.1, khoản 2, Phần III, Thông tư này;\nChi bảo đảm khôi phục, phát triển các ngành nghề truyền thống gắn liền với chính sách phát triển công nghiệp khai khoáng và chính sách phát triển kinh tế - xã hội chung của tỉnh như: chi hỗ trợ cho các trung tâm đào tạo nghề truyền thống của địa phương (mua sắm trang thiết bị, trả công mời các nghệ nhân giảng dạy,...), chi tổ chức thi đua về mặt hàng truyền thống của địa phương;\nChi duy trì, phát triển các phong tục, tập quán sinh hoạt lành mạnh của cộng đồng nhân dân phải chuyển đến nơi ở mới;\nChi cho việc đào tạo nghề đối với lao động nông nghiệp phải chuyển làm nghề khác; Mức chi phải được cân đối với nguồn hỗ trợ chi phí đào tạo nghề của tổ chức, cá nhân khai thác, chế biến khoáng sản nêu tại điểm 1.2, khoản 1, Phần II, Thông tư này;\nChi định canh, định cư (khai hoang, xây dựng đồng ruộng), chi hỗ trợ sản xuất (giống cây trồng, vật nuôi).\nDự toán chi bảo hộ ổn định đời sống bộ phận nhân dân phải thay đổi nơi cư trú được bao gồm trong dự toán chi tài trợ cho các tổ chức xã hội, xã hội - nghề nghiệp và chi thực hiện các chính sách xã hội do cấp tỉnh quản lý.\n2.1.3- Dự toán chi bảo vệ tài nguyên khoáng sản chưa khai thác bao gồm các nội dung về biện pháp, tổ chức công tác bảo vệ tài nguyên khoáng sản chưa khai thác đã được Uỷ ban nhân dân tỉnh quyết định.\nDự toán chi cho các phương án bảo vệ tài nguyên khoáng sản chưa khai thác đã được duyệt được bao gồm trong dự toán chi cho an ninh và trật tự an toàn xã hội của ngân sách cấp tỉnh.\n2.2- Việc lập dự toán phải được lập chi tiết theo các mục chi của Hệ thống mục lục Ngân sách Nhà nước ban hành kèm theo Quyết định số 280/TC/QĐ/NSNN ngày 15/4/1997 của Bộ Tài chính, có bổ sung, sửa đổi theo Thông tư số 156/1998/TT/BTC ngày 12/12/1998 của Bộ Tài chính.\n2.3- Trình tự lập dự toán, chấp hành và quyết toán kinh phí cho các dự án bảo hộ quyền lợi của nhân dân địa phương nơi có khoáng sản được khai thác, chế biến hoặc để bảo vệ tài nguyên khoáng sản chưa khai thác, ngoài việc phải thực hiện đúng theo hướng dẫn tại Thông tư số 103/1998/TT-BTC ngày 18/7/1998 của Bộ Tài chính hướng dẫn việc phân cấp, lập, chấp hành và quyết toán Ngân sách Nhà nước và các văn bản hướng dẫn của các Bộ, ngành, địa phương có liên quan về định mức, đơn giá, nội dung các khoản chi, còn phải đảm bảo các yêu cầu sau:\nTổng số dự toán các khoản kinh phí hàng năm cho các phương án bảo hộ và bảo vệ đã được duyệt phải được cân đối từ dự toán thu hàng năm từ hoạt động khoáng sản của ngân sách cấp tỉnh theo hướng dẫn tại điểm 1.2, khoản 1, Phần III của Thông tư này;\nThu bổ sung từ ngân sách Trung ương chỉ được dùng cho chi theo các phương án bảo vệ tài nguyên khoáng sản chưa khai thác đã được duyệt.\nCác khoản thu từ tiền thuê mặt đất, mặt nước của các doanh nghiệp khai thác, chế biến khoáng sản, thuế tài nguyên chỉ được sử dụng cho các nhiệm vụ chi đầu tư, không chi các nhiệm vụ thường xuyên.\n3/ Đối với các khoản chi cho các dự án đầu tư xây dựng cơ bản theo phương án được duyệt phải đảm bảo trình tự, thủ tục quản lý theo các quy định hiện hành của Nhà nước."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "IV",
+                    "title": "TỔ CHỨC THỰC HIỆN",
+                    "position": 74,
+                    "children": [],
+                    "content": "Trình tự thực hiện, trách nhiệm của các ngành, Uỷ ban nhân dân các cấp trong việc tổ chức chi trả đền bù thiệt hại, giải phóng mặt bằng để di chuyển tổ chức, hộ gia đình, cá nhân nơi có khoáng sản được khai thác, chế biến hoặc để bảo vệ tài nguyên, khoáng sản chưa khai thác được thực hiện theo quy định tại Nghị định số 22/1998/NĐ-CP ngày 24/4/1998 của Chính phủ.\nThông tư này có hiệu lực thi hành kể từ ngày Quyết định số 219/1999/QĐ-TTg ngày 11/11/1999 của Thủ tướng Chính phủ có hiệu lực thi hành. Trong quá trình thực hiện, nếu có gì vướng mắc đề nghị các Bộ ngành, địa phương phản ánh ngay về Bộ Tài chính để nghiên cứu, sửa đổi bổ sung kịp thời.\nVP TƯ Đảng VPQH, VP Chủ tịch nước\nKT. BỘ TRƯỞNG BỘ TÀI CHÍNH THỨ TRƯỞNG\nTANDTC, VKSNDTC Cơ quan ngang Bộ, Cơ quan trực thuộc Chính phủ Cơ quan TƯ của các đoàn thể UBND các tỉnh, TP trực thuộc TƯ Cục thuế, Sở TC-VG, KBNN các tỉnh, TP trực thuộc TƯ Công báo Lưu: VP (HC, TH), Vụ NSNN, Cục QLCS, Cục TCDN, Vụ CSTC (TH, CST), TCT\nTrần Văn Tá"
+                }
+            ],
+            "metadata": {
+                "total_units": 4,
+                "total_articles": 4,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 1,
+                "source": "ocr"
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [
+            "Tài nguyên",
+            "Đất đai",
+            "Đất đai"
+        ],
+        "edges": {
+            "amends": [],
+            "mentions": [
+                {
+                    "official_number_target": "Nghị định số 22/1998/NĐ-CP",
+                    "relevance_type": "DIRECT_REFERENCE",
+                    "context": "theo quy định tại khoản 3, Điều 31, Nghị định số 22/1998/NĐ-CP ngày 24/4/1998 của Chính phủ"
+                },
+                {
+                    "official_number_target": "Nghị định số 51/1999/NĐ-CP",
+                    "relevance_type": "DIRECT_REFERENCE",
+                    "context": "được hưởng các chế độ ưu đãi đầu tư theo quy định tại Nghị định số 51/1999/NĐ-CP ngày 8/7/1999 của Chính phủ"
+                },
+                {
+                    "official_number_target": "Nghị định số 04/2000/NĐ-CP",
+                    "relevance_type": "DIRECT_REFERENCE",
+                    "context": "được Nhà nước giao đất, cho thuê đất theo quy định tại Nghị định số 04/2000/NĐ-CP ngày 11/02/2000 của Chính phủ"
+                },
+                {
+                    "official_number_target": "Nghị định số 35/CP",
+                    "relevance_type": "PENALTY",
+                    "context": "Thu phạt xử lý vi phạm hành chính trong lĩnh vực khoáng sản quy định tại Nghị định số 35/CP ngày 23/4/1997 của Chính phủ"
+                },
+                {
+                    "official_number_target": "Nghị định số 68/CP",
+                    "relevance_type": "DIRECT_REFERENCE",
+                    "context": "Lệ phí cấp giấy phép hoạt động khoáng sản theo quy định tại khoản 2 Điều 9 Nghị định số 68/CP ngày 01/11/1996 của Chính phủ"
+                },
+                {
+                    "official_number_target": "Quyết định 219/1999/QĐ-TTg",
+                    "relevance_type": "DIRECT_REFERENCE",
+                    "context": "theo Quyết định 219/1999/QĐ-TTg ngày 11/11/1999 của Thủ tướng Chính phủ"
+                },
+                {
+                    "official_number_target": "Thông tư số 146/1999/TT-BTC",
+                    "relevance_type": "GUIDELINE",
+                    "context": "được thực hiện theo hướng dẫn tại Thông tư số 146/1999/TT-BTC ngày 17/12/1999 của Bộ Tài chính"
+                },
+                {
+                    "official_number_target": "Thông tư số 103/1998/TT-BTC",
+                    "relevance_type": "GUIDELINE",
+                    "context": "được thực hiện theo hướng dẫn tại Thông tư số 103/1998/TT-BTC ngày 18/7/1998 của Bộ Tài chính"
+                },
+                {
+                    "official_number_target": "Thông tư số 156/1998/TT/BTC",
+                    "relevance_type": "GUIDELINE",
+                    "context": "được lập chi tiết theo Hệ thống mục lục Ngân sách Nhà nước ban hành kèm theo Thông tư số 156/1998/TT/BTC ngày 12/12/1998 của Bộ Tài chính"
+                },
+                {
+                    "official_number_target": "Quyết định số 280/TC/QĐ/NSNN",
+                    "relevance_type": "GUIDELINE",
+                    "context": "theo Quyết định số 280/TC/QĐ/NSNN ngày 15/4/1997 của Bộ Tài chính"
+                }
+            ],
+            "abolished": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 1,
+                "llm_count": 10,
+                "missing_in_llm": [
+                    "219/1999/QĐ-TTG"
+                ],
+                "extra_in_llm": [
+                    "NGHỊĐỊNHSỐ04/2000/NĐ-CP",
+                    "NGHỊĐỊNHSỐ22/1998/NĐ-CP",
+                    "NGHỊĐỊNHSỐ35/CP",
+                    "NGHỊĐỊNHSỐ51/1999/NĐ-CP",
+                    "NGHỊĐỊNHSỐ68/CP",
+                    "QUYẾTĐỊNH219/1999/QĐ-TTG",
+                    "QUYẾTĐỊNHSỐ280/TC/QĐ/NSNN",
+                    "THÔNGTƯSỐ103/1998/TT-BTC",
+                    "THÔNGTƯSỐ146/1999/TT-BTC",
+                    "THÔNGTƯSỐ156/1998/TT/BTC"
+                ],
+                "match": false
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "[mentions] LLM thiếu target so với crawl: ['219/1999/QĐ-TTG']",
+            "[mentions] LLM tìm thêm target không có trong crawl: ['NGHỊĐỊNHSỐ04/2000/NĐ-CP', 'NGHỊĐỊNHSỐ22/1998/NĐ-CP', 'NGHỊĐỊNHSỐ35/CP', 'NGHỊĐỊNHSỐ51/1999/NĐ-CP', 'NGHỊĐỊNHSỐ68/CP', 'QUYẾTĐỊNH219/1999/QĐ-TTG', 'QUYẾTĐỊNHSỐ280/TC/QĐ/NSNN', 'THÔNGTƯSỐ103/1998/TT-BTC', 'THÔNGTƯSỐ146/1999/TT-BTC', 'THÔNGTƯSỐ156/1998/TT/BTC']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "76/2000/TT-BTC",
+            "target_id": "219/1999/QĐ-TTg",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "",
+            "target_id": "Nghị định số 22/1998/NĐ-CP",
+            "properties": {
+                "relevance_type": "DIRECT_REFERENCE",
+                "context": "theo quy định tại khoản 3, Điều 31, Nghị định số 22/1998/NĐ-CP ngày 24/4/1998 của Chính phủ",
+                "source": "llm_only"
+            },
+            "_crawled": false
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "",
+            "target_id": "Nghị định số 51/1999/NĐ-CP",
+            "properties": {
+                "relevance_type": "DIRECT_REFERENCE",
+                "context": "được hưởng các chế độ ưu đãi đầu tư theo quy định tại Nghị định số 51/1999/NĐ-CP ngày 8/7/1999 của Chính phủ",
+                "source": "llm_only"
+            },
+            "_crawled": false
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "",
+            "target_id": "Nghị định số 04/2000/NĐ-CP",
+            "properties": {
+                "relevance_type": "DIRECT_REFERENCE",
+                "context": "được Nhà nước giao đất, cho thuê đất theo quy định tại Nghị định số 04/2000/NĐ-CP ngày 11/02/2000 của Chính phủ",
+                "source": "llm_only"
+            },
+            "_crawled": false
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "",
+            "target_id": "Nghị định số 35/CP",
+            "properties": {
+                "relevance_type": "PENALTY",
+                "context": "Thu phạt xử lý vi phạm hành chính trong lĩnh vực khoáng sản quy định tại Nghị định số 35/CP ngày 23/4/1997 của Chính phủ",
+                "source": "llm_only"
+            },
+            "_crawled": false
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "",
+            "target_id": "Nghị định số 68/CP",
+            "properties": {
+                "relevance_type": "DIRECT_REFERENCE",
+                "context": "Lệ phí cấp giấy phép hoạt động khoáng sản theo quy định tại khoản 2 Điều 9 Nghị định số 68/CP ngày 01/11/1996 của Chính phủ",
+                "source": "llm_only"
+            },
+            "_crawled": false
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "",
+            "target_id": "Quyết định 219/1999/QĐ-TTg",
+            "properties": {
+                "relevance_type": "DIRECT_REFERENCE",
+                "context": "theo Quyết định 219/1999/QĐ-TTg ngày 11/11/1999 của Thủ tướng Chính phủ",
+                "source": "llm_only"
+            },
+            "_crawled": false
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "",
+            "target_id": "Thông tư số 146/1999/TT-BTC",
+            "properties": {
+                "relevance_type": "GUIDELINE",
+                "context": "được thực hiện theo hướng dẫn tại Thông tư số 146/1999/TT-BTC ngày 17/12/1999 của Bộ Tài chính",
+                "source": "llm_only"
+            },
+            "_crawled": false
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "",
+            "target_id": "Thông tư số 103/1998/TT-BTC",
+            "properties": {
+                "relevance_type": "GUIDELINE",
+                "context": "được thực hiện theo hướng dẫn tại Thông tư số 103/1998/TT-BTC ngày 18/7/1998 của Bộ Tài chính",
+                "source": "llm_only"
+            },
+            "_crawled": false
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "",
+            "target_id": "Thông tư số 156/1998/TT/BTC",
+            "properties": {
+                "relevance_type": "GUIDELINE",
+                "context": "được lập chi tiết theo Hệ thống mục lục Ngân sách Nhà nước ban hành kèm theo Thông tư số 156/1998/TT/BTC ngày 12/12/1998 của Bộ Tài chính",
+                "source": "llm_only"
+            },
+            "_crawled": false
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "",
+            "target_id": "Quyết định số 280/TC/QĐ/NSNN",
+            "properties": {
+                "relevance_type": "GUIDELINE",
+                "context": "theo Quyết định số 280/TC/QĐ/NSNN ngày 15/4/1997 của Bộ Tài chính",
+                "source": "llm_only"
+            },
+            "_crawled": false
+        }
+    ]
+}

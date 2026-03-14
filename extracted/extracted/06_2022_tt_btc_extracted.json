@@ -1,0 +1,347 @@
+{
+    "file_name": "06_2022_tt_btc",
+    "source": "ocr_json",
+    "crawled_metadata": {
+        "officialNumber": "06/2022/TT-BTC",
+        "title": "Hưóng dẫn công tác giám sát tuân thủ của ủy ban Chứng khoán Nhà nước đối với hoạt động trong lĩnh vực chứng khoán của Sở Giao dịch Chứng khoán Việt Nam và các công ty con, Tổng công ty Lưu ký và Bù trừ chửng khoán Việt Nam",
+        "promulgationDate": "2022-02-08",
+        "effectiveDate": "2022-03-24",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "sigerName": "Nguyễn Đức Chi",
+        "draftingUnit": "Uỷ ban Chứng khoán Nhà nước",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:21Z",
+        "_doc_id": "105710"
+    },
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "06/2022/TT-BTC",
+            "target_id": "158/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "06/2022/TT-BTC",
+            "target_id": "155/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "06/2022/TT-BTC",
+            "target_id": "54/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "06/2022/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "06/2022/TT-BTC",
+            "target_id": "35/2019/TT-BTC",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "06/2022/TT-BTC",
+            "target_id": "116/2017/TT-BTC",
+            "properties": {},
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "06_2022_tt_btc",
+        "file_path": "/Users/dangnam/Documents/FCI/legal_knowledge_graph/graph_new/54_doc/54vb_structure/06_2022_tt_btc/document_structure.json",
+        "official_number": null,
+        "dates": {
+            "promulgation_date": "2022-02-08",
+            "effective_date": null,
+            "expiration_date": null
+        },
+        "issuing_place": "Tự do Hạnh phúc Hà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "CHAPTER",
+                    "number": "I",
+                    "title": "QUY ĐỊNH CHUNG",
+                    "position": 9,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "1",
+                            "title": "Phạm vi điều chỉnh và đối tượng áp dụng",
+                            "position": 10,
+                            "children": [],
+                            "content": "Thông tư này hướng dẫn về việc thực hiện công tác giám sát của Ủy ban Chứng khoán Nhà nước đối với việc tuân thủ các quy định pháp luật về chứng khoán và thị trường chứng khoán của Sở giao dịch chứng khoán Việt Nam và các công ty con gồm Sở giao dịch Chứng khoán Thành phố Hồ Chí Minh, Sở giao dịch Chứng khoán Hà Nội; Tổng công ty lưu ký và bù trừ chứng khoán\nViệt Nam trong việc tổ chức, thực hiện nghiệp vụ chứng khoán."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "2",
+                            "title": "Quyền hạn và trách nhiệm của Ủy ban Chứng khoán Nhà nước",
+                            "position": 14,
+                            "children": [],
+                            "content": "1. Xây dựng các văn bản quy phạm pháp luật về giám sát tuân thủ pháp luật về chứng khoán và thị trường chứng khoán đối với Sở giao dịch chứng khoán Việt Nam và các công ty con, Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam trình cấp có thẩm quyền ban hành và ban hành văn bản hướng dẫn chuyên môn, nghiệp vụ theo thẩm quyền.\n2. Chấp thuận để Sở giao dịch chứng khoán Việt Nam và Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam ban hành các quy chế hoạt động nghiệp vụ và các văn bản khác về việc thực hiện nghiệp vụ trong lĩnh vực chứng khoán theo quy định pháp luật; yêu cầu Sở giao dịch chứng khoán Việt Nam và các công ty con, Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam sửa đổi quy định, quy chế liên quan đến hoạt động nghiệp vụ.\n3. Thực hiện giám sát đối với việc tuân thủ pháp luật về chứng khoán và thị trường chứng khoán trong hoạt động nghiệp vụ chứng khoán của Sở giao dịch chứng khoán Việt Nam và các công ty con, Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam (sau đây gọi tắt là giám sát tuân thủ).\n4. Đình chỉ, hủy bỏ quyết định liên quan đến hoạt động nghiệp vụ của Sở giao dịch chứng khoán Việt Nam và các công ty con, Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam; chỉ đạo Sở giao dịch chứng khoán Việt Nam và các công ty con, Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam thực hiện các nhiệm vụ liên quan đến hoạt động nghiệp vụ trong trường hợp cần thiết để bảo vệ quyền và lợi ích hợp pháp của nhà đầu tư theo quy định của pháp luật.\n5. Xây dựng kế hoạch thanh tra, kiểm tra giám sát tuân thủ hàng năm, tổ chức thanh tra, kiểm tra định kỳ theo kế hoạch hoặc kiểm tra đột xuất khi cần thiết đối với Sở giao dịch chứng khoán Việt Nam và các công ty con, Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam.\n6. Xử lý theo thẩm quyền hoặc chuyển cơ quan có thẩm quyền xử lý đối với vi phạm quy định pháp luật về chứng khoán và thị trường chứng khoán của Sở giao dịch chứng khoán Việt Nam và các công ty con, Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam.\n7. Báo cáo Bộ Tài chính kết quả thực hiện công tác giám sát tuân thủ theo yêu cầu của Bộ Tài chính."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "3",
+                            "title": "Phương thức giám sát của Ủy ban Chứng khoán Nhà nước",
+                            "position": 22,
+                            "children": [],
+                            "content": "1. Ủy ban Chứng khoán Nhà nước thực hiện giám sát tuân thủ trên cơ sở báo cáo của Sở giao dịch chứng khoán Việt Nam và các công ty con, Tổng công\nty lưu ký và bù trừ chứng khoán Việt Nam theo quy định tại khoản 3 Điều 5 và Chương IV Thông tư này; phản ánh của các tổ chức, cá nhân hoạt động trên thị trường chứng khoán và các nguồn tin trên phương tiện thông tin đại chúng liên quan đến việc tuân thủ quy định pháp luật trong việc tổ chức và thực hiện các hoạt động nghiệp vụ chứng khoán của Sở giao dịch chứng khoán Việt Nam và các công ty con, Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam.\n2. Trên cơ sở kế hoạch thanh tra, kiểm tra giám sát tuân thủ hàng năm, Ủy ban Chứng khoán Nhà nước thực hiện thanh tra, kiểm tra định kỳ đối với Sở giao dịch chứng khoán Việt Nam và các công ty con, Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam và tổ chức kiểm tra đột xuất khi cần thiết."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "4",
+                            "title": "Nghĩa vụ của Sở giao dịch chứng khoán Việt Nam",
+                            "position": 27,
+                            "children": [],
+                            "content": "1. Chịu sự kiểm tra, giám sát của Ủy ban Chứng khoán Nhà nước đối với các hoạt động nghiệp vụ chứng khoán quy định tại Thông tư này; báo cáo giải trình và kế hoạch khắc phục đối với các nội dung kết luận, kiến nghị của Ủy ban Chứng khoán Nhà nước về kết quả giám sát tuân thủ; báo cáo, kiến nghị Ủy ban Chứng khoán Nhà nước các biện pháp ứng phó, khắc phục sự cố, sự kiện, biến động ảnh hưởng đến an toàn, ổn định và tính toàn vẹn của thị trường giao dịch chứng khoán.\n2. Kiến nghị, đề xuất Ủy ban Chứng khoán Nhà nước về việc ban hành, sửa đổi, bổ sung các quy định pháp luật về chứng khoán và thị trường chứng khoán.\n3. Thực hiện chế độ báo cáo theo quy định tại Chương IV Thông tư này và thực hiện phân cấp nghĩa vụ báo cáo đối với Sở giao dịch Chứng khoán Thành phố Hồ Chí Minh, Sở giao dịch Chứng khoán Hà Nội.\n4. Lưu trữ và bảo mật đối với hồ sơ, tài liệu, chứng từ và dữ liệu về nghiệp vụ chứng khoán theo quy định của pháp luật; cung cấp đầy đủ, chính xác, kịp thời các thông tin, tài liệu, dữ liệu theo yêu cầu của Ủy ban Chứng khoán Nhà nước để phục vụ công tác giám sát tuân thủ."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "5",
+                            "title": "Nghĩa vụ của Sở giao dịch Chứng khoán Thành phố Hồ Chí Minh, Sở giao dịch Chứng khoán Hà Nội",
+                            "position": 32,
+                            "children": [],
+                            "content": "1. Chịu sự kiểm tra, giám sát của Ủy ban Chứng khoán Nhà nước đối với các hoạt động nghiệp vụ chứng khoán quy định tại Thông tư này; báo cáo Sở giao dịch chứng khoán Việt Nam về nội dung giải trình và kế hoạch khắc phục đối với các kết luận, kiến nghị của Ủy ban Chứng khoán Nhà nước về kết quả giám sát tuân thủ để Sở giao dịch chứng khoán Việt Nam báo cáo Ủy ban Chứng khoán Nhà nước.\n2. Kiến nghị, đề xuất Sở giao dịch chứng khoán Việt Nam để Sở giao dịch\nchứng khoán Việt Nam tổng hợp, báo cáo Ủy ban Chứng khoán Nhà nước việc quy định, sửa đổi, bổ sung các quy định pháp luật về giám sát trên thị trường chứng khoán.\n3. Thực hiện chế độ báo cáo bất thường gửi Ủy ban Chứng khoán Nhà nước khi có yêu cầu, đồng thời báo cáo Sở giao dịch chứng khoán Việt Nam.\n4. Thực hiện nghĩa vụ báo cáo theo phân cấp của Sở giao dịch chứng khoán Việt Nam để Sở giao dịch chứng khoán Việt Nam tổng hợp, báo cáo Ủy ban Chứng khoán Nhà nước.\n5. Lưu trữ và bảo mật đối với hồ sơ, tài liệu, chứng từ và dữ liệu về nghiệp vụ chứng khoán theo quy định của pháp luật; cung cấp đầy đủ, chính xác, kịp thời các thông tin, tài liệu, dữ liệu theo yêu cầu của Ủy ban Chứng khoán Nhà nước để phục vụ công tác giám sát tuân thủ."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "6",
+                            "title": "Nghĩa vụ của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam",
+                            "position": 40,
+                            "children": [],
+                            "content": "1. Chịu sự kiểm tra, giám sát của Ủy ban Chứng khoán Nhà nước đối với các hoạt động trong lĩnh vực chứng khoán và thị trường chứng khoán quy định tại Thông tư này; báo cáo giải trình và kế hoạch khắc phục đối với các nội dung kết luận, kiến nghị của Ủy ban Chứng khoán Nhà nước về kết quả giám sát tuân thủ.\n2. Kiến nghị, đề xuất Ủy ban Chứng khoán Nhà nước về việc ban hành, sửa đổi, bổ sung các quy định pháp luật về chứng khoán và thị trường chứng khoán.\n3. Thực hiện chế độ báo cáo theo quy định tại Chương IV Thông tư này.\n4. Lưu trữ và bảo mật đối với hồ sơ, tài liệu, chứng từ và dữ liệu về nghiệp vụ theo quy định của pháp luật; cung cấp đầy đủ, chính xác, kịp thời các thông tin, tài liệu, dữ liệu theo yêu cầu của Ủy ban Chứng khoán Nhà nước để phục vụ công tác giám sát tuân thủ."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "7",
+                            "title": "Giám sát hoạt động ban hành văn bản và phổ biến, tuyên truyền",
+                            "position": 46,
+                            "children": [],
+                            "content": "Üy ban Chứng khoán Nhà nước thực hiện giám sát đối với các nội dung sau:\n1. Giám sát việc ban hành, bổ sung, sửa đổi, hủy bỏ nội dung của các quy chế và các văn bản khác điều chỉnh hoạt động nghiệp vụ của Sở giao dịch chứng khoán Việt Nam và các công ty con.\n2. Giám sát việc phối hợp thực hiện công tác tuyên truyền, phổ biến kiến thức về chứng khoán và thị trường chứng khoán cho nhà đầu tư của Sở giao dịch chứng khoán Việt Nam và các công ty con."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "8",
+                            "title": "Giám sát hoạt động nghiệp vụ tại Sở giao dịch chứng khoán Việt Nam",
+                            "position": 51,
+                            "children": [],
+                            "content": "Ủy ban Chứng khoán Nhà nước thực hiện giám sát tuân thủ pháp luật về chứng khoán và thị trường chứng khoán đối với Sở giao dịch chứng khoán Việt Nam về các hoạt động nghiệp vụ sau:\n1. Xây dựng và ban hành các quy chế về niêm yết chứng khoán, giao dịch chứng khoán, công bố thông tin, thành viên của Sở giao dịch chứng khoán Việt Nam và các quy chế nghiệp vụ khác liên quan đến tổ chức và hoạt động thị trường giao dịch chứng khoán; ban hành tiêu chí giám sát giao dịch; ban hành chỉ tiêu báo cáo giám sát giao dịch áp dụng cho thành viên của Sở giao dịch chứng khoán Việt Nam theo quy định của pháp luật về chứng khoán và thị trường chứng khoán.\n2. Tổ chức thị trường giao dịch chứng khoán theo quy định của pháp luật chứng khoán.\n3. Chấp thuận, hủy bỏ tư cách thành viên của Sở giao dịch chứng khoán Việt Nam; quản lý, giám sát, kiểm tra, xử lý vi phạm của thành viên theo quy định của pháp luật chứng khoán và làm trung gian hòa giải theo yêu cầu của thành viên khi phát sinh tranh chấp liên quan đến hoạt động giao dịch chứng khoán.\n4. Giám sát tuân thủ của Sở giao dịch chứng khoán Việt Nam đối với Sở giao dịch Chứng khoán Thành phố Hồ Chí Minh và Sở giao dịch Chứng khoán Hà Nội trong việc thực hiện các quy chế hoạt động nghiệp vụ; giám sát chung hoạt động giao dịch chứng khoán, hoạt động công bố thông tin của tổ chức niêm yết, tổ chức đăng ký giao dịch và nhà đầu tư thuộc đối tượng công bố thông tin; giám sát tổ chức niêm yết, tổ chức đăng ký giao dịch và nhà đầu tư hoạt động trên các thị trường giao dịch chứng khoán theo quy định của pháp luật.\n5. Bảo đảm hoạt động giao dịch chứng khoán trên thị trường chứng khoán được tiến hành liên tục, công khai, công bằng, trật tự, an toàn và hiệu quả; các biện pháp ứng phó, khắc phục sự cố, sự kiện, biến động ảnh hưởng đến an toàn, ổn định và tính toàn vẹn của thị trường giao dịch chứng khoán; báo cáo vi phạm\ncủa thành viên của Sở giao dịch chứng khoán Việt Nam; báo cáo vi phạm của nhà đầu tư, tổ chức niêm yết, tổ chức đăng ký giao dịch theo quy định của pháp luật.\n1. Tổ chức và triển khai hoạt động kiểm soát tuân thủ của Sở giao dịch chứng khoán Việt Nam đối với các hoạt động nghiệp vụ về chứng khoán.\n2. Lưu trữ, bảo mật hồ sơ, chứng từ, dữ liệu gốc liên quan tới việc thực hiện nghiệp vụ chứng khoán.\n3. Các hoạt động khác của Sở giao dịch chứng khoán Việt Nam và các công ty con có liên quan đến hoạt động nghiệp vụ."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "9",
+                            "title": "Giám sát hoạt động nghiệp vụ tại Sở giao dịch Chứng khoán Thành phố Hồ Chí Minh, Sở giao dịch Chứng khoán Hà Nội",
+                            "position": 63,
+                            "children": [],
+                            "content": "Ủy ban Chứng khoán Nhà nước thực hiện giám sát tuân thủ pháp luật về chứng khoán và thị trường chứng khoán đối với Sở giao dịch Chứng khoán Thành phố Hồ Chí Minh và Sở giao dịch Chứng khoán Hà Nội về các hoạt động nghiệp vụ sau:\n1. Tổ chức, vận hành thị trường giao dịch chứng khoán theo quy định pháp luật và trong phạm vi nhiệm vụ được giao.\n2. Giám sát hoạt động giao dịch chứng khoán; giám sát hoạt động công bố thông tin của tổ chức niêm yết, tổ chức đăng ký giao dịch và nhà đầu tư thuộc đối tượng công bố thông tin; giám sát việc tuân thủ nghĩa vụ của thành viên của Sở giao dịch chứng khoán Việt Nam theo quy định của pháp luật chứng khoán và quy chế của Sở giao dịch chứng khoán Việt Nam.\n3. Cảnh báo, kiểm soát, hạn chế giao dịch chứng khoán theo quy định của pháp luật và quy chế của Sở giao dịch chứng khoán Việt Nam.\n4. Chấp thuận, thay đổi; hủy bỏ niêm yết, đăng ký giao dịch chứng khoán và giám sát việc duy trì điều kiện niêm yết chứng khoán của các tổ chức niêm yết.\n5. Kiểm tra, xử lý vi phạm đối với tổ chức niêm yết, tổ chức đăng ký giao dịch theo quy chế của Sở giao dịch chứng khoán Việt Nam.\n6. Cung cấp dịch vụ đấu giá, đấu thầu; dịch vụ về thông tin thị trường và thông tin liên quan đến chứng khoán giao dịch; dịch vụ phát triển hạ tầng công nghệ cho thị trường chứng khoán và các dịch vụ liên quan khác theo quy định tại Điều lệ công ty.\n7. Tổ chức và triển khai hoạt động kiểm soát tuân thủ đối với các hoạt động nghiệp vụ về chứng khoán."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "10",
+                            "title": "Giám sát hoạt động ban hành văn bản và phổ biến, tuyên truyền",
+                            "position": 74,
+                            "children": [],
+                            "content": "Üy ban Chứng khoán Nhà nước thực hiện giám sát đối với các nội dung sau:\n1. Giám sát việc ban hành, bổ sung, sửa đổi, hủy bỏ nội dung của các quy chế, quy trình và các văn bản khác điều chỉnh hoạt động nghiệp vụ của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam.\n2. Giám sát việc phối hợp thực hiện công tác tuyên truyền, phổ biến kiến thức về chứng khoán và thị trường chứng khoán cho nhà đầu tư của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "11",
+                            "title": "Giám sát hoạt động nghiệp vụ",
+                            "position": 78,
+                            "children": [],
+                            "content": "Üy ban Chứng khoán Nhà nước thực hiện giám sát tuân thủ pháp luật về chứng khoán và thị trường chứng khoán đối với Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam về các hoạt động nghiệp vụ sau:\n1. Xây dựng và ban hành các quy chế về đăng ký, lưu ký, bù trừ và thanh toán chứng khoán và các quy chế nghiệp vụ khác theo quy định của pháp luật về chứng khoán và thị trường chứng khoán.\n2. Chấp thuận, thu hồi Giấy chứng nhận thành viên lưu ký; chấp thuận, thu hồi giấy chứng nhận thành viên bù trừ cơ sở; chấp thuận, hủy bỏ tư cách thành viên bù trừ chứng khoán phái sinh; giám sát việc duy trì điều kiện đăng ký thành viên lưu ký; giám sát việc thực hiện quyền của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam đối với thành viên của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam; hoạt động giám sát của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam đối với thành viên của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam trong việc tuân thủ pháp luật về chứng khoán và quy chế của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam; việc xử lý vi phạm đối với thành viên lưu ký, thành viên bù trừ của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam theo quy định của pháp luật chứng khoán và theo quy chế của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam.\n3. Đăng ký chứng khoán, thay đổi đăng ký chứng khoán, hủy đăng ký chứng khoán; cấp, quản lý mã chứng khoán; thực hiện quyền của người sở hữu chứng khoán; chuyển quyền sở hữu chứng khoán không qua hệ thống giao dịch chứng khoán.\n1. Mở, quản lý tài khoản lưu ký chứng khoán; ký gửi, rút, chuyển khoản, phong tỏa, giải tỏa chứng khoán.\n2. Cấp, quản lý mã số giao dịch chứng khoán của nhà đầu tư nước ngoài, tổ chức phát hành chứng chỉ lưu ký tại nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài.\n3. Việc thực hiện nghĩa vụ báo cáo, công bố thông tin của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam theo quy định pháp luật; hoạt động giám sát của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam đối với thành viên lưu ký, thành viên bù trừ trong việc thực hiện nghĩa vụ báo cáo theo quy chế nghiệp vụ của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam.\n4. Việc tổ chức thực hiện hoạt động bù trừ thanh toán giao dịch chứng khoán; sửa lỗi, xử lý lỗi, lùi thời hạn thanh toán, từ chối thế vị giao dịch của thành viên bù trừ, loại bỏ thanh toán giao dịch, chuyển sang thanh toán bằng tiền; lập, quản lý, sử dụng Quỹ hỗ trợ thanh toán; lập, quản lý và sử dụng Quỹ bù trừ; sử dụng Quỹ phòng ngừa rủi ro nghiệp vụ để đảm bảo thanh toán giao dịch chứng khoán.\n5. Việc thiết lập hệ thống bảo đảm quản lý tách biệt tài khoản, tài sản của thành viên bù trừ với tài khoản, tài sản của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam; tách biệt tài khoản, tài sản của từng thành viên bù trừ; tách biệt tài khoản, tài sản ký quỹ của thành viên bù trừ và các khách hàng của chính thành viên bù trừ đó.\n6. Việc quản lý hệ thống vay và cho vay chứng khoán (SBL), quản lý hệ thống giao dịch hoán đổi chứng chỉ quỹ của quỹ hoán đổi danh mục (quỹ ETF).\n7. Việc giám sát tỷ lệ sở hữu nước ngoài tại công ty đại chúng, quỹ đại chúng theo quy định của pháp luật:\na) Giám sát các công ty đại chúng, quỹ đại chúng đã đăng ký chứng khoán tập trung tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam không thực hiện đăng ký hoặc hủy mã số giao dịch chứng khoán theo đúng quy định pháp luật;\nb) Giám sát công ty đại chúng đã đăng ký chứng khoán tập trung tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam có tỷ lệ sở hữu nước ngoài vượt tỷ lệ sở hữu nước ngoài tối đa đã được Ủy ban Chứng khoán Nhà nước xác nhận.\n8. Bảo đảm hoạt động liên tục của hệ thống đăng ký, lưu ký, bù trừ và thanh toán chứng khoán; việc thực hiện giám sát an ninh, an toàn đối với hệ thống đăng ký, lưu ký, bù trừ và thanh toán chứng khoán theo quy định của pháp luật.\nluật về chứng khoán và thị trường chứng khoán; giám sát thành viên của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam trong việc thực hiện hoạt động này.\n12. Việc thực hiện đăng ký biện pháp bảo đảm, quản lý đăng ký biện pháp bảo đảm đối với chứng khoán đăng ký tập trung tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam.\n13. Lưu trữ bảo mật hồ sơ, chứng từ, dữ liệu gốc liên quan tới việc thực hiện nghiệp vụ chứng khoán.\n14. Hoạt động kiểm soát nội bộ và quản lý rủi ro theo từng nghiệp vụ.\n15. Hoạt động đền bù thiệt hại cho khách hàng khi cung cấp dịch vụ liên quan đến hoạt động nghiệp vụ.\n16. Các hoạt động khác của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam có liên quan đến hoạt động nghiệp vụ chứng khoán."
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "IV",
+                    "title": "CHẾ ĐỘ BÁO CÁO",
+                    "position": 100,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "12",
+                            "title": "Báo cáo của Sở giao dịch chứng khoán Việt Nam và Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam",
+                            "position": 101,
+                            "children": [],
+                            "content": "1. Báo cáo định kỳ\na) Sở giao dịch chứng khoán Việt Nam gửi Ủy ban Chứng khoán Nhà nước báo cáo định kỳ hằng tháng và năm theo mẫu quy định tại Phụ lục I và Phụ lục IV ban hành kèm theo Thông tư này;\nb) Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam gửi Ủy ban Chứng khoán Nhà nước báo cáo định kỳ hằng tháng và năm theo mẫu quy định tại Phụ lục II và Phụ lục III ban hành kèm theo Thông tư này.\n2. Thời hạn nộp các báo cáo định kỳ quy định tại Khoản 1 Điều này như sau:\na) Đối với báo cáo tháng: Trong thời hạn 15 ngày làm việc kể từ ngày kết thúc tháng;\nb) Đối với báo cáo năm: Trong thời hạn 25 ngày làm việc kể từ ngày kết thúc năm.\n3. Thời gian chốt số liệu đối với báo cáo định kỳ quy định tại Khoản 1 Điều này như sau:\na) Đối với báo cáo tháng: Tính từ ngày đầu tiên của tháng báo cáo đến ngày cuối cùng của tháng báo cáo;\nb) Đối với báo cáo năm: Tính từ ngày 01 tháng 01 năm báo cáo đến ngày 31 tháng 12 năm báo cáo.\n4. Báo cáo theo yêu cầu\nSở giao dịch chứng khoán Việt Nam và các công ty con, Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam có trách nhiệm báo cáo theo yêu cầu của Ủy ban Chứng khoán Nhà nước liên quan đến công tác giám sát tuân thủ.\n5. Sở giao dịch chứng khoán Việt Nam và các công ty con, Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam gửi Ủy ban Chứng khoán Nhà nước các báo cáo dưới hình thức văn bản điện tử và văn bản giấy."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "13",
+                            "title": "Báo cáo của Ủy ban Chứng khoán Nhà nước",
+                            "position": 115,
+                            "children": [],
+                            "content": "Ủy ban Chứng khoán Nhà nước thực hiện báo cáo Bộ Tài chính kết quả thực hiện công tác giám sát tuân thủ theo yêu cầu của Bộ Tài chính."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "14",
+                            "title": "Hiệu lực thi hành",
+                            "position": 118,
+                            "children": [],
+                            "content": "1. Thông tư này có hiệu lực thi hành kể từ ngày 24 tháng 3 năm 2022.\n2. Thông tư này bãi bỏ toàn bộ các văn bản quy phạm pháp luật sau đây:\na) Thông tư số 116/2017/TT-BTC ngày 25 tháng 10 năm 2017 của Bộ trưởng Bộ Tài chính hướng dẫn công tác giám sát tuân thủ của Ủy ban Chứng khoán Nhà nước đối với hoạt động trong lĩnh vực chứng khoán của Sở giao dịch chứng khoán, Trung tâm lưu ký chứng khoán Việt Nam;\nb) Thông tư số 35/2019/TT-BTC ngày 12 tháng 06 năm 2019 của Bộ trưởng Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư 115/2017-BTC ngày 25 tháng 10 năm 2017 hướng dẫn giám sát giao dịch chứng khoán trên thị trường chứng khoán và Thông tư số 116/2017/TT-BTC ngày 25 tháng 10 năm 2017 của Bộ trưởng Bộ Tài chính hướng dẫn công tác giám sát tuân thủ của Ủy ban Chứng khoán Nhà nước đối với hoạt động trong lĩnh vực chứng khoán của Sở giao dịch chứng khoán, Trung tâm lưu ký chứng khoán Việt Nam."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "15",
+                            "title": "Điều khoản chuyển tiếp",
+                            "position": 123,
+                            "children": [],
+                            "content": "Trước khi Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam chính thức hoạt động theo quy định tại Luật Chứng khoán ngày 26 tháng 11 năm 2019, Ủy ban Chứng khoán Nhà nước thực hiện công tác giám sát tuân thủ đối với Trung tâm lưu ký chứng khoán Việt Nam theo quy định áp dụng đối với Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam tại Thông tư này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "16",
+                            "title": "Tổ chức thực hiện",
+                            "position": 126,
+                            "children": [],
+                            "content": "1. Ủy ban Chứng khoán Nhà nước, Sở giao dịch chứng khoán Việt Nam, Sở giao dịch Chứng khoán thành phố Hồ Chí Minh, Sở giao dịch Chứng khoán Hà Nội, Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam chịu trách nhiệm thực hiện Thông tư này.\n2. Trong quá trình thực hiện, trường hợp có vướng mắc, đề nghị các đơn vị phản ánh kịp thời để Bộ Tài chính nghiên cứu sửa đổi, bổ sung cho phù hợp./.\nVăn phòng Trung ương và các Ban của Đảng; Văn phòng Tông Bí thư; Văn phòng Chính phủ; Văn phòng Quốc hội; Văn phòng Chủ tịch nước; Thủ tướng, các Phó Thủ tướng Chính phủ; Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; Cơ quan TW của các đoàn thể; Viện kiểm soát nhân dân tối cao; Tòa án nhân dân tối cao; HĐND, UBND các tỉnh, thành phố trực thuộc TW; Kiểm toán Nhà nước; Công báo; Cổng thông tin điện tử Chính phủ; Cục kiểm tra văn bản (Bộ Tư pháp); Các đơn vị thuộc Bộ Tài chính; Cổng thông tin điện tử của Bộ Tài chính; Cổng thông tin điện tử của UBCKNN; Sở GDCK, TTLKCK Việt Nam; Lưu: VT, UBCK, (100b).\nCột 1: thể hiện thành viên giao dịch và thành viên giao dịch đặc biệt trên các thị trường\nCột 2: thể hiện tổng số hồ sơ đăng ký, hủy bỏ tư cách, đình chỉ giao dịch của thành viên SGDCKVN đã nhận đầy đủ và hợp lệ nhưng chưa giải quyết xong trong kỳ báo cáo trước\nCột 3: thể hiện tổng số hồ đăng ký thành viên thành viên SGDCKVN đã nhận đầy đủ và hợp lệ theo quy định để xử lý trong kỳ báo cáo.\nCột 4: thể hiện tổng số hồ sơ hủy bỏ tư cách thành viên SGDCKVN đã nhận đầy đủ và hợp lệ theo quy định để xử lý trong kỳ báo cáo\nCột 5: thể hiện tổng số hồ sơ đình chỉ hoạt động giao dịch của thành viên SGDCKVN đã nhận đầy đủ và hợp lệ trong kỳ báo cáo\nCột 6: thể hiện tổng số hồ sơ đăng ký thành viên SGDCKVN đã giải quyết xong trong kỳ báo cáo\nCột 7: thể hiện tổng số hồ sơ hủy bỏ tư cách thành viên giao dịch SGDCKVN đã giải quyết xong trong kỳ báo cáo\nCột 8: thể hiện tổng số hồ sơ đình chỉ giao dịch thành viên SGDCKVN đã giải quyết xong trong kỳ báo cáo\nCột 9: thể hiện số hồ sơ đã giải quyết quá hạn\nCột 1: thể hiện nội dung vi phạm\nCột 2: thể hiện tổng số vụ việc SGDCKVN và các công ty con đã nhận đầy đủ và hợp lệ nhưng chưa giải quyết xong trong kỳ báo cáo trước\nCột 3: thể hiện số vụ việc có dấu hiệu vi phạm SGDCKVN và các công ty con phát hiện trong kỳ báo cáo\nCột 4: thể hiện số vụ việc có dấu hiệu vi phạm SGDCKVN và các công ty con phát hiện nhưng chưa đến mức xử lý vi phạm.\nCột 5: thể hiện tổng số vụ việc SGDCKVN và các công ty con đã xử lý theo thẩm quyền của SGDCKVN và Công ty con trong kỳ báo cáo\nCột 6: thể hiện tổng số vụ việc SGDCKVN và các công ty con đã báo cáo UBCKNN\nCột 7: thể hiện tổng số vụ việc SGDCKVN và các công ty con giải quyết bị quá hạn\nCột 8: thể hiện tổng số vụ việc SGDCKVN và các công ty con đã nhận đầy đủ và hợp lệ nhưng chưa giải quyết xong trong kỳ báo cáo = số vụ việc chưa giải quyết xong của kỳ trước\nCột 1: thể hiện nội dung xử lý\nCột 2: thể hiện tổng số hồ sơ SGDCKVN và các công ty con đã nhận đầy đủ và hợp lệ nhưng chưa giải quyết xong trong kỳ báo cáo trước\nCột 3: thể hiện tổng số hồ sơ niêm yết/đăng ký giao dịch SGDCKVN và các công ty con đã nhận đầy đủ và hợp lệ theo quy định để xử lý trong kỳ báo cáo\nCột 4: thể hiện tổng số hồ sơ niêm yết/đăng ký giao dịch SGDCKVN và các công ty con đã giải quyết xong trong kỳ báo cáo\nCột 5: thể hiện số hồ sơ đã giải quyết quá hạn\nCột 6: thể hiện tổng số hồ sơ SGDCKVN và các công ty con đã nhận đầy đủ và hợp lệ nhưng chưa giải quyết xong trong kỳ báo cáo = số hồ sơ chưa giải quyết xong của kỳ trước chuyển sang + số hồ sơ phát sinh trong kỳ báo cáo - số hồ sơ đã giải quyết trong kỳ báo cáo.\n4.2. Xử lý vi phạm công ty niêm yết, đăng ký giao dịch\nCột 1: thể hiện loại vi phạm\nCột 2: thể hiện tổng số vụ việc chưa giải quyết xong trong kỳ báo cáo trước\nCột 3: thể hiện số vụ việc có dấu hiệu vi phạm SGDCKVN và các công ty con phát hiện trong kỳ báo cáo\nCột 4: thể hiện tổng số hồ sơ đăng ký niêm yết/hủy niêm yết trái phiếu SGDCKHN/SGDCKHCM đã giải quyết xong trong kỳ báo cáo\nCột 5: thể hiện số hồ sơ đã giải quyết quá hạn\nCột 6: thể hiện tổng số hồ sơ đã lập theo quy định nhưng chưa giải quyết xong trong kỳ báo cáo = số hồ sơ chưa giải quyết xong của kỳ trước chuyển sang + số hồ sơ phát sinh trong kỳ báo cáo - số hồ sơ đã giải quyết trong kỳ báo cáo.\n6. Xử lý vi phạm của cổ đông lớn, người nội bộ, người liên quan của người nội bộ, người liên quan của người được ủy quyền công bố thông tin của tổ chức đại chúng (gồm tổ chức niêm yết và tổ chức đăng ký giao dịch)\nCột 1: Thể hiện loại vi phạm\nCột 2: Thể hiện tổng số vụ việc phát hiện nhưng chưa giải quyết xong trong kỳ báo cáo trước\nCột 3: Thể hiện tổng số vụ việc có dấu hiệu vi phạm SGDCKVN và các công ty con đã phát hiện để xử lý trong kỳ báo cáo\nCột 4: thể hiện số vụ việc có dấu hiệu vi phạm SGDCKVN và các công ty con phát hiện nhưng chưa đến mức xử lý vi phạm.\nCột 5: Thể hiện tổng số vụ việc SGDCKVN và các công ty con đã xử lý theo thẩm quyền\nCột 6: Thể hiện tổng số vụ việc SGDCKVN và các công ty con đã báo cáo UBCKNN\nCột 7: Thể hiện tổng số vụ việc đã giải quyết quá hạn\nCột 8: Thể hiện tổng số vụ việc phát hiện nhưng chưa giải quyết xong trong kỳ báo cáo\nCột 9: Giải thích rõ vi phạm/vụ việc (nếu cần thiết)"
+                        }
+                    ]
+                }
+            ],
+            "metadata": {
+                "total_units": 52,
+                "total_articles": 16,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 2,
+                "source": "ocr"
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [
+            "Tài chính",
+            "Thương mại, đầu tư, chứng khoán"
+        ],
+        "edges": {
+            "amends": [],
+            "mentions": [],
+            "abolished": [
+                {
+                    "official_number_target": "116/2017/TT-BTC",
+                    "scope": "FULL",
+                    "date_abolished": "2022-03-24",
+                    "affected_details": [
+                        "Toàn văn"
+                    ]
+                },
+                {
+                    "official_number_target": "35/2019/TT-BTC",
+                    "scope": "FULL",
+                    "date_abolished": "2022-03-24",
+                    "affected_details": [
+                        "Toàn văn"
+                    ]
+                }
+            ]
+        }
+    },
+    "verification": {
+        "official_number_match": null,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 2,
+                "llm_count": 2,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": []
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "06/2022/TT-BTC",
+            "target_id": "158/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "06/2022/TT-BTC",
+            "target_id": "155/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "06/2022/TT-BTC",
+            "target_id": "54/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "06/2022/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "06/2022/TT-BTC",
+            "target_id": "35/2019/TT-BTC",
+            "properties": {
+                "scope": "FULL",
+                "date_abolished": "2022-03-24",
+                "affected_details": [
+                    "Toàn văn"
+                ]
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "06/2022/TT-BTC",
+            "target_id": "116/2017/TT-BTC",
+            "properties": {
+                "scope": "FULL",
+                "date_abolished": "2022-03-24",
+                "affected_details": [
+                    "Toàn văn"
+                ]
+            },
+            "_crawled": true
+        }
+    ]
+}

@@ -1,0 +1,354 @@
+{
+    "file_name": "107_2020_tt_btc",
+    "source": "ocr_json",
+    "crawled_metadata": {
+        "officialNumber": "107/2020/TT-BTC",
+        "title": "Hướng dẫn giao dịch mua lại có kỳ hạn trái phỉếu Chính phủ từ nguồn ngân quỹ nhà nước tạm thời nhàn rỗi của Kho bạc Nhà nước",
+        "promulgationDate": "2020-12-21",
+        "effectiveDate": "2021-04-01",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "sigerName": "Đỗ Hoàng Anh Tuấn",
+        "draftingUnit": "Kho bạc nhà nước",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:21Z",
+        "_doc_id": "97894"
+    },
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "107/2020/TT-BTC",
+            "target_id": "54/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "107/2020/TT-BTC",
+            "target_id": "95/2018/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "107/2020/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "107/2020/TT-BTC",
+            "target_id": "24/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "107/2020/TT-BTC",
+            "target_id": "83/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "107/2020/TT-BTC",
+            "target_id": "314/2016/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "107_2020_tt_btc",
+        "file_path": "/Users/dangnam/Documents/FCI/legal_knowledge_graph/graph_new/54_doc/54vb_structure/107_2020_tt_btc/document_structure.json",
+        "official_number": null,
+        "dates": {
+            "promulgation_date": "2020-12-21",
+            "effective_date": null,
+            "expiration_date": null
+        },
+        "issuing_place": "Hạnh phúc Hà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Phạm vi điều chỉnh",
+                    "position": 11,
+                    "children": [],
+                    "content": "Thông tư này hướng dẫn việc thực hiện giao dịch mua lại có kỳ hạn trái phiếu Chính phủ (TPCP) từ nguồn ngân quỹ nhà nước (NQNN) tạm thời nhàn rỗi bằng Việt Nam đồng (VND) của Kho bạc Nhà nước (KBNN)."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Đối tượng áp dụng",
+                    "position": 13,
+                    "children": [],
+                    "content": "1. Kho bạc Nhà nước.\n2. Sở Giao dịch Chứng khoán.\n3. Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam.\n4. Các ngân hàng thương mại (NHTM) đủ điều kiện giao dịch mua lại có kỳ\nhạn TPCP với KBNN.\n5. Các tổ chức, cá nhân có liên quan đến việc mua lại có kỳ hạn TPCP."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "3",
+                    "title": "Giải thích từ ngữ",
+                    "position": 21,
+                    "children": [],
+                    "content": "Ngoài các thuật ngữ đã được giải thích tại Thông tư số 30/2019/TT-BTC ngày 28 tháng 5 năm 2019 của Bộ Tài chính hướng dẫn đăng ký, lưu ký, niêm yết, giao dịch và thanh toán giao dịch công cụ nợ của Chính phủ, trái phiếu được Chính phủ bảo lãnh do ngân hàng chính sách phát hành và trái phiếu chính quyền địa phương (sau đây gọi là Thông tư số 30/2019/TT-BTC), trong Thông tư này, các thuật ngữ dưới đây được hiểu như sau:\n1. Giao dịch mua lại có kỳ hạn TPCP là giao dịch mua bán lại theo quy định tại điểm b khoản 1 Điều 13 Thông tư số 30/2019/TT-BTC. KBNN là bên mua trong giao dịch lần 1 và là bên bán trong giao dịch lần 2; KBNN sử dụng NQNN tạm thời nhận rồi để mua TPCP và nhận quyền sở hữu TPCP từ bên bán, đồng thời cam kết sẽ bán lại và chuyển quyền sở hữu khối lượng TPCP đó cho bên bán sau một thời gian xác định với một mức giá xác định.\n2. Kỳ hạn mua lại TPCP: là số ngày thực tế được tính từ ngày thanh toán giao dịch lần 1 đến ngày thanh toán giao dịch lần 2.\n3. Ngày thanh toán giao dịch lần 1 (ngày mua TPCP): là ngày TPCP được chuyển quyền sở hữu từ tài khoản lưu ký chứng khoán của NHTM sang tài khoản lưu ký chứng khoán của KBNN mở tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam và tiền giao dịch TPCP lần 1 được KBNN chuyển vào tài khoản tiền gửi bằng VND của NHTM mở tại Sở Giao dịch Ngân hàng Nhà nước Việt Nam.\n4. Ngày thanh toán giao dịch lần 2 (ngày bán lại TPCP): là ngày TPCP được chuyển quyền sở hữu từ tài khoản lưu ký chứng khoán của KBNN sang tài khoản lưu ký chứng khoán của NHTM mở tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam và tiền giao dịch TPCP lần 2 được NHTM chuyển trả vào tài khoản tiền gửi bằng VND của KBNN mở tại Sở Giao dịch Ngân hàng Nhà nước Việt Nam.\n5. Kỳ hạn còn lại của TPCP: là khoảng thời gian còn lại (theo ngày thực tế) từ ngày tổ chức mua lại có kỳ hạn TPCP (ngày T) đến ngày đáo hạn TPCP.\n6. Ngày đăng ký cuối cùng của kỳ trả lãi kế tiếp của TPCP: là ngày Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam xác định danh sách chủ sở hữu trái phiếu để thanh toán lãi, gốc TPCP.\n7. Giá gộp lãi danh nghĩa TPCP: là giá của TPCP tính vào ngày thanh toán giao dịch lần 1 và có bao gồm lãi danh nghĩa tích gộp (nếu có).\n8. Giá yết TPCP: là giá của TPCP tính vào ngày thanh toán giao dịch lần 1 và không bao gồm lãi danh nghĩa tích gộp.\n9. Giao dịch trái phiếu hưởng quyền là giao dịch có ngày thanh toán diễn ra trước hoặc trùng với ngày đăng ký cuối cùng hưởng lãi trái phiếu của kỳ trả lãi hiện tại.\n10. Giao dịch trái phiếu không hưởng quyền là giao dịch có ngày thanh toán diễn ra sau ngày đăng ký cuối cùng hưởng lãi trái phiếu của kỳ trả lãi hiện tại."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "4",
+                    "title": "Hạn mức sử dụng NQNN tạm thời nhận rồi để mua lại có kỳ hạn TPCP",
+                    "position": 34,
+                    "children": [],
+                    "content": "1. Hạn mức sử dụng NQNN tạm thời nhận rồi để mua lại có kỳ hạn TPCP được thực hiện theo quy định tại khoản 5 Điều 1 Thông tư số 64/2019/TT-BTC ngày 16 tháng 9 năm 2019 của Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 314/2016/TT-BTC ngày 28 tháng 11 năm 2016 của Bộ Tài chính hướng dẫn một số điều của Nghị định số 24/2016/NĐ-CP ngày 05 tháng 4 năm 2016 của Chính phủ quy định chế độ quản lý NQNN.\n2. Hàng quý, chậm nhất sau 05 ngày làm việc kể từ ngày được Bộ Tài chính phê duyệt hạn mức sử dụng NQNN tạm thời nhận rồi để mua lại có kỳ hạn TPCP, KBNN thông báo tổng hạn mức giao dịch mua lại có kỳ hạn TPCP trong quý trên trang thông tin điện tử của KBNN."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "5",
+                    "title": "Điều kiện đối với TPCP được KBNN chấp nhận trong giao dịch",
+                    "position": 37,
+                    "children": [],
+                    "content": "TPCP được KBNN chấp nhận sử dụng trong giao dịch mua lại có kỳ hạn TPCP phải đảm bảo các điều kiện sau:\n1. Là TPCP đang được niêm yết tại Sở Giao dịch Chứng khoán, có kỳ hạn còn lại tối đa không quá một (01) năm.\n2. Thuộc quyền sở hữu hợp pháp của bên bán và được phép chuyển nhượng; không bị ràng buộc trong các quan hệ về giao dịch bảo đảm trong thời gian mua lại có kỳ hạn, kể từ ngày thanh toán giao dịch lần 1."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "6",
+                    "title": "Kỳ hạn mua lại TPCP",
+                    "position": 41,
+                    "children": [],
+                    "content": "1. Kỳ hạn mua lại TPCP của KBNN bao gồm: kỳ hạn 7 ngày, 14 ngày, 21 ngày, 1 tháng, 2 tháng và 3 tháng.\n2. Giao KBNN căn cứ tình hình thị trường, quyết định kỳ hạn mua lại cụ thể đối với từng giao dịch, phù hợp với phương án điều hành NQNN đã được Bộ Tài chính phê duyệt hàng quý."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "7",
+                    "title": "Hình thức giao dịch và hệ thống thực hiện giao dịch mua lại có kỳ hạn TPCP",
+                    "position": 44,
+                    "children": [],
+                    "content": "1. Hình thức giao dịch: KBNN thực hiện giao dịch mua lại có kỳ hạn TPCP theo hình thức thỏa thuận điện tử có tính chất lựa chọn, đảm bảo việc lựa chọn đối tác giao dịch theo nguyên tắc đấu thầu cạnh tranh lãi suất mua lại có kỳ hạn\nTPCP; phương thức xác định lãi suất mua lại có kỳ hạn TPCP là đa giá, phù hợp với quy định tại Điều 16, Điều 17 Thông tư số 30/2019/TT-BTC.\n2. Hệ thống thực hiện giao dịch: Giao dịch mua lại có kỳ hạn TPCP của KBNN được thực hiện trên hệ thống giao dịch công cụ nợ tại Sở Giao dịch Chứng khoán."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "8",
+                    "title": "Đối tác giao dịch mua lại có kỳ hạn TPCP và hạn mức dư nợ giao dịch cho từng đối tác",
+                    "position": 49,
+                    "children": [],
+                    "content": "1. KBNN lựa chọn đối tác giao dịch là các NHTM để giao dịch mua lại có kỳ hạn TPCP đáp ứng đồng thời các tiêu chí sau:\na) Trong danh sách các NHTM được xếp hạng theo mức độ an toàn do Ngân hàng Nhà nước Việt Nam cung cấp cho Bộ Tài chính (KBNN) hàng năm theo quy định tại khoản 3 Điều 14 Nghị định số 24/2016/NĐ-CP.\nb) Đang là thành viên giao dịch trên thị trường giao dịch công cụ nợ tại Sở Giao dịch Chứng khoán.\nc) Không vi phạm nghĩa vụ thanh toán trong giao dịch mua lại có kỳ hạn TPCP với KBNN theo quy định tại khoản 2 Điều 15 Thông tư này trong vòng một (01) năm (tính theo ngày) liền kề trước tính đến ngày KBNN thực hiện giao dịch mua lại có kỳ hạn TPCP.\n2. Hạn mức dư nợ giao dịch cho từng đối tác:\nHàng quý, căn cứ hạn mức sử dụng NQNN tạm thời nhận rồi để giao dịch mua lại có kỳ hạn TPCP được Bộ Tài chính phê duyệt, KBNN xác định và thông báo hạn mức dư nợ giao dịch quý bằng văn bản cho từng NHTM chậm nhất sau 05 ngày làm việc kể từ ngày được Bộ Tài chính phê duyệt."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "9",
+                    "title": "Hợp đồng giao dịch",
+                    "position": 56,
+                    "children": [],
+                    "content": "1. Giao dịch mua lại có kỳ hạn TPCP giữa KBNN và NHTM được thực hiện theo hợp đồng, bao gồm: hợp đồng khung và các phụ lục hợp đồng.\n2. Chậm nhất sau 03 ngày làm việc kể từ ngày nhận được danh sách các NHTM được xếp hạng theo mức độ an toàn do Ngân hàng Nhà nước Việt Nam cung cấp theo quy định tại khoản 3 Điều 14 Nghị định số 24/2016/NĐ-CP, KBNN thông báo bằng văn bản đến từng NHTM đáp ứng các tiêu chí nêu tại khoản 1 Điều 8 Thông tư này; sau đó, tổ chức ký Hợp đồng khung với các NHTM chấp thuận giao dịch với KBNN, đảm bảo hoàn thành chậm nhất sau 10 ngày làm việc, kể từ ngày KBNN gửi thông báo.\nTrường hợp Ngân hàng Nhà nước Việt Nam có văn bản thông báo điều chỉnh danh sách các NHTM được xếp hạng theo mức độ an toàn, thì chậm nhất sau 03 ngày làm việc kể từ ngày nhận được văn bản điều chỉnh của Ngân hàng Nhà nước\nViệt Nam, KBNN thông báo bằng văn bản đến từng NHTM được bổ sung hoặc bị loại khỏi danh sách.\nTrường hợp các NHTM được bổ sung chấp thuận giao dịch với KBNN, KBNN tổ chức ký Hợp đồng khung với các NHTM, đảm bảo hoàn thành chậm nhất sau 10 ngày làm việc kể từ ngày gửi thông báo.\nHợp đồng khung được thanh lý, chấm dứt theo thỏa thuận giữa KBNN và NHTM hoặc khi NHTM đó không đáp ứng đủ tiêu chí nêu tại khoản 1 Điều 8 Thông tư này bằng hình thức ký biên bản thanh lý hợp đồng. Trường hợp NHTM đó vẫn còn có các phụ lục hợp đồng đang còn hiệu lực, thì KBNN chấm dứt hợp đồng khung với NHTM đó vào ngày kết thúc phụ lục hợp đồng cuối cùng đã được ký kết với KBNN.\n3. Nội dung chính của hợp đồng khung, bao gồm:\na) Căn cứ pháp lý thực hiện hợp đồng.\nb) Ngày hợp đồng, địa điểm ký kết hợp đồng.\nc) Thông tin bên mua, thông tin bên bán, bao gồm: tên, địa chỉ, điện thoại, số tài khoản và nơi mở tài khoản (tài khoản tiền gửi và tài khoản lưu ký chứng khoán) của bên mua, bên bán.\nd) Phương thức giao dịch (không bao gồm nội dung về lãi suất mua lại có kỳ hạn, kỳ hạn mua lại TPCP, các điều kiện và điều khoản của TPCP, khối lượng TPCP giao dịch, các mức giá trị giao dịch lần 1, lần 2).\nđ) Phương thức thanh toán và chuyển giao TPCP.\ne) Quyền và nghĩa vụ của các bên.\ng) Vi phạm và xử lý vi phạm hợp đồng.\nh) Giải quyết tranh chấp.\ni) Quy định về ngày có hiệu lực của hợp đồng, thời hạn hợp đồng và chấm dứt hợp đồng; về thay đổi điều khoản, điều kiện quy định tại hợp đồng.\nk) Các nội dung liên quan khác (nếu có).\n4. Căn cứ Hợp đồng khung đã được ký kết, KBNN và NHTM ký phụ lục hợp đồng cho từng lần giao dịch. Nội dung chính của phụ lục hợp đồng, bao gồm:\na) Các thông tin về TPCP được mua lại có kỳ hạn: mã TPCP, giá trị niêm yết, ngày phát hành, ngày đáo hạn, lãi suất danh nghĩa, phương thức thanh toán gốc lãi, kỳ hạn còn lại của TPCP, tỷ lệ phòng vệ rủi ro.\nb) Chi tiết giao dịch lần 1: Lãi suất mua lại có kỳ hạn TPCP; kỳ hạn mua lại TPCP; tiền lãi mua lại có kỳ hạn TPCP; ngày thanh toán giao dịch lần 1; giá yết, khối lượng TPCP giao dịch và giá trị giao dịch lần 1 tương ứng với từng mã TPCP.\nc) Chi tiết giao dịch lần 2: Ngày thanh toán giao dịch lần 2; khối lượng TPCP giao dịch và giá trị giao dịch lần 2 tương ứng với từng mã TPCP.\nd) Các nội dung liên quan khác (nếu có).\n5. Hợp đồng khung và phụ lục hợp đồng được lập bằng văn bản giấy, có đầy đủ dấu và chữ ký trực tiếp của người có thẩm quyền đại diện các bên thực hiện hợp đồng."
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "II",
+                    "title": "QUY ĐỊNH CỤ THỂ",
+                    "position": 82,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "10",
+                            "title": "Quy trình giao dịch mua lại có kỳ hạn TPCP",
+                            "position": 83,
+                            "children": [],
+                            "content": "1. Từ 9h00 ngày tổ chức mua lại có kỳ hạn TPCP, KBNN gửi yêu cầu chào giá về đợt mua lại có kỳ hạn TPCP lên hệ thống giao dịch công cụ nợ của Sở Giao dịch Chứng khoán cho các NHTM đã ký hợp đồng khung. Nội dung yêu cầu chào giá bao gồm:\na) Tổng khối lượng TPCP tính theo mệnh giá TPCP dự kiến chào mua tương ứng với từng loại kỳ hạn mua lại TPCP.\nb) Ngày tổ chức mua lại có kỳ hạn TPCP (ngày T), ngày bắt đầu giao dịch (ngày T+1).\nc) Ngày thanh toán giao dịch lần 1 (ngày T+2), ngày thanh toán giao dịch lần 2 đối với từng loại kỳ hạn mua lại TPCP.\n2. Từ 9h00 - 10h00 ngày T, các NHTM gửi lệnh chào chắc chắn theo quy chế giao dịch của Sở Giao dịch Chứng khoán, đảm bảo tổng khối lượng chào giá tại tất cả các kỳ hạn mua lại TPCP không vượt quá hạn mức dư nợ giao dịch còn lại của NHTM đó (các lệnh chào gửi sau 10h không có hiệu lực), cụ thể:\na) Đối với mỗi loại kỳ hạn mua lại TPCP, mỗi NHTM được chào tối đa năm (05) lệnh chào đối với mỗi loại kỳ hạn mua lại TPCP, đảm bảo tổng khối lượng chào không vượt quá tổng khối lượng KBNN yêu cầu chào giá đối với loại kỳ hạn đó.\nb) Mỗi lệnh chào bao gồm lãi suất chào mua lại có kỳ hạn (tính đến 2 chữ số thập phân); một (01) hoặc nhiều mã TPCP được sử dụng để làm tài sản đảm bảo, khối lượng chào tính theo mệnh giá TPCP, tỷ lệ phòng vệ rủi ro, giá yết tương ứng cho từng mã TPCP và các nội dung khác liên quan. Trong đó, tỷ lệ phòng vệ\nrủi ro được xác định theo quy định tại khoản 1 Điều 12 Thông tư này; giá yết được xác định theo công thức quy định tại Điều 13 Thông tư này.\nc) Khối lượng chào tính theo mệnh giá TPCP của mỗi lệnh chào không thấp hơn mức tối thiểu theo thông báo của KBNN trong từng thời kỳ.\n3. Từ 10h00 – 10h15 ngày T, KBNN thực hiện mở các bản chào trên hệ thống giao dịch công cụ nợ của Sở Giao dịch Chứng khoán. Căn cứ các lệnh chào nhận được trên hệ thống giao dịch công cụ nợ của Sở Giao dịch Chứng khoán, KBNN xác định kết quả mua lại có kỳ hạn TPCP theo quy định tại Điều 11 Thông tư này.\n4. Căn cứ kết quả xác định theo khoản 3 Điều này, chậm nhất 13h30 ngày T, KBNN lựa chọn các lệnh chào trên hệ thống giao dịch công cụ nợ của Sở Giao dịch Chứng khoán để thực hiện giao dịch.\n5. Ký phụ lục hợp đồng:\nChậm nhất vào 16h30 ngày T, KBNN ký phụ lục hợp đồng với từng NHTM được lựa chọn. Trong đó, đối với mỗi NHTM được lựa chọn, mỗi phụ lục hợp đồng được ký kết tương ứng với 01 lệnh chào được lựa chọn của NHTM đó.\nSau 16h30 ngày T, KBNN dừng việc ký kết phụ lục hợp đồng với các NHTM. KBNN hủy bỏ các kết quả mua lại có kỳ hạn TPCP của các NHTM được chọn nhưng chưa hoàn thành việc ký kết phụ lục hợp đồng theo quy chế giao dịch của Sở Giao dịch Chứng khoán, đảm bảo hoàn thành chậm nhất vào 17h00 ngày T.\n6. Thanh toán giao dịch lần 1 và lần 2:\nCăn cứ Phụ lục hợp đồng đã ký kết, KBNN và NHTM thực hiện thanh toán giao dịch lần 1 và lần 2 (chuyển tiền và TPCP) theo quy định tại Điều 29, Điều 31 và Điều 32 Thông tư số 30/2019/TT-BTC."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "11",
+                            "title": "Xác định kết quả mua lại có kỳ hạn TPCP",
+                            "position": 101,
+                            "children": [],
+                            "content": "1. Phương pháp xác định lãi suất mua lại có kỳ hạn TPCP:\nLãi suất mua lại có kỳ hạn TPCP áp dụng cho mỗi NHTM là mức lãi suất chào của NHTM đó được xét chọn theo thứ tự từ cao xuống thấp và thỏa mãn đồng thời cả hai (02) điều kiện sau:\na) Mức lãi suất mua lại có kỳ hạn TPCP thấp nhất không thấp hơn lãi suất tối thiểu do KBNN quy định trong từng thời kỳ.\nb) Khối lượng mua lại có kỳ hạn TPCP tính lũy kế đến mức lãi suất mua lại có kỳ hạn TPCP thấp nhất không vượt quá khối lượng KBNN thông báo.\n2. Phương pháp xác định khối lượng mua lại có kỳ hạn TPCP đối với từng NHTM:\na) Khối lượng mua lại có kỳ hạn TPCP đối với mỗi NHTM tham gia chào tương đương với khối lượng chào của NHTM đó.\nTrường hợp tại mức lãi suất mua lại có kỳ hạn TPCP được lựa chọn thấp nhất, khối lượng chào tính lũy kế đến mức lãi suất này vượt quá khối lượng KBNN thông báo với loại kỳ hạn mua lại đó, thì sau khi đã trừ đi khối lượng chào ở các mức lãi suất cao hơn, phần còn lại của khối lượng KBNN thông báo được phân bổ cho các NHTM chào tại mức lãi suất mua lại có kỳ hạn TPCP được lựa chọn thấp nhất theo tỷ lệ tương ứng với khối lượng chào và được làm tròn xuống hàng tỷ đồng. Phần dư còn lại của khối lượng KBNN thông báo sau khi làm tròn xuống đơn vị tỷ đồng được phân bổ cho NHTM đầu tiên chào tại mức lãi suất mua lại có kỳ hạn được lựa chọn thấp nhất; trường hợp phân bổ phần dư vượt quá khối lượng chào còn lại của NHTM này, thì phần vượt quá tiếp tục được phân bổ cho NHTM kế tiếp cho đến hết khối lượng KBNN thông báo.\nb) Trường hợp khối lượng chào của NHTM vượt hạn mức dư nợ giao dịch còn lại của NHTM đó, khối lượng chào được xét kết quả mua lại có kỳ hạn TPCP của NHTM là hạn mức dư nợ giao dịch còn lại, theo thứ tự ưu tiên kỳ hạn mua lại ngắn hơn, lãi suất chào cao hơn.\nc) Việc xác định cụ thể khối lượng mua lại có kỳ hạn TPCP của từng NHTM được thực hiện theo hướng dẫn tại Phụ lục Thông tư này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "12",
+                            "title": "Giá trị giao dịch lần 1, lãi mua lại có kỳ hạn và giá trị giao dịch lần 2",
+                            "position": 112,
+                            "children": [],
+                            "content": "1. Giá trị giao dịch lần 1 của KBNN tương ứng với từng lệnh chào được xác định theo công thức:\nV1 = EVi\nTrong đó, $V_i$ là giá trị giao dịch lần 1 tương ứng với từng mã TPCP của lệnh chào được lựa chọn, được tính như sau:\na) Đối với TPCP thanh toán lãi định kỳ:\n$$ V_i = GG \\times (1 - H) \\times KL $$\nTrong đó:\n$V_i$: Giá trị giao dịch lần 1 tương ứng với mã TPCP i của lệnh chào được lựa chọn (làm tròn xuống đơn vị đồng).\nGG: Giá gộp lãi danh nghĩa của một (01) trái phiếu của mã TPCP i, được tính theo quy định tại Điều 13 Thông tư này.\nH: Tỷ lệ phòng vệ rủi ro được quy đổi sang số thập phân, được quy định là 5% tính trên giá gộp lãi danh nghĩa của TPCP.\nb) $R$: Lãi suất mua lại có kỳ hạn TPCP (%/năm) tương ứng với từng lệnh chào.\nTrong đó:\nd) Số ngày thực tế của năm: Là số ngày thực tế của năm có ngày thanh toán giao dịch lần 1.\nc) $T$: Kỳ hạn mua lại TPCP (ngày), tính từ ngày thanh toán giao dịch lần 1 đến hết ngày liền kề trước ngày thanh toán giao dịch lần 2.\nKL: Khối lượng TPCP giao dịch tương ứng với mã TPCP i (= khối lượng mua lại có kỳ hạn của mã TPCP đó tính theo mệnh giá/ mệnh giá trái phiếu).\na) $L$: Lãi mua lại có kỳ hạn TPCP (làm tròn xuống đơn vị đồng).\n$V_{1}$: Giá trị giao dịch lần 1 tương ứng với mã TPCP i của lệnh chào được lựa chọn (làm tròn xuống đơn vị đồng).\nKL: Khối lượng TPCP giao dịch tương ứng với mã TPCP i (= khối lượng mua lại có kỳ hạn của mã TPCP đó tính theo mệnh giá/ mệnh giá trái phiếu).\n1. Giá gộp lãi danh nghĩa:\na) Xác định giá một (01) TPCP có lãi suất danh nghĩa cố định, thanh toán lãi định kỳ:\n3. Giá trị giao dịch lần 2 của KBNN tương ứng với từng lệnh chào được xác định theo công thức sau:\nH: Tỷ lệ phòng vệ rủi ro được quy đổi sang số thập phân, được quy định là 5% tính trên giá gộp lãi danh nghĩa của TPCP.\n9\nTrong đó:\nb) $C_i$: Lãi danh nghĩa của mã TPCP i mà KBNN được nhận (nếu có).\n- Đối với TPCP được thanh toán lãi mười hai (12) tháng một lần, giá một\na) $V_2$: Giá trị giao dịch lần 2.\nĐiều 13. Giá gộp lãi danh nghĩa, lãi danh nghĩa tích gộp và giá yết TPCP\nG: Giá yết của một (01) trái phiếu của mã TPCP i, được tính theo quy định tại Điều 13 Thông tư này.\n2. Lãi mua lại có kỳ hạn TPCP được xác định theo từng lệnh chào và theo công thức sau:\n(01) TPCP được xác định như sau:\nTrong đó:\nGG: Giá một (01) TPCP (được làm tròn xuống đơn vị đồng).\nMG: Mệnh giá TPCP.\nLc: Lãi suất danh nghĩa TPCP (%/năm).\nd: Số ngày thực tế giữa ngày thanh toán tiền giao dịch lần 1 và ngày thanh toán tiền lãi kế tiếp.\nE: Số ngày thực tế trong kỳ trả lãi mà TPCP được mua lại có kỳ hạn.\nt: Số lần thanh toán lãi của TPCP giữa ngày thanh toán tiền giao dịch lần 1 và ngày TPCP đáo hạn.\nLt: Lãi suất chiết khấu TPCP (%/năm), là lãi suất cho đến khi đáo hạn (YTM) được Sở Giao dịch Chứng khoán công bố trong ngày tổ chức mua lại có kỳ hạn TPCP đối với mã TPCP được sử dụng trong giao dịch trên trang thông tin điện tử của Sở Giao dịch Chứng khoán (phần đường cong lợi suất).\nĐối với TPCP được thanh toán lãi sáu (06) tháng một lần:\n+ Trường hợp ngày mua lại có kỳ hạn TPCP trước hoặc vào ngày đăng ký cuối cùng của kỳ trả lãi kế tiếp, giá một (01) TPCP được xác định như sau:\nTrường hợp ngày mua lại TPCP sau ngày đăng ký cuối cùng của kỳ trả lãi kế tiếp, giá một (01) TPCP được xác định như sau:\nTrong đó:\nGG: Giá một (01) TPCP (được làm tròn xuống đơn vị đồng).\nMG: Mệnh giá TPCP.\nLc: Lãi suất danh nghĩa TPCP (%/năm).\nd: Số ngày thực tế giữa ngày thanh toán tiền giao dịch lần 1 và ngày thanh toán tiền lãi kế tiếp.\nCc: Lãi danh nghĩa tích gộp trong ngày giao dịch hưởng quyền.\nc) Bộ Tài chính thông báo cách xác định giá gộp lãi danh nghĩa trong trường hợp lãi suất danh nghĩa TPCP là lãi suất thả nổi khi phát sinh.\nDn: Số ngày từ ngày thanh toán tiền giao dịch lần 1 đến ngày trả lãi danh nghĩa tiếp theo gần nhất hoặc từ ngày thanh toán tiền giao dịch lần 1 đến ngày đáo hạn trái phiếu.\nb) Xác định giá một (01) TPCP không thanh toán lãi định kỳ: Giá gộp lãi danh nghĩa bằng giá yết được tính theo công thức quy định tại điểm c khoản 3 Điều này.\nt: Số lần thanh toán lãi của TPCP giữa ngày thanh toán tiền giao dịch lần 1 và ngày TPCP đáo hạn.\nb) Xác định lãi danh nghĩa tích gộp trong ngày giao dịch không hưởng quyền:\n$Rc = \\frac{Lc}{k}$ trong đó Lc: Lãi suất danh nghĩa trái phiếu (%/năm); k: Số lần thanh toán lãi trong năm.\n2. Lãi danh nghĩa tích gộp:\nTrong đó:\nE: Số ngày thực tế trong kỳ trả lãi mà TPCP được mua lại có kỳ hạn.\nLt: Lãi suất chiết khấu TPCP (%/năm), là lãi suất cho đến khi đáo hạn (YTM) được Sở Giao dịch Chứng khoán công bố trong ngày tổ chức mua lại có kỳ hạn TPCP đối với mã TPCP được sử dụng trong giao dịch trên trang thông tin điện tử của Sở Giao dịch Chứng khoán (phần đường cong lợi suất).\nCx - MG X Rc X E Dn\n11\na) Xác định lãi danh nghĩa tích gộp trong ngày giao dịch hưởng quyền:\nMG: Mệnh giá TPCP.\nTrong đó:\n$Rc = \\frac{Lc}{k}$ trong đó Lc: Lãi suất danh nghĩa trái phiếu (%/năm); k: Số lần thanh toán lãi trong năm.\nDn: Số ngày từ ngày thanh toán giao dịch lần 1 đến ngày trả lãi danh nghĩa tiếp theo gần nhất hoặc từ ngày thanh toán giao dịch lần 1 đến ngày đáo hạn trái phiếu.\nE: Số ngày thực tế trong kỳ trả lãi mà TPCP được mua lại có kỳ hạn.\nc) Lãi danh nghĩa tích gộp trong trường hợp ngày thanh toán trùng với ngày trả lãi danh nghĩa được xác định bằng 0 (không).\n3. Giá yết TPCP:\na) Đối với trái phiếu có phương thức thanh toán lãi vào cuối kỳ:\nXác định giá yết trong ngày giao dịch hưởng quyền:\n$$ G = GG $$\nTrong đó: Trong đó:\nG: Giá yết (được làm tròn xuống đơn vị đồng).\nGG: Giá gộp lãi danh nghĩa một (01) TPCP.\nCc: Lãi danh nghĩa tích gộp trong ngày giao dịch hưởng quyền.\nXác định giá yết trong ngày giao dịch không hưởng quyền:\n$$ G = GG - Cc $$ $$ G = GG + Cx $$\nTrong đó:\nG: Giá yết (được làm tròn xuống đơn vị đồng).\nGG: Giá gộp lãi danh nghĩa một (01) TPCP.\nCx: Lãi danh nghĩa tích gộp trong ngày giao dịch không hưởng quyền.\nXác định giá yết trong trường hợp ngày thanh toán giao dịch lần 1 trùng với ngày trả lãi danh nghĩa:\nG = GG\nG: Giá yết.\nGG: Giá gộp lãi danh nghĩa một (01) TPCP.\nb) Đối với trái phiếu có phương thức thanh toán lãi đầu kỳ:\nXác định giá yết trong ngày giao dịch hưởng quyền:\n$$ G = GG + Cx $$\nTrong đó:\nG: Giá yết (được làm tròn xuống đơn vị đồng).\nGG: Giá gộp lãi danh nghĩa một (01) TPCP.\nCx: Lãi danh nghĩa tích gộp trong ngày giao dịch không hưởng quyền.\nXác định giá yết trong ngày giao dịch không hưởng quyền:\n$$ G = GG + Cx + MG \\times Rc $$\nTrong đó:\nG: Giá yết (được làm tròn xuống đơn vị đồng).\nGG: Giá gộp lãi danh nghĩa một (01) TPCP.\nCx: Lãi danh nghĩa tích gộp trong ngày giao dịch không hưởng quyền.\nMG: Mệnh giá TPCP.\n$$ Rc = \\frac{Lc}{k} $$ trong đó Lc: Lãi suất danh nghĩa trái phiếu (%/năm); k: Số lần thanh toán lãi trong năm.\nXác định giá yết trong trường hợp ngày thanh toán trùng với ngày trả lãi danh nghĩa:\n$$ G = GG + MG \\times Rc $$\nTrong đó:\nG: Giá yết (được làm tròn xuống đơn vị đồng).\nGG: Giá gộp lãi danh nghĩa một (01) TPCP.\nMG: Mệnh giá TPCP.\n$$ Rc = \\frac{Lc}{k} $$ trong đó Lc: Lãi suất danh nghĩa trái phiếu (%/năm); k: Số lần thanh toán lãi trong năm.\nc) Đối với TPCP không thanh toán lãi định kỳ:\nTrong đó:\nG: Giá một (01) TPCP (được làm tròn xuống đơn vị đồng).\nMG: Mệnh giá TPCP .\na: Số ngày kể từ ngày thanh toán tiền giao dịch lần 1 cho đến ngày TPCP đáo hạn.\nE: Số ngày trong kỳ trả lãi giả định mà TPCP được mua lại có kỳ hạn.\nLt: Lãi suất chiết khấu TPCP (%/năm), là lãi suất cho đến khi đáo hạn (YTM) được Sở Giao dịch Chứng khoán công bố trong ngày tổ chức mua lại có kỳ hạn TPCP đối với mã TPCP được sử dụng trong giao dịch trên trang thông tin điện tử của Sở Giao dịch Chứng khoán (phần đường cong lợi suất)."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "13",
+                            "title": "Giá gộp lãi danh nghĩa, lãi danh nghĩa tích gộp và giá yết TPCP",
+                            "position": 141,
+                            "children": [],
+                            "content": "G: Giá yết của một (01) trái phiếu của mã TPCP i, được tính theo quy định tại Điều 13 Thông tư này.\n2. Lãi mua lại có kỳ hạn TPCP được xác định theo từng lệnh chào và theo công thức sau:\n(01) TPCP được xác định như sau:\nTrong đó:\nGG: Giá một (01) TPCP (được làm tròn xuống đơn vị đồng).\nMG: Mệnh giá TPCP.\nLc: Lãi suất danh nghĩa TPCP (%/năm).\nd: Số ngày thực tế giữa ngày thanh toán tiền giao dịch lần 1 và ngày thanh toán tiền lãi kế tiếp.\nE: Số ngày thực tế trong kỳ trả lãi mà TPCP được mua lại có kỳ hạn.\nt: Số lần thanh toán lãi của TPCP giữa ngày thanh toán tiền giao dịch lần 1 và ngày TPCP đáo hạn.\nLt: Lãi suất chiết khấu TPCP (%/năm), là lãi suất cho đến khi đáo hạn (YTM) được Sở Giao dịch Chứng khoán công bố trong ngày tổ chức mua lại có kỳ hạn TPCP đối với mã TPCP được sử dụng trong giao dịch trên trang thông tin điện tử của Sở Giao dịch Chứng khoán (phần đường cong lợi suất).\nĐối với TPCP được thanh toán lãi sáu (06) tháng một lần:\n+ Trường hợp ngày mua lại có kỳ hạn TPCP trước hoặc vào ngày đăng ký cuối cùng của kỳ trả lãi kế tiếp, giá một (01) TPCP được xác định như sau:\nTrường hợp ngày mua lại TPCP sau ngày đăng ký cuối cùng của kỳ trả lãi kế tiếp, giá một (01) TPCP được xác định như sau:\nTrong đó:\nGG: Giá một (01) TPCP (được làm tròn xuống đơn vị đồng).\nMG: Mệnh giá TPCP.\nLc: Lãi suất danh nghĩa TPCP (%/năm).\nd: Số ngày thực tế giữa ngày thanh toán tiền giao dịch lần 1 và ngày thanh toán tiền lãi kế tiếp.\nCc: Lãi danh nghĩa tích gộp trong ngày giao dịch hưởng quyền.\nc) Bộ Tài chính thông báo cách xác định giá gộp lãi danh nghĩa trong trường hợp lãi suất danh nghĩa TPCP là lãi suất thả nổi khi phát sinh.\nDn: Số ngày từ ngày thanh toán tiền giao dịch lần 1 đến ngày trả lãi danh nghĩa tiếp theo gần nhất hoặc từ ngày thanh toán tiền giao dịch lần 1 đến ngày đáo hạn trái phiếu.\nb) Xác định giá một (01) TPCP không thanh toán lãi định kỳ: Giá gộp lãi danh nghĩa bằng giá yết được tính theo công thức quy định tại điểm c khoản 3 Điều này.\nt: Số lần thanh toán lãi của TPCP giữa ngày thanh toán tiền giao dịch lần 1 và ngày TPCP đáo hạn.\nb) Xác định lãi danh nghĩa tích gộp trong ngày giao dịch không hưởng quyền:\nE: Số ngày thực tế trong kỳ trả lãi mà TPCP được mua lại có kỳ hạn.\n$Rc = \\frac{Lc}{k}$ trong đó Lc: Lãi suất danh nghĩa trái phiếu (%/năm); k: Số lần thanh toán lãi trong năm.\n2. Lãi danh nghĩa tích gộp:\nTrong đó:\nE: Số ngày thực tế trong kỳ trả lãi mà TPCP được mua lại có kỳ hạn.\nLt: Lãi suất chiết khấu TPCP (%/năm), là lãi suất cho đến khi đáo hạn (YTM) được Sở Giao dịch Chứng khoán công bố trong ngày tổ chức mua lại có kỳ hạn TPCP đối với mã TPCP được sử dụng trong giao dịch trên trang thông tin điện tử của Sở Giao dịch Chứng khoán (phần đường cong lợi suất).\nCx - MG X Rc X E Dn\n11\na) Xác định lãi danh nghĩa tích gộp trong ngày giao dịch hưởng quyền:\nMG: Mệnh giá TPCP.\nTrong đó:\n$Rc = \\frac{Lc}{k}$ trong đó Lc: Lãi suất danh nghĩa trái phiếu (%/năm); k: Số lần thanh toán lãi trong năm.\nDn: Số ngày từ ngày thanh toán giao dịch lần 1 đến ngày trả lãi danh nghĩa tiếp theo gần nhất hoặc từ ngày thanh toán giao dịch lần 1 đến ngày đáo hạn trái phiếu.\nE: Số ngày thực tế trong kỳ trả lãi mà TPCP được mua lại có kỳ hạn.\nc) Lãi danh nghĩa tích gộp trong trường hợp ngày thanh toán trùng với ngày trả lãi danh nghĩa được xác định bằng 0 (không).\n3. Giá yết TPCP:\na) Đối với trái phiếu có phương thức thanh toán lãi vào cuối kỳ:\nXác định giá yết trong ngày giao dịch hưởng quyền:\n$$ G = GG $$\nTrong đó: Trong đó:\nG: Giá yết (được làm tròn xuống đơn vị đồng).\nGG: Giá gộp lãi danh nghĩa một (01) TPCP.\nCc: Lãi danh nghĩa tích gộp trong ngày giao dịch hưởng quyền.\nXác định giá yết trong ngày giao dịch không hưởng quyền:\n$$ G = GG - Cc $$ $$ G = GG + Cx $$\nTrong đó:\nG: Giá yết (được làm tròn xuống đơn vị đồng).\nGG: Giá gộp lãi danh nghĩa một (01) TPCP.\nCx: Lãi danh nghĩa tích gộp trong ngày giao dịch không hưởng quyền.\nXác định giá yết trong trường hợp ngày thanh toán giao dịch lần 1 trùng với ngày trả lãi danh nghĩa:\nG = GG\nG: Giá yết.\nGG: Giá gộp lãi danh nghĩa một (01) TPCP.\nb) Đối với trái phiếu có phương thức thanh toán lãi đầu kỳ:\nXác định giá yết trong ngày giao dịch hưởng quyền:\n$$ G = GG + Cx $$\nTrong đó:\nG: Giá yết (được làm tròn xuống đơn vị đồng).\nGG: Giá gộp lãi danh nghĩa một (01) TPCP.\nCx: Lãi danh nghĩa tích gộp trong ngày giao dịch không hưởng quyền.\nXác định giá yết trong ngày giao dịch không hưởng quyền:\n$$ G = GG + Cx + MG \\times Rc $$\nTrong đó:\nG: Giá yết (được làm tròn xuống đơn vị đồng).\nGG: Giá gộp lãi danh nghĩa một (01) TPCP.\nCx: Lãi danh nghĩa tích gộp trong ngày giao dịch không hưởng quyền.\nMG: Mệnh giá TPCP.\n$$ Rc = \\frac{Lc}{k} $$ trong đó Lc: Lãi suất danh nghĩa trái phiếu (%/năm); k: Số lần thanh toán lãi trong năm.\nXác định giá yết trong trường hợp ngày thanh toán trùng với ngày trả lãi danh nghĩa:\n$$ G = GG + MG \\times Rc $$\nTrong đó:\nG: Giá yết (được làm tròn xuống đơn vị đồng).\nGG: Giá gộp lãi danh nghĩa một (01) TPCP.\nMG: Mệnh giá TPCP.\n$$ Rc = \\frac{Lc}{k} $$ trong đó Lc: Lãi suất danh nghĩa trái phiếu (%/năm); k: Số lần thanh toán lãi trong năm.\nc) Đối với TPCP không thanh toán lãi định kỳ:\nTrong đó:\nG: Giá một (01) TPCP (được làm tròn xuống đơn vị đồng).\nMG: Mệnh giá TPCP .\na: Số ngày kể từ ngày thanh toán tiền giao dịch lần 1 cho đến ngày TPCP đáo hạn.\nE: Số ngày trong kỳ trả lãi giả định mà TPCP được mua lại có kỳ hạn.\nLt: Lãi suất chiết khấu TPCP (%/năm), là lãi suất cho đến khi đáo hạn (YTM) được Sở Giao dịch Chứng khoán công bố trong ngày tổ chức mua lại có kỳ hạn TPCP đối với mã TPCP được sử dụng trong giao dịch trên trang thông tin điện tử của Sở Giao dịch Chứng khoán (phần đường cong lợi suất)."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "14",
+                            "title": "Xử lý chậm thanh toán tiền giao dịch lần 1, lần 2",
+                            "position": 238,
+                            "children": [],
+                            "content": "1. Trường hợp chậm thanh toán tiền giao dịch lần 1, lần 2, thì bên chậm thanh toán phải thanh toán tiền phạt chậm thanh toán cho bên còn lại. Số tiền phạt chậm thanh toán được xác định theo quy định tại khoản 2 Điều này; bên chậm thanh toán thực hiện thanh toán trực tiếp vào tài khoản tiền gửi của bên còn lại, cùng ngày với ngày thực thanh toán giao dịch tương ứng (không tính vào giá trị thanh toán giao dịch lần 1, lần 2).\n2. Tiền phạt chậm thanh toán được tính theo công thức:\nTiền phạt chậm thanh toán = Giá trị giao dịch chậm thanh toán (đồng) x Lãi suất phạt chậm thanh toán (%/năm) x Số ngày chậm thanh toán/365 ngày.\nTrong đó:\na) Giá trị giao dịch chậm thanh toán được tính theo phần giá trị chậm thanh toán (bao gồm gốc và lãi).\nb) Lãi suất phạt chậm thanh toán được xác định bằng 150% mức lãi suất mua lại có kỳ hạn TPCP của phụ lục hợp đồng chậm thanh toán và không vượt quá 10%/năm.\nc) Số ngày chậm thanh toán được xác định bằng số ngày thực tế chậm thanh toán tính từ ngày thanh toán theo phụ lục hợp đồng đến hết ngày liền kề trước ngày thực thanh toán."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "15",
+                            "title": "Xử lý trường hợp NHTM không thực hiện thanh toán tiền cho KBNN",
+                            "position": 246,
+                            "children": [],
+                            "content": "1. Trường hợp NHTM không thực hiện thanh toán tiền cho KBNN theo cam kết, KBNN và NHTM thống nhất và ký phụ lục hợp đồng bằng văn bản để điều chỉnh thời gian thanh toán theo quy định tại khoản 1 Điều 23 và điểm a khoản 4 Điều 32 Thông tư số 30/2019/TT-BTC. NHTM thanh toán giá trị giao dịch lần 2 và tiền phạt chậm thanh toán theo quy định tại Điều 14 Thông tư này cho đến ngày thực thanh toán.\n2. Sau thời hạn thanh toán quy định tại khoản 1 Điều này mà NHTM vẫn không thực hiện thanh toán cho KBNN, KBNN giữ TPCP cho đến khi đáo hạn và nhận gốc, lãi TPCP để khấu trừ toàn bộ nghĩa vụ phải thanh toán (giá trị giao dịch\nlần 2 và tiền phạt chậm thanh toán) của NHTM; số tiền còn lại (nếu có), KBNN trả lại cho NHTM."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "16",
+                            "title": "Hạch toán kế toán",
+                            "position": 251,
+                            "children": [],
+                            "content": "1. Các khoản sử dụng và hoàn trả NQNN để thực hiện giao dịch mua lại có kỳ hạn TPCP được hạch toán theo chế độ kế toán ngân sách nhà nước.\n2. Các khoản thu, chi từ giao dịch mua lại có kỳ hạn TPCP được hạch toán, tổng hợp vào thu, chi nghiệp vụ của KBNN theo quy định tại Thông tư số 180/2013/TT-BTC ngày 02 tháng 12 năm 2013 của Bộ Tài chính quy định thực hiện cơ chế quản lý tài chính và biên chế của KBNN."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "17",
+                            "title": "Công bố thông tin của KBNN",
+                            "position": 254,
+                            "children": [],
+                            "content": "Chậm nhất ngày 10 hàng tháng, KBNN công bố thông tin trên trang thông tin điện tử của KBNN về kết quả mua lại có kỳ hạn TPCP trong tháng liền kề trước đó (khối lượng, lãi suất mua lại có kỳ hạn TPCP bình quân gia quyền tương ứng với từng loại kỳ hạn)."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "18",
+                            "title": "Trách nhiệm của các đơn vị có liên quan",
+                            "position": 257,
+                            "children": [],
+                            "content": "1. Kho bạc Nhà nước\na) Thực hiện đầy đủ các nhiệm vụ, quyền hạn và nghĩa vụ liên quan đến giao dịch mua lại có kỳ hạn TPCP theo quy định tại Nghị định số 24/2016/NĐ-CP ngày 05 tháng 4 năm 2016 của Chính phủ quy định chế độ quản lý ngân quỹ nhà nước, Thông tư số 314/2016/TT-BTC ngày 28 tháng 11 năm 2016 của Bộ Tài chính hướng dẫn một số điều tại Nghị định số 24/2016/NĐ-CP ngày 05 tháng 4 năm 2016 của Chính phủ quy định chế độ quản lý ngân quỹ nhà nước, Thông tư số 64/2019/TT-BTC ngày 16 tháng 9 năm 2019 của Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 314/2016/TT-BTC ngày 28 tháng 11 năm 2016 của Bộ Tài chính hướng dẫn một số điều tại Nghị định số 24/2016/NĐ-CP ngày 05 tháng 4 năm 2016 của Chính phủ quy định chế độ quản lý ngân quỹ nhà nước, Thông tư số 30/2019/TT-BTC ngày 28 tháng 5 năm 2019 của Bộ Tài chính hướng dẫn đăng ký, lưu ký, niêm yết, giao dịch và thanh toán công cụ nợ của Chính phủ, trái phiếu được Chính phủ bảo lãnh do ngân hàng chính sách phát hành và trái phiếu chính quyền địa phương và tại Thông tư này.\nb) Phối hợp cung cấp thông tin về giao dịch mua lại có kỳ hạn TPCP (khối lượng, lãi suất, thời gian, kỳ hạn mua lại TPCP) với Ngân hàng Nhà nước Việt Nam.\n2. Sở Giao dịch Chứng khoán:\na) Tổ chức hệ thống giao dịch đảm bảo thực hiện giao dịch của KBNN theo quy định tại Điều 10 và Điều 13 Thông tư này;\nb) Công bố lãi suất cho đến khi đáo hạn (YTM) đối với danh mục TPCP của KBNN theo quy định tại Điều 13 Thông tư này.\n3. Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam: Thực hiện thanh toán giao dịch mua lại có kỳ hạn TPCP của KBNN theo quy định tại Điều 29, Điều 31, Điều 32 và Điều 33 Thông tư số 30/2019/TT-BTC."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "19",
+                            "title": "Điều khoản thi hành",
+                            "position": 266,
+                            "children": [],
+                            "content": "1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 4 năm 2021.\n2. Thông tư này thay thế quy định mua lại có kỳ hạn TPCP quy định tại Điều 9 Thông tư số 314/2016/TT-BTC ngày 28/11/2016 của Bộ Tài chính hướng dẫn một số điều tại Nghị định số 24/2016/NĐ-CP ngày 05 tháng 4 năm 2016 của Chính phủ quy định chế độ quản lý ngân quỹ nhà nước.\n3. Trường hợp các văn bản được dẫn chiếu tại Thông tư này được sửa đổi, bổ sung hoặc thay thế, thì thực hiện theo các văn bản sửa đổi, bổ sung hoặc thay thế đó./. Ký\nBan Bí thư Trung ương Đảng; Thủ tướng, các Phó Thủ tướng Chính phủ; Văn phòng Tổng Bí thư; Văn phòng Chủ tịch nước; Văn phòng Trung ương và các Ban của Đảng; Văn phòng Quốc hội; Hội đồng dân tộc và các Ủy ban của Quốc hội; Văn phòng Chính phủ; Ban Nội chính Trung ương; Tòa án Nhân dân tối cao; Viện kiểm sát Nhân dân tối cao; Kiểm toán Nhà nước; Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ Cơ quan Trung ương của các đoàn thể; Hội đồng Nhân dân, Uỷ ban Nhân dân các tỉnh, thành phố trực thuộc Trung ương; Sở Tài chính, Kho bạc Nhà nước các tỉnh, thành phố trực thuộc Trung ương; Cục Kiểm tra văn bản QPPL (Bộ Tư pháp); Công báo; Cổng thông tin điện tử Chính phủ; Cổng thông tin điện tử Bộ Tài chính; Các đơn vị thuộc, trực thuộc Bộ Tài chính; Lưu: VT, KBNN (255 bản)tr."
+                        }
+                    ]
+                }
+            ],
+            "metadata": {
+                "total_units": 28,
+                "total_articles": 19,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 2,
+                "source": "ocr"
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [
+            "Tài chính",
+            "Ngân hàng, tiền tệ"
+        ],
+        "edges": {
+            "amends": [
+                {
+                    "official_number_target": "314/2016/TT-BTC",
+                    "type": "REPLACE",
+                    "effective_from": "2021-04-01",
+                    "affected_articles": [
+                        "Điều 9"
+                    ],
+                    "amendment_scope": "PARTIAL"
+                }
+            ],
+            "mentions": [],
+            "abolished": []
+        }
+    },
+    "verification": {
+        "official_number_match": null,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 1,
+                "llm_count": 1,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": []
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "107/2020/TT-BTC",
+            "target_id": "54/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "107/2020/TT-BTC",
+            "target_id": "95/2018/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "107/2020/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "107/2020/TT-BTC",
+            "target_id": "24/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "107/2020/TT-BTC",
+            "target_id": "83/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "107/2020/TT-BTC",
+            "target_id": "314/2016/TT-BTC",
+            "properties": {
+                "source": "crawled",
+                "type": "REPLACE",
+                "effective_from": "2021-04-01",
+                "affected_articles": [
+                    "Điều 9"
+                ],
+                "amendment_scope": "PARTIAL"
+            },
+            "_crawled": true
+        }
+    ]
+}

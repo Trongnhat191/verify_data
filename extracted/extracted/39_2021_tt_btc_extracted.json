@@ -1,0 +1,238 @@
+{
+    "file_name": "39_2021_tt_btc",
+    "source": "ocr_json",
+    "crawled_metadata": {
+        "officialNumber": "39/2021/TT-BTC",
+        "title": "Sửa đổi, bổ sung một số điều của Thông tư số 133/2018/TT-BTC ngày 28 tháng 12 năm 2018 của Bộ Tài chính hướng dẫn lập Báo cáo tài chính nhà nước",
+        "promulgationDate": "2021-06-01",
+        "effectiveDate": "2021-07-15",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "sigerName": "Đỗ Hoàng Anh Tuấn",
+        "draftingUnit": "Kho bạc nhà nước",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:21Z",
+        "_doc_id": "103116"
+    },
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "39/2021/TT-BTC",
+            "target_id": "25/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "39/2021/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "39/2021/TT-BTC",
+            "target_id": "88/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "39/2021/TT-BTC",
+            "target_id": "83/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "39/2021/TT-BTC",
+            "target_id": "133/2018/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "39_2021_tt_btc",
+        "file_path": "/Users/dangnam/Documents/FCI/legal_knowledge_graph/graph_new/54_doc/54vb_structure/39_2021_tt_btc/document_structure.json",
+        "official_number": "39/2021/TT-BTC",
+        "dates": {
+            "promulgation_date": "2021-06-01",
+            "effective_date": "2021-07-15",
+            "expiration_date": null
+        },
+        "issuing_place": "BTC Hà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Sửa đổi, bổ sung một số điều của Thông tư số 133/2018/TT-BTC ngày 28 tháng 12 năm 2018 của Bộ Tài chính hướng dẫn lập Báo cáo tài chính nhà nước (sau đây gọi là “Thông tư số 133/2018/TT-BTC”) như sau:",
+                    "position": 9,
+                    "children": [],
+                    "content": "1. Bổ sung Khoản 9a, Khoản 9b, Khoản 12a, Khoản 12b, Khoản 12c Điều 2 như sau:\n\"9a. Bộ, cơ quan Trung ương được giao quản lý tài sản kết cấu hạ tầng.\"\n\"9b. Bộ, cơ quan Trung ương được giao quản lý, sử dụng tài sản cố định đặc thù (bao gồm: cổ vật, hiện vật trưng bày trong bảo tàng, lăng tẩm, di tích lịch sử - văn hóa).\"\n\"12a. Sở, ban, ngành các tỉnh, thành phố trực thuộc Trung ương được giao quản lý tài sản kết cấu hạ tầng.\"\n\"12b. Sở, ban, ngành các tỉnh, thành phố trực thuộc Trung ương được giao quản lý, sử dụng tài sản cố định đặc thù (bao gồm: cổ vật, hiện vật trưng bày trong bảo tàng, lăng tẩm, di tích lịch sử - văn hóa).\"\n“12c. Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc Trung ương (sau đây gọi là “Ủy ban nhân dân cấp huyện”).”\n2. Khoản 2 Điều 5 được sửa đổi, bổ sung như sau:\n2.1. Điểm a Khoản 2 Điều 5 được sửa đổi như sau:\n“a) Cơ quan thuế các cấp: Báo cáo được lập theo hướng dẫn tại Chế độ kế toán nghiệp vụ thuế nội địa phản ánh các thông tin về: thu thuế, phí, lệ phí và thu nội địa khác phát sinh trong năm báo cáo; tiền (nếu có); phải thu, phải trả tại thời điểm kết thúc năm báo cáo liên quan đến nghiệp vụ thu thuế và các khoản thu nội địa khác giao cơ quan thuế quản lý.\nTrường hợp Báo cáo do cơ quan thuế địa phương gửi Kho bạc Nhà nước quản lý thu chi Ngân sách nhà nước trên địa bàn đã phản ánh đầy đủ các thông tin để lập Báo cáo tài chính nhà nước phạm vi toàn quốc, Tổng cục Thuế không phải gửi Báo cáo này cho Kho bạc Nhà nước.”\n2.2. Sửa đổi điểm i, bổ sung điểm k, điểm l Khoản 2 Điều 5 như sau:\n“(i) Sở Tài chính: Báo cáo theo Mẫu số C01/CCTT ban hành kèm theo Thông tư này, phản ánh thông tin vốn của nhà nước tại các doanh nghiệp, ngân hàng và các tổ chức tài chính khác do địa phương quản lý; thông tin nợ chính quyền địa phương; thông tin tài sản kết cấu hạ tầng được giao quản lý (nếu có).\nk) Bộ, cơ quan Trung ương; Sở, ban, ngành các tỉnh, thành phố trực thuộc Trung ương; Ủy ban nhân dân cấp huyện tổng hợp thông tin về tài sản kết cấu hạ tầng được giao quản lý tại Trung ương, cấp tỉnh, và huyện (bao gồm cấp xã) do các cơ quan, tổ chức, đơn vị thuộc, trực thuộc cung cấp theo Mẫu số C02/CCTT ban hành kèm theo Thông tư này gửi Kho bạc Nhà nước quản lý thu chi Ngân sách nhà nước trên địa bàn.\nl) Các Bộ, cơ quan Trung ương; Sở, ban, ngành các tỉnh, thành phố trực thuộc Trung ương; Ủy ban nhân dân cấp huyện tổng hợp thông tin về tài sản cố định đặc thù được giao quản lý, sử dụng (nếu có) tại Trung ương, cấp tỉnh, huyện (bao gồm cấp xã) do các cơ quan, tổ chức, đơn vị thuộc, trực thuộc cung cấp và gửi Kho bạc Nhà nước quản lý thu chi Ngân sách nhà nước trên địa bàn để thuyết minh trên Báo cáo tài chính nhà nước theo Mẫu số C04/CCTT ban hành kèm theo Thông tư này.”\n3. Khoản 3 Điều 5 được sửa đổi như sau:\n“3. Ủy ban nhân dân cấp xã lập Báo cáo tài chính xã theo hướng dẫn tại Chế độ kế toán ngân sách và tài chính xã, Báo cáo cung cấp thông tin tài chính theo Mẫu số C03/CCTT ban hành kèm theo Thông tư này nhằm thuyết minh chi tiết số liệu tài sản cố định hữu hình và tài sản cố định vô hình được trình bày trên Báo cáo tài chính của đơn vị gửi Kho bạc Nhà nước cấp huyện.”\n4. Khoản 4 Điều 5 được sửa đổi như sau:\n“4. Các đơn vị dự toán cấp I lập Báo cáo cung cấp thông tin tài chính gửi Kho bạc Nhà nước quản lý thu chi Ngân sách nhà nước trên địa bàn, bao gồm:\na) Trường hợp đơn vị dự toán cấp I không có đơn vị kế toán trực thuộc: Báo cáo tài chính được lập theo hướng dẫn tại Thông tư số 107/2017/TT-BTC ngày 10 tháng 10 năm 2017 của Bộ Tài chính hướng dẫn Chế độ kế toán hành chính, sự nghiệp; Báo cáo bổ sung thông tin tài chính được lập theo hướng dẫn tại Thông tư số 99/2018/TT-BTC ngày 01 tháng 11 năm 2018 của Bộ Tài chính hướng dẫn lập báo cáo tài chính tổng hợp của đơn vị kế toán nhà nước là đơn vị kế toán cấp trên; Báo cáo cung cấp thông tin tài chính theo Mẫu số C03/CCTT ban hành kèm theo Thông tư này nhằm thuyết minh chi tiết số liệu tài sản cố định hữu hình và tài sản cố định vô hình được trình bày trên Báo cáo tài chính của đơn vị.\nb) Trường hợp đơn vị dự toán cấp I có đơn vị kế toán trực thuộc: Báo cáo tài chính tổng hợp và Báo cáo bổ sung thông tin tài chính được lập theo hướng dẫn tại Thông tư số 99/2018/TT-BTC ngày 01 tháng 11 năm 2018 của Bộ Tài chính hướng dẫn lập báo cáo tài chính tổng hợp của đơn vị kế toán nhà nước là đơn vị kế toán cấp trên; Báo cáo cung cấp thông tin tài chính theo Mẫu số C03/CCTT ban hành kèm theo Thông tư này nhằm thuyết minh chi tiết số liệu tài sản cố định hữu hình và tài sản cố định vô hình được trình bày trên Báo cáo tài chính tổng hợp của đơn vị.”\n5. Khoản 5 Điều 5 được sửa đổi như sau:\n“5. Các đơn vị dự toán cấp I khác (ngoài các đơn vị quy định tại Khoản 4 Điều này) có quy định riêng về lập Báo cáo tài chính hoặc Báo cáo tài chính tổng hợp/hợp nhất (như: Ban quản lý dự án sử dụng vốn đầu tư công, Đơn vị sự nghiệp công tự đảm bảo chi thường xuyên, chi đầu tư được phép áp dụng theo chế độ kế toán doanh nghiệp,...): Báo cáo tài chính hoặc Báo cáo tài chính tổng hợp/hợp nhất được lập theo hướng dẫn tại Chế độ kế toán áp dụng cho đơn vị. Riêng đối với Ban quản lý dự án sử dụng vốn đầu tư công bổ sung thêm thông tin chi tiết về tài sản cố định tại đơn vị theo Mẫu số C03/CCTT ban hành kèm theo Thông tư này để thuyết minh chi tiết số liệu tài sản cố định hữu hình và tài sản cố định vô hình được trình bày trên Báo cáo tài chính của đơn vị.”\n6. Điều 9 được sửa đổi như sau:\n6.1. Điểm a, Khoản 1 Điều 9 được sửa đổi như sau:\n“a) Báo cáo cung cấp thông tin tài chính của các cơ quan, đơn vị, tổ chức quy định tại Khoản 2, Khoản 4, Khoản 5, Khoản 6, Khoản 7, Khoản 8, Khoản 10, Khoản 11 Điều 2 của Thông tư số 133/2018/TT-BTC và Khoản 9a, Khoản 9b của Thông tư này.”\n6.2. Điểm a, Khoản 2 Điều 9 được sửa đổi như sau:\n“a) Báo cáo cung cấp thông tin tài chính của các cơ quan, đơn vị, tổ chức quy định tại Khoản 2, Khoản 4, Khoản 12 Điều 2 của Thông tư số 133/2018/TT-BTC và Khoản 12a, Khoản 12b của Thông tư này.”\n7. Điều 11 được sửa đổi như sau:\n7.1 Sửa đổi điểm b Khoản 2 như sau:\n“b) Vay từ các quỹ tài chính nhà nước ngoài ngân sách.”\n7.2 Sửa đổi điểm c Khoản 3 như sau:\n“c) Giao dịch nội bộ giữa các cơ quan, đơn vị, tổ chức thuộc cùng phạm vi lập Báo cáo tài chính nhà nước tỉnh.”\n8. Khoản 1 Điều 15 được sửa đổi như sau:\n“Trước ngày 15 tháng 01 hàng năm, Vụ Ngân sách Nhà nước - Bộ Tài chính cung cấp danh sách đơn vị dự toán cấp I thuộc ngân sách Trung ương; Cục Quản lý công sản - Bộ Tài chính cung cấp danh sách Bộ, cơ quan Trung ương được giao quản lý tài sản kết cấu hạ tầng; các Bộ, cơ quan Trung ương được giao quản lý, sử dụng tài sản cố định đặc thù; Sở Tài chính cung cấp danh sách đơn vị dự toán cấp I, Sở, ban, ngành các tỉnh, thành phố trực thuộc Trung ương được giao quản lý tài sản kết cấu hạ tầng; Sở, ban, ngành các tỉnh, thành phố trực thuộc Trung ương được giao quản lý, sử dụng tài sản cố định đặc thù thuộc cấp tỉnh; Phòng Tài chính - Kế hoạch cung cấp danh sách đơn vị dự toán cấp I thuộc cấp huyện cho Kho bạc Nhà nước quản lý thu chi Ngân sách nhà nước trên địa bàn.\nTrường hợp trong năm có thay đổi các danh sách nêu trên, các đơn vị (Vụ Ngân sách nhà nước, Cục Quản lý công sản, Sở Tài chính, Phòng Tài chính - Kế hoạch) phải kịp thời cung cấp danh sách cho Kho bạc Nhà nước quản lý thu chi Ngân sách nhà nước trên địa bàn.”\n9. Điều 15 bổ sung Khoản 1a như sau:\n“1a. Cục Quản lý Công sản - Bộ Tài chính phối hợp với Kho bạc Nhà nước rà soát đảm bảo tính hợp lý của thông tin về tài sản cố định được trình bày trên Báo cáo tài chính nhà nước toàn quốc trong thời hạn 10 ngày làm việc kể từ ngày nhận được văn bản đề nghị của Kho bạc Nhà nước.”\n10. Sửa đổi, bổ sung Phụ lục ban hành kèm theo Thông tư số 133/2018/TT-BTC, chi tiết tại Phụ lục ban hành kèm theo Thông tư này.",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Bãi bỏ quy định tại điểm e, Khoản 2 Điều 5 và Khoản 4 Điều 11 Thông tư số 133/2018/TT-BTC.",
+                    "position": 52,
+                    "children": [],
+                    "content": "Điều 2. Bãi bỏ quy định tại điểm e, Khoản 2 Điều 5 và Khoản 4 Điều 11 Thông tư số 133/2018/TT-BTC.",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "3",
+                    "title": "Hiệu lực thi hành",
+                    "position": 53,
+                    "children": [],
+                    "content": "1. Thông tư này có hiệu lực kể từ ngày 15 tháng 07 năm 2021 và áp dụng từ năm tài chính 2021.\n2. Trong quá trình thực hiện nếu có vướng mắc, đề nghị các cơ quan, tổ chức, cá nhân kịp thời phản ánh về Bộ Tài chính để nghiên cứu, hướng dẫn cụ thể./. Uy tín\nNơi nhận: Văn phòng TW và các Ban của Đảng; Văn phòng Tổng bí thư; Văn phòng Quốc hội; Văn phòng Chủ tịch nước; Văn phòng Chính phủ; Viện Kiểm sát nhân dân tối cao; Tòa án nhân dân tối cao; Cơ quan TW các đoàn thể; Kiểm toán Nhà nước; Ủy ban Giám sát Tài chính Quốc gia; Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; UBND các tỉnh, TP trực thuộc TW; Sở TC, Cục Thuế, Cục Hải quan, KBNN các tỉnh, TP trực thuộc TW; Cục Kiểm tra văn bản – Bộ Tư pháp; Các đơn vị thuộc Bộ Tài chính; Công báo; Website Chính phủ và Website Bộ Tài chính;"
+                }
+            ],
+            "metadata": {
+                "total_units": 13,
+                "total_articles": 3,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 2,
+                "depth": 1,
+                "source": "ocr"
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [
+            "Ngân hàng, tiền tệ",
+            "Ngân hàng, tiền tệ",
+            "Ngân hàng, tiền tệ"
+        ],
+        "edges": {
+            "amends": [
+                {
+                    "official_number_target": "133/2018/TT-BTC",
+                    "type": "AMEND_ADD",
+                    "effective_from": "2021-07-15",
+                    "affected_articles": [
+                        "Điều 2, Khoản 9a",
+                        "Điều 2, Khoản 9b",
+                        "Điều 2, Khoản 12a",
+                        "Điều 2, Khoản 12b",
+                        "Điều 2, Khoản 12c",
+                        "Điều 5, Khoản 2",
+                        "Điều 5, Khoản 3",
+                        "Điều 5, Khoản 4",
+                        "Điều 5, Khoản 5",
+                        "Điều 5, Khoản 6",
+                        "Điều 5, Khoản 7",
+                        "Điều 5, Khoản 8",
+                        "Điều 5, Khoản 9",
+                        "Điều 5, Khoản 10",
+                        "Điều 5, Khoản 11",
+                        "Điều 9, Khoản 1",
+                        "Điều 9, Khoản 2",
+                        "Điều 11, Khoản 2",
+                        "Điều 11, Khoản 3",
+                        "Điều 15, Khoản 1",
+                        "Điều 15, Khoản 1a"
+                    ],
+                    "amendment_scope": "PARTIAL"
+                },
+                {
+                    "official_number_target": "133/2018/TT-BTC",
+                    "type": "AMEND_ADD",
+                    "effective_from": "2021-07-15",
+                    "affected_articles": [
+                        "Điểm e, Khoản 2 Điều 5",
+                        "Khoản 4 Điều 11"
+                    ],
+                    "amendment_scope": "PARTIAL"
+                }
+            ],
+            "mentions": [],
+            "abolished": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 1,
+                "llm_count": 1,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": []
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "39/2021/TT-BTC",
+            "target_id": "25/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "39/2021/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "39/2021/TT-BTC",
+            "target_id": "88/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "39/2021/TT-BTC",
+            "target_id": "83/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "39/2021/TT-BTC",
+            "target_id": "133/2018/TT-BTC",
+            "properties": {
+                "source": "crawled",
+                "type": "AMEND_ADD",
+                "effective_from": "2021-07-15",
+                "affected_articles": [
+                    "Điểm e, Khoản 2 Điều 5",
+                    "Khoản 4 Điều 11"
+                ],
+                "amendment_scope": "PARTIAL"
+            },
+            "_crawled": true
+        }
+    ]
+}

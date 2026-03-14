@@ -1,0 +1,98 @@
+{
+    "file_name": "73_2020_tt_btc",
+    "source": "ocr_json",
+    "crawled_metadata": {
+        "officialNumber": "73/2020/TT-BTC",
+        "title": "Sửa đổi, bổ sung một số điều của Thông tư số 134/2017/TT-BTC ngày 19 tháng 12 năm 2017 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trên thị trường chứng khoán",
+        "promulgationDate": "2020-08-07",
+        "effectiveDate": "2020-10-01",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "sigerName": "Huỳnh Quang Hải",
+        "draftingUnit": "Uỷ ban Chứng khoán Nhà nước",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:22Z",
+        "_doc_id": "77280"
+    },
+    "crawled_edges": [],
+    "regex_data": {
+        "file_name": "73_2020_tt_btc",
+        "file_path": "/Users/dangnam/Documents/FCI/legal_knowledge_graph/graph_new/54_doc/54vb_structure/73_2020_tt_btc/document_structure.json",
+        "official_number": "134/2017/TT-BTC",
+        "dates": {
+            "promulgation_date": "2020-08-07",
+            "effective_date": null,
+            "expiration_date": null
+        },
+        "issuing_place": "BTC\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Hà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Điều khoản thi hành",
+                    "position": 26,
+                    "children": [],
+                    "content": "1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 10 năm 2020.\n2. Ủy ban Chứng khoán Nhà nước, Sở giao dịch chứng khoán, Trung tâm lưu ký chứng khoán Việt Nam và các tổ chức, cá nhân tham gia giao dịch điện tử trên thị trường chứng khoán chịu trách nhiệm thi hành Thông tư này./.\nThủ tướng Chính phủ, các Phó thủ tướng Chính phủ; Văn phòng Quốc hội; Văn phòng Chính phủ; Văn phòng Tổng Bí thư; Văn phòng Trung ương và các Ban của Đảng; Văn phòng Ban chỉ đạo TW về phòng chống tham nhũng; Viện Kiểm sát nhân dân tối cao; Tòa án nhân dân tối cao; Kiểm toán Nhà nước; Công báo; Website Chính phủ; Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; HĐND, UBND các tỉnh, thành phố trực thuộc TƯ; Cơ quan Trung ương của các đoàn thể; Cục kiểm tra văn bản - Bộ Tư pháp; Các đơn vị thuộc Bộ Tài chính, Website Bộ Tài chính; Các Sở GDCK, TTLKCK; Lưu: VT, UBCK (300b)."
+                }
+            ],
+            "metadata": {
+                "total_units": 1,
+                "total_articles": 1,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 1,
+                "source": "ocr"
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [
+            "Tài chính",
+            "Thương mại, đầu tư, chứng khoán"
+        ],
+        "edges": {
+            "amends": [],
+            "mentions": [],
+            "abolished": []
+        }
+    },
+    "verification": {
+        "official_number_match": false,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "Số hiệu không khớp: crawl='73/2020/TT-BTC', regex='134/2017/TT-BTC'"
+        ]
+    },
+    "final_edges": []
+}

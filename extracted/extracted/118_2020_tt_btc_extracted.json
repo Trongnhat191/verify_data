@@ -1,0 +1,264 @@
+{
+    "file_name": "118_2020_tt_btc",
+    "source": "ocr_json",
+    "crawled_metadata": {
+        "officialNumber": "118/2020/TT-BTC",
+        "title": "Hướng dẫn một số nội dung về chào bán, phát hành chứng khoán, chào mua công khai, mua lại cổ phiếu, đăng ký công ty đại chúng và hủy tư cách công ty đại chúng",
+        "promulgationDate": "2020-12-31",
+        "effectiveDate": "2021-02-15",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "sigerName": "Huỳnh Quang Hải",
+        "draftingUnit": "Uỷ ban Chứng khoán Nhà nước",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:21Z",
+        "_doc_id": "99613"
+    },
+    "crawled_edges": [
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "118/2020/TT-BTC",
+            "target_id": "115/2025/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "118_2020_tt_btc",
+        "file_path": "/Users/dangnam/Documents/FCI/legal_knowledge_graph/graph_new/54_doc/54vb_structure/118_2020_tt_btc/document_structure.json",
+        "official_number": null,
+        "dates": {
+            "promulgation_date": "2020-12-31",
+            "effective_date": "2021-08-15",
+            "expiration_date": null
+        },
+        "issuing_place": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Hà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Phạm vi điều chỉnh",
+                    "position": 10,
+                    "children": [],
+                    "content": "Thông tư này hướng dẫn các nội dung sau:\n1. Mẫu Bản cáo bạch chào bán chứng khoán ra công chúng, phát hành cổ phiếu để hoán đổi;\n2. Mẫu Bản thông báo chào bán, phát hành chứng khoán, chào mua công khai;\n3. Mẫu Báo cáo kết quả đợt chào bán, đợt phát hành chứng khoán, đợt chào mua công khai;\n4. Mẫu Bản công bố thông tin về công ty đại chúng; hồ sơ đăng ký công ty đại chúng hình thành sau chia, tách, hợp nhất, sáp nhập doanh nghiệp; việc hủy tư cách công ty đại chúng đối với trường hợp không đáp ứng điều kiện là công ty đại chúng do tổ chức lại, giải thể, phá sản doanh nghiệp;\n5. Việc mua lại cổ phiếu của công ty đại chúng."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Đối tượng áp dụng",
+                    "position": 18,
+                    "children": [],
+                    "content": "Đối tượng áp dụng của Thông tư này bao gồm:\n1. Tổ chức phát hành;\n2. Công ty đại chúng;\n3. Cổ đông công ty đại chúng chào bán cổ phiếu ra công chúng;\n4. Công ty chứng khoán;\n5. Sở giao dịch chứng khoán Việt Nam và các công ty con (sau đây gọi là Sở giao dịch chứng khoán), Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam;\n6. Cơ quan, tổ chức, cá nhân có liên quan."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "3",
+                    "title": "Mẫu Bản cáo bạch",
+                    "position": 27,
+                    "children": [],
+                    "content": "1. Tổ chức phát hành khi đăng ký chào bán chứng khoán ra công chúng, phát hành cổ phiếu để hoán đổi, cổ đông công ty đại chúng khi đăng ký chào bán cổ phiếu ra công chúng thực hiện lập Bản cáo bạch theo mẫu sau:\na) Bản cáo bạch chào bán cổ phiếu lần đầu ra công chúng theo Mẫu tại Phụ lục số 01 ban hành kèm theo Thông tư này;\nb) Bản cáo bạch chào bán thêm cổ phiếu ra công chúng của công ty đại chúng theo Mẫu tại Phụ lục số 02 ban hành kèm theo Thông tư này;\nc) Bản cáo bạch chào bán cổ phiếu ra công chúng của cổ đông công ty đại chúng theo Mẫu tại Phụ lục số 03 ban hành kèm theo Thông tư này;\nd) Bản cáo bạch chào bán cổ phiếu lần đầu ra công chúng để chuyển đổi công ty trách nhiệm hữu hạn thành công ty cổ phần theo Mẫu tại Phụ lục số 04 ban hành kèm theo Thông tư này;\nđ) Bản cáo bạch chào bán trái phiếu ra công chúng theo Mẫu tại Phụ lục số 05 ban hành kèm theo Thông tư này;\ne) Bản cáo bạch chào bán trái phiếu chuyển đổi, trái phiếu kèm chứng quyền ra công chúng của công ty đại chúng theo Mẫu tại Phụ lục số 06 ban hành kèm theo Thông tư này;\ng) Bản cáo bạch chào bán thêm cổ phiếu ra công chúng của công ty đại chúng sau quá trình cơ cấu lại doanh nghiệp, công ty đại chúng hình thành sau hợp nhất công ty không thuộc trường hợp cơ cấu lại doanh nghiệp, công ty đại\nchúng sau tách công ty theo Mẫu tại Phụ lục số 07 ban hành kèm theo Thông tư này;\nh) Bản cáo bạch chào bán trái phiếu ra công chúng của công ty sau quá trình cơ cấu lại doanh nghiệp, công ty hình thành sau hợp nhất công ty không thuộc trường hợp cơ cấu lại doanh nghiệp, công ty sau tách công ty theo Mẫu tại Phụ lục số 08 ban hành kèm theo Thông tư này;\ni) Bản cáo bạch chào bán trái phiếu chuyển đổi, trái phiếu kèm chứng quyền ra công chúng của công ty đại chúng sau quá trình cơ cấu lại doanh nghiệp, công ty đại chúng hình thành sau hợp nhất công ty không thuộc trường hợp cơ cấu lại doanh nghiệp, công ty đại chúng sau tách công ty theo Mẫu tại Phụ lục số 09 ban hành kèm theo Thông tư này;\nk) Bản cáo bạch phát hành cổ phiếu của công ty đại chúng để chào mua công khai theo Mẫu tại Phụ lục số 10 ban hành kèm theo Thông tư này;\nl) Bản cáo bạch phát hành cổ phiếu để hoán đổi theo hợp đồng hợp nhất theo Mẫu tại Phụ lục số 11 ban hành kèm theo Thông tư này;\nm) Bản cáo bạch phát hành cổ phiếu của công ty đại chúng để hoán đổi theo hợp đồng sáp nhập theo Mẫu tại Phụ lục số 12 ban hành kèm theo Thông tư này. 2. Nội dung chính trong mẫu Bản cáo bạch tại khoản 1 Điều này bao gồm:\na) Thông tin về những người chịu trách nhiệm chính đối với Bản cáo bạch;\nb) Thông tin về các nhân tố rủi ro;\nc) Thông tin về tổ chức phát hành, công ty đại chúng có cổ phiếu được chào bán bao gồm quá trình hình thành phát triển, mô hình tổ chức bộ máy, các công ty có liên quan, hoạt động kinh doanh;\nd) Thông tin về cổ đông sáng lập, cổ đông lớn, chủ sở hữu công ty; Chủ tịch công ty, thành viên Hội đồng quản trị, thành viên Hội đồng thành viên; Kiểm soát viên; Tổng giám đốc (Giám đốc), Phó Tổng giám đốc (Phó Giám đốc), Kế toán trưởng;\nđ) Thông tin về kết quả hoạt động kinh doanh, tình hình tài chính và dự kiến kế hoạch;\ne) Thông tin về đợt chào bán, phát hành trong đó bao gồm đặc điểm của chứng khoán chào bán, phát hành; phương thức phân phối; lịch trình phân phối; các trường hợp hủy bỏ đợt chào bán;\ng) Thông tin về mục đích chào bán, phát hành; kế hoạch sử dụng số tiền thu được từ đợt chào bán, ngoại trừ trường hợp chào bán cổ phiếu lần đầu ra công chúng để trở thành công ty đại chúng thông qua thay đổi cơ cấu sở hữu nhưng không làm tăng vốn điều lệ của tổ chức phát hành, chào bán cổ phiếu ra công chúng của cổ đông công ty đại chúng;\nh) Thông tin về các đối tác liên quan đến đợt chào bán, phát hành bao gồm tổ chức tư vấn, tổ chức bảo lãnh phát hành, đại lý phân phối, đại diện người sở hữu trái phiếu, tổ chức kiểm toán;\ni) Các thông tin quan trọng khác có thể ảnh hưởng đến quyết định của nhà đầu tư;\nk) Chữ ký của những người chịu trách nhiệm chính về Bản cáo bạch theo quy định tại khoản 3 Điều 19 Luật Chứng khoán;\nl) Danh mục các tài liệu đính kèm Bản cáo bạch bao gồm các quyết định của Đại hội đồng cổ đông hoặc Hội đồng quản trị hoặc Hội đồng thành viên hoặc chủ sở hữu công ty liên quan tới đợt chào bán, phát hành, báo cáo tài chính theo quy định tại Điều 20 Luật Chứng khoán, các tài liệu liên quan đến dự án sử dụng vốn thu được từ đợt chào bán và các tài liệu khác (nếu có).\n3. Tổ chức phát hành khi lập Bản cáo bạch theo mẫu tại khoản 1 Điều này phải đảm bảo các quy định sau:\na) Thông tin công bố trong Bản cáo bạch phải rõ ràng, chính xác, trung thực, không mâu thuẫn và có đầy đủ những nội dung có thể ảnh hưởng đến quyết định của nhà đầu tư. Ngôn từ trong Bản cáo bạch phải đơn giản, dễ hiểu; trường hợp sử dụng từ viết tắt, thuật ngữ chuyên ngành, kỹ thuật phải kèm theo giải thích rõ ràng;\nb) Các thông tin quan trọng, thông tin mang tính so sánh trong Bản cáo bạch phải được nêu rõ nguồn tham chiếu thông tin;\nc) Bản cáo bạch phải được lập với hình thức rõ ràng, phông chữ và cỡ chữ được trình bày đảm bảo dễ đọc;\nd) Việc phân tích các nhân tố rủi ro cần nêu ảnh hưởng đến lĩnh vực hoạt động kinh doanh, tình hình tài chính, kết quả hoạt động kinh doanh của tổ chức phát hành; đợt chào bán, phát hành; giá chứng khoán; dự án sử dụng vốn thu được từ đợt chào bán. Các nhân tố rủi ro cần được phân loại và đặt tiêu đề phù hợp theo nhóm, sắp xếp theo thứ tự công bố các nhân tố rủi ro có ảnh hưởng tiêu cực theo mức độ từ cao đến thấp;\nđ) Thông tin về hoạt động kinh doanh và tình hình tài chính cần phản ánh về tình hình hoạt động của tổ chức phát hành, công ty đại chúng có cổ phiếu được chào bán trong 02 năm tài chính gần nhất và tính đến thời điểm kết thúc quý gần nhất; trường hợp là công ty mẹ, kết quả hoạt động kinh doanh được công bố bao gồm kết quả kinh doanh hợp nhất và của công ty mẹ;\ne) Thông tin về cổ đông lớn, chủ sở hữu công ty, Chủ tịch công ty, thành viên Hội đồng quản trị, thành viên Hội đồng thành viên, Kiểm soát viên, Tổng giám đốc (Giám đốc), Phó Tổng giám đốc (Phó Giám đốc), Kế toán trưởng phải phản ánh các thông tin về lợi ích có liên quan đến tổ chức phát hành, cổ đông công ty đại chúng chào bán cổ phiếu ra công chúng;\ng) Mục đích chào bán, phát hành và kế hoạch sử dụng số tiền thu được từ đợt chào bán phải phù hợp với phương án được Đại hội đồng cổ đông hoặc Hội đồng quản trị hoặc Hội đồng thành viên hoặc chủ sở hữu công ty thông qua;\nh) Trường hợp tổ chức phát hành sửa đổi, bổ sung Bản cáo bạch thì phải nêu rõ các nội dung sửa đổi, bổ sung và lý do sửa đổi, bổ sung."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "4",
+                    "title": "Mẫu Bản thông báo chào bán, phát hành chứng khoán, chào mua công khai",
+                    "position": 65,
+                    "children": [],
+                    "content": "1. Bản thông báo chào bán cổ phiếu ra công chúng theo Mẫu tại Phụ lục số 13 ban hành kèm theo Thông tư này;\n2. Bản thông báo chào bán trái phiếu ra công chúng theo Mẫu tại Phụ lục số 14 ban hành kèm theo Thông tư này;\n3. Bản thông báo phát hành cổ phiếu của công ty đại chúng để chào mua công khai theo Mẫu tại Phụ lục số 15 ban hành kèm theo Thông tư này;\n4. Bản thông báo phát hành cổ phiếu để hoán đổi theo hợp đồng hợp nhất, sáp nhập theo Mẫu tại Phụ lục số 16 ban hành kèm theo Thông tư này;\n5. Bản thông báo phát hành cổ phiếu để trả cổ tức, phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu theo Mẫu tại Phụ lục số 17 ban hành kèm theo Thông tư này;\n6. Bản thông báo phát hành cổ phiếu theo chương trình lựa chọn cho người lao động trong công ty theo Mẫu tại Phụ lục số 18 ban hành kèm theo Thông tư này;\n7. Bản thông báo phát hành cổ phiếu để thực hiện quyền của chứng quyền theo Mẫu tại Phụ lục số 19 ban hành kèm theo Thông tư này;\n8. Bản thông báo chào mua công khai theo Mẫu tại Phụ lục số 20 ban hành kèm theo Thông tư này."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "5",
+                    "title": "Mẫu Báo cáo kết quả đợt chào bán, đợt phát hành chứng khoán, đợt chào mua công khai",
+                    "position": 74,
+                    "children": [],
+                    "content": "1. Báo cáo kết quả đợt chào bán cổ phiếu ra công chúng theo Mẫu tại Phụ lục số 21 ban hành kèm theo Thông tư này;\n2. Báo cáo kết quả đợt chào bán trái phiếu ra công chúng theo Mẫu tại Phụ lục số 22 ban hành kèm theo Thông tư này;\n3. Báo cáo kết quả đợt chào bán cổ phiếu riêng lẻ, đợt chào bán cổ phiếu ưu đãi kèm chứng quyền riêng lẻ theo Mẫu tại Phụ lục số 23 ban hành kèm theo Thông tư này;\n4. Báo cáo kết quả đợt phát hành cổ phiếu để hoán đổi cổ phần cho số cổ đông xác định trong công ty đại chúng khác, hoán đổi cổ phần cho cổ đông công ty cổ phần chưa đại chúng, hoán đổi phần vốn góp cho thành viên của công ty\ntrách nhiệm hữu hạn, hoán đổi nợ theo Mẫu tại Phụ lục số 24 ban hành kèm theo Thông tư này;\n5. Báo cáo kết quả đợt phát hành cổ phiếu của công ty đại chúng để chào mua công khai theo Mẫu tại Phụ lục số 25 ban hành kèm theo Thông tư này;\n6. Báo cáo kết quả đợt phát hành cổ phiếu để hoán đổi theo hợp đồng hợp nhất theo Mẫu tại Phụ lục số 26 ban hành kèm theo Thông tư này;\n7. Báo cáo kết quả đợt phát hành cổ phiếu để hoán đổi theo hợp đồng sáp nhập theo Mẫu tại Phụ lục số 27 ban hành kèm theo Thông tư này;\n8. Báo cáo kết quả đợt phát hành cổ phiếu để trả cổ tức, đợt phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu theo Mẫu tại Phụ lục số 28 ban hành kèm theo Thông tư này;\n9. Báo cáo kết quả đợt phát hành cổ phiếu theo chương trình lựa chọn cho người lao động trong công ty theo Mẫu tại Phụ lục số 29 ban hành kèm theo Thông tư này;\n10. Báo cáo kết quả đợt phát hành cổ phiếu để chuyển đổi trái phiếu theo Mẫu tại Phụ lục số 30 ban hành kèm theo Thông tư này;\n11. Báo cáo kết quả đợt phát hành cổ phiếu để thực hiện quyền của chứng quyền theo Mẫu tại Phụ lục số 31 ban hành kèm theo Thông tư này;\n12. Báo cáo kết quả đợt chào bán cổ phiếu ra nước ngoài, đợt phát hành cổ phiếu mới làm cơ sở cho chào bán chứng chỉ lưu ký tại nước ngoài theo Mẫu tại Phụ lục số 32 ban hành kèm theo Thông tư này;\n13. Báo cáo kết quả đợt chào mua công khai theo Mẫu tại Phụ lục số 33 ban hành kèm theo Thông tư này."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "6",
+                    "title": "Mẫu Bản công bố thông tin về công ty đại chúng",
+                    "position": 91,
+                    "children": [],
+                    "content": "Bản công bố thông tin về công ty đại chúng được lập theo Mẫu tại Phụ lục số 34 ban hành kèm theo Thông tư này."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "7",
+                    "title": "Hồ sơ đăng ký công ty đại chúng hình thành sau chia, tách, hợp nhất, sáp nhập doanh nghiệp",
+                    "position": 93,
+                    "children": [],
+                    "content": "Hồ sơ đăng ký công ty đại chúng hình thành sau chia, tách, hợp nhất, sáp nhập doanh nghiệp bao gồm:\n1. Các tài liệu quy định tại điểm a, b, c, d và e khoản 1 Điều 33 Luật Chứng khoán.\n2. Báo cáo tài chính năm gần nhất của công ty cổ phần được hình thành sau chia, tách, hợp nhất doanh nghiệp được kiểm toán bởi tổ chức kiểm toán độc lập. Trường hợp tại thời điểm nộp hồ sơ đăng ký công ty đại chúng, công ty chưa có báo cáo tài chính năm gần nhất do thời gian hoạt động chưa đủ năm tài chính theo quy định, Báo cáo tài chính năm gần nhất được kiểm toán trong hồ sơ đăng ký công ty đại chúng được thay thế bằng Báo cáo tài chính kỳ gần nhất được kiểm toán bởi tổ chức kiểm toán độc lập.\n3. Báo cáo tài chính năm gần nhất của công ty cổ phần được hình thành sau sáp nhập được kiểm toán bởi tổ chức kiểm toán độc lập. Trường hợp công ty hình thành sau sáp nhập đăng ký doanh nghiệp sau thời điểm kết thúc kỳ kế toán năm gần nhất, công ty phải bổ sung báo cáo tài chính kỳ gần nhất được kiểm toán."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "8",
+                    "title": "Hủy tư cách công ty đại chúng đối với trường hợp không đáp ứng điều kiện là công ty đại chúng do tổ chức lại, giải thể, phá sản doanh nghiệp",
+                    "position": 99,
+                    "children": [],
+                    "content": "1. Hủy tư cách công ty đại chúng đối với trường hợp không đáp ứng điều kiện là công ty đại chúng sau chia, bị hợp nhất, bị sáp nhập, giải thể, phá sản doanh nghiệp\na) Công ty đại chúng thực hiện báo cáo, công bố thông tin về việc tổ chức lại, giải thể, phá sản doanh nghiệp theo quy định pháp luật về công bố thông tin trên thị trường chứng khoán;\nb) Sau khi công ty đại chúng được cập nhật tình trạng pháp lý trên Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp hoặc khi có quyết định của tòa án tuyên bố phá sản doanh nghiệp, Ủy ban Chứng khoán Nhà nước xem xét và thông báo trên phương tiện công bố thông tin của Ủy ban Chứng khoán Nhà nước về việc hủy tư cách công ty đại chúng.\n2. Hủy tư cách công ty đại chúng đối với trường hợp công ty đại chúng bị thu hồi Giấy chứng nhận đăng ký doanh nghiệp\na) Công ty đại chúng bị thu hồi Giấy chứng nhận đăng ký doanh nghiệp thực hiện báo cáo, công bố thông tin theo quy định pháp luật về công bố thông tin trên thị trường chứng khoán;\nb) Ủy ban Chứng khoán Nhà nước xem xét việc hủy tư cách công ty đại chúng trong thời hạn 180 ngày kể từ ngày nhận được báo cáo về việc thu hồi Giấy chứng nhận đăng ký doanh nghiệp;\nc) Sau khi hết thời hạn theo quy định tại điểm b khoản này, Ủy ban Chứng khoán Nhà nước thông báo trên phương tiện công bố thông tin của Ủy ban Chứng khoán Nhà nước về việc hủy tư cách công ty đại chúng.\n3. Hủy tư cách công ty đại chúng đối với trường hợp không đáp ứng điều kiện là công ty đại chúng sau tách, nhận sáp nhập doanh nghiệp\na) Trình tự, thủ tục và hồ sơ hủy tư cách công ty đại chúng đối với trường hợp không đáp ứng điều kiện sau tách, nhận sáp nhập doanh nghiệp thực hiện theo quy định tại Điều 38 và Điều 39 Luật Chứng khoán;\nb) Ủy ban Chứng khoán Nhà nước thông báo cho công ty về việc hủy tư cách công ty đại chúng trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ hủy tư cách công ty đại chúng đầy đủ và hợp lệ, đồng thời công bố trên phương tiện công bố thông tin của Ủy ban Chứng khoán Nhà nước.\n4. Hủy tư cách công ty đại chúng đối với trường hợp không đáp ứng điều kiện là công ty đại chúng do chuyển đổi loại hình doanh nghiệp từ công ty cổ phần thành công ty trách nhiệm hữu hạn\na) Công ty đại chúng được cấp Giấy chứng nhận đăng ký doanh nghiệp do chuyển đổi loại hình doanh nghiệp phải thực hiện báo cáo, công bố thông tin theo quy định pháp luật về công bố thông tin trên thị trường chứng khoán;\nb) Sau khi nhận được báo cáo, công bố thông tin theo quy định tại điểm a khoản này, Ủy ban Chứng khoán Nhà nước xem xét và thông báo trên phương tiện công bố thông tin của Ủy ban Chứng khoán Nhà nước về việc hủy tư cách công ty đại chúng."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "9",
+                    "title": "Tài liệu báo cáo mua lại cổ phiếu",
+                    "position": 115,
+                    "children": [],
+                    "content": "1. Công ty đại chúng theo quy định tại khoản 1 Điều 36 Luật Chứng khoán trước khi mua lại cổ phiếu của chính mình phải gửi tài liệu báo cáo đến Ủy ban Chứng khoán Nhà nước bao gồm:\na) Báo cáo về việc mua lại cổ phiếu theo Mẫu tại Phụ lục số 35 ban hành kèm theo Thông tư này;\nb) Quyết định của Đại hội đồng cổ đông thông qua việc mua lại cổ phiếu, phương án mua lại;\nc) Quyết định của Hội đồng quản trị thông qua phương án triển khai mua lại cổ phiếu;\nd) Văn bản xác nhận việc chỉ định thực hiện giao dịch của công ty chứng khoán, trừ trường hợp công ty chứng khoán là thành viên của Sở giao dịch chứng khoán mua lại cổ phiếu của chính mình;\nđ) Báo cáo tài chính gần nhất được kiểm toán theo quy định;\ne) Tài liệu chứng minh công ty có đủ nguồn để mua lại cổ phiếu. Trường hợp công ty đại chúng là công ty mẹ sử dụng nguồn thặng dư vốn cổ phần, quỹ đầu tư phát triển, quỹ khác để mua lại cổ phiếu, nguồn vốn thực hiện được căn cứ\ntrên báo cáo tài chính của công ty mẹ. Trường hợp công ty đại chúng là công ty mẹ sử dụng nguồn lợi nhuận sau thuế chưa phân phối để mua lại cổ phiếu, nguồn vốn thực hiện không được vượt quá mức lợi nhuận sau thuế chưa phân phối trên báo cáo tài chính hợp nhất được kiểm toán. Trường hợp lợi nhuận sau thuế chưa phân phối dùng để mua lại cổ phiếu thấp hơn lợi nhuận sau thuế chưa phân phối trên báo cáo tài chính hợp nhất và cao hơn lợi nhuận sau thuế chưa phân phối trên báo cáo tài chính của công ty mẹ, công ty phải bổ sung quyết định của cấp có thẩm quyền của công ty con thông qua việc phân phối lợi nhuận, sao kê có xác nhận của ngân hàng chứng minh việc đã điều chuyển lợi nhuận từ công ty con về công ty mẹ;\ng) Tài liệu chứng minh đáp ứng các điều kiện để được mua lại cổ phiếu theo quy định của pháp luật trong trường hợp công ty đại chúng thuộc ngành, nghề đầu tư kinh doanh có điều kiện.\n2. Công ty đại chúng mua lại cổ phiếu của chính mình theo quy định tại điểm a khoản 2 Điều 36 Luật Chứng khoán và mua lại cổ phiếu của người lao động theo quy chế phát hành cổ phiếu cho người lao động của công ty theo quy định tại điểm b khoản 2 Điều 36 Luật Chứng khoán phải gửi tài liệu báo cáo đến Ủy ban Chứng khoán Nhà nước trước khi mua lại cổ phiếu bao gồm:\na) Công bố thông tin về việc mua lại cổ phiếu theo Mẫu tại Phụ lục số 36 ban hành kèm theo Thông tư này;\nb) Quyết định của Hội đồng quản trị hoặc Tổng giám đốc (Giám đốc) triển khai phương án mua lại cổ phiếu."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "10",
+                    "title": "Báo cáo và công bố thông tin mua lại cổ phiếu",
+                    "position": 129,
+                    "children": [],
+                    "content": "1. Công ty đại chúng theo quy định tại khoản 1 Điều 9 Thông tư này thực hiện việc báo cáo, công bố thông tin, thực hiện mua lại và báo cáo kết quả mua lại cổ phiếu theo quy định tại khoản 3, 4, 5 và 6 Điều 37 Luật Chứng khoán. Nội dung công bố thông tin được thực hiện theo Mẫu tại Phụ lục số 36 ban hành kèm theo Thông tư này. Nội dung báo cáo kết quả mua lại cổ phiếu được thực hiện theo Mẫu tại Phụ lục số 39 ban hành kèm theo Thông tư này.\n2. Công ty đại chúng theo quy định tại khoản 2 Điều 9 Thông tư này thực hiện mua lại cổ phiếu sau 07 ngày làm việc kể từ ngày báo cáo Ủy ban Chứng khoán Nhà nước và công bố thông tin trên trang thông tin điện tử của công ty, phương tiện công bố thông tin của Ủy ban Chứng khoán Nhà nước, Sở giao dịch chứng khoán theo Mẫu tại Phụ lục số 36 ban hành kèm theo Thông tư này. Trong thời hạn 10 ngày kể từ ngày kết thúc giao dịch mua lại cổ phiếu, công ty đại chúng phải gửi báo cáo kết quả giao dịch cho Ủy ban Chứng khoán Nhà nước và công bố thông tin ra công chúng theo Mẫu tại Phụ lục số 39 ban hành kèm theo Thông tư này."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "11",
+                    "title": "Thay đổi việc mua lại cổ phiếu",
+                    "position": 133,
+                    "children": [],
+                    "content": "1. Công ty đại chúng không được thay đổi ý định hoặc phương án mua lại cổ phiếu như đã báo cáo và công bố thông tin ra công chúng, trừ trường hợp bất khả kháng (thiên tai, dịch bệnh, chiến tranh và những trường hợp khác) phải được Ủy ban Chứng khoán Nhà nước chấp thuận.\n2. Trong thời hạn 24 giờ kể từ khi ra quyết định thay đổi phương án mua lại cổ phiếu, công ty đại chúng phải báo cáo Ủy ban Chứng khoán Nhà nước, đồng thời thực hiện công bố thông tin trên trang thông tin điện tử của công ty, phương tiện công bố thông tin của Ủy ban Chứng khoán Nhà nước, Sở giao dịch chứng khoán về quyết định thay đổi theo Mẫu tại Phụ lục số 37 ban hành kèm theo Thông tư này.\n3. Ủy ban Chứng khoán Nhà nước có ý kiến về việc thay đổi phương án mua lại cổ phiếu trong thời hạn 03 ngày làm việc kể từ ngày nhận được báo cáo thay đổi.\n4. Trong thời hạn 24 giờ kể từ khi được Ủy ban Chứng khoán Nhà nước chấp thuận thay đổi phương án mua lại cổ phiếu, công ty đại chúng phải công bố thông tin trên trang thông tin điện tử của công ty, phương tiện công bố thông tin của Ủy ban Chứng khoán Nhà nước, Sở giao dịch chứng khoán về việc thay đổi phương án mua lại cổ phiếu theo Mẫu tại Phụ lục số 38 ban hành kèm theo Thông tư này.\n5. Công ty đại chúng được thực hiện thay đổi việc mua lại cổ phiếu sau khi công bố thông tin theo quy định tại khoản 4 Điều này."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "12",
+                    "title": "Mua lại cổ phiếu theo phương thức chào mua công khai",
+                    "position": 139,
+                    "children": [],
+                    "content": "Công ty đại chúng mua lại cổ phiếu của chính mình theo phương thức chào mua công khai phải tuân thủ quy định về chào mua công khai cổ phiếu tại Nghị định số 155/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ quy định chi tiết thi hành một số điều của Luật Chứng khoán, trong đó tài liệu báo cáo mua lại cổ phiếu bao gồm:\n1. Tài liệu quy định tại khoản 1 Điều 85 Nghị định số 155/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ quy định chi tiết thi hành một số điều của Luật Chứng khoán;\n2. Tài liệu theo quy định tại điểm đ, e, g khoản 1 Điều 9 Thông tư này."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "13",
+                    "title": "Báo cáo và công bố thông tin bán cổ phiếu quỹ",
+                    "position": 143,
+                    "children": [],
+                    "content": "Công ty đại chúng mua lại cổ phiếu của chính mình trong các trường hợp theo quy định tại điểm b, điểm c khoản 7 Điều 36 Luật Chứng khoán thực hiện bán cổ phiếu như sau:\n1. Công ty đại chúng được bán cổ phiếu quỹ sau 24 giờ kể từ khi gửi Báo cáo kết quả giao dịch mua lại cổ phiếu, Báo cáo kết quả phát hành cổ phiếu để trả\ncổ tức, phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu đến Ủy ban Chứng khoán Nhà nước và công bố thông tin ra công chúng.\n2. Công ty đại chúng phải hoàn thành việc bán cổ phiếu quỹ trong vòng 10 ngày làm việc kể từ ngày báo cáo Ủy ban Chứng khoán Nhà nước và công bố thông tin ra công chúng về việc bán cổ phiếu quỹ theo Mẫu tại Phụ lục số 36 ban hành kèm theo Thông tư này.\n3. Trong thời hạn 10 ngày kể từ ngày kết thúc giao dịch bán cổ phiếu quỹ theo quy định tại khoản 1 Điều này, công ty đại chúng phải gửi Báo cáo kết quả giao dịch bán cổ phiếu quỹ cho Ủy ban Chứng khoán Nhà nước và công bố thông tin ra công chúng theo Mẫu tại Phụ lục số 39 ban hành kèm theo Thông tư này."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "14",
+                    "title": "Trách nhiệm của công ty chứng khoán được chỉ định làm đại lý thực hiện mua lại cổ phiếu",
+                    "position": 150,
+                    "children": [],
+                    "content": "1. Hướng dẫn công ty đại chúng thực hiện việc mua lại cổ phiếu theo quy định và theo phương án đã công bố;\n2. Đảm bảo công ty đại chúng có đủ tiền trên tài khoản giao dịch khi đặt lệnh mua để thực hiện khối lượng giao dịch theo phương án đã báo cáo và công bố thông tin ra công chúng;\n3. Không sử dụng các thông tin chưa được công bố ra công chúng liên quan đến việc mua lại cổ phiếu của công ty đại chúng chỉ định để mua bán chứng khoán của công ty đại chúng hoặc tiết lộ các thông tin liên quan cho bên thứ ba trừ trường hợp theo quy định của pháp luật."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "15",
+                    "title": "Trách nhiệm của Sở giao dịch chứng khoán",
+                    "position": 154,
+                    "children": [],
+                    "content": "1. Giám sát tổ chức niêm yết, đăng ký giao dịch thực hiện việc công bố thông tin trước, trong và sau khi thực hiện việc mua lại cổ phiếu, bán cổ phiếu quỹ theo quy định;\n2. Giám sát công ty chứng khoán được chỉ định thực hiện việc mua lại cổ phiếu theo quy định."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "16",
+                    "title": "Điều khoản thi hành",
+                    "position": 158,
+                    "children": [],
+                    "content": "1. Thông tư này có hiệu lực kể từ ngày 15 tháng 08 năm 2021 và thay thế Thông tư số 162/2015/TT-BTC ngày 26 tháng 10 năm 2015 của Bộ trưởng Bộ Tài chính hướng dẫn việc chào bán chứng khoán ra công chúng, chào bán cổ phiếu để hoán đổi, phát hành thêm cổ phiếu, mua lại cổ phiếu, bán cổ phiếu quỹ và chào mua công khai cổ phiếu.\n2. Ủy ban Chứng khoán Nhà nước, Sở giao dịch chứng khoán, Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam, tổ chức phát hành, công ty đại chúng, công ty chứng khoán và các tổ chức, cá nhân có liên quan chịu trách nhiệm thực hiện Thông tư này.\nVăn phòng Trung ương và các Ban của Đảng; Văn phòng Tổng Bí thư; Văn phòng Chính phủ; Văn phòng Quốc hội; Văn phòng Chủ tịch nước; Thủ tướng, các Phó Thủ tướng Chính phủ; Văn phòng Ban chỉ đạo Trung ương về phòng, chống tham nhũng; Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; HĐND, UBND các tỉnh, thành phố trực thuộc Trung ương; Viện Kiểm sát nhân dân tối cao; Toà án nhân dân tối cao; Kiểm toán Nhà nước; Cơ quan Trung ương của các đoàn thể; Công báo; Cổng thông tin điện tử Chính phủ; Cục kiểm tra văn bản - Bộ Tư pháp; Các đơn vị thuộc Bộ Tài chính; Cổng thông tin điện tử Bộ Tài chính; Cổng thông tin điện tử Ủy ban Chứng khoán Nhà nước; Lưu: VT, UBCK (300b)\nDANH MỤC PHỤ LỤC *(Ban hành kèm theo Thông tư số 118/2020/TT-BTC ngày 31 tháng 12 năm 2020 của Bộ trưởng Bộ Tài chính)*"
+                }
+            ],
+            "metadata": {
+                "total_units": 480,
+                "total_articles": 16,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 1,
+                "source": "ocr"
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [
+            "Tài chính",
+            "Ngân hàng, tiền tệ"
+        ],
+        "edges": {
+            "amends": [
+                {
+                    "official_number_target": "162/2015/TT-BTC",
+                    "type": "REPLACE",
+                    "effective_from": "2021-08-15",
+                    "affected_articles": [],
+                    "amendment_scope": "FULL"
+                }
+            ],
+            "mentions": [],
+            "abolished": []
+        }
+    },
+    "verification": {
+        "official_number_match": null,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 1,
+                "llm_count": 1,
+                "missing_in_llm": [
+                    "115/2025/TT-BTC"
+                ],
+                "extra_in_llm": [
+                    "162/2015/TT-BTC"
+                ],
+                "match": false
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "[amends] LLM thiếu target so với crawl: ['115/2025/TT-BTC']",
+            "[amends] LLM tìm thêm target không có trong crawl: ['162/2015/TT-BTC']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "118/2020/TT-BTC",
+            "target_id": "115/2025/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "",
+            "target_id": "162/2015/TT-BTC",
+            "properties": {
+                "type": "REPLACE",
+                "effective_from": "2021-08-15",
+                "affected_articles": [],
+                "amendment_scope": "FULL",
+                "source": "llm_only"
+            },
+            "_crawled": false
+        }
+    ]
+}

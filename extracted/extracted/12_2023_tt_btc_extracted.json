@@ -1,0 +1,247 @@
+{
+    "file_name": "12_2023_tt_btc",
+    "source": "ocr_json",
+    "crawled_metadata": {
+        "officialNumber": "12/2023/TT-BTC",
+        "title": "Sửa đổi, bổ sung một số điều của Thông tư số 107/2020/TT-BTC ngày 21 tháng 12 năm 2020 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch mua lại có kỳ hạn trái phiếu Chính phủ từ nguồn ngân quỹ nhà nước tạm thời nhàn rỗi của Kho bạc Nhà nước",
+        "promulgationDate": "2023-02-10",
+        "effectiveDate": "2023-05-04",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "sigerName": "Cao Anh Tuấn",
+        "draftingUnit": "Kho bạc nhà nước",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:20Z",
+        "_doc_id": "152902"
+    },
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "12/2023/TT-BTC",
+            "target_id": "54/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "12/2023/TT-BTC",
+            "target_id": "95/2018/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "12/2023/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "12/2023/TT-BTC",
+            "target_id": "24/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "12/2023/TT-BTC",
+            "target_id": "83/2025/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "12/2023/TT-BTC",
+            "target_id": "107/2020/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "12_2023_tt_btc",
+        "file_path": "/Users/dangnam/Documents/FCI/legal_knowledge_graph/graph_new/54_doc/54vb_structure/12_2023_tt_btc/document_structure.json",
+        "official_number": "107/2020/TT-BTC",
+        "dates": {
+            "promulgation_date": "2023-02-10",
+            "effective_date": null,
+            "expiration_date": null
+        },
+        "issuing_place": "Hạnh phúc Hà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Sửa đổi, bổ sung một số điều của Thông tư số 107/2020/TT-BTC ngày 21 tháng 12 năm 2020 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch mua lại có kỳ hạn trái phiếu Chính phủ từ nguồn ngân quỹ nhà nước tạm thời nhàn rỗi của Kho bạc Nhà nước như sau:",
+                    "position": 10,
+                    "children": [],
+                    "content": "1. Sửa đổi, bổ sung khoản 5 Điều 3 như sau:\n“5. Kỳ hạn còn lại của TPCP: Là khoảng thời gian còn lại (theo ngày thực tế) từ ngày thanh toán giao dịch lần 1 (ngày T+2) đến ngày đáo hạn TPCP.”\n2. Sửa đổi, bổ sung khoản 1 Điều 5 như sau:\n“1. Là TPCP do KBNN phát hành đang được niêm yết tại Sở Giao dịch Chứng khoán.”\n3. Sửa đổi, bổ sung một số khoản của Điều 9 như sau:\na) Sửa đổi điểm a khoản 4 như sau:\n“a) Các thông tin về TPCP được mua lại có kỳ hạn: mã TPCP, kỳ hạn còn lại của TPCP, tỷ lệ phòng vệ rủi ro, lãi suất chiết khấu (%/năm).”\nb) Sửa đổi điểm c khoản 4 như sau:\n“(c) Chi tiết giao dịch lần 2: Ngày thanh toán giao dịch lần 2; khối lượng TPCP giao dịch tương ứng với từng mã TPCP và giá trị giao dịch lần 2.”.\nc) Sửa đổi, bổ sung khoản 5 như sau:\n“5. Hợp đồng khung và phụ lục hợp đồng được giao kết bằng văn bản giấy (có đầy đủ dấu và chữ ký trực tiếp của người có thẩm quyền đại diện các bên thực hiện hợp đồng) hoặc văn bản điện tử (được ký số bởi người có thẩm quyền và ký số của cơ quan, tổ chức theo quy định của pháp luật), phù hợp với quy định về giao dịch điện tử trong hoạt động nghiệp vụ KBNN.”.\n4. Sửa đổi, bổ sung một số khoản của Điều 10 như sau:\na) Sửa đổi, bổ sung khoản 2 như sau:\n“2. Từ 9h00 - 10h30 ngày T, các NHTM gửi lệnh chào chắc chắn theo quy chế giao dịch của Sở Giao dịch Chứng khoán, đảm bảo tổng khối lượng chào giá tại tất cả các kỳ hạn mua lại TPCP không vượt quá hạn mức dư nợ giao dịch còn lại của NHTM đó (lệnh chào gửi sau 10h30 không có hiệu lực), cụ thể:\na) Đối với mỗi loại kỳ hạn mua lại TPCP, mỗi NHTM được chào tối đa năm (05) lệnh chào đối với mỗi loại kỳ hạn mua lại TPCP, đảm bảo tổng khối lượng chào không vượt quá tổng khối lượng KBNN yêu cầu chào giá đối với loại kỳ hạn đó.\nb) Mỗi lệnh chào bao gồm lãi suất chào mua lại có kỳ hạn (tính đến 2 chữ số thập phân); một (01) hoặc nhiều mã TPCP được sử dụng để làm tài sản đảm bảo trong giao dịch mua lại có kỳ hạn TPCP, khối lượng chào tính theo mệnh giá TPCP tương ứng cho từng mã TPCP và các nội dung khác liên quan.\nc) Khối lượng chào tính theo mệnh giá TPCP của mỗi lệnh chào không thấp hơn mức tối thiểu theo thông báo của KBNN trong từng thời kỳ.”\nb) Sửa đổi, bổ sung khoản 3 như sau:\n“3. Từ 10h30 - 10h45 ngày T, KBNN thực hiện mở các bàn chào trên hệ thống giao dịch công cụ nợ của Sở Giao dịch Chứng khoán. Căn cứ các lệnh chào nhận được trên hệ thống giao dịch công cụ nợ của Sở Giao dịch Chứng khoán, KBNN xác định kết quả mua lại có kỳ hạn TPCP theo quy định tại Điều 11 Thông tư này.”\n5. Sửa đổi, bổ sung một số khoản của Điều 12 như sau:\na) Sửa đổi, bổ sung khoản 1 như sau:\n“1. Giá trị giao dịch lần 1 của KBNN tương ứng với từng lệnh chào được xác định theo công thức:\n“3. Giá trị giao dịch lần 2 của KBNN tương ứng với từng lệnh chào được xác định theo công thức sau:\nTrong đó, V2 là giá trị giao dịch lần 2.\".\nKL: Khối lượng TPCP giao dịch tương ứng với mã TPCP i (= khối lượng mua lại có kỳ hạn của mã TPCP đó tính theo mệnh giá/ mệnh giá trái phiếu).”.\nGG: Giá gộp lãi danh nghĩa của một (01) trái phiếu của mã TPCP i, được tính theo quy định tại Điều 13 Thông tư này.\nTrong đó:\nH: Tỷ lệ phòng vệ rủi ro được quy đổi sang số thập phân, được quy định là 5% tính trên giá gộp lãi danh nghĩa của TPCP đối với TPCP có kỳ hạn còn lại dưới năm (05) năm và 10% tính trên giá gộp lãi danh nghĩa của TPCP đối với TPCP có kỳ hạn còn lại từ năm (05) năm trở lên.\nTrong đó, V<sub>1</sub> là giá trị giao dịch lần 1 tương ứng với từng mã TPCP của lệnh chào được lựa chọn, được tính như sau: Trong đó, V<sub>2</sub> là giá trị giao dịch lần 2.”\nF : Số ngày thực tế trong kỳ trả lãi giả định mà TPCP được mua lại có kỳ hạn.\nMG = Mệnh giá TPCP.\nTrong đó:\n\"Điều 13. Giá gộp lãi danh nghĩa, lãi danh nghĩa tích gộp và giá yết TPCP\nV<sub>i</sub>: Giá trị giao dịch lần 1 tương ứng với mã TPCP i của lệnh chào được lựa chọn (làm tròn xuống đơn vị đồng).\na.1) Đối với TPCP không thanh toán lãi định kỳ có kỳ hạn còn lại trên một (01) năm:\na) Xác định giá một (01) TPCP không thanh toán lãi định kỳ\n1. Giá gộp lãi danh nghĩa:\n6. Sửa đổi, bổ sung Điều 13 như sau:\nb) Sửa đổi, bổ sung khoản 3 như sau:\nt = Số lần trả lãi giả định kể từ ngày thanh toán giao dịch lần 1 đến ngày TPCP đáo hạn.\nLt = Lãi suất chiết khấu TPCP (%/năm), là lãi suất cho đến khi đáo hạn (YTM) được Sở Giao dịch Chứng khoán công bố trong ngày tổ chức mua lại có kỳ hạn TPCP đối với mã TPCP được sử dụng trong giao dịch trên trang thông tin điện tử của Sở Giao dịch Chứng khoán (phần đường cong lợi suất). Lt = Lãi suất chiết khấu TPCP (%/năm), là lãi suất cho đến khi đáo hạn (YTM) được Sở Giao dịch Chứng khoán công bố trong ngày tổ chức mua lại có kỳ hạn TPCP đối với mã TPCP được sử dụng trong giao dịch trên trang thông tin điện tử của Sở Giao dịch Chứng khoán (phần đường cong lợi suất).\na.2) Đối với TPCP không thanh toán lãi định kỳ có kỳ hạn còn lại từ một (01) năm trở xuống:\n1 GG = MG X 1 T Lt X a/E\nTrong đó:\nGG = Giá một (01) TPCP (được làm tròn xuống đơn vị đồng). GG = Giá một (01) TPCP (được làm tròn xuống đơn vị đồng).\nMG = Mệnh giá TPCP. MG = Mệnh giá TPCP.\na = Số ngày kể từ ngày thanh toán giao dịch lần 1 cho đến ngày TPCP đáo hạn.\nE = Số ngày thực tế trong kỳ trả lãi giả định mà TPCP được mua lại có kỳ hạn.\nLt = Lãi suất chiết khấu TPCP (%/năm), là lãi suất cho đến khi đáo hạn (YTM) được Sở Giao dịch Chứng khoán công bố trong ngày tổ chức mua lại có kỳ hạn TPCP đối với mã TPCP được sử dụng trong giao dịch trên trang thông tin điện tử của Sở Giao dịch Chứng khoán (phân đường cong lợi suất).\nb) Xác định giá một (01) TPCP có lãi suất danh nghĩa cố định, thanh toán lãi định kỳ và có các kỳ trả lãi bằng nhau:\nb.1) Đối với TPCP có kỳ hạn còn lại trên một (01) năm:\nTrường hợp ngày thanh toán giao dịch lần 1 trước hoặc vào ngày đăng ký cuối cùng của kỳ trả lãi kế tiếp, giá một (01) TPCP được xác định như sau:\nTrường hợp ngày thanh toán giao dịch lần 1 sau ngày đăng ký cuối cùng của kỳ trả lãi kế tiếp, giá một (01) TPCP được xác định như sau:\nTrong đó:\nmột (01) TPCP (được làm tròn xuống đơn vị đông).\nMG Mệnh giá TPCP.\nLe - Lãi suất danh nghĩa TPCP (%/năm).\nk = Số lần thanh toán lãi định kỳ trong 1 năm.\nd = Số ngày thực tế giữa ngày thanh toán giao dịch lần 1 và ngày thanh toán tiền lãi kế tiếp.\nIi = Số ngày thực tế trong kỳ trả lãi mà TPCP được mua lại có kỳ hạn.\nt = Số lần thanh toán lãi TPCP giữa ngày thanh toán giao dịch lần 1 và ngày TPCP đáo hạn.\nLt = Lãi suất chiết khấu TPCP (%/năm), là lãi suất cho đến khi đáo hạn (YTM) được Sở Giao dịch Chứng khoán công bố trong ngày tổ chức mua lại có kỳ hạn TPCP đối với mã TPCP được sử dụng trong giao dịch trên trang thông tin điện tử của Sở Giao dịch Chứng khoán (phần đường cong lợi suất).\nb.2) Đối với TPCP có kỳ hạn còn lại từ một (01) năm trở xuống:\nĐối với TPCP được thanh toán lãi mười hai (12) tháng một lần, giá một (01) TPCP được xác định như sau:\nĐối với TPCP được thanh toán lãi sáu (06) tháng một lần:\n+ Trường hợp ngày thanh toán giao dịch lần 1 trước hoặc vào ngày đăng ký cuối cùng của kỳ trả lãi kế tiếp, giá một (01) TPCP được xác định như sau:\n+ Trường hợp ngày thanh toán giao dịch lần 1 sau ngày đăng ký cuối cùng của kỳ trả lãi kế tiếp, giá một (01) TPCP được xác định như sau:\n1/2 X (t - 1) + 1 GG = MG X 1 . + 4/2 X (FE + t - 1)\nTrong đó:\nGG: Giá một (01) TPCP (được làm tròn xuống đơn vị đồng).\nMG: Mệnh giá TPCP.\n1.c – Lãi suất danh nghĩa TPCP (%/năm). Ic: Lãi suất danh nghĩa TPCP (%/năm).\nd: Số ngày thực tế giữa ngày thanh toán giao dịch lần 1 và ngày thanh toán tiền lãi kế tiếp.\nE: Số ngày thực tế trong kỳ trả lãi mà TPCP được mua lại có kỳ hạn.\nt: Số lần thanh toán lãi của TPCP giữa ngày thanh toán giao dịch lần 1 và ngày TPCP đáo hạn.\nLt: Lãi suất chiết khấu TPCP (%/năm), là lãi suất cho đến khi đáo hạn (YTM) được Sở Giao dịch Chứng khoán công bố trong ngày tổ chức mua lại có kỳ hạn TPCP đối với mã TPCP được sử dụng trong giao dịch trên trang thông tin điện tử của Sở Giao dịch Chứng khoán (phần đường cong lợi suất).\nc) Xác định giá một (01) TPCP có lãi suất danh nghĩa cố định, thanh toán lãi định kỳ và có kỳ trả lãi đầu tiên ngắn hơn hoặc dài hơn so với các kỳ trả lãi tiếp theo:\nc.1) Đối với TPCP có kỳ hạn còn lại trên một (01) năm:\nTrường hợp ngày thanh toán giao dịch lần 1 trước hoặc vào ngày đăng ký cuối cùng để nhận được tiền lãi TPCP của kỳ trả lãi đầu tiên:\nTrường hợp số ngày thực tế từ ngày thanh toán giao dịch lần 1 đến ngày thanh toán tiền lãi của kỳ trả lãi đầu tiên ngắn hơn một (01) kỳ trả lãi thông thường, giá một (01) TPCP được xác định như sau:\nTrường hợp số ngày thực tế từ ngày thanh toán giao dịch lần 1 đến ngày thanh toán tiền lãi của kỳ trả lãi đầu tiên dài hơn hoặc bằng một (01) kỳ trả lãi thông thường, giá một (01) TPCP được xác định như sau:\nTrong đó:\nGG = Giá một (01) TPCP (được làm tròn xuống đơn vị đồng).\nGL1 = Số tiền thanh toán lãi của một (01) TPCP đối với kỳ trả lãi đầu tiên theo điều khoản của TPCP khi phát hành lần đầu.\nMG = Mệnh giá TPCP.\nLt – Lãi suất chiết khấu TPCP (%/năm), là lãi suất cho đến khi đáo hạn (YTM) được Sở Giao dịch Chứng khoán công bố trong ngày tổ chức mua lại có kỳ hạn TPCP đối với mã TPCP được sử dụng trong giao dịch trên trang thông tin điện tử của Sở Giao dịch Chứng khoán (phần đường cong lợi suất).\nI.c = Lãi suất danh nghĩa TPCP (%/năm).\nk = Số lần thanh toán lãi định kỳ trong 1 năm.\na1 = Số ngày thực tế giữa ngày thanh toán giao dịch lần 1 và ngày thanh toán tiền lãi TPCP đầu tiên theo điều khoản của TPCP khi phát hành lần đầu.\nc.(2) Đối với TPCP có kỳ hạn còn lại từ một (01) năm trở xuống, giá một (01) TPCP được xác định theo quy định tại tiết b.2 điểm b khoản này.\na2 = Số ngày thực tế từ ngày thanh toán giao dịch lần 1 đến ngày thanh toán tiền lãi thông thường theo giả định.\na.1) Đối với TPCP có lãi suất danh nghĩa cố định, thanh toán lãi định kỳ và có các kỳ trả lãi bằng nhau:\nd) Bộ Tài chính thông báo cách xác định giá gộp lãi danh nghĩa trong trường hợp lãi suất danh nghĩa TPCP là lãi suất thả nổi khi phát sinh.\nTrường hợp ngày thanh toán giao dịch lần 1 sau ngày đăng ký cuối cùng để nhận được tiền lãi TPCP của kỳ trả lãi đầu tiên, giá một (01) TPCP được xác định theo quy định tại tiết b.1 điểm b khoản này.\na) Xác định lãi danh nghĩa tích gộp trong ngày giao dịch hưởng quyền:\nD_n: Số ngày từ ngày thanh toán giao dịch lần 1 đến ngày trả lãi danh nghĩa tiếp theo gần nhất hoặc từ ngày thanh toán giao dịch lần 1 đến ngày TPCP đáo hạn.\na.2) Đối với TPCP có lãi suất danh nghĩa cố định, thanh toán lãi định kỳ và có kỳ trả lãi đầu tiên ngắn hơn so với các kỳ trả lãi tiếp theo\nMG: Mệnh giá TPCP.\n2. Lãi danh nghĩa tích gộp:\nCe: Lãi danh nghĩa tích gộp trong ngày giao dịch hưởng quyền.\n7\nt = Số lần thanh toán lãi giữa ngày thanh toán giao dịch lần 1 và ngày TPCP đáo hạn.\nTrong đó:\nXác định lãi danh nghĩa tích gộp trong ngày giao dịch hưởng quyền của kỳ trả lãi đầu tiên như sau:\nE = Số ngày thực tế trong kỳ trả lãi thông thường theo điều khoản của TPCP khi phát hành lần đầu.\nTrong đó:\nl: Số ngày thực tế của kỳ trả lãi TPCP hiện tại.\nCc: Lãi danh nghĩa tích gộp trong ngày giao dịch hưởng quyền. Cc: Lãi danh nghĩa tích gộp trong ngày giao dịch hưởng quyền.\nDn: Số ngày từ ngày thanh toán giao dịch lần 1 đến ngày trả lãi danh nghĩa tiếp theo gần nhất hoặc từ ngày thanh toán giao dịch lần 1 đến ngày TPCP đáo hạn.\nCc: Lãi danh nghĩa tích gộp trong ngày giao dịch hưởng quyền.\na.3) Đối với TPCP có lãi suất danh nghĩa cố định, thanh toán lãi định kỳ và có kỳ trả lãi đầu tiên dài hơn so với các kỳ trả lãi tiếp theo:\nTrong đó:\nTrường hợp ngày thanh toán giao dịch lần 1 diễn ra trước hoặc trùng với ngày trả lãi danh nghĩa thông thường theo giả định của kỳ trả lãi đầu tiên, lãi danh nghĩa tích gộp của kỳ trả lãi đầu tiên được xác định như sau:\nRc - Le/k, trong đó: Lc là lãi suất danh nghĩa TPCP (%/năm). k là số lần thanh toán lãi trong năm.\nTrường hợp ngày thanh toán giao dịch lần 1 diễn ra sau ngày trả lãi danh nghĩa thông thường theo giả định của kỳ trả lãi đầu tiên, lãi danh nghĩa tích gộp của kỳ trả lãi đầu tiên được xác định như sau:\nTrong đó:\nRc = Lc/k, trong đó: Lc là lãi suất danh nghĩa TPCP (%/năm), k là số lần thanh toán lãi trong năm. Rc – Lc/k, trong đó: Lc là lãi suất danh nghĩa TPCP (%/năm), k là số lần thanh toán lãi trong năm.\nE2: Số ngày thực tế trong kỳ trả lãi TPCP thông thường theo giả định có ngày thanh toán giao dịch lần 1 diễn ra.\nCc: Lãi danh nghĩa tích gộp trong ngày giao dịch hưởng quyền.\nMG: Mệnh giá TPCP.\nXác định lãi danh nghĩa tích gộp trong ngày giao dịch hưởng quyền của các kỳ trả lãi tiếp theo theo công thức tại tiết a.1 điểm này.\nDn: Số ngày từ ngày thanh toán giao dịch lần 1 đến ngày trả lãi danh nghĩa thông thường theo giả định tiếp theo gần nhất.\n8\nD1: Số ngày từ ngày phát hành TPCP lần đầu đến ngày trả lãi danh nghĩa tiếp theo gần nhất.\nb) Xác định lãi danh nghĩa tích gộp trong ngày giao dịch không hướng quyền\nMG: Mệnh giá TPCP.\nDa: Số ngày từ ngày thanh toán giao dịch lần 1 đến ngày trả lãi danh nghĩa tiếp theo gần nhất hoặc từ ngày thanh toán giao dịch lần 1 đến ngày TPCP đáo hạn.\nb.2) Đối với TPCP có lãi suất danh nghĩa cố định, thanh toán lãi định kỳ và có kỳ trả lãi đầu tiên ngắn hơn hoặc dài hơn so với các kỳ trả lãi tiếp theo\nE1: Số ngày thực tế trong kỳ trả lãi TPCP thông thường theo giả định có ngày phát hành TPCP lần đầu diễn ra.\nb) Xác định lãi danh nghĩa tích gộp trong ngày giao dịch không hưởng quyền b.1) Đối với TPCP có lãi suất danh nghĩa cố định, thanh toán lãi định kỳ và có các kỳ trả lãi bằng nhau\nRc = Lc/k, trong đó: Lc là lãi suất danh nghĩa TPCP (%/năm), k là số lần thanh toán lãi trong năm. Rc = Lc/k, trong đó: Lc là lãi suất danh nghĩa TPCP (%/năm), k là số lần thanh toán lãi trong năm.\nXác định lãi danh nghĩa tích gộp trong ngày giao dịch không hưởng quyền của kỳ trả lãi đầu tiên:\nE: Số ngày thực tế của kỳ trả lãi TPCP hiện tại.\nRc Lc/k, trong đó: Le là lãi suất danh nghĩa TPCP (%/năm). k là số lần thanh toán lãi trong năm.\nTrong đó:\nE2: Số ngày thực tế trong kỳ trả lãi TPCP thông thường theo giả định có ngày thanh toán giao dịch lần 1 diễn ra.\nXác định lãi danh nghĩa tích gộp trong ngày giao dịch hưởng quyền của các kỳ trả lãi tiếp theo theo công thức tại tiết a.1 điểm này.\nCx: Lãi danh nghĩa tích gộp trong ngày giao dịch không hưởng quyền. Cx: Lãi danh nghĩa tích gộp trong ngày giao dịch không hưởng quyền.\nDn: Số ngày từ ngày thanh toán giao dịch lần 1 đến ngày trả lãi danh nghĩa tiếp theo gần nhất hoặc từ ngày thanh toán giao dịch lần 1 đến ngày TPCP đáo hạn. Dn: Số ngày từ ngày thanh toán giao dịch lần 1 đến ngày trả lãi danh nghĩa tiếp theo gần nhất hoặc từ ngày thanh toán giao dịch lần 1 đến ngày TPCP đáo hạn.\nTrong đó:\nD2: Số ngày từ ngày phát hành TPCP lần đầu đến ngày trả lãi danh nghĩa thông thường theo giả định tiếp theo gần nhất.\nRc = Lc/k, trong đó: Lc là lãi suất danh nghĩa TPCP (%/năm), k là số lần thanh toán lãi trong năm.\nD_n: Số ngày từ ngày thanh toán giao dịch lần 1 đến ngày trả lãi danh nghĩa tiếp theo gần nhất hoặc từ ngày thanh toán giao dịch lần 1 đến ngày TPCP đáo hạn.\nE_2: Số ngày thực tế trong kỳ trả lãi TPCP thông thường theo giả định có ngày thanh toán giao dịch lần 1 diễn ra.\nXác định lãi danh nghĩa tích gộp trong ngày giao dịch không hưởng quyền của các kỳ trả lãi tiếp theo theo công thức tại tiết b.1 điểm này.\nc) Trong trường hợp ngày thanh toán giao dịch lần 1 trùng với ngày trả lãi danh nghĩa, lãi danh nghĩa tích gộp được xác định bằng 0.\n3. Giá yết TPCP\na) Xác định giá yết trong ngày giao dịch hưởng quyền\nG = GG – Cc G = GG G = GG\nTrong đó:\nG: Giá yết (được làm tròn xuống đơn vị đồng).\nGG: Giá gộp lãi danh nghĩa một (01) TPCP.\nCc: Lãi danh nghĩa tích gộp trong ngày giao dịch hưởng quyền.\nb) Xác định giá yết trong ngày giao dịch không hưởng quyền\nG = GG + Cx\nTrong đó:\nG: Giá yết (được làm tròn xuống đơn vị đồng).\nGG: Giá gộp lãi danh nghĩa một TPCP.\nCx: Lãi danh nghĩa tích gộp trong ngày giao dịch không hưởng quyền.\nc) Xác định giá yết trong trường hợp ngày thanh toán giao dịch lần 1 trùng với ngày trả lãi danh nghĩa\nTrong đó: Trong đó\nG: Giá yết. G: Giá yết.\nGG: Giá gộp lãi danh nghĩa một (01) TPCP.\nd) Đối với TPCP không thanh toán lãi định kỳ:\nG , GG\nGG: Giá gộp lãi danh nghĩa một (01) TPCP. GG: Giá gộp lãi danh nghĩa một (01) TPCP.\n7. Sửa đổi, bổ sung khoản 2 Điều 15 như sau:\n“2. Trường hợp KBNN và NHTM không thống nhất được về việc điều chỉnh thời gian thanh toán hoặc sau thời hạn thanh toán quy định tại khoản 1 Điều này mà NHTM vẫn không thực hiện thanh toán cho KBNN, KBNN giữ TPCP cho đến khi đáo hạn và nhận gốc, lãi TPCP để khấu trừ toàn bộ nghĩa vụ phải thanh toán (giá trị giao dịch lần 2 và tiền phạt chậm thanh toán tính đến hết ngày liền kề trước ngày TPCP đáo hạn) của NHTM; số tiền còn lại (nếu có), KBNN trả lại cho NHTM trong vòng năm (05) ngày làm việc, kể từ ngày TPCP đáo hạn.”.\n8. Bổ sung Điều 15a vào sau Điều 15 như sau:\n“Điều 15a. Tiền lãi danh nghĩa TPCP\n1. Trường hợp KBNN nhận được tiền lãi danh nghĩa TPCP trong thời gian mua lại có kỳ hạn TPCP, KBNN có trách nhiệm hoàn trả số tiền lãi danh nghĩa TPCP đã nhận được cho các NHTM theo mã TPCP mà KBNN nhận được tiền lãi danh nghĩa. Việc hoàn trả tiền lãi danh nghĩa TPCP được thực hiện bên ngoài hệ thống giao dịch công cụ nợ của Sở Giao dịch Chứng khoán; thời điểm hoàn trả lãi danh nghĩa do hai bên tự thống nhất, nhưng không được muộn hơn năm (05) ngày làm việc, kể từ ngày thực thanh toán lãi trái phiếu.\n2. Trường hợp chuyển tiền lãi danh nghĩa chậm, KBNN có trách nhiệm thanh toán tiền phạt chậm thanh toán cho NHTM đối với số ngày chậm thanh toán theo mức lãi suất phạt chậm thanh toán quy định tại khoản 2 Điều 14 Thông tư này.”\n9. Sửa đổi, bổ sung Điều 17 như sau:\n“Điều 17. Công bố thông tin\n1. Chậm nhất vào ngày làm việc cuối cùng của tuần liền kề trước tuần thực hiện giao dịch, KBNN công bố thông tin trên trang thông tin điện tử của KBNN về lịch biểu giao dịch mua lại có kỳ hạn TPCP dự kiến của tuần thực hiện giao dịch tiếp theo; đồng thời, cung cấp thông tin cho Sở Giao dịch Chứng khoán để đăng tải trên công thông tin điện tử của Sở Giao dịch Chứng khoán.\n2. Chậm nhất ngày 10 hàng tháng, KBNN công bố thông tin trên trang thông tin điện tử của KBNN về kết quả mua lại có kỳ hạn TPCP trong tháng liền kề trước đó (khối lượng, lãi suất mua lại có kỳ hạn TPCP bình quân gia quyền tương ứng với loại kỳ hạn); đồng thời, cung cấp thông tin cho Sở Giao dịch Chứng khoán để đăng tải trên công thông tin điện tử của Sở Giao dịch Chứng khoán.”\n10. Sửa đổi, bổ sung một số khoản của Điều 18 như sau:\na) Bổ sung điểm c vào khoản 1 Điều 18 như sau:\n“c) Cung cấp thông tin về lịch biểu giao dịch mua lại có kỳ hạn TPCP dự kiến của tuần thực hiện giao dịch tiếp theo và kết quả mua lại có kỳ hạn TPCP trong tháng liền kề trước đó cho Sở Giao dịch Chứng khoán theo quy định tại Điều 17 Thông tư này.”\nb) Bổ sung điểm c và d vào khoản 2 Điều 18 như sau:\n“c) Công bố thông tin về lịch biểu giao dịch mua lại có kỳ hạn TPCP dự kiến của tuần thực hiện giao dịch tiếp theo và kết quả mua lại có kỳ hạn TPCP trong tháng liền kề trước đó theo quy định tại Điều 17 Thông tư này.\nd) Định kỳ hàng tháng, cung cấp thông tin về giao dịch mua lại có kỳ hạn TPCP trên thị trường (gồm: kỳ hạn mua lại TPCP, lãi suất mua lại có kỳ hạn TPCP, mã TPCP, giá yết TPCP, giá thực hiện, lãi suất chiếu khấu TPCP, giá trị giao dịch lần 1, giá trị giao dịch lần 2) cho KBNN để phục vụ đánh giá tình hình thị trường.”",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Điều khoản chuyển tiếp",
+                    "position": 219,
+                    "children": [],
+                    "content": "Các giao dịch mua lại có kỳ hạn TPCP có ngày thanh toán giao dịch lần 1 trước ngày Thông tư này có hiệu lực thi hành và ngày thanh toán giao dịch lần 2 sau ngày Thông tư này có hiệu lực thi hành thì được tiếp tục áp dụng theo các quy định tại Thông tư số 107/2020/TT-BTC ngày 21 tháng 12 năm 2020 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch mua lại có kỳ hạn TPCP từ nguồn ngân quỹ nhà nước tạm thời nhàn rỗi của KBNN."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "3",
+                    "title": "Hiệu lực thi hành và tổ chức thực hiện",
+                    "position": 221,
+                    "children": [],
+                    "content": "1. Thông tư này có hiệu lực thi hành kể từ ngày 04 tháng .5 năm 2023.\n2. KBNN, các cơ quan, đơn vị, tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.\nBan Bí thư Trung ương Đảng; Thủ tướng, các Phó Thủ tướng Chính phủ; Văn phòng Trung ương và các Ban của Đảng; Văn phòng Quốc hội; Văn phòng Chủ tịch nước; Văn phòng Chính phủ; Toà án Nhân dân tối cao; Viện Kiểm sát Nhân dân tối cao; Kiểm toán Nhà nước; Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; Cơ quan Trung ương của các đoàn thể; UBND các tỉnh, thành phố trực thuộc TW; Sở Tài chính, KBNN, Cục Thuế, Cục Hải quan các tỉnh, thành phố trực thuộc Trung ương; Cục Kiểm tra văn bản quy phạm pháp luật, Bộ Tư pháp; Công báo; Cổng thông tin điện tử của Chính phủ; Công thông tin điện tử của Bộ Tài chính; Các đơn vị thuộc Bộ Tài chính; Lưu: VT, KBNN (255 bản)/_6"
+                }
+            ],
+            "metadata": {
+                "total_units": 11,
+                "total_articles": 3,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 1,
+                "depth": 1,
+                "source": "ocr"
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [
+            "Tài chính",
+            "Thương mại, đầu tư, chứng khoán"
+        ],
+        "edges": {
+            "amends": [
+                {
+                    "official_number_target": "107/2020/TT-BTC",
+                    "type": "AMEND_ADD",
+                    "effective_from": "2023-05-04",
+                    "affected_articles": [
+                        "Khoản 5 Điều 3",
+                        "Khoản 1 Điều 5",
+                        "Khoản 4 Điều 9 (a)",
+                        "Khoản 4 Điều 9 (c)",
+                        "Khoản 5 Điều 9",
+                        "Khoản 2 Điều 10",
+                        "Khoản 3 Điều 10",
+                        "Khoản 1 Điều 12",
+                        "Khoản 2 Điều 15",
+                        "Điều 15a",
+                        "Điều 17",
+                        "Khoản 1 Điều 18 (c)",
+                        "Khoản 2 Điều 18 (c)",
+                        "Khoản 2 Điều 18 (d)"
+                    ],
+                    "amendment_scope": "PARTIAL"
+                }
+            ],
+            "mentions": [],
+            "abolished": []
+        }
+    },
+    "verification": {
+        "official_number_match": false,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 1,
+                "llm_count": 1,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "Số hiệu không khớp: crawl='12/2023/TT-BTC', regex='107/2020/TT-BTC'"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "12/2023/TT-BTC",
+            "target_id": "54/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "12/2023/TT-BTC",
+            "target_id": "95/2018/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "12/2023/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "12/2023/TT-BTC",
+            "target_id": "24/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "12/2023/TT-BTC",
+            "target_id": "83/2025/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "12/2023/TT-BTC",
+            "target_id": "107/2020/TT-BTC",
+            "properties": {
+                "source": "crawled",
+                "type": "AMEND_ADD",
+                "effective_from": "2023-05-04",
+                "affected_articles": [
+                    "Khoản 5 Điều 3",
+                    "Khoản 1 Điều 5",
+                    "Khoản 4 Điều 9 (a)",
+                    "Khoản 4 Điều 9 (c)",
+                    "Khoản 5 Điều 9",
+                    "Khoản 2 Điều 10",
+                    "Khoản 3 Điều 10",
+                    "Khoản 1 Điều 12",
+                    "Khoản 2 Điều 15",
+                    "Điều 15a",
+                    "Điều 17",
+                    "Khoản 1 Điều 18 (c)",
+                    "Khoản 2 Điều 18 (c)",
+                    "Khoản 2 Điều 18 (d)"
+                ],
+                "amendment_scope": "PARTIAL"
+            },
+            "_crawled": true
+        }
+    ]
+}
