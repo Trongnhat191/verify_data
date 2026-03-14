@@ -31,32 +31,40 @@
             "effective_date": null,
             "expiration_date": null
         },
-        "issuing_place": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Hà Nội",
+        "issuing_place": "Hà Nội",
         "document_structure": {
             "root_units": [
                 {
-                    "type": "ARTICLE",
-                    "number": "1",
-                    "title": "Phạm vi điều chỉnh",
-                    "position": 9,
-                    "children": [],
-                    "content": "Thông tư này quy định tiêu chí phân loại, điều kiện thành lập, sáp nhập, hợp nhất, giải thể các đơn vị sự nghiệp công lập thuộc ngành, lĩnh vực quản lý nhà nước của Bộ Tài chính theo quy định pháp luật (sau đây gọi là lĩnh vực tài chính)."
-                },
-                {
-                    "type": "ARTICLE",
-                    "number": "2",
-                    "title": "Đối tượng áp dụng",
-                    "position": 11,
-                    "children": [],
-                    "content": "1. Thông tư này áp dụng đối với:\na) Các đơn vị sự nghiệp công lập được cấp có thẩm quyền thành lập theo quy định của pháp luật có hoạt động sự nghiệp công thuộc lĩnh vực tài chính.\nb) Cơ quan, tổ chức, cá nhân có liên quan trong việc thành lập, sáp nhập, hợp nhất, giải thể đơn vị sự nghiệp công lập thuộc lĩnh vực tài chính.\n2. Thông tư này không áp dụng đối với:\na) Đơn vị sự nghiệp công lập thuộc Bộ Công an, Bộ Quốc phòng (nếu có).\nb) Đơn vị sự nghiệp công lập thuộc thẩm quyền quản lý của Bộ Tài chính và Sở Tài chính tỉnh, thành phố hoạt động trong lĩnh vực thông tin và truyền\nthông, khoa học và công nghệ, giáo dục đào tạo và sự nghiệp kinh tế, sự nghiệp khác ngoài lĩnh vực tài chính.\nc) Quỹ tài chính nhà nước ngoài ngân sách hoặc tổ chức khác hoạt động trong lĩnh vực tài chính hoạt động theo cơ chế như đơn vị sự nghiệp công lập.\nd) Đơn vị sự nghiệp quy định tại khoản 6, khoản 7 Điều 2 Nghị định số 120/2020/NĐ-CP ngày 07 tháng 10 năm 2020 của Chính phủ quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập (trừ trường hợp pháp luật có quy định khác)."
-                },
-                {
-                    "type": "ARTICLE",
-                    "number": "3",
-                    "title": "Nguyên tắc thành lập, sáp nhập, hợp nhất, giải thể các đơn vị sự nghiệp công lập thuộc lĩnh vực tài chính",
-                    "position": 22,
-                    "children": [],
-                    "content": "Việc thành lập, sáp nhập, hợp nhất, giải thể các đơn vị sự nghiệp công lập thuộc lĩnh vực tài chính phải phù hợp với quy định tại Điều 4 Nghị định số 120/2020/NĐ-CP ngày 07 tháng 10 năm 2020 của Chính phủ quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập (sau đây gọi là Nghị định số 120/2020/NĐ-CP)."
+                    "type": "CHAPTER",
+                    "number": "I",
+                    "title": "QUY ĐỊNH CHUNG",
+                    "position": X,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "1",
+                            "title": "Phạm vi điều chỉnh",
+                            "position": 9,
+                            "children": [],
+                            "content": "Thông tư này quy định tiêu chí phân loại, điều kiện thành lập, sáp nhập, hợp nhất, giải thể các đơn vị sự nghiệp công lập thuộc ngành, lĩnh vực quản lý nhà nước của Bộ Tài chính theo quy định pháp luật (sau đây gọi là lĩnh vực tài chính)."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "2",
+                            "title": "Đối tượng áp dụng",
+                            "position": 11,
+                            "children": [],
+                            "content": "1. Thông tư này áp dụng đối với:\na) Các đơn vị sự nghiệp công lập được cấp có thẩm quyền thành lập theo quy định của pháp luật có hoạt động sự nghiệp công thuộc lĩnh vực tài chính.\nb) Cơ quan, tổ chức, cá nhân có liên quan trong việc thành lập, sáp nhập, hợp nhất, giải thể đơn vị sự nghiệp công lập thuộc lĩnh vực tài chính.\n2. Thông tư này không áp dụng đối với:\na) Đơn vị sự nghiệp công lập thuộc Bộ Công an, Bộ Quốc phòng (nếu có).\nb) Đơn vị sự nghiệp công lập thuộc thẩm quyền quản lý của Bộ Tài chính và Sở Tài chính tỉnh, thành phố hoạt động trong lĩnh vực thông tin và truyền\nthông, khoa học và công nghệ, giáo dục đào tạo và sự nghiệp kinh tế, sự nghiệp khác ngoài lĩnh vực tài chính.\nc) Quỹ tài chính nhà nước ngoài ngân sách hoặc tổ chức khác hoạt động trong lĩnh vực tài chính hoạt động theo cơ chế như đơn vị sự nghiệp công lập.\nd) Đơn vị sự nghiệp quy định tại khoản 6, khoản 7 Điều 2 Nghị định số 120/2020/NĐ-CP ngày 07 tháng 10 năm 2020 của Chính phủ quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập (trừ trường hợp pháp luật có quy định khác)."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "3",
+                            "title": "Nguyên tắc thành lập, sáp nhập, hợp nhất, giải thể các đơn vị sự nghiệp công lập thuộc lĩnh vực tài chính",
+                            "position": 22,
+                            "children": [],
+                            "content": "Việc thành lập, sáp nhập, hợp nhất, giải thể các đơn vị sự nghiệp công lập thuộc lĩnh vực tài chính phải phù hợp với quy định tại Điều 4 Nghị định số 120/2020/NĐ-CP ngày 07 tháng 10 năm 2020 của Chính phủ quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập (sau đây gọi là Nghị định số 120/2020/NĐ-CP)."
+                        }
+                    ]
                 },
                 {
                     "type": "CHAPTER",
@@ -95,14 +103,22 @@
                             "position": 52,
                             "children": [],
                             "content": "1. Việc giải thể đơn vị sự nghiệp công lập được thực hiện khi có một trong các điều kiện sau:\na) Không còn chức năng, nhiệm vụ theo quy định tại điểm a khoản 3 Điều 5 Nghị định số 120/2020/NĐ-CP\nb) Không xác định rõ mục tiêu, chức năng, nhiệm vụ của đơn vị cung cấp dịch vụ sự nghiệp công, phục vụ quản lý nhà nước theo quy định tại điểm c khoản 1 Điều 5 Nghị định số 120/2020/NĐ-CP.\nc) Không đảm bảo số lượng người làm việc tối thiểu theo quy định tại điểm d khoản 1 Điều 5 Nghị định số 120/2020/NĐ-CP và cơ quan, đơn vị không có đơn vị sự nghiệp công lập khác phù hợp về chức năng, nhiệm vụ để sáp nhập, hợp nhất.\nd) Không đảm bảo mức độ tự chủ từ 30% trở lên chi thường xuyên hoặc có 30% số lượng người làm việc trở lên được hưởng lương từ nguồn thu sự nghiệp theo quy định tại khoản 3 Điều 5 Thông tư này (đối với đơn vị sự nghiệp công lập được thành lập trước ngày Thông tư này có hiệu lực) hoặc không còn khả năng đảm bảo mức độ tự chủ theo quy định tại khoản 2 Điều 4 Nghị định số 120/2020/NĐ-CP (đối với đơn vị sự nghiệp công lập được thành lập từ ngày Thông tư này có hiệu lực) và cơ quan, đơn vị không có đơn vị sự nghiệp công lập khác phù hợp về chức năng, nhiệm vụ để sáp nhập, hợp nhất.\nđ) Không đảm bao điều kiện theo quy định cua pháp luật chuyên ngành (nếu có).\ne) Đáp ứng một trong các điều kiện quy định tại điểm c, điểm d khoản 3 Điều 5 Nghị định số 120/2020/NĐ-CP.\n2. Đơn vị sự nghiệp công lập chi thực hiện giải thể sau khi hoàn thành nghĩa vụ về tài chính, tài sản, đất đai, các khoản vay, nợ phải trả và các nghĩa vụ khác có liên quan và được cơ quan, tổ chức có thẩm quyền xác nhận bằng văn bản."
-                        },
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "III",
+                    "title": "ĐIỀU KHOẢN THI HÀNH",
+                    "position": 60,
+                    "children": [
                         {
                             "type": "ARTICLE",
                             "number": "8",
                             "title": "Hiệu lực thi hành",
                             "position": 63,
-                            "children": [],
-                            "content": "Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 02 năm 2024."
+                        "children": [],
+                        "content": "Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 02 năm 2024."
                         },
                         {
                             "type": "ARTICLE",
@@ -110,7 +126,7 @@
                             "title": "Trách nhiệm thi hành",
                             "position": 65,
                             "children": [],
-                            "content": "1. Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương có trách nhiệm chỉ đạo tổ chức triển khai thực hiện Thông tư này.\n2. Thủ trưởng các đơn vị thuộc Bộ Tài chính, Giám đốc Sở Tài chính các tỉnh, thành phố trực thuộc Trung ương, người đứng đầu đơn vị sự nghiệp công lập và các cơ quan, tổ chức có liên quan chịu trách nhiệm thi hành Thông tư này.\n3. Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, đề nghị các cơ quan, đơn vị phản ánh bằng văn bản về Bộ Tài chính để hướng dẫn, giải quyết theo quy định./.\nThủ tướng, các Phó Thủ tướng Chính phủ, Văn phòng Trung ương và các Ban của Đảng; Văn phòng Quốc hội; Văn phòng Chủ tịch nước; Văn phòng Chính phủ; Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Viện Kiểm sát nhân dân tối cao, Tòa án nhân dân tối cao; Kiểm toán Nhà nước, Ủy ban TW Mặt trận Tổ quốc Việt Nam; Cơ quan Trung ương của các đoàn thể; HĐND, UBND các tỉnh, thành phố trực thuộc TW; Sở Tài chính các tỉnh, thành phố trực thuộc Trung ương; Cục Thuế, Cục HQ, DTNN, KBNN các tỉnh, thành phố trực thuộc Trung ương; Các đơn vị, tổ chức thuộc Bộ Tài chính; Cục Kiểm tra văn bản quy phạm pháp luật (Bộ Tư pháp); Cổng TTĐT: Chính phủ, Bộ Tài chính, Lưu: VT, TCCB (300 bản)."
+                            "content": "1. Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương có trách nhiệm chỉ đạo tổ chức triển khai thực hiện Thông tư này.\n2. Thủ trưởng các đơn vị thuộc Bộ Tài chính, Giám đốc Sở Tài chính các tỉnh, thành phố trực thuộc Trung ương, người đứng đầu đơn vị sự nghiệp công lập và các cơ quan, tổ chức có liên quan chịu trách nhiệm thi hành Thông tư này.\n3. Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, đề nghị các cơ quan, đơn vị phản ánh bằng văn bản về Bộ Tài chính để hướng dẫn, giải quyết theo quy định./."
                         }
                     ]
                 }

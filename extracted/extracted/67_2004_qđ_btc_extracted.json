@@ -42,7 +42,7 @@
             "effective_date": null,
             "expiration_date": null
         },
-        "issuing_place": null,
+        "issuing_place": "Hà Nội",
         "document_structure": {
             "root_units": [
                 {
@@ -282,14 +282,22 @@
                             "position": 197,
                             "children": [],
                             "content": "1. Cung cấp đầy đủ tài liệu cần thiết phục vụ cho công việc kiểm tra, phối hợp và tạo điều kiện thuận lợi cho người được giao nhiệm vụ kiểm tra hoàn thành công việc của mình.\n2. Chấp hành các ý kiến kết luận sau khi kiểm tra, thực hiện các biện pháp khắc phục các tồn tại được phát hiện trong quá trình kiểm tra."
-                        },
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "V",
+                    "title": "TỔ CHỨC THỰC HIỆN",
+                    "position": x,
+                    "children": [
                         {
                             "type": "ARTICLE",
                             "number": "27",
                             "title": "Tổ chức thực hiện",
                             "position": 201,
                             "children": [],
-                            "content": "1. Thủ trưởng đơn vị có sử dụng kinh phí ngân sách nhà nước tổ chức quán triệt, phổ biến nội dung công tác tự kiểm tra cho toàn thể cán bộ, công chức trong đơn vị biết và thực hiện.\n2. Thủ trưởng đơn vị chỉ đạo, kết hợp với Thanh tra nhân dân cùng tiến hành công tác tự kiểm tra định kỳ, thường xuyên trong đơn vị mình và báo cáo kết quả tự kiểm tra lên đơn vị cấp trên.\n3. Hàng năm, các đơn vị cần có sự tổng kết, đánh giá công tác tự kiểm tra tài chính, kế toán nhằm hoàn thiện và nâng cao hiệu quả của công tác tự kiểm tra./.\nKT/BỘ TRƯỞNG BỘ TÀI CHÍNH Trần Văn Tá (đã ký)"
+                            "content": "1. Thủ trưởng đơn vị có sử dụng kinh phí ngân sách nhà nước tổ chức quán triệt, phổ biến nội dung công tác tự kiểm tra cho toàn thể cán bộ, công chức trong đơn vị biết và thực hiện.\n2. Thủ trưởng đơn vị chỉ đạo, kết hợp với Thanh tra nhân dân cùng tiến hành công tác tự kiểm tra định kỳ, thường xuyên trong đơn vị mình và báo cáo kết quả tự kiểm tra lên đơn vị cấp trên.\n3. Hàng năm, các đơn vị cần có sự tổng kết, đánh giá công tác tự kiểm tra tài chính, kế toán nhằm hoàn thiện và nâng cao hiệu quả của công tác tự kiểm tra./."
                         }
                     ]
                 }

@@ -53,7 +53,7 @@
         {
             "edge_type": "BasedOnEdge",
             "source_id": "12/2023/TT-BTC",
-            "target_id": "83/2025/QH13",
+            "target_id": "83/2015/QH13",
             "properties": {},
             "_crawled": true
         },
@@ -76,7 +76,7 @@
             "effective_date": null,
             "expiration_date": null
         },
-        "issuing_place": "Hạnh phúc Hà Nội",
+        "issuing_place": "Hà Nội",
         "document_structure": {
             "root_units": [
                 {
@@ -102,7 +102,7 @@
                     "title": "Hiệu lực thi hành và tổ chức thực hiện",
                     "position": 221,
                     "children": [],
-                    "content": "1. Thông tư này có hiệu lực thi hành kể từ ngày 04 tháng .5 năm 2023.\n2. KBNN, các cơ quan, đơn vị, tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.\nBan Bí thư Trung ương Đảng; Thủ tướng, các Phó Thủ tướng Chính phủ; Văn phòng Trung ương và các Ban của Đảng; Văn phòng Quốc hội; Văn phòng Chủ tịch nước; Văn phòng Chính phủ; Toà án Nhân dân tối cao; Viện Kiểm sát Nhân dân tối cao; Kiểm toán Nhà nước; Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; Cơ quan Trung ương của các đoàn thể; UBND các tỉnh, thành phố trực thuộc TW; Sở Tài chính, KBNN, Cục Thuế, Cục Hải quan các tỉnh, thành phố trực thuộc Trung ương; Cục Kiểm tra văn bản quy phạm pháp luật, Bộ Tư pháp; Công báo; Cổng thông tin điện tử của Chính phủ; Công thông tin điện tử của Bộ Tài chính; Các đơn vị thuộc Bộ Tài chính; Lưu: VT, KBNN (255 bản)/_6"
+                    "content": "1. Thông tư này có hiệu lực thi hành kể từ ngày 04 tháng 5 năm 2023.\n2. KBNN, các cơ quan, đơn vị, tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./"
                 }
             ],
             "metadata": {
@@ -211,7 +211,7 @@
         {
             "edge_type": "BasedOnEdge",
             "source_id": "12/2023/TT-BTC",
-            "target_id": "83/2025/QH13",
+            "target_id": "83/2015/QH13",
             "properties": {},
             "_crawled": true
         },

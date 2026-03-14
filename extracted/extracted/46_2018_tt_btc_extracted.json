@@ -32,6 +32,13 @@
         {
             "edge_type": "BasedOnEdge",
             "source_id": "46/2018/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "46/2018/TT-BTC",
             "target_id": "104/2016/QH13",
             "properties": {},
             "_crawled": true
@@ -53,7 +60,7 @@
             "effective_date": "2018-07-01",
             "expiration_date": null
         },
-        "issuing_place": "Hạnh phúc Hà Nội",
+        "issuing_place": "Hà Nội",
         "document_structure": {
             "root_units": [
                 {
@@ -102,7 +109,7 @@
                     "title": "Điều khoản thi hành",
                     "position": 33,
                     "children": [],
-                    "content": "1. Thông tư này có hiệu lực kể từ ngày 01 tháng 07 năm 2018.\n2. Trường hợp các văn bản quy phạm pháp luật trích dẫn tại Thông tư này được sửa đổi, bổ sung hoặc thay thế bằng văn bản quy phạm pháp luật khác thì áp dụng quy định tại văn bản sửa đổi, bổ sung hoặc thay thế.\n3. Trong quá trình thực hiện, nếu phát sinh vướng mắc đề nghị các cơ quan, đơn vị phản ánh về Bộ Tài chính để nghiên cứu, sửa đổi, bổ sung cho phù hợp./.()()*\nTTCP, các Phó TTCP; VP Tổng Bí thư; VP Quốc hội, VP Chủ tịch nước, VP CP; VP TW và các Ban của Đảng; Viện Kiểm sát nhân dân tối cao; Tòa án nhân dân tối cao; Kiểm toán NN; Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP; UBND các tỉnh, t/p trực thuộc TW; Cơ quan TW của các hội, đoàn thể; Sở Tài chính, Sở Tư pháp, Kho bạc NN các tỉnh, thành phố trực thuộc TW; Cục Kiểm tra văn bản Bộ Tư pháp; Công báo, Cổng thông tin điện tử Chính phủ, Công thông tin điện tử Bộ Tài chính; Lưu: VT, PC."
+                    "content": "1. Thông tư này có hiệu lực kể từ ngày 01 tháng 07 năm 2018.\n2. Trường hợp các văn bản quy phạm pháp luật trích dẫn tại Thông tư này được sửa đổi, bổ sung hoặc thay thế bằng văn bản quy phạm pháp luật khác thì áp dụng quy định tại văn bản sửa đổi, bổ sung hoặc thay thế.\n3. Trong quá trình thực hiện, nếu phát sinh vướng mắc đề nghị các cơ quan, đơn vị phản ánh về Bộ Tài chính để nghiên cứu, sửa đổi, bổ sung cho phù hợp./."
                 }
             ],
             "metadata": {
@@ -159,6 +166,13 @@
             "edge_type": "BasedOnEdge",
             "source_id": "46/2018/TT-BTC",
             "target_id": "13/2018/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "46/2018/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
             "properties": {},
             "_crawled": true
         },

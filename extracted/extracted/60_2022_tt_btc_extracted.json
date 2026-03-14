@@ -3,7 +3,7 @@
     "source": "ocr_json",
     "crawled_metadata": {
         "officialNumber": "60/2022/TT-BTC",
-        "title": "Quy định danh mục các lĩnh vực và thời hạn người có chức vụ, quyền hạn không được thành lâp, giữ chức danh, chức vu quản lý, điều hành doanh nghiệp tư nhân, công ty trách nhiệm hữu hạn, công ty cổ phần, công ty hợp danh, hợp tác xã thuộc lĩnh vực trước đây mình có trách nhiệm quản lý sau khi thôi giử chức vụ trong lĩnh vực thuộc phạm vi quản lỷ của Bộ Tàỉ chính",
+        "title": "Quy định danh mục các lĩnh vực và thời hạn người có chức vụ, quyền hạn không được thành lâp, giữ chức danh, chức vu quản lý, điều hành doanh nghiệp tư nhân, công ty trách nhiệm hữu hạn, công ty cổ phần, công ty hợp danh, hợp tác xã thuộc lĩnh vực trước đây mình có trách nhiệm quản lý sau khi thôi giử chức vụ trong lĩnh vực thuộc phạm vi quản lý của Bộ Tài chính",
         "promulgationDate": "2022-10-03",
         "effectiveDate": "2022-11-17",
         "expirationDate": null,
@@ -53,7 +53,7 @@
             "effective_date": null,
             "expiration_date": null
         },
-        "issuing_place": null,
+        "issuing_place": "Hà Nội",
         "document_structure": {
             "root_units": [
                 {
@@ -118,7 +118,7 @@
                     "title": "Trách nhiệm thi hành",
                     "position": 38,
                     "children": [],
-                    "content": "1. Thanh tra Bộ Tài chính chủ trì, phối hợp với các đơn vị liên quan theo dõi, kiểm tra, đôn đốc các đơn vị thực hiện Thông tư này.\n2. Trong quá trình thực hiện nếu có vướng mắc, các cơ quan, đơn vị phản ánh kịp thời về Bộ Tài chính để nghiên cứu, giải quyết./.\nBan Bí thư TW Đảng; Thủ tướng, các Phó Thủ tướng Chính phủ; Văn phòng Tổng Bí thư; Văn phòng TW và các Ban của Đảng; Văn phòng Quốc hội, Văn phòng Chủ tịch nước; Viện KSND tối cao, TAND tối cao; Ủy ban Giám sát Tài chính Quốc gia; Kiểm toán Nhà nước; Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; Cơ quan TW của các đoàn thể; HĐND, UBND các tỉnh, TP trực thuộc TW; Sở TC, KBNN các tỉnh, TP trực thuộc TW; Cục Kiểm tra văn bản QPPL - Bộ Tư pháp; Công báo, Cổng thông tin điện tử: CP, BIC; Các đơn vị thuộc Bộ Tài chính; Lưu: VT, PC (240b)."
+                    "content": "1. Thanh tra Bộ Tài chính chủ trì, phối hợp với các đơn vị liên quan theo dõi, kiểm tra, đôn đốc các đơn vị thực hiện Thông tư này.\n2. Trong quá trình thực hiện nếu có vướng mắc, các cơ quan, đơn vị phản ánh kịp thời về Bộ Tài chính để nghiên cứu, giải quyết./."
                 }
             ],
             "metadata": {

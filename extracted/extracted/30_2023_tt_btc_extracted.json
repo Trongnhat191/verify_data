@@ -3,7 +3,7 @@
     "source": "ocr_json",
     "crawled_metadata": {
         "officialNumber": "30/2023/TT-BTC",
-        "title": "Hirớng dẫn việc đăng kỷ, lưu ký, thực hiện quyền, chuvển quyền sở hữu, thanh toán giao dịch và tổ chức thị trường giao dịch trái phiếu doanh nghiệp chào bán riêng lẻ tại thị trường trong nưóc",
+        "title": "Hướng dẫn việc đăng ký, lưu ký, thực hiện quyền, chuyển quyền sở hữu, thanh toán giao dịch và tổ chức thị trường giao dịch trái phiếu doanh nghiệp chào bán riêng lẻ tại thị trường trong nước",
         "promulgationDate": "2023-05-17",
         "effectiveDate": "2023-07-01",
         "expirationDate": null,
@@ -81,7 +81,7 @@
             "effective_date": null,
             "expiration_date": null
         },
-        "issuing_place": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Hà Nội",
+        "issuing_place": "Hà Nội",
         "document_structure": {
             "root_units": [
                 {
@@ -129,7 +129,15 @@
                             "position": 43,
                             "children": [],
                             "content": "1. Thành viên giao dịch, thành viên lưu ký giám sát nhà đầu tư mở tài khoản tại thành viên trong việc tuân thủ quy định về tư cách và trách nhiệm của nhà đầu tư khi tham gia hoạt động giao dịch, thanh toán giao dịch và chuyển quyền sở hữu trái phiếu doanh nghiệp riêng lẻ theo quy định tại Nghị định số 65/2022/NĐ-CP, Nghị định số 08/2023/NĐ-CP, Thông tư này và quy định pháp luật khác có liên quan.\n2. Sở giao dịch chứng khoán giám sát việc giao dịch trái phiếu doanh nghiệp riêng lẻ trên hệ thống giao dịch trái phiếu doanh nghiệp riêng lẻ theo quy định tại khoản 2 Điều 38 Nghị định số 153/2020/NĐ-CP và quy định tại Thông tư này. Sở giao dịch Chứng khoán Việt Nam ban hành quy chế để triển khai công tác giám sát giao dịch trái phiếu doanh nghiệp riêng lẻ. Trường hợp phát hiện có\nvi phạm trong việc giao dịch trái phiếu doanh nghiệp riêng lẻ, Sở giao dịch chứng khoán có văn bản yêu cầu doanh nghiệp phát hành và cá nhân, tổ chức có liên quan giải trình, cung cấp bổ sung thông tin hoặc báo cáo Ủy ban Chứng khoán Nhà nước để xem xét, xử lý tùy theo mức độ vi phạm.\n3. Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam giám sát theo quy định tại khoản 28 Điều 1 Nghị định số 65/2022/NĐ-CP đối với doanh nghiệp phát hành, thành viên lưu ký trong việc tuân thủ quy định tại Thông tư này, quy chế của Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam liên quan đến hoạt động đăng ký, lưu ký, thực hiện quyền, chuyển quyền sở hữu, thanh toán giao dịch trái phiếu doanh nghiệp riêng lẻ. Trường hợp phát hiện có vi phạm trong việc đăng ký, lưu ký, thực hiện quyền, chuyển quyền sở hữu, thanh toán giao dịch trái phiếu doanh nghiệp riêng lẻ, Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam có văn bản yêu cầu cá nhân, tổ chức có liên quan giải trình, cung cấp bổ sung thông tin hoặc báo cáo Ủy ban Chứng khoán Nhà nước để xem xét, xử lý tùy theo mức độ vi phạm.\n4. Trên cơ sở quản lý, giám sát hoạt động kinh doanh chứng khoán của công ty chứng khoán, báo cáo giám sát của Sở giao dịch chứng khoán và Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam, báo cáo của đại diện người sở hữu trái phiếu, Ủy ban Chứng khoán Nhà nước tiếp nhận và xử lý các vi phạm trong hoạt động giao dịch trái phiếu doanh nghiệp riêng lẻ theo quy định tại khoản 29 Điều 1 Nghị định số 65/2022/NĐ-CP."
-                        },
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "II",
+                    "title": "ĐĂNG KÝ, LƯU KÝ, THỰC HIỆN QUYỀN VÀ CHUYỂN QUYỀN SỞ HỮU",
+                    "position": 13,
+                    "children": [
                         {
                             "type": "ARTICLE",
                             "number": "6",
@@ -265,14 +273,22 @@
                             "position": 192,
                             "children": [],
                             "content": "1. Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam loại bỏ thanh toán giao dịch trái phiếu doanh nghiệp riêng lẻ trong các trường hợp sau:\na) Các giao dịch quy định tại khoản 1 Điều 17, khoản 2 Điều 18, khoản 3 Điều 19 Thông tư này;\nb) Thông tin tài khoản nhà đầu tư chưa được thành viên lưu ký đăng ký với Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam trước thời điểm Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam nhận được kết quả giao dịch từ Sở giao dịch Chứng khoán Hà Nội;\nc) Giao dịch không có đủ chứng khoán để thanh toán;\nd) Giao dịch vi phạm pháp luật và các trường hợp khác theo quyết định của cơ quan có thẩm quyền xác định trước khi Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam hoàn tất thanh toán.\n2. Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam có trách nhiệm thông báo cho Sở giao dịch Chứng khoán Hà Nội, các tổ chức liên quan sau khi thực hiện loại bỏ thanh toán giao dịch trái phiếu doanh nghiệp riêng lẻ.\n3. Bên phát sinh lỗi dẫn tới giao dịch bị loại bỏ thanh toán phải chịu hoàn toàn trách nhiệm đối với các tổn thất phát sinh cho khách hàng hoặc thành viên đối ứng có liên quan do giao dịch không được thanh toán. Mức bồi thường do các bên tự thỏa thuận theo quy định pháp luật hiện hành.\n4. Việc loại bỏ thanh toán giao dịch trái phiếu doanh nghiệp riêng lẻ được thực hiện theo quy định tại Quy chế đăng ký, lưu ký và thanh toán trái phiếu doanh nghiệp riêng lẻ của Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam."
-                        },
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "V",
+                    "title": "ĐIỀU KHOẢN THI HÀNH",
+                    "position": 13,
+                    "children": [
                         {
                             "type": "ARTICLE",
                             "number": "21",
                             "title": "Điều khoản thi hành",
                             "position": 203,
                             "children": [],
-                            "content": "1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2023.\n2. Trên cơ sở các quy định tại Thông tư này, Sở giao dịch Chứng khoán Việt Nam, Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam ban hành quy chế hướng dẫn cụ thể các hoạt động nghiệp vụ có liên quan.\n3. Trước khi Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam chính thức đi vào hoạt động, các hoạt động đăng ký, lưu ký, thực hiện quyền, thanh toán, chuyển quyền sở hữu trái phiếu doanh nghiệp riêng lẻ do Trung tâm Lưu ký Chứng khoán Việt Nam thực hiện.\n4. Trường hợp các văn bản quy phạm pháp luật được dẫn chiếu trong Thông tư này được sửa đổi, bổ sung hoặc thay thế bằng các văn bản quy phạm pháp luật mới thì áp dụng theo các văn bản mới.\n5. Vụ Tài chính các ngân hàng và tổ chức tài chính, các đơn vị liên quan thuộc Bộ Tài chính, Ủy ban Chứng khoán Nhà nước, Sở giao dịch Chứng khoán Việt Nam, Sở giao dịch Chứng khoán Hà Nội, Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam, thành viên của Sở giao dịch Chứng khoán Việt Nam, thành viên của Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam, ngân\nhàng thanh toán và cơ quan, tổ chức, cá nhân khác có liên quan chịu trách nhiệm thi hành Thông tư này./.\nBan Bí thư Trung ương Đảng, Thủ tướng, các Phó Thủ tướng Chính phủ, Văn phòng Trung ương Đảng và các Ban của Đảng; Văn phòng Tổng Bí thư, Văn phòng Quốc hội; Văn phòng Chủ tịch nước; Hội đồng dân tộc và các Ủy ban của Quốc hội; Văn phòng Chính phủ, Viện Kiểm sát nhân dân tối cao, Kiểm toán Nhà nước; Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; HĐND, UBND các tỉnh, thành phố trực thuộc Trung ương, Cơ quan Trung ương của các Hội, Đoàn thể; Sở Tài chính, KBNN các tỉnh, thành phố trực thuộc Trung ương; Liên đoàn Thương mại và Công nghiệp Việt Nam; Cục Kiểm tra văn bản quy phạm pháp luật, Bộ Tư pháp; Công báo, Công Thông tin điện tử của Chính phủ; Công thông tin điện tử của Bộ Tài chính; Các đơn vị thuộc Bộ Tài chính; Lưu: VT, UBCK(230 bản). /b/"
+                            "content": "1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2023.\n2. Trên cơ sở các quy định tại Thông tư này, Sở giao dịch Chứng khoán Việt Nam, Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam ban hành quy chế hướng dẫn cụ thể các hoạt động nghiệp vụ có liên quan.\n3. Trước khi Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam chính thức đi vào hoạt động, các hoạt động đăng ký, lưu ký, thực hiện quyền, thanh toán, chuyển quyền sở hữu trái phiếu doanh nghiệp riêng lẻ do Trung tâm Lưu ký Chứng khoán Việt Nam thực hiện.\n4. Trường hợp các văn bản quy phạm pháp luật được dẫn chiếu trong Thông tư này được sửa đổi, bổ sung hoặc thay thế bằng các văn bản quy phạm pháp luật mới thì áp dụng theo các văn bản mới.\n5. Vụ Tài chính các ngân hàng và tổ chức tài chính, các đơn vị liên quan thuộc Bộ Tài chính, Ủy ban Chứng khoán Nhà nước, Sở giao dịch Chứng khoán Việt Nam, Sở giao dịch Chứng khoán Hà Nội, Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam, thành viên của Sở giao dịch Chứng khoán Việt Nam, thành viên của Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam, ngân\nhàng thanh toán và cơ quan, tổ chức, cá nhân khác có liên quan chịu trách nhiệm thi hành Thông tư này./."
                         }
                     ]
                 }

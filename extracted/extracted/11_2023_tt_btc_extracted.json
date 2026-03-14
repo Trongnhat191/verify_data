@@ -53,32 +53,40 @@
             "effective_date": "2023-03-31",
             "expiration_date": null
         },
-        "issuing_place": "Hạnh phúc Hà Nội",
+        "issuing_place": "Hà Nội",
         "document_structure": {
             "root_units": [
                 {
-                    "type": "ARTICLE",
-                    "number": "1",
-                    "title": "Phạm vi điều chỉnh",
-                    "position": 9,
-                    "children": [],
-                    "content": "Thông tư này hướng dẫn về chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức, quy chế hoạt động và mối quan hệ của Hội đồng quản lý trong đơn vị sự nghiệp công lập với người đứng đầu đơn vị sự nghiệp công lập và cơ quan quản lý cấp trên; tiêu chuẩn, điều kiện bổ nhiệm, miễn nhiệm các thành viên Hội đồng quản lý, Chủ tịch Hội đồng quản lý trong đơn vị sự nghiệp công lập thuộc lĩnh vực tài chính (sau đây viết tắt là Hội đồng quản lý)."
-                },
-                {
-                    "type": "ARTICLE",
-                    "number": "2",
-                    "title": "Đối tượng áp dụng",
-                    "position": 11,
-                    "children": [],
-                    "content": "1. Các đơn vị sự nghiệp công lập thuộc lĩnh vực tài chính được cấp có thẩm quyền thành lập theo quy định tại Điều 2 Nghị định số 120/2020/NĐ-CP ngày 07/10/2020 của Chính phủ quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập (sau đây gọi là Nghị định số 120/2020/NĐ-CP).\n2. Các cơ quan, đơn vị và cá nhân liên quan việc thành lập và hoạt động của Hội đồng quản lý lĩnh vực tài chính."
-                },
-                {
-                    "type": "ARTICLE",
-                    "number": "3",
-                    "title": "Nguyên tắc, điều kiện thành lập Hội đồng quản lý",
-                    "position": 15,
-                    "children": [],
-                    "content": "Nguyên tắc, điều kiện thành lập Hội đồng quản lý thực hiện theo quy định tại khoản 1, khoản 2 Điều 7 Nghị định số 120/2020/NĐ-CP."
+                    "type": "CHAPTER",
+                    "number": "I",
+                    "title": "QUY ĐỊNH CHUNG",
+                    "position": 17,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "1",
+                            "title": "Phạm vi điều chỉnh",
+                            "position": 9,
+                            "children": [],
+                            "content": "Thông tư này hướng dẫn về chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức, quy chế hoạt động và mối quan hệ của Hội đồng quản lý trong đơn vị sự nghiệp công lập với người đứng đầu đơn vị sự nghiệp công lập và cơ quan quản lý cấp trên; tiêu chuẩn, điều kiện bổ nhiệm, miễn nhiệm các thành viên Hội đồng quản lý, Chủ tịch Hội đồng quản lý trong đơn vị sự nghiệp công lập thuộc lĩnh vực tài chính (sau đây viết tắt là Hội đồng quản lý)."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "2",
+                            "title": "Đối tượng áp dụng",
+                            "position": 11,
+                            "children": [],
+                            "content": "1. Các đơn vị sự nghiệp công lập thuộc lĩnh vực tài chính được cấp có thẩm quyền thành lập theo quy định tại Điều 2 Nghị định số 120/2020/NĐ-CP ngày 07/10/2020 của Chính phủ quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập (sau đây gọi là Nghị định số 120/2020/NĐ-CP).\n2. Các cơ quan, đơn vị và cá nhân liên quan việc thành lập và hoạt động của Hội đồng quản lý lĩnh vực tài chính."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "3",
+                            "title": "Nguyên tắc, điều kiện thành lập Hội đồng quản lý",
+                            "position": 15,
+                            "children": [],
+                            "content": "Nguyên tắc, điều kiện thành lập Hội đồng quản lý thực hiện theo quy định tại khoản 1, khoản 2 Điều 7 Nghị định số 120/2020/NĐ-CP."
+                        }
+                    ]
                 },
                 {
                     "type": "CHAPTER",
@@ -179,7 +187,7 @@
                 {
                     "type": "CHAPTER",
                     "number": "IV",
-                    "title": "TIÊU CHUẨN, ĐIỀU KIỆN BỎ NHIỆM, MIỄN NHIỆM THÀNH VIÊN HỘI ĐỒNG QUẢN LÝ",
+                    "title": "TIÊU CHUẨN, ĐIỀU KIỆN BỔ NHIỆM, MIỄN NHIỆM THÀNH VIÊN HỘI ĐỒNG QUẢN LÝ",
                     "position": 96,
                     "children": [
                         {
@@ -197,7 +205,15 @@
                             "position": 109,
                             "children": [],
                             "content": "1. Điều kiện miễn nhiệm thuộc một trong các trường hợp sau:\na) Có đề nghị bằng văn bản của cá nhân xin thôi không tham gia thành viên Hội đồng quản lý.\nb) Bị hạn chế về năng lực hành vi dân sự.\nc) Sức khỏe không đủ khả năng đảm nhiệm công việc được giao, đã nghỉ quá 06 tháng mà khả năng lao động chưa hồi phục.\nd) Bị Tòa án kết tội bằng bản án có hiệu lực pháp luật.\nđ) Có trên 50% tổng số thành viên của Hội đồng quản lý kiến nghị bằng văn bản đề nghị miễn nhiệm.\ne) Nghỉ hưu, thôi việc, chuyển công tác khác hoặc cấp có thẩm quyền bố trí công tác khác không phù hợp với quy định tại khoản 1, khoản 2 Điều 5 Thông tư này.\ng) Có 02 năm liên tiếp được xếp loại không hoàn thành nhiệm vụ.\nh) Vi phạm khác đã quy định tại quy chế tổ chức và hoạt động của đơn vị, quy chế hoạt động của Hội đồng quản lý.\n2. Trình tự, thủ tục miễn nhiệm đối với Chủ tịch Hội đồng quản lý và thành viên Hội đồng quản lý\nTrong trường hợp có đề xuất hợp pháp về việc miễn nhiệm Chủ tịch Hội đồng quản lý thì Phó Chủ tịch Hội đồng quản lý (nếu có) hoặc Thư ký Hội đồng quản lý chủ trì cuộc họp giải quyết; cuộc họp phải đảm bảo về tỷ lệ và thành phần tham gia, tỷ lệ biểu quyết theo quy định của pháp luật, điểm a khoản 2 Điều 16 và khoản 1 Điều 18 Thông tư này. Trong trường hợp miễn nhiệm đồng thời Chủ tịch Hội đồng quản lý, Phó Chủ tịch Hội đồng quản lý, Thư ký Hội đồng quản lý thì người đứng đầu đơn vị sự nghiệp công lập báo cáo cấp có thẩm quyền quy định tại khoản 3 Điều 14 Thông tư này quyết định việc tổ chức cuộc họp.\nHội đồng quản lý có trách nhiệm xem xét trình cấp có thẩm quyền quy định tại khoản 3 Điều 14 Thông tư này việc miễn nhiệm thành viên Hội đồng quản lý, miễn nhiệm Chủ tịch Hội đồng quản lý và gửi hồ sơ đề nghị cấp có thẩm quyền ra quyết định. Hồ sơ đề nghị gồm có: (1) Tờ trình nêu rõ lý do miễn nhiệm; (2) Biên bản họp Hội đồng quản lý; (3) Các văn bản khác có liên quan (nếu có)."
-                        },
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "V",
+                    "title": "HOẠT ĐỘNG CỦA HỘI ĐỒNG QUẢN LÝ",
+                    "position": ,
+                    "children": [
                         {
                             "type": "ARTICLE",
                             "number": "16",
@@ -244,7 +260,7 @@
                             "title": "Trách nhiệm thi hành",
                             "position": 164,
                             "children": [],
-                            "content": "1. Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, tổ chức do Chính phủ, Thủ tướng Chính phủ thành lập mà không phải là đơn vị sự nghiệp công lập, Ủy ban nhân dân tỉnh có đơn vị sự nghiệp công lập trong lĩnh vực tài chính và các cơ quan, tổ chức, cá nhân liên quan có trách nhiệm thực hiện Thông tư này.\n2. Trường hợp các văn bản quy phạm pháp luật trích dẫn tại Thông tư này được sửa đổi, bổ sung hoặc thay thế bằng văn bản quy phạm pháp luật khác thì áp dụng quy định tại văn bản sửa đổi, bổ sung hoặc thay thế đó.\n3. Trong quá trình thực hiện, nếu có vướng mắc, đề nghị phản ánh về Bộ Tài chính để hướng dẫn, giải quyết./.\nThủ tướng Chính phủ; Các Phó Thủ tướng Chính phủ; Các Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; HĐND, UBND các tỉnh, thành phố trực thuộc Trung ương; Ủy ban Giám sát tài chính Quốc Gia; Cục Kiểm tra văn bản quy phạm pháp luật, Bộ Tư pháp; Công báo, Cổng Thông tin điện tử Chính phủ; Cổng Thông tin điện tử Bộ Tài chính, Bộ Tài chính: Các lãnh đạo Bộ; các đơn vị thuộc và trực thuộc Bộ; Lưu: VT, TCCB (90b)."
+                            "content": "1. Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, tổ chức do Chính phủ, Thủ tướng Chính phủ thành lập mà không phải là đơn vị sự nghiệp công lập, Ủy ban nhân dân tỉnh có đơn vị sự nghiệp công lập trong lĩnh vực tài chính và các cơ quan, tổ chức, cá nhân liên quan có trách nhiệm thực hiện Thông tư này.\n2. Trường hợp các văn bản quy phạm pháp luật trích dẫn tại Thông tư này được sửa đổi, bổ sung hoặc thay thế bằng văn bản quy phạm pháp luật khác thì áp dụng quy định tại văn bản sửa đổi, bổ sung hoặc thay thế đó.\n3. Trong quá trình thực hiện, nếu có vướng mắc, đề nghị phản ánh về Bộ Tài chính để hướng dẫn, giải quyết."
                         }
                     ]
                 }

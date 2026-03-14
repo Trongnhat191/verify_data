@@ -1,0 +1,13 @@
+12_2023_tt_btc: điều 1 dài quá
+15: Thiếu các văn bản căn cứ.
+21: thiếu căn cứ
+23: thiếu căn cứ
+28: lỗi
+30_2019_tt_btc: thiếu căn cứ
+39_2021_TT_BTC : affected_articles
+51_2021_tt_btc: thiếu căn cứ
+64_2019_tt_btc_extracted: thiếu căn cứ
+67: có 2 văn bản trong pdf, thiếu căn cứ
+69: thiếu căn cứ
+71: thiếu căn cứ
+72: THIẾU CĂN CỨ
