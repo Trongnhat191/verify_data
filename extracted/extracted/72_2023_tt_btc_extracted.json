@@ -21,7 +21,29 @@
         "_crawled_at": "2026-03-06T06:48:19Z",
         "_doc_id": "179491"
     },
-    "crawled_edges": [],
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "72/2023/TT-BTC",
+            "target_id": "120/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "72/2023/TT-BTC",
+            "target_id": "60/2021/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "72/2023/TT-BTC",
+            "target_id": "14/2023/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        }
+    ],
     "regex_data": {
         "file_name": "72_2023_tt_btc",
         "file_path": "/Users/dangnam/Documents/FCI/legal_knowledge_graph/graph_new/54_doc/54vb_structure/72_2023_tt_btc/document_structure.json",
@@ -180,5 +202,27 @@
         },
         "warnings": []
     },
-    "final_edges": []
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "72/2023/TT-BTC",
+            "target_id": "120/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "72/2023/TT-BTC",
+            "target_id": "60/2021/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "72/2023/TT-BTC",
+            "target_id": "14/2023/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        }
+    ]
 }

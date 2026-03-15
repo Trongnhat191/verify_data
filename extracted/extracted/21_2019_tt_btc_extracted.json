@@ -23,6 +23,76 @@
     },
     "crawled_edges": [
         {
+            "edge_type": "BasedOnEdge",
+            "source_id": "21/2019/TT-BTC",
+            "target_id": "68/2014/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "21/2019/TT-BTC",
+            "target_id": "69/2014/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "21/2019/TT-BTC",
+            "target_id": "70/2006/QH11",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "21/2019/TT-BTC",
+            "target_id": "62/2010/QH12",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "21/2019/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "21/2019/TT-BTC",
+            "target_id": "126/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "21/2019/TT-BTC",
+            "target_id": "91/2015/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "21/2019/TT-BTC",
+            "target_id": "32/2018/NĐ-C",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "21/2019/TT-BTC",
+            "target_id": "58/2012/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "21/2019/TT-BTC",
+            "target_id": "60/2015/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
             "edge_type": "AmendsEdge",
             "source_id": "21/2019/TT-BTC",
             "target_id": "57/2022/TT-BTC",
@@ -436,6 +506,76 @@
         ]
     },
     "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "21/2019/TT-BTC",
+            "target_id": "68/2014/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "21/2019/TT-BTC",
+            "target_id": "69/2014/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "21/2019/TT-BTC",
+            "target_id": "70/2006/QH11",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "21/2019/TT-BTC",
+            "target_id": "62/2010/QH12",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "21/2019/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "21/2019/TT-BTC",
+            "target_id": "126/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "21/2019/TT-BTC",
+            "target_id": "91/2015/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "21/2019/TT-BTC",
+            "target_id": "32/2018/NĐ-C",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "21/2019/TT-BTC",
+            "target_id": "58/2012/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "21/2019/TT-BTC",
+            "target_id": "60/2015/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
         {
             "edge_type": "AmendsEdge",
             "source_id": "21/2019/TT-BTC",

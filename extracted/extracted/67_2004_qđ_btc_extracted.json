@@ -23,13 +23,31 @@
     },
     "crawled_edges": [
         {
-            "edge_type": "MentionsEdge",
+            "edge_type": "BasedOnEdge",
             "source_id": "67/2004/QĐ-BTC",
-            "target_id": "67/2004/QĐ-BTC",
-            "properties": {
-                "relevanceType": "DIRECT_REFERENCE",
-                "source": "crawled"
-            },
+            "target_id": "01/2002/QH11",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "67/2004/QĐ-BTC",
+            "target_id": "03/2003/QH11",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "67/2004/QĐ-BTC",
+            "target_id": "86/2002/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "67/2004/QĐ-BTC",
+            "target_id": "77/2003/NĐ-CP",
+            "properties": {},
             "_crawled": true
         }
     ],
@@ -366,6 +384,34 @@
         ]
     },
     "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "67/2004/QĐ-BTC",
+            "target_id": "01/2002/QH11",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "67/2004/QĐ-BTC",
+            "target_id": "03/2003/QH11",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "67/2004/QĐ-BTC",
+            "target_id": "86/2002/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "67/2004/QĐ-BTC",
+            "target_id": "77/2003/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
         {
             "edge_type": "MentionsEdge",
             "source_id": "67/2004/QĐ-BTC",

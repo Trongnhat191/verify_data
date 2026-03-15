@@ -23,6 +23,62 @@
     },
     "crawled_edges": [
         {
+            "edge_type": "BasedOnEdge",
+            "source_id": "40/2022/TT-BTC",
+            "target_id": "39/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "40/2022/TT-BTC",
+            "target_id": "83/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "40/2022/TT-BTC",
+            "target_id": "973/2020/NQ-UBTVQH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "40/2022/TT-BTC",
+            "target_id": "163/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "40/2022/TT-BTC",
+            "target_id": "09/2019/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "40/2022/TT-BTC",
+            "target_id": "40/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "40/2022/TT-BTC",
+            "target_id": "56/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "40/2022/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
             "edge_type": "AmendsEdge",
             "source_id": "15/2021/TT-BTC",
             "target_id": "82/2017/TT-BTC",
@@ -210,15 +266,69 @@
     },
     "final_edges": [
         {
+            "edge_type": "BasedOnEdge",
+            "source_id": "40/2022/TT-BTC",
+            "target_id": "39/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "40/2022/TT-BTC",
+            "target_id": "83/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "40/2022/TT-BTC",
+            "target_id": "973/2020/NQ-UBTVQH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "40/2022/TT-BTC",
+            "target_id": "163/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "40/2022/TT-BTC",
+            "target_id": "09/2019/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "40/2022/TT-BTC",
+            "target_id": "40/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "40/2022/TT-BTC",
+            "target_id": "56/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "40/2022/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
             "edge_type": "AmendsEdge",
             "source_id": "15/2021/TT-BTC",
             "target_id": "82/2017/TT-BTC",
             "properties": {
                 "type": "REPLACE",
                 "amendment_scope": "FULL",
-                "source": "crawled",
-                "effective_from": "2021-04-05",
-                "affected_articles": []
+                "source": "crawled"
             },
             "_crawled": true
         }

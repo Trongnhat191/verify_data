@@ -21,7 +21,52 @@
         "_crawled_at": "2026-03-06T06:48:22Z",
         "_doc_id": "77247"
     },
-    "crawled_edges": [],
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "71/2020/TT-BTC",
+            "target_id": "83/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "71/2020/TT-BTC",
+            "target_id": "163/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "71/2020/TT-BTC",
+            "target_id": "45/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "71/2020/TT-BTC",
+            "target_id": "31/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "71/2020/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "71/2020/TT-BTC",
+            "target_id": "57/2021/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
     "regex_data": {
         "file_name": "71_2020_tt_btc",
         "file_path": "/Users/dangnam/Documents/FCI/legal_knowledge_graph/graph_new/54_doc/54vb_structure/71_2020_tt_btc/document_structure.json",
@@ -31,7 +76,7 @@
             "effective_date": null,
             "expiration_date": null
         },
-        "issuing_place": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Hà Nội",
+        "issuing_place": "Hà Nội",
         "document_structure": {
             "root_units": [
                 {
@@ -285,5 +330,50 @@
         },
         "warnings": []
     },
-    "final_edges": []
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "71/2020/TT-BTC",
+            "target_id": "83/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "71/2020/TT-BTC",
+            "target_id": "163/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "71/2020/TT-BTC",
+            "target_id": "45/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "71/2020/TT-BTC",
+            "target_id": "31/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "71/2020/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "71/2020/TT-BTC",
+            "target_id": "57/2021/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ]
 }

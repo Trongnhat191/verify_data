@@ -23,6 +23,34 @@
     },
     "crawled_edges": [
         {
+            "edge_type": "BasedOnEdge",
+            "source_id": "69/2023/TT-BTC",
+            "target_id": "54/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "69/2023/TT-BTC",
+            "target_id": "155/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "69/2023/TT-BTC",
+            "target_id": "14/2023/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "69/2023/TT-BTC",
+            "target_id": "37/2020/QĐ-TTg",
+            "properties": {},
+            "_crawled": true
+        },
+        {
             "edge_type": "AmendsEdge",
             "source_id": "69/2023/TT-BTC",
             "target_id": "57/2021/TT-BTC",
@@ -140,6 +168,43 @@
         ]
     },
     "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "69/2023/TT-BTC",
+            "target_id": "54/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "69/2023/TT-BTC",
+            "target_id": "155/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "69/2023/TT-BTC",
+            "target_id": "14/2023/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "69/2023/TT-BTC",
+            "target_id": "37/2020/QĐ-TTg",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "69/2023/TT-BTC",
+            "target_id": "57/2021/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
         {
             "edge_type": "AmendsEdge",
             "source_id": "69/2023/TT-BTC",

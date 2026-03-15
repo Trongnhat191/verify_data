@@ -23,6 +23,41 @@
     },
     "crawled_edges": [
         {
+            "edge_type": "BasedOnEdge",
+            "source_id": "23/2020/TT-BTC",
+            "target_id": "163/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "23/2020/TT-BTC",
+            "target_id": "24/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "23/2020/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "23/2020/TT-BTC",
+            "target_id": "83/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "23/2020/TT-BTC",
+            "target_id": "20/2017/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
             "edge_type": "AmendsEdge",
             "source_id": "23/2020/TT-BTC",
             "target_id": "97/2021/TT-BTC",
@@ -335,6 +370,41 @@
     },
     "final_edges": [
         {
+            "edge_type": "BasedOnEdge",
+            "source_id": "23/2020/TT-BTC",
+            "target_id": "163/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "23/2020/TT-BTC",
+            "target_id": "24/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "23/2020/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "23/2020/TT-BTC",
+            "target_id": "83/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "23/2020/TT-BTC",
+            "target_id": "20/2017/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
             "edge_type": "AmendsEdge",
             "source_id": "23/2020/TT-BTC",
             "target_id": "97/2021/TT-BTC",
@@ -342,19 +412,6 @@
                 "source": "crawled"
             },
             "_crawled": true
-        },
-        {
-            "edge_type": "AmendsEdge",
-            "source_id": "",
-            "target_id": "30/2017/TT-BTC",
-            "properties": {
-                "type": "REPLACE",
-                "effective_from": "2020-06-01",
-                "affected_articles": [],
-                "amendment_scope": "FULL",
-                "source": "llm_only"
-            },
-            "_crawled": false
         }
     ]
 }

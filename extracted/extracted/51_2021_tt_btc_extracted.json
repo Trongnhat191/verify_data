@@ -23,6 +23,27 @@
     },
     "crawled_edges": [
         {
+            "edge_type": "BasedOnEdge",
+            "source_id": "51/2021/TT-BTC",
+            "target_id": "155/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "51/2021/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "51/2021/TT-BTC",
+            "target_id": "54/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
             "edge_type": "AbolishedByEdge",
             "source_id": "51/2021/TT-BTC",
             "target_id": "123/2015/TT-BTC",
@@ -115,7 +136,7 @@
                     "title": "Tổ chức thực hiện",
                     "position": 99,
                     "children": [],
-                    "content": "Ủy ban Chứng khoán Nhà nước, Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam, Sở giao dịch chứng khoán Việt Nam và công ty con, công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty quản lý quỹ nước ngoài tại Việt Nam, thành viên lưu ký, thành viên bù trừ, tổ chức phát hành chứng chỉ lưu ký tại nước ngoài và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.\nVăn phòng Trung ương và các Ban của Đảng; Văn phòng Tổng Bí thư; Văn phòng Chính phủ; Văn phòng Quốc hội; Văn phòng Chủ tịch nước; Thủ tướng, các Phó Thủ tướng Chính phủ; Văn phòng Ban chỉ đạo TW về phòng, chống tham nhũng; Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; HĐND, UBND các tỉnh, thành phố trực thuộc Trung ương; Viện Kiểm sát nhân dân tối cao; Tòa án nhân dân tối cao; Kiểm toán Nhà nước; Cơ quan Trung ương của các đoàn thể; Công báo; Cổng thông tin điện tử Chính phủ; Cục kiểm tra văn bản - Bộ Tư pháp; Các đơn vị thuộc Bộ Tài chính; Cổng thông tin điện tử Bộ Tài chính; Cổng thông tin điện tử Ủy ban Chứng khoán Nhà nước; Lưu: VT, UBCK (200b)."
+                    "content": "Ủy ban Chứng khoán Nhà nước, Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam, Sở giao dịch chứng khoán Việt Nam và công ty con, công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty quản lý quỹ nước ngoài tại Việt Nam, thành viên lưu ký, thành viên bù trừ, tổ chức phát hành chứng chỉ lưu ký tại nước ngoài và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./."
                 }
             ],
             "metadata": {
@@ -179,17 +200,33 @@
     },
     "final_edges": [
         {
+            "edge_type": "BasedOnEdge",
+            "source_id": "51/2021/TT-BTC",
+            "target_id": "155/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "51/2021/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "51/2021/TT-BTC",
+            "target_id": "54/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
             "edge_type": "AbolishedByEdge",
             "source_id": "51/2021/TT-BTC",
             "target_id": "123/2015/TT-BTC",
             "properties": {
                 "note": "het_hieu_luc",
-                "source": "crawled",
-                "scope": "FULL",
-                "date_abolished": "2021-08-16",
-                "affected_details": [
-                    "Toàn văn"
-                ]
+                "source": "crawled"
             },
             "_crawled": true
         }
