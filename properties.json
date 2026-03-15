@@ -155,7 +155,11 @@
       "van_ban_bi_dinh_chi": [],
       "van_ban_bi_het_hieu_luc": [],
       "van_ban_bi_thay_the": [],
-      "van_ban_can_cu": [],
+      "van_ban_can_cu": [
+        "120/2020/NĐ-CP",
+        "60/2021/NĐ-CP",
+        "14/2023/NĐ-CP"
+      ],
       "van_ban_dan_chieu": [],
       "van_ban_duoc_dinh_chinh": [],
       "van_ban_duoc_huong_dan": [],
@@ -194,7 +198,12 @@
       "van_ban_bi_dinh_chi": [],
       "van_ban_bi_het_hieu_luc": [],
       "van_ban_bi_thay_the": [],
-      "van_ban_can_cu": [],
+      "van_ban_can_cu": [
+        "54/2019/QH14",
+        "155/2020/NĐ-CP",
+        "14/2023/NĐ-CP",
+        "37/2020/QĐ-TTg"
+      ],
       "van_ban_dan_chieu": [],
       "van_ban_duoc_dinh_chinh": [],
       "van_ban_duoc_huong_dan": [],
@@ -263,7 +272,7 @@
     "crawled_at": "2026-03-06T06:48:20Z",
     "doc_id": "152852",
     "so_hieu": "30/2023/TT-BTC",
-    "trich_yeu": "Hirớng dẫn việc đăng kỷ, lưu ký, thực hiện quyền, chuvển quyền sở hữu, thanh toán giao dịch và tổ chức thị trường giao dịch trái phiếu doanh nghiệp chào bán riêng lẻ tại thị trường trong nưóc",
+    "trich_yeu": "Hướng dẫn việc đăng ký, lưu ký, thực hiện quyền, chuyển quyền sở hữu, thanh toán giao dịch và tổ chức thị trường giao dịch trái phiếu doanh nghiệp chào bán riêng lẻ tại thị trường trong nước",
     "ngay_ban_hanh": "17/05/2023",
     "ngay_co_hieu_luc": "01/07/2023",
     "ngay_het_hieu_luc": "",
@@ -381,7 +390,7 @@
         "95/2018/NĐ-CP",
         "87/2017/NĐ-CP",
         "24/2016/NĐ-CP",
-        "83/2025/QH13"
+        "83/2015/QH13"
       ],
       "van_ban_dan_chieu": [],
       "van_ban_duoc_dinh_chinh": [],
@@ -567,7 +576,6 @@
         "56/2020/QH14",
         "157/2020/NĐ-CP",
         "87/2017/NĐ-CP",
-        "85/2013/NĐ-CP",
         "13/2012/QH13"
       ],
       "van_ban_dan_chieu": [],
@@ -703,7 +711,11 @@
         "123/2015/TT-BTC"
       ],
       "van_ban_bi_thay_the": [],
-      "van_ban_can_cu": [],
+      "van_ban_can_cu": [
+        "54/2019/QH14",
+        "87/2017/NĐ-CP",
+        "155/2020/NĐ-CP"
+      ],
       "van_ban_dan_chieu": [],
       "van_ban_duoc_dinh_chinh": [],
       "van_ban_duoc_huong_dan": [],
@@ -790,7 +802,16 @@
       "van_ban_bi_thay_the": [
         "82/2017/TT-BTC"
       ],
-      "van_ban_can_cu": [],
+      "van_ban_can_cu": [
+        "39/2019/QH14",
+        "83/2015/QH13",
+        "973/2020/NQ-UBTVQH14",
+        "163/2016/NĐ-CP",
+        "09/2019/NĐ-CP",
+        "40/2020/NĐ-CP",
+        "56/2020/NĐ-CP",
+        "87/2017/NĐ-CP"
+      ],
       "van_ban_dan_chieu": [],
       "van_ban_duoc_dinh_chinh": [],
       "van_ban_duoc_huong_dan": [],
@@ -1368,11 +1389,19 @@
       "van_ban_bi_dinh_chi": [],
       "van_ban_bi_het_hieu_luc": [],
       "van_ban_bi_thay_the": [],
-      "van_ban_can_cu": [],
+      "van_ban_can_cu": [
+        "83/2015/QH13",
+        "163/2016/NĐ-CP",
+        "45/2017/NĐ-CP",
+        "31/2017/NĐ-CP",
+        "87/2017/NĐ-CP"
+      ],
       "van_ban_dan_chieu": [],
       "van_ban_duoc_dinh_chinh": [],
       "van_ban_duoc_huong_dan": [],
-      "van_ban_duoc_sua_doi_bo_sung": [],
+      "van_ban_duoc_sua_doi_bo_sung": [
+        "57/2021/TT-BTC"
+      ],
       "van_ban_hop_nhat": [],
       "van_ban_lien_quan": []
     },
@@ -1407,7 +1436,13 @@
       "van_ban_bi_dinh_chi": [],
       "van_ban_bi_het_hieu_luc": [],
       "van_ban_bi_thay_the": [],
-      "van_ban_can_cu": [],
+      "van_ban_can_cu": [
+        "163/2016/NĐ-CP",
+        "24/2016/NĐ-CP",
+        "87/2017/NĐ-CP",
+        "83/2015/QH13",
+        "20/2017/QH14"
+      ],
       "van_ban_dan_chieu": [],
       "van_ban_duoc_dinh_chinh": [],
       "van_ban_duoc_huong_dan": [],
@@ -1487,7 +1522,12 @@
       "van_ban_bi_dinh_chi": [],
       "van_ban_bi_het_hieu_luc": [],
       "van_ban_bi_thay_the": [],
-      "van_ban_can_cu": [],
+      "van_ban_can_cu": [
+        "83/2015/QH13",
+        "24/2016/NĐ-CP",
+        "87/2017/NĐ-CP",
+        "163/2016/NĐ-CP"
+      ],
       "van_ban_dan_chieu": [],
       "van_ban_duoc_dinh_chinh": [],
       "van_ban_duoc_huong_dan": [],
@@ -1526,7 +1566,9 @@
       "van_ban_bi_dinh_chi": [],
       "van_ban_bi_het_hieu_luc": [],
       "van_ban_bi_thay_the": [],
-      "van_ban_can_cu": [],
+      "van_ban_can_cu": [
+        "58/2012/NĐ-CP","60/2015/NĐ-CP","91/2018/NĐ-CP","93/2018/NĐ-CP","95/2018/NĐ-CP","87/2017/NĐ-CP","70/2006/QH11","20/2017/QH14","62/2010/QH12"
+      ],
       "van_ban_dan_chieu": [],
       "van_ban_duoc_dinh_chinh": [],
       "van_ban_duoc_huong_dan": [],
@@ -1565,7 +1607,18 @@
       "van_ban_bi_dinh_chi": [],
       "van_ban_bi_het_hieu_luc": [],
       "van_ban_bi_thay_the": [],
-      "van_ban_can_cu": [],
+      "van_ban_can_cu": [
+        "68/2014/QH13",
+        "69/2014/QH13",
+        "70/2006/QH11",
+        "62/2010/QH12",
+        "87/2017/NĐ-CP",
+        "126/2017/NĐ-CP",
+        "91/2015/NĐ-CP",
+        "32/2018/NĐ-CP",
+        "58/2012/NĐ-CP",
+        "60/2015/NĐ-CP",
+      ],
       "van_ban_dan_chieu": [],
       "van_ban_duoc_dinh_chinh": [],
       "van_ban_duoc_huong_dan": [],
@@ -2026,7 +2079,12 @@
       "van_ban_bi_dinh_chi": [],
       "van_ban_bi_het_hieu_luc": [],
       "van_ban_bi_thay_the": [],
-      "van_ban_can_cu": [],
+      "van_ban_can_cu": [
+        "01/2002/QH11",
+        "03/2003/QH11",
+        "86/2002/NĐ-CP",
+        "77/2003/NĐ-CP"
+      ],
       "van_ban_dan_chieu": [
         "67/2004/QĐ-BTC"
       ],
