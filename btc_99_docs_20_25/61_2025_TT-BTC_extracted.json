@@ -1,0 +1,248 @@
+{
+    "file_name": "61_2025_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "61/2025/TT-BTC",
+        "title": "Sửa đổi, bổ sung khoản 1 Điều 4 của Thông tư số 75/2013/TT-BTC ngày 04 tháng 06 năm 2013 của Bộ trưởng Bộ Tài chính hướng dẫn chi tiết về hoạt động kinh doanh xổ số",
+        "promulgationDate": "2025-06-30",
+        "effectiveDate": "2025-07-01",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Nguyễn Đức Chi",
+        "draftingUnit": "Vụ Các định chế tài chính",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:19Z",
+        "_doc_id": "468238"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "61/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "61/2025/TT-BTC",
+            "target_id": "30/2007/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "61/2025/TT-BTC",
+            "target_id": "78/2012/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "61/2025/TT-BTC",
+            "target_id": "75/2013/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "61/2025/TT-BTC",
+            "target_id": "30/2007/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "61/2025/TT-BTC",
+            "target_id": "78/2012/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "61_2025_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "61/2025/TT-BTC",
+        "dates": {
+            "promulgation_date": "2025-06-30",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Sửa đổi, bổ sung khoản 1 Điều 4 của Thông tư số",
+                    "position": 0,
+                    "children": [],
+                    "content": "75/2013/TT-BTC ngày 04 tháng 6 năm 2013 của Bộ trưởng Bộ Tài chính\nhướng dẫn chi tiết về hoạt động kinh doanh xổ số như sau:\n“1. Hoạt động kinh doanh xổ số kiến thiết được chia theo các khu vực, cụ\nthể như sau:\na) Khu vực miền Bắc, gồm các tỉnh, thành phố trực thuộc Trung ương\nsau: Bắc Ninh, Cao Bằng, Điện Biên, Hà Nội, Hà Tĩnh, Hải Phòng, Hưng Yên,\nLào Cai, Lạng Sơn, Lai Châu, Nghệ An, Ninh Bình, Phú Thọ, Quảng Ninh, Sơn\nLa, Thái Nguyên, Thanh Hoá và Tuyên Quang;\nb) Khu vực miền Trung, gồm các tỉnh, thành phố trực thuộc Trung ương\nsau: Đà Nẵng, Đắk Lắk, Gia Lai, Khánh Hoà, Quảng Ngãi, Quảng Trị và Huế;\nc) Khu vực miền Nam, gồm các tỉnh, thành phố trực thuộc Trung ương sau: An Giang, Cà Mau, Cần Thơ, Đồng Tháp, Đồng Nai, Lâm Đồng, Tây Ninh, Thành phố Hồ Chí Minh và Vĩnh Long.\"",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Trách nhiệm tổ chức thực hiện",
+                    "position": 843,
+                    "children": [],
+                    "content": "Điều 2. Trách nhiệm tổ chức thực hiện\nCác bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, cơ quan khác ở trung ương, Uỷ ban nhân các tỉnh, thành phố trực thuộc Trung ương, công ty xổ số kiến thiết, Công ty trách nhiệm hữu hạn một thành viên Xô số điện toán Việt Nam, cơ quan và tổ chức khác có liên quan có trách nhiệm tổ chức thực hiện Thông tư này"
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "3",
+                    "title": "Điều khoản thi hành",
+                    "position": 1192,
+                    "children": [],
+                    "content": "Điều 3. Điều khoản thi hành\n1. Thông tư này có hiệu lực kể từ ngày 01 tháng 7 năm 2025.\n2. Công ty trách nhiệm hữu hạn một thành viên xổ số kiến thiết Đắk Nông thực hiện kinh doanh xổ số tại khu vực miền Trung đến hết ngày 31/12/2025./."
+                }
+            ],
+            "metadata": {
+                "total_units": 3,
+                "total_articles": 3,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 1,
+                "depth": 1
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [
+                {
+                    "official_number_target": "30/2007/NĐ-CP",
+                    "affected_articles": [],
+                    "effective_from": null
+                },
+                {
+                    "official_number_target": "75/2013/TT-BTC",
+                    "affected_articles": [
+                        "Khoản 1 Điều 4"
+                    ],
+                    "effective_from": "2025-07-01"
+                }
+            ],
+            "replaces": [],
+            "mentions": [],
+            "abolished": [],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 2,
+                "llm_count": 2,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "replaces": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 1,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "78/2012/NĐ-CP"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "[mentions] LLM thiếu target so với crawl: ['78/2012/NĐ-CP']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "61/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "61/2025/TT-BTC",
+            "target_id": "30/2007/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "61/2025/TT-BTC",
+            "target_id": "78/2012/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "61/2025/TT-BTC",
+            "target_id": "75/2013/TT-BTC",
+            "properties": {
+                "source": "crawled",
+                "effective_from": "2025-07-01",
+                "affected_articles": [
+                    "Khoản 1 Điều 4"
+                ]
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "61/2025/TT-BTC",
+            "target_id": "30/2007/NĐ-CP",
+            "properties": {
+                "source": "crawled",
+                "effective_from": null,
+                "affected_articles": []
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "61/2025/TT-BTC",
+            "target_id": "78/2012/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ]
+}

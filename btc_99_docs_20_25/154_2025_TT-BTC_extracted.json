@@ -1,0 +1,631 @@
+{
+    "file_name": "154_2025_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "154/2025/TT-BTC",
+        "title": "Quy định mức thu, chế độ thu, nộp phí sát hạch lái xe, lệ phí cấp bằng, chứng chỉ được hoạt động trên các loại phương tiện và lệ phí đăng ký, cấp biển xe máy chuyên dùng",
+        "promulgationDate": "2025-12-31",
+        "effectiveDate": "2026-01-01",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Cao Anh Tuấn",
+        "draftingUnit": "Cục quản lý, giám sát Chính sách thuế, phí & lệ phí",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:17Z",
+        "_doc_id": "516971"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "126/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "11/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "123/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-cp",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "36/2024/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "89/2025/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "166/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "70/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "91/2022/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "38/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "97/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "37/2023/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "06/2025/TT-BTC",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "37/2023/TT-BTC",
+            "properties": {
+                "note": "het_hieu_luc",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "11/2020/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "362/2025/ND-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "37/2023/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "126/2020/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "123/2020/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "32/2025/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "70/2025/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "91/2022/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "11/2020/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "38/2019/QH14",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "97/2015/QH13",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "154_2025_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "154/2025/TT-BTC",
+        "dates": {
+            "promulgation_date": "2025-12-31",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Phạm vi điều chỉnh và đối tượng áp dụng",
+                    "position": 0,
+                    "children": [],
+                    "content": "1. Thông tư này quy định về mức thu, chế độ thu, nộp phí sát hạch lái xe, lệ phí cấp bằng, chứng chỉ được hoạt động trên các loại phương tiện (lệ phí cấp bằng, chứng chỉ được hoạt động trên các loại phương tiện giao thông đường bộ) và lệ phí đăng ký, cấp biển xe máy chuyên dùng (lệ phí cấp chứng nhận đăng ký xe và biển số xe máy chuyên dùng).\n2. Đối tượng áp dụng Thông tư này gồm:\na) Tổ chức thu phí, lệ phí và người nộp phí, lệ phí quy định tại Điều 2 Thông tư này.\nb) Tổ chức, cá nhân khác có liên quan đến khai, thu, nộp phí sát hạch lái xe, lệ phí cấp bằng, chứng chỉ được hoạt động trên các loại phương tiện giao thông đường bộ và lệ phí cấp chứng nhận đăng ký xe và biển số xe máy chuyên dùng.\n3. Thông tư này không áp dụng đối với sát hạch lái xe và cấp bằng, chứng chỉ hoạt động trên các loại phương tiện cho lực lượng quân đội, công an làm nhiệm vụ quốc phòng, an ninh."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Tổ chức thu phí, lệ phí và người nộp phí, lệ phí",
+                    "position": 929,
+                    "children": [],
+                    "content": "Điều 2. Tổ chức thu phí, lệ phí và người nộp phí, lệ phí\n1. Cơ quan nhà nước có thẩm quyền thực hiện sát hạch lái xe để cấp giấy phép lái xe, cấp bằng, chứng chỉ được hoạt động trên các loại phương tiện giao thông đường bộ và cấp chứng nhận đăng ký xe và biển số xe máy chuyên dùng theo quy định của pháp luật là tổ chức thu phí, lệ phí theo quy định tại Thông tư này.\n2. Người nộp phí, lệ phí là tổ chức, cá nhân đề nghị cơ quan nhà nước có thẩm quyền thực hiện sát hạch lái xe để được cấp giấy phép lái xe, cấp bằng, chứng chỉ được hoạt động trên các loại phương tiện giao thông đường bộ và cấp chứng nhận đăng ký xe và biển số xe máy chuyên dùng theo quy định của pháp luật."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "3",
+                    "title": "Mức thu phí, lệ phí",
+                    "position": 1607,
+                    "children": [],
+                    "content": "Điều 3. Mức thu phí, lệ phí\nMức thu phí sát hạch lái xe, lệ phí cấp bằng, chứng chỉ được hoạt động trên các loại phương tiện giao thông đường bộ và lệ phí cấp chứng nhận đăng ký xe và biển số xe máy chuyên dùng quy định tại Biểu mức thu phí, lệ phí ban hành kèm theo Thông tư này."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "4",
+                    "title": "Khai, thu, nộp phí, lệ phí",
+                    "position": 1888,
+                    "children": [],
+                    "content": "Điều 4. Khai, thu, nộp phí, lệ phí\n1. Người nộp phí, lệ phí thực hiện nộp phí, lệ phí cho tổ chức thu phí, lệ phí theo quy định tại Nghị định số 362/2025/NĐ-CP ngày 31 tháng 12 năm 2025 của Chính phủ quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Phí và lệ phí.\n2. Tổ chức thu phí, lệ phí nộp 100% số tiền phí, lệ phí thu được vào ngân sách nhà nước theo chương, tiểu mục của Mục lục ngân sách nhà nước hiện hành, bao gồm tiền lãi phát sinh (nếu có) trên số dư tài khoản liên quan trong quá trình thu phí, lệ phí. Nguồn chi phí trang trải cho việc thu phí, lệ phí được ngân sách nhà nước bố trí trong dự toán của tổ chức thu phí, lệ phí theo chế độ, định mức chi ngân sách nhà nước theo quy định của pháp luật. Tổ chức thu phí, lệ phí khai, thu, nộp phí, lệ phí, quyết toán phí theo quy định của pháp luật về quản lý thuế."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "5",
+                    "title": "Hiệu lực thi hành",
+                    "position": 2743,
+                    "children": [],
+                    "content": "Điều 5. Hiệu lực thi hành\n1. Thông tư này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2026.\n2. Thông tư số 37/2023/TT-BTC ngày 07 tháng 6 năm 2023 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí sát hạch lái xe; lệ phí cấp bằng, chứng chỉ được hoạt động trên các loại phương tiện và lệ phí đăng ký, cấp biển xe máy chuyên dùng hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành.\n3. Bãi bỏ khoản 5 Điều 1 Thông tư số 06/2025/TT-BTC ngày 24 tháng 01 năm 2025 của Bộ trưởng Bộ Tài chính sửa đổi, bổ sung một số điều của các Thông tư của Bộ trưởng Bộ Tài chính quy định về phí, lệ phí.\n4. Các nội dung khác liên quan đến việc thu, nộp, chứng từ thu, công khai chế độ thu phí, lệ phí không quy định tại Thông tư này được thực hiện theo quy định tại các văn bản: Luật Phí và lệ phí số 97/2015/QH13; Nghị định số 362/2025/NĐ-CP ngày 31 tháng 12 năm 2025 của Chính phủ quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Phí và lệ phí; Luật Quản lý thuế số 38/2019/QH14; Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế, được sửa đổi, bổ sung bởi Nghị định số 91/2022/NĐ-CP; Nghị định số 11/2020/NĐ-CP ngày 20 tháng 01 năm 2020 của Chính phủ quy định về thủ tục hành chính thuộc lĩnh vực Kho bạc Nhà nước; Nghị định số 123/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định về hóa đơn, chứng từ, được sửa đổi, bổ sung bởi Nghị định số 70/2025/NĐ-CP và Thông tư số 32/2025/TT-BTC ngày 31 tháng 5 năm 2025 của Bộ trưởng Bộ Tài chính hướng dẫn thực hiện một số điều của Luật Quản lý thuế ngày 13 tháng 6 năm 2019, Nghị định số 123/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định về hóa đơn, chứng từ, được sửa đổi, bổ sung bởi Nghị định số 70/2025/NĐ-CP.\n5. Trường hợp các văn bản quy phạm pháp luật viện dẫn tại Thông tư này được sửa đổi, bổ sung hoặc thay thế thì thực hiện theo văn bản mới sửa đổi, bổ sung hoặc thay thế đó.\n6. Trong quá trình thực hiện, nếu có vướng mắc, đề nghị các tổ chức, cá nhân phản ánh kịp thời về Bộ Tài chính đề nghiên cứu, hướng dẫn bổ sung."
+                }
+            ],
+            "metadata": {
+                "total_units": 5,
+                "total_articles": 5,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 1
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [
+                {
+                    "official_number_target": "11/2020/NĐ-CP",
+                    "affected_articles": [],
+                    "effective_from": null
+                }
+            ],
+            "replaces": [
+                {
+                    "official_number_target": "37/2023/TT-BTC",
+                    "effective_from": "2026-01-01"
+                }
+            ],
+            "mentions": [],
+            "abolished": [
+                {
+                    "official_number_target": "37/2023/TT-BTC",
+                    "date_abolished": "2026-01-01",
+                    "affected_details": [
+                        "Toàn văn"
+                    ]
+                },
+                {
+                    "official_number_target": "06/2025/TT-BTC",
+                    "date_abolished": "2026-01-01",
+                    "affected_details": [
+                        "Khoản 5 Điều 1"
+                    ]
+                }
+            ],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 1,
+                "llm_count": 1,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "replaces": {
+                "crawl_count": 1,
+                "llm_count": 1,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 10,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "11/2020/NĐ-CP",
+                    "123/2020/NĐ-CP",
+                    "126/2020/NĐ-CP",
+                    "32/2025/TT-BTC",
+                    "362/2025/ND-CP",
+                    "37/2023/TT-BTC",
+                    "38/2019/QH14",
+                    "70/2025/NĐ-CP",
+                    "91/2022/NĐ-CP",
+                    "97/2015/QH13"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "abolished": {
+                "crawl_count": 2,
+                "llm_count": 2,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "[mentions] LLM thiếu target so với crawl: ['11/2020/NĐ-CP', '123/2020/NĐ-CP', '126/2020/NĐ-CP', '32/2025/TT-BTC', '362/2025/ND-CP', '37/2023/TT-BTC', '38/2019/QH14', '70/2025/NĐ-CP', '91/2022/NĐ-CP', '97/2015/QH13']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "126/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "11/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "123/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-cp",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "36/2024/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "89/2025/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "166/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "70/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "91/2022/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "38/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "97/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "37/2023/TT-BTC",
+            "properties": {
+                "source": "crawled",
+                "effective_from": "2026-01-01"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "06/2025/TT-BTC",
+            "properties": {
+                "date_abolished": "2026-01-01",
+                "affected_details": [
+                    "Khoản 5 Điều 1"
+                ]
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "37/2023/TT-BTC",
+            "properties": {
+                "note": "het_hieu_luc",
+                "source": "crawled",
+                "date_abolished": "2026-01-01",
+                "affected_details": [
+                    "Toàn văn"
+                ]
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "11/2020/NĐ-CP",
+            "properties": {
+                "source": "crawled",
+                "effective_from": null,
+                "affected_articles": []
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "362/2025/ND-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "37/2023/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "126/2020/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "123/2020/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "32/2025/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "70/2025/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "91/2022/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "11/2020/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "38/2019/QH14",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "154/2025/TT-BTC",
+            "target_id": "97/2015/QH13",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ]
+}

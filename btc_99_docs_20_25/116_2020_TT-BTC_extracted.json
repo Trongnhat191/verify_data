@@ -1,0 +1,253 @@
+{
+    "file_name": "116_2020_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "116/2020/TT-BTC",
+        "title": "Hướng dẫn một số điều về quản trị công ty áp dụng đối với công ty đại chúng tại Nghị định số 155/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ quy định chi tiết thi hành một số đỉều của Luật Chứng khoán",
+        "promulgationDate": "2020-12-31",
+        "effectiveDate": "2021-02-15",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Huỳnh Quang Hải",
+        "draftingUnit": "Uỷ ban Chứng khoán Nhà nước",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:21Z",
+        "_doc_id": "99595"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "116/2020/TT-BTC",
+            "target_id": "Luật Doanh nghiệp 2020",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "116/2020/TT-BTC",
+            "target_id": "Luật Chứng khoán 2019",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "116/2020/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "116/2020/TT-BTC",
+            "target_id": "Luật Đầu tư 2020",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "116/2020/TT-BTC",
+            "target_id": "Luật Quản lý thuế 2019",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "116_2020_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "116/2020/TT-BTC",
+        "dates": {
+            "promulgation_date": "2020-12-31",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Phạm vi điều chỉnh",
+                    "position": 0,
+                    "children": [],
+                    "content": "Thông tư này hướng dẫn một số điều về quản trị công ty tại Nghị định số\n155/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ quy định chi tiết\nthi hành một số điều của Luật Chứng khoán gồm Điều lệ mẫu công ty, mẫu Quy\nchế nội bộ về quản trị công ty, mẫu Quy chế hoạt động của Hội đồng quản trị,\nmẫu Quy chế hoạt động của Ban kiểm soát và mẫu Quy chế hoạt động của Ủy\nban kiểm toán của công ty đại chúng."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Đối tượng áp dụng",
+                    "position": 432,
+                    "children": [],
+                    "content": "Điều 2. Đối tượng áp dụng\n1. Công ty đại chúng.\n2. Cổ đông công ty đại chúng và tổ chức, cá nhân là người có liên quan\ncủa cổ đông.\n3. Thành viên Hội đồng quản trị, thành viên Ban kiểm soát, người điều\nhành doanh nghiệp của công ty đại chúng và tổ chức, cá nhân là người có liên\nquan của các đối tượng này.\n4. Tổ chức, cá nhân khác có liên quan đến công ty đại chúng."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "3",
+                    "title": "Điều lệ công ty",
+                    "position": 800,
+                    "children": [],
+                    "content": "Điều 3. Điều lệ công ty\nCông ty đại chúng tham chiếu Điều lệ mẫu tại Phụ lục I ban hành kèm theo Thông tư này để xây dựng Điều lệ công ty, đảm bảo phù hợp với quy định của Luật Doanh nghiệp, Luật Chứng khoán, Nghị định số 155/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ quy định chi tiết thi hành một số điều của Luật Chứng khoán và quy định khác của pháp luật có liên quan."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "4",
+                    "title": "Quy chế nội bộ về quản trị công ty",
+                    "position": 1182,
+                    "children": [],
+                    "content": "Điều 4. Quy chế nội bộ về quản trị công ty\nCông ty đại chúng tham chiếu mẫu Quy chế nội bộ về quản trị công ty tại Phụ lục II ban hành kèm theo Thông tư này để xây dựng Quy chế nội bộ về quản trị công ty, đảm bảo phù hợp với quy định của Luật Doanh nghiệp, Luật Chứng khoán, Nghị định số 155/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ quy định chi tiết thi hành một số điều của Luật Chứng khoán, Điều lệ công ty và quy định khác của pháp luật có liên quan."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "5",
+                    "title": "Quy chế hoạt động của Hội đồng quản trị",
+                    "position": 1647,
+                    "children": [],
+                    "content": "Điều 5. Quy chế hoạt động của Hội đồng quản trị\nCông ty đại chúng tham chiếu mẫu Quy chế hoạt động của Hội đồng quản trị tại Phụ lục III ban hành kèm theo Thông tư này để xây dựng Quy chế hoạt động của Hội đồng quản trị, đảm bảo phù hợp với quy định của Luật Doanh nghiệp, Luật Chứng khoán, Nghị định số 155/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ quy định chi tiết thi hành một số điều của Luật Chứng khoán, Điều lệ công ty và quy định khác của pháp luật có liên quan."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "6",
+                    "title": "Quy chế hoạt động của Ban kiểm soát",
+                    "position": 2128,
+                    "children": [],
+                    "content": "Điều 6. Quy chế hoạt động của Ban kiểm soát\nCông ty đại chúng tham chiếu mẫu Quy chế hoạt động của Ban kiểm soát tại Phụ lục IV ban hành kèm theo Thông tư này để xây dựng Quy chế hoạt động của Ban kiểm soát, đảm bảo phù hợp với quy định của Luật Doanh nghiệp, Luật Chứng khoán, Nghị định số 155/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ quy định chi tiết thi hành một số điều của Luật Chứng khoán, Điều lệ công ty và quy định khác của pháp luật có liên quan."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "7",
+                    "title": "Quy chế hoạt động của Ủy ban kiểm toán",
+                    "position": 2596,
+                    "children": [],
+                    "content": "Điều 7. Quy chế hoạt động của Ủy ban kiểm toán\nCông ty đại chúng tham chiếu mẫu Quy chế hoạt động của Ủy ban kiểm toán tại Phụ lục V ban hành kèm theo Thông tư này để xây dựng Quy chế hoạt động của Ủy ban kiểm toán, đảm bảo phù hợp với quy định của Luật Doanh nghiệp, Luật Chứng khoán, Nghị định số 155/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ quy định chi tiết thi hành một số điều của Luật Chứng khoán, Điều lệ công ty và quy định khác của pháp luật có liên quan."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "8",
+                    "title": "Điều khoản thi hành",
+                    "position": 3072,
+                    "children": [],
+                    "content": "Điều 8. Điều khoản thi hành\n1. Thông tư này có hiệu lực kể từ ngày 15 tháng 02 năm 2021 và thay thế Thông tư số 95/2017/TT-BTC ngày 22 tháng 9 năm 2017 của Bộ trưởng Bộ Tài chính hướng dẫn một số điều của Nghị định số 71/2017/NĐ-CP ngày 06 tháng 6\nnăm 2017 của Chính phủ hướng dẫn về quản trị công ty áp dụng đối với công ty đại chúng.\n2. Trường hợp các văn bản quy phạm pháp luật quy định viện dẫn tại Thông tư này được sửa đổi, bổ sung hoặc thay thế thì thực hiện theo văn bản mới được sửa đổi, bổ sung hoặc thay thế.\n3. Trong quá trình thực hiện, nếu có vướng mắc, đề nghị các tổ chức, cá nhân phản ánh kịp thời để Bộ Tài chính nghiên cứu sửa đổi, bổ sung cho phù hợp./."
+                }
+            ],
+            "metadata": {
+                "total_units": 8,
+                "total_articles": 8,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 1
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [],
+            "replaces": [],
+            "mentions": [],
+            "abolished": [],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "replaces": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 2,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "LUẬTQUẢNLÝTHUẾ2019",
+                    "LUẬTĐẦUTƯ2020"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "[mentions] LLM thiếu target so với crawl: ['LUẬTQUẢNLÝTHUẾ2019', 'LUẬTĐẦUTƯ2020']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "116/2020/TT-BTC",
+            "target_id": "Luật Doanh nghiệp 2020",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "116/2020/TT-BTC",
+            "target_id": "Luật Chứng khoán 2019",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "116/2020/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "116/2020/TT-BTC",
+            "target_id": "Luật Đầu tư 2020",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "116/2020/TT-BTC",
+            "target_id": "Luật Quản lý thuế 2019",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ]
+}

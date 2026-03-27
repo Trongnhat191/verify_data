@@ -1,0 +1,217 @@
+{
+    "file_name": "69_2023_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "69/2023/TT-BTC",
+        "title": "Sửa đổi, bổ sung một số điều của Thông tư số 57/2021/TT-BTC ngày 12 tháng 7 năm 2021 của Bộ trưởng Bộ Tài chính quy định lộ trình sắp xếp lại thị trường giao dịch cổ phiếu, thị trường giao dịch trái phiếu, thị trường giao dịch chứng khoán phái sinh và thị trường giao dịch các loại chứng khoán khác",
+        "promulgationDate": "2023-11-15",
+        "effectiveDate": "2023-12-30",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Nguyễn Đức Chi",
+        "draftingUnit": "Uỷ ban Chứng khoán Nhà nước",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "PARTIALLY_EXPIRED",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:20Z",
+        "_doc_id": "179497"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "69/2023/TT-BTC",
+            "target_id": "Luật Chứng khoán 2019",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "69/2023/TT-BTC",
+            "target_id": "155/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "69/2023/TT-BTC",
+            "target_id": "14/2023/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "69/2023/TT-BTC",
+            "target_id": "57/2021/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "69_2023_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "57/2021/TT-BTC",
+        "dates": {
+            "promulgation_date": "2023-11-15",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Sửa đổi, bổ sung một số điều của Thông tư số 57/2021/TT-BTC",
+                    "position": 0,
+                    "children": [],
+                    "content": "ngày 12 tháng 7 năm 2021 của Bộ trưởng Bộ Tài chính quy định lộ trình sắp xếp\nlại thị trường giao dịch cổ phiếu, thị trường giao dịch trái phiếu, thị trường giao\ndịch chứng khoán phái sinh và thị trường giao dịch các loại chứng khoán khác\n1. Sửa đổi khoản 1 Điều 4 như sau:\n“1. Chậm nhất đến hết ngày 31 tháng 12 năm 2026, Sở Giao dịch Chứng\nkhoán thành phố Hồ Chí Minh thống nhất tổ chức thị trường giao dịch cổ\nphiếu, chứng chỉ quỹ và chứng quyền có bảo đảm niêm yết, thị trường giao\ndịch cổ phiếu của tổ chức đăng ký giao dịch theo quy định tại Luật Chứng\nkhoán và các văn bản hướng dẫn thi hành.”\n2. Sửa đổi điểm c, điểm d, điểm e khoản 2 Điều 4 như sau:\n“c) Trước ngày 01 tháng 7 năm 2025: Sở Giao dịch Chứng khoán thành phố\nHồ Chí Minh tiếp nhận, xem xét hồ sơ đăng ký niêm yết, tổ chức giao dịch cô\nphiếu mới của tổ chức đáp ứng điều kiện niêm yết quy định tại Nghị định số\n155/2020/NĐ-CP ngày 31 tháng 12 năm 2020 quy định chi tiết thi hành một số\nđiều của Luật Chứng khoán (sau đây gọi là Nghị định số 155/2020/NĐ-CP) và có\nvốn điều lệ đã góp tại thời điểm đăng ký niêm yết từ 120 tỷ đồng trở lên;\nd) Từ ngày 01 tháng 7 năm 2025: Sở Giao dịch Chứng khoán thành phố\nHồ Chí Minh tiếp nhận và xem xét hồ sơ đăng ký niêm yết, tổ chức giao dịch\ncổ phiếu mới của tổ chức đáp ứng điều kiện niêm yết quy định tại Nghị định số\n155/2020/NĐ-CP;\nd) Chậm nhất đến hết ngày 31 tháng 12 năm 2025: Sở Giao dịch Chứng\nkhoán thành phố Hồ Chí Minh hoàn thành việc tiếp nhận cổ phiếu của tổ chức\nniêm yết từ Sở Giao dịch Chứng khoán Hà Nội;\ne) Chậm nhất đến hết ngày 31 tháng 12 năm 2026: Sở Giao dịch Chứng\nkhoán thành phố Hồ Chí Minh hoàn thành việc tiếp nhận cổ phiếu của tổ chức\nđăng ký giao dịch từ Sở Giao dịch Chứng khoán Hà Nội.\n3. Sửa đổi điểm b, điểm c, điểm d, điểm e khoản 3 Điều 4 như sau:\n“b) Trước ngày 01 tháng 7 năm 2025: Sở Giao dịch Chứng khoán Hà Nội\ntiếp nhận và xem xét hồ sơ đăng ký niêm yết, tổ chức giao dịch cổ phiếu mới của\ntổ chức đáp ứng điều kiện niêm yết quy định tại Nghị định số 155/2020/NĐ-CP\nvà có vốn điều lệ đã góp tại thời điểm đăng ký niêm yết từ 30 tỷ đồng trở lên;\nc) Từ ngày 01 tháng 7 năm 2025: Sở Giao dịch Chứng khoán Hà Nội\nkhông tiếp nhận hồ sơ đăng ký niêm yết có phiếu mới của tổ chức;\nd) Chậm nhất đến hết ngày 31 tháng 12 năm 2025: Sở Giao dịch Chứng\nkhoán Hà Nội hoàn thành việc chuyển cổ phiếu của tổ chức niêm yết từ Sở Giao dịch\nChứng khoán Hà Nội sang Sở Giao dịch Chứng khoán thành phố Hồ Chí Minh;\ne) Chậm nhất đến hết ngày 31 tháng 12 năm 2026: Sở Giao dịch Chứng\nkhoán Hà Nội hoàn thành việc chuyển cổ phiếu của tổ chức đăng ký giao dịch từ Sở Giao dịch Chứng khoán Hà Nội sang Sở Giao dịch Chứng khoán thành phố Hồ Chí Minh. Sau khi hoàn thành việc chuyển cổ phiếu của\ntổ chức đăng ký giao dịch từ Sở Giao dịch Chứng khoán Hà Nội sang Sở Giao\ndịch Chứng khoán thành phố Hồ Chí Minh, Sở Giao dịch Chứng khoán Hà\nNội không tiếp nhận hồ sơ đăng ký giao dịch mới của tổ chức.”\n4. Sửa đổi khoản 2 Điều 7 như sau:\n“2. Trường hợp tổ chức đã nộp hồ sơ đăng ký niêm yết có phiếu cho Sở Giao\ndịch Chứng khoán Hà Nội trước ngày 01 tháng 7 năm 2025 mà chưa được chấp thuận\nniêm yết, Sở Giao dịch Chứng khoán Hà Nội có trách nhiệm chuyển hồ sơ đăng ký\nniêm yết của tổ chức sang Sở Giao dịch Chứng khoán thành phố Hồ Chí Minh trước\nngày 08 tháng 7 năm 2025 để Sở Giao dịch Chứng khoán thành phố Hồ Chí Minh\ntiếp tục xử lý hồ sơ đăng ký niêm yết của tổ chức theo quy định pháp luật.”",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Điều khoản chuyển tiếp",
+                    "position": 3486,
+                    "children": [],
+                    "content": "Điều 2. Điều khoản chuyển tiếp\nTrường hợp hồ sơ đăng ký niêm yết do Sở Giao dịch Chứng khoán thành phố Hồ Chí Minh tiếp nhận của tổ chức có vốn điều lệ đã góp tại thời điểm đăng ký niêm yết dưới 120 tỷ đồng nhưng chưa được chấp thuận niêm yết tính đến thời điểm Thông tư này có hiệu lực, Sở Giao dịch Chứng khoán thành phố Hồ Chí Minh có trách nhiệm chuyển hồ sơ đăng ký niêm yết của tổ chức sang Sở Giao dịch Chứng khoán Hà Nội để tiếp tục xử lý hồ sơ đăng ký niêm yết theo quy định pháp luật.\nThời hạn chuyển hồ sơ đăng ký niêm yết chậm nhất là 05 ngày làm việc kể từ ngày Thông tư này có hiệu lực."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "3",
+                    "title": "Điều khoản thi hành",
+                    "position": 4087,
+                    "children": [],
+                    "content": "Điều 3. Điều khoản thi hành\n1. Thông tư này có hiệu lực thi hành kể từ ngày 30 tháng 12 năm 2023.\n2. Trường hợp các văn bản quy phạm pháp luật được dẫn chiếu để áp dụng tại Thông tư này được sửa đổi, bổ sung, thay thế thì áp dụng theo các văn bản sửa đổi, bổ sung, thay thế đó.\n3. Sở Giao dịch Chứng khoán Việt Nam, Sở Giao dịch Chứng khoán Hà Nội, Sở Giao dịch Chứng khoán thành phố Hồ Chí Minh, tổ chức niêm yết, tổ chức đăng ký giao dịch, công ty đại chúng và các tổ chức, cá nhân khác có liên quan chịu trách nhiệm thi hành Thông tư này./."
+                }
+            ],
+            "metadata": {
+                "total_units": 3,
+                "total_articles": 3,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 1,
+                "depth": 1
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [
+                {
+                    "official_number_target": "57/2021/TT-BTC",
+                    "affected_articles": [
+                        "Khoản 1 Điều 4",
+                        "Điểm c Khoản 2 Điều 4",
+                        "Điểm d Khoản 2 Điều 4",
+                        "Điểm e Khoản 2 Điều 4",
+                        "Điểm b Khoản 3 Điều 4",
+                        "Điểm c Khoản 3 Điều 4",
+                        "Điểm d Khoản 3 Điều 4",
+                        "Điểm e Khoản 3 Điều 4",
+                        "Khoản 2 Điều 7"
+                    ],
+                    "effective_from": "2023-12-30"
+                }
+            ],
+            "replaces": [],
+            "mentions": [],
+            "abolished": [],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": false,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 1,
+                "llm_count": 1,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "replaces": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "Số hiệu không khớp: crawl='69/2023/TT-BTC', regex='57/2021/TT-BTC'"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "69/2023/TT-BTC",
+            "target_id": "Luật Chứng khoán 2019",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "69/2023/TT-BTC",
+            "target_id": "155/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "69/2023/TT-BTC",
+            "target_id": "14/2023/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "69/2023/TT-BTC",
+            "target_id": "57/2021/TT-BTC",
+            "properties": {
+                "source": "crawled",
+                "effective_from": "2023-12-30",
+                "affected_articles": [
+                    "Khoản 1 Điều 4",
+                    "Điểm c Khoản 2 Điều 4",
+                    "Điểm d Khoản 2 Điều 4",
+                    "Điểm e Khoản 2 Điều 4",
+                    "Điểm b Khoản 3 Điều 4",
+                    "Điểm c Khoản 3 Điều 4",
+                    "Điểm d Khoản 3 Điều 4",
+                    "Điểm e Khoản 3 Điều 4",
+                    "Khoản 2 Điều 7"
+                ]
+            },
+            "_crawled": true
+        }
+    ]
+}

@@ -1,0 +1,239 @@
+{
+    "file_name": "109_2021_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "109/2021/TT-BTC",
+        "title": "Sửa đổi, bổ sung một số điều của Thông tư số 58/2019/TT-BTC ngày 30 tháng 8 năm 2019 của Bộ trưởng Bộ Tài chính quy định về quản lý và sử dụng tài khoản của Kho bạc Nhà nước mở tại Ngân hàng Nhà nước Việt Nam và các ngân hàng thương mại",
+        "promulgationDate": "2021-12-09",
+        "effectiveDate": "2022-02-01",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Võ Thành Hưng",
+        "draftingUnit": "Kho bạc nhà nước",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:21Z",
+        "_doc_id": "103219"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "109/2021/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "109/2021/TT-BTC",
+            "target_id": "163/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "109/2021/TT-BTC",
+            "target_id": "24/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "109/2021/TT-BTC",
+            "target_id": "Luật ngân sách nhà nước 2015",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "109/2021/TT-BTC",
+            "target_id": "155/QĐ-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "109/2021/TT-BTC",
+            "target_id": "58/2019/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "109_2021_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "58/2019/TT-BTC",
+        "dates": {
+            "promulgation_date": "2021-12-09",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Sửa đổi, bổ sung một số điều của Thông tư số 58/2019/TT-BTC",
+                    "position": 0,
+                    "children": [],
+                    "content": "ngày 30 tháng 8 năm 2019 của Bộ trưởng Bộ Tài chính quy định về quản lý\nvà sử dụng tài khoản của Kho bạc Nhà nước mở tại Ngân hàng Nhà nước\nViệt Nam và các ngân hàng thương mại như sau:\n1. Sửa đổi, bổ sung một số khoản của Điều 2 như sau:\na) Sửa đổi, bổ sung khoản 5 như sau:\n“5. Tài khoản thanh toán tổng hợp: Là tài khoản tiền gửi không kỳ hạn của\nKBNN Trung ương tại NHNN Việt Nam và NHTM, được sử dụng để tập trung\ncác khoản thu và thanh toán các khoản chi của ngân quỹ nhà nước; tập trung số\ndư từ các tài khoản thanh toán, tài khoản chuyên thu thuộc cùng hệ thống ngân\nhàng hoặc từ các tài khoản thanh toán tổng hợp, tài khoản chuyên thu tổng hợp\nkhác (nếu có).\".\nb) Sửa đổi, bổ sung khoản 7 như sau:\n“7. Tài khoản chuyên thu tổng hợp: Là tài khoản tiền gửi không kỳ hạn của\nKBNN Trung ương tại NHTM, được sử dụng để tập trung các khoản thu của ngân\nsách nhà nước và tập trung số dư từ các tài khoản chuyên thu tại cùng hệ thống\nNHTM..”\nc) Bổ sung khoản 13 vào Điều 2 như sau:\n“13. Ủy nhiệm thu, chi ngân quỹ nhà nước bằng tiền mặt: Là việc KBNN\nủy nhiệm cho NHTM nơi KBNN mở tài khoản đảm nhận việc thu các khoản thu\nngân quỹ nhà nước bằng tiền mặt vào tài khoản của KBNN hoặc thanh toán, chi\ntrả các khoản chi ngân quỹ nhà nước bằng tiền mặt cho đối tượng thụ hưởng theo\nchứng từ chuyển tiền của KBNN..”\n2. Sửa đổi, bổ sung một số điểm, khoản của Điều 4 như sau:\na) Sửa đổi, bổ sung điểm a khoản 3 như sau:\n“a) Mở 01 tài khoản thanh toán bằng VND tại một chi nhánh NHTM trên\ncùng địa bàn tỉnh thuộc hệ thống NHTM đã triển khai thanh toán song phương\nđiện tử với KBNN.\nTrường hợp KBNN cấp tỉnh đóng trên địa bàn tỉnh đã thực hiện sáp nhập\nKBNN cấp huyện vào KBNN cấp tỉnh thì được mở thêm tài khoản thanh toán\nbằng VND tại chi nhánh hoặc phòng giao dịch NHTM nơi thuận tiện giao dịch và\nthuộc hệ thống NHTM đã triển khai thanh toán song phương điện tử với KBNN..\nb) Sửa đổi, bổ sung điểm a khoản 4 như sau:\n“a) Mở 01 tài khoản thanh toán bằng VND tại một chi nhánh hoặc phòng\ngiao dịch NHTM nơi thuận tiện giao dịch và thuộc hệ thống NHTM đã triển khai\nthanh toán song phương điện tử với KBNN.\nTrường hợp KBNN cấp huyện đóng trên địa bàn huyện đã thực hiện sáp nhập\ncác đơn vị hành chính cấp huyện hoặc sáp nhập các KBNN cấp huyện thì\nđược mở thêm tài khoản thanh toán bằng VND tại chi nhánh hoặc phòng giao dịch\nNHTM nơi thuận tiện giao dịch và thuộc hệ thống NHTM đã triển khai thanh toán\nsong phương điện tử với KBNN..”\n3\nc) Sửa đổi, bổ sung khoản 5 như sau:\n“5. Các hệ thống NHTM được lựa chọn để mở tài khoản thanh toán, tài khoản chuyên thu phải đáp ứng đầy đủ các điều kiện sau:\na) Có hệ thống Core Banking đặt tại Việt Nam.\nb) Hệ thống công nghệ thông tin của ngân hàng đáp ứng yêu cầu kết nối và trao đổi thông tin thanh toán song phương điện tử với KBNN, đảm bảo các tiêu chuẩn kết nối theo yêu cầu của KBNN Trung ương.\nc) Đã kết nối với Cổng thông tin điện tử và thực hiện phối hợp thu ngân sách nhà nước với cơ quan Thuế, cơ quan Hải quan.\nd) Cam kết với KBNN:\n- Có đầy đủ trang thiết bị, cơ sở vật chất kỹ thuật, hạ tầng công nghệ thông tin, nguồn nhân lực đáp ứng yêu cầu triển khai thanh toán song phương điện tử và tổ chức phối hợp thu ngân sách nhà nước với KBNN.\n- Đáp ứng các yêu cầu về thực hiện ủy nhiệm thu, chi ngân quỹ nhà nước bằng tiền mặt của KBNN (đối với NHTM mà KBNN mở tài khoản thanh toán); đáp ứng các yêu cầu về thực hiện ủy nhiệm thu ngân quỹ nhà nước bằng tiền mặt của KBNN (đối với NHTM mà KBNN mở tài khoản chuyên thu).\n- Phối hợp với KBNN xây dựng và thực hiện thỏa thuận về tổ chức phối hợp thu ngân sách nhà nước và thanh toán song phương điện tử.”.\nd) Bổ sung khoản 6 vào Điều 4 như sau:\n“6. KBNN căn cứ danh sách các NHTM được NHNN Việt Nam xếp hạng theo quy định tại khoản 3 Điều 14 Nghị định số 24/2016/NĐ-CP ngày 05 tháng 4 năm 2016 của Chính phủ quy định chế độ quản lý ngân quỹ nhà nước (Nghị định số 24/2016/NĐ-CP), quyết định việc mở tài khoản thanh toán, tài khoản chuyên thu của KBNN tại các hệ thống NHTM đáp ứng đầy đủ các điều kiện quy định tại khoản 5 Điều này, đảm bảo quản lý thu, chi ngân quỹ nhà nước an toàn, hiệu quả.\nTrường hợp NHTM mà KBNN đã mở tài khoản thanh toán, tài khoản chuyên thu không còn đáp ứng các điều kiện để mở tài khoản thanh toán, tài khoản chuyên thu theo quy định tại khoản 5 Điều này hoặc không còn nằm trong danh sách các NHTM được NHNN Việt Nam xếp hạng theo quy định tại khoản 3 Điều 14 Nghị định số 24/2016/NĐ-CP trong 02 năm liên tiếp, thì chậm nhất trong vòng 30 ngày làm việc, kể từ ngày KBNN có đầy đủ căn cứ để xác định NHTM không còn đáp ứng các điều kiện để mở tài khoản thanh toán, tài khoản chuyên thu theo quy định tại khoản 5 Điều này hoặc kể từ ngày KBNN nhận được thông tin về xếp\n4\nhạng các NHTM do NHNN Việt Nam cung cấp theo quy định tại khoản 3 Điều\n14 Nghị định số 24/2016/NĐ-CP, KBNN đóng các tài khoản thanh toán, tài khoản\nchuyên thu của KBNN tại hệ thống NHTM đó.”.\n3. Sửa đổi, bổ sung một số điểm, khoản của Điều 5 như sau:\na) Sửa đổi, bổ sung điểm a và điểm b khoản 1 như sau:\n“a) Đối với các tài khoản thanh toán, tài khoản chuyên thu của Sở Giao dịch\nKBNN, KBNN cấp tỉnh, KBNN cấp huyện tại các hệ thống NHTM, cuối ngày giao dịch (sau thời điểm COT), toàn bộ số dư\ntrên các tài khoản tại thời điểm COT được chuyển về tài khoản thanh toán tổng hợp, tài khoản chuyên thu tổng hợp của KBNN Trung ương tại cùng hệ thống\nNHTM, đảm bảo các tài khoản này có số dư bằng 0 (trừ những khoản thu phát\nsinh sau thời điểm COT). Trường hợp phát sinh sự kiện bất khả kháng không thể\nthực hiện việc kết chuyển trong ngày, việc kết chuyển thực hiện vào ngày làm\nviệc tiếp theo.\nb) Đối với các tài khoản thanh toán tổng hợp, tài khoản chuyên thu tổng\nhợp của KBNN Trung ương tại các hệ thống NHTM, cuối ngày giao dịch (trước\nthời điểm ngừng nhận lệnh giá trị cao của hệ thống thanh toán điện tử liên ngân\nhàng Quốc gia theo quy định của NHNN Việt Nam), sau khi đã nhận số quyết\ntoán từ các tài khoản thanh toán, tài khoản chuyên thu, toàn bộ số dư trên các tài\nkhoản (bao gồm các khoản thu phát sinh đến thời điểm COT, các khoản quyết\ntoán nhận từ các tài khoản thanh toán, tài khoản chuyên thu) được chuyển về tài\nkhoản thanh toán tổng hợp của KBNN Trung ương tại Sở Giao dịch NHNN Việt\nNam, đảm bảo các tài khoản này có số dư bằng 0 (trừ những khoản thu phát sinh\nsau thời điểm COT và trừ các tài khoản thanh toán tổng hợp bằng những loại ngoại\ntệ mà NHNN Việt Nam chưa mở tài khoản cho KBNN). Trường hợp phát sinh sự\nkiện bất khả kháng không thể thực hiện việc kết chuyển trong ngày, việc kết\nchuyển thực hiện vào ngày làm việc tiếp theo.”.\nb) Sửa đổi, bổ sung điểm b và điểm c khoản 2 như sau:\n“b) Tài khoản thanh toán tổng hợp của KBNN Trung ương mở tại trụ sở\nchính của NHTM được sử dụng để thực hiện các khoản thu, chi ngân quỹ nhà\nnước của các đơn vị KBNN; các giao dịch điều chuyển ngân quỹ nhà nước; các\ngiao dịch quyết toán cuối ngày từ các tài khoản thanh toán, tài khoản chuyên thu\ncủa KBNN cấp tỉnh, KBNN cấp huyện tại cùng hệ thống NHTM.\nc) Tài khoản chuyên thu tổng hợp của KBNN Trung ương mở tại trụ sở\nchính của NHTM được sử dụng để tập trung các khoản thu của ngân sách nhà\nnước; thực hiện các giao dịch quyết toán cuối ngày từ các tài khoản chuyển thu\ncủa KBNN cấp tỉnh, KBNN cấp huyện tại cùng hệ thống NHTM và các giao dịch\nđiều chuyển ngân quỹ nhà nước cuối ngày về tài khoản thanh toán tổng hợp của\nKBNN Trung ương tại Sở Giao dịch NHNN Việt Nam.\".\nc) Sửa đổi, bổ sung điểm e và điểm g khoản 2 như sau:\n“e) Tài khoản thanh toán bằng ngoại tệ của Sở Giao dịch KBNN và các\nKBNN cấp tỉnh tại NHTM được sử dụng để thực hiện các khoản thu, chi ngân\nquỹ nhà nước, các giao dịch điều chuyển ngân quỹ nhà nước bằng ngoại tệ.\ng) Tài khoản thanh toán của các KBNN cấp huyện mở tại NHTM được sử\ndụng để thực hiện các khoản thu, chi ngân quỹ nhà nước; các giao dịch điều\nchuyển ngân quỹ nhà nước.\nĐối với tài khoản thanh toán được mở thêm của KBNN cấp huyện tại\nNHTM theo quy định tại điểm a khoản 4 Điều 4 Thông tư này chỉ được sử dụng\nđể tập trung các khoản thu ngân quỹ nhà nước bằng chuyển khoản và bằng tiền\nmặt; thanh toán, chi trả các khoản chi ngân quỹ nhà nước bằng tiền mặt và thực\nhiện các giao dịch điều chuyển ngân quỹ nhà nước.”.\nd) Bổ sung khoản 4 vào Điều 5 như sau:\n“4. Trường hợp các đơn vị KBNN phát hiện có khoản thu không được hạch\ntoán và kết chuyển kịp thời vào tài khoản của KBNN tại NHTM theo quy định tại\nkhoản 1 Điều này và được xác định là lỗi do nguyên nhân chủ quan của chi nhánh\nhoặc phòng giao dịch NHTM nơi KBNN mở tài khoản, ngoài tiền lãi phát sinh\nđối với số dư trên các tài khoản của KBNN tại NHTM mà chi nhánh hoặc phòng\ngiao dịch NHTM phải trả cho KBNN theo quy định của NHNN Việt Nam, thì\nchậm nhất 01 ngày làm việc kể từ ngày phát hiện và xác định do lỗi chủ quan của\nchi nhánh hoặc phòng giao dịch NHTM, chi nhánh hoặc phòng giao dịch NHTM\nđó có trách nhiệm thanh toán khoản tiền chậm quyết toán, kết chuyển cho KBNN,\nđược xác định như sau:\nTiền chậm\nSố tiền\nMức lãi suất áp dụng\nSố ngày\nquyết toán,\nchậm\nđối với tiền gửi của KBNN\nchậm\nkết chuyển\n= quyết\n× 150% ×\ntại NHNN Việt Nam\nx\nquyết\nphải thanh\ntoán, kết\ntrong cùng thời kỳ\n365\ntoán, kết\nchuyển\nchuyển\nTrong đó, số ngày chậm quyết toán, kết chuyển (bao gồm cả ngày lễ, ngày\nnghỉ theo quy định của pháp luật) được tính từ ngày phải quyết toán, kết chuyển\nkhoản thu đến hết ngày liền kề trước ngày khoản thu được quyết toán, kết chuyển\nvào tài khoản của KBNN Trung ương tại NHNN Việt Nam.\"",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Bãi bỏ Điều 8 và khoản 1 Điều 10 của Thông tư số 58/2019/TT-",
+                    "position": 9469,
+                    "children": [],
+                    "content": "Điều 2. Bãi bỏ Điều 8 và khoản 1 Điều 10 của Thông tư số 58/2019/TT-\nBTC ngày 30 tháng 8 năm 2019 của Bộ trưởng Bộ Tài chính quy định về\nquản lý và sử dụng tài khoản của Kho bạc Nhà nước mở tại Ngân hàng Nhà\nnước Việt Nam và các ngân hàng thương mại.",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "3",
+                    "title": "Điều khoản chuyển tiếp",
+                    "position": 9720,
+                    "children": [],
+                    "content": "Điều 3. Điều khoản chuyển tiếp\nĐối với các tài khoản của KBNN hiện đang mở tại các hệ thống NHTM\ncho đến trước thời điểm Thông tư này có hiệu lực thi hành, KBNN Trung ương,\nSở Giao dịch KBNN, KBNN cấp tỉnh, KBNN cấp huyện rà soát và thực hiện như\nsau:\n1. Đối với các tài khoản đáp ứng các quy định tại Thông tư này, thì tiếp tục\nduy trì và sử dụng các tài khoản đó.\n2. Đối với các tài khoản không đáp ứng các quy định tại Thông tư này, thì làm thủ tục tất toán và đóng tài khoản theo quy định, đảm bảo việc đóng tài khoản\nhoàn thành trước ngày 01 tháng 4 năm 2022."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "4",
+                    "title": "Hiệu lực thi hành và tổ chức thực hiện",
+                    "position": 10285,
+                    "children": [],
+                    "content": "Điều 4. Hiệu lực thi hành và tổ chức thực hiện\n1. Thông tư này có hiệu lực thi hành từ ngày 01 tháng 02 năm 2022.\n2. KBNN, các cơ quan, đơn vị, tổ chức và cá nhân có liên quan chịu trách\nnhiệm thi hành Thông tư này./."
+                }
+            ],
+            "metadata": {
+                "total_units": 4,
+                "total_articles": 4,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 2,
+                "depth": 1
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [
+            "Ngân hàng, tiền tệ",
+            "Ngân hàng, tiền tệ"
+        ],
+        "edges": {
+            "amends": [],
+            "replaces": [],
+            "mentions": [],
+            "abolished": [],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": false,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 1,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "58/2019/TT-BTC"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "replaces": {
+                "crawl_count": 1,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "155/QĐ-BTC"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "Số hiệu không khớp: crawl='109/2021/TT-BTC', regex='58/2019/TT-BTC'",
+            "[amends] LLM thiếu target so với crawl: ['58/2019/TT-BTC']",
+            "[replaces] LLM thiếu target so với crawl: ['155/QĐ-BTC']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "109/2021/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "109/2021/TT-BTC",
+            "target_id": "163/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "109/2021/TT-BTC",
+            "target_id": "24/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "109/2021/TT-BTC",
+            "target_id": "Luật ngân sách nhà nước 2015",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "109/2021/TT-BTC",
+            "target_id": "155/QĐ-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "109/2021/TT-BTC",
+            "target_id": "58/2019/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ]
+}

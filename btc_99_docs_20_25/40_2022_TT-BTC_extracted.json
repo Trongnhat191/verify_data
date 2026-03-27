@@ -1,0 +1,519 @@
+{
+    "file_name": "40_2022_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "40/2022/TT-BTC",
+        "title": "Quy định về giám định tư pháp trong lĩnh vực tài chính",
+        "promulgationDate": "2022-06-29",
+        "effectiveDate": "2022-08-15",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Võ Thành Hưng",
+        "draftingUnit": "Vụ Pháp chế",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:21Z",
+        "_doc_id": "107883"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "40/2022/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "40/2022/TT-BTC",
+            "target_id": "85/2013/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "40/2022/TT-BTC",
+            "target_id": "56/2020/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "40/2022/TT-BTC",
+            "target_id": "157/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "40/2022/TT-BTC",
+            "target_id": "13/2012/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "40/2022/TT-BTC",
+            "target_id": "85/2013/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "40/2022/TT-BTC",
+            "target_id": "138/2013/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "40_2022_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "40/2022/TT-BTC",
+        "dates": {
+            "promulgation_date": "2022-06-29",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "CHAPTER",
+                    "number": "I",
+                    "title": "QUY ĐỊNH CHUNG",
+                    "position": 0,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "1",
+                            "title": "Phạm vi điều chỉnh",
+                            "position": 23,
+                            "children": [],
+                            "content": "Điều 1. Phạm vi điều chỉnh\nThông tư này quy định về giám định tư pháp trong lĩnh vực tài chính, gồm:\n1. Tiêu chuẩn, hồ sơ, trình tự, thủ tục bổ nhiệm, miễn nhiệm giám định viên\ntư pháp và việc cấp, thu hồi thẻ giám định viên tư pháp trong lĩnh vực tài chính;\ncông nhận, hủy bỏ công nhận, đăng tải danh sách người giám định tư pháp theo\nvụ việc trong lĩnh vực tài chính.\n2. Áp dụng quy chuẩn chuyên môn, quy trình thực hiện giám định tư pháp\ntrong lĩnh vực tài chính; chuẩn bị, thực hiện giám định; thời hạn giám định tư\npháp; kết luận giám định tư pháp; lập, lưu trữ hồ sơ giám định tư pháp trong lĩnh\nvực tài chính và các nội dung khác liên quan đến giám định tư pháp trong lĩnh\nvực tài chính.\n3. Điều kiện về cơ sở vật chất của Văn phòng giám định tư pháp, tổ chức\ngiám định tư pháp theo vụ việc trong lĩnh vực tài chính; lập công bố danh sách\ntổ chức giám định tư pháp theo vụ việc trong lĩnh vực tài chính; việc tiếp nhận,\nthực hiện trung cầu giám định tư pháp của Văn phòng giám định tư pháp, tổ\nchức giám định tư pháp theo vụ việc trong lĩnh vực tài chính."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "2",
+                            "title": "Đối tượng áp dụng",
+                            "position": 1086,
+                            "children": [],
+                            "content": "Điều 2. Đối tượng áp dụng\n1. Giám định viên tư pháp, người giám định tư pháp theo vụ việc trong lĩnh\nvực tài chính.\n2. Văn phòng giám định tư pháp, tổ chức giám định tư pháp theo vụ việc\ntrong lĩnh vực tài chính.\n3. Các cơ quan, đơn vị, tổ chức, cá nhân khác có liên quan đến hoạt động\ngiám định tư pháp trong lĩnh vực tài chính."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "3",
+                            "title": "Lĩnh vực giám định tư pháp",
+                            "position": 1416,
+                            "children": [],
+                            "content": "Điều 3. Lĩnh vực giám định tư pháp\nGiám định tư pháp trong lĩnh vực tài chính bao gồm:\n1. Giám định tư pháp về kế toán, kiểm toán.\n2. Giám định tư pháp về giá.\n3. Giám định tư pháp về chứng khoán.\n4. Giám định tư pháp về thuế.\n5. Giám định tư pháp về hải quan.\n6. Giám định tư pháp về tài sản công.\n7. Giám định tư pháp về tài chính doanh nghiệp.\n8. Giám định tư pháp về các lĩnh vực tài chính khác theo quy định của pháp\nluật."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "4",
+                            "title": "Nguyên tắc lựa chọn, phân công người, tổ chức thực hiện giám",
+                            "position": 1844,
+                            "children": [],
+                            "content": "Điều 4. Nguyên tắc lựa chọn, phân công người, tổ chức thực hiện giám\nđịnh tư pháp trong lĩnh vực tài chính\n1. Việc lựa chọn giám định viên tư pháp, người giám định tư pháp theo\nvụ việc, Văn phòng giám định tư pháp, tổ chức giám định tư pháp theo vụ\nviệc thực hiện giám định phải phù hợp với đối tượng, nội dung trung cầu\ngiám định, đáp ứng các quy định tại Luật Giám định tư pháp, hướng dẫn tại\nThông tư này và các quy định khác của pháp luật có liên quan đến giám định\ntư pháp.\n2. Việc cử cán bộ, công chức là giám định viên tư pháp, người giám định tư\npháp theo vụ việc; việc phân công người của Văn phòng giám định tư pháp, tổ\nchức giám định tư pháp theo vụ việc thực hiện giám định phải đúng thẩm quyền,\ntrình tự, thủ tục theo quy định của pháp luật.\n3"
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "II",
+                    "title": "QUY ĐỊNH CỤ THỂ",
+                    "position": 2601,
+                    "children": [
+                        {
+                            "type": "SECTION",
+                            "number": "1",
+                            "title": "GIÁM ĐỊNH VIÊN TƯ PHÁP, NGƯỜI GIÁM ĐỊNH TƯ PHÁP THEO",
+                            "position": 2627,
+                            "children": [
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "5",
+                                    "title": "Tiêu chuẩn bổ nhiệm giám định viên tư pháp, lựa chọn người",
+                                    "position": 2719,
+                                    "children": [],
+                                    "content": "Điều 5. Tiêu chuẩn bổ nhiệm giám định viên tư pháp, lựa chọn người\ngiám định tư pháp theo vụ việc\n1. Công dân Việt Nam thường trú tại Việt Nam có đủ tiêu chuẩn quy định\ntại khoản 1 Điều 7 Luật Giám định tư pháp và không thuộc trường hợp quy định\ntại khoản 2 Điều 7 Luật Giám định tư pháp được xem xét bổ nhiệm giám định\nviên tư pháp trong lĩnh vực tài chính.\n2. Công dân Việt Nam thường trú tại Việt Nam có đủ tiêu chuẩn quy định\ntại khoản 1 Điều 18 Luật Giám định tư pháp được xem xét lựa chọn làm người\ngiám định tư pháp theo vụ việc.\nTrong trường hợp người không có trình độ đại học theo quy định tại khoản\n1 Điều 18 Luật Giám định tư pháp nhưng có kiến thức chuyên môn sâu và có\nnhiều kinh nghiệm thực tiễn về lĩnh vực cần giám định thì có thể được lựa chọn\nlàm người giám định tư pháp theo vụ việc."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "6",
+                                    "title": "Hồ sơ bổ nhiệm, cấp thẻ, miễn nhiệm và thu hồi thẻ giám định",
+                                    "position": 3523,
+                                    "children": [],
+                                    "content": "Điều 6. Hồ sơ bổ nhiệm, cấp thẻ, miễn nhiệm và thu hồi thẻ giám định\nviên tư pháp\n1. Hồ sơ bổ nhiệm, cấp thẻ, miễn nhiệm, thu hồi thẻ giám định viên tư pháp\ntrong lĩnh vực tài chính được thực hiện theo quy định tại Điều 8 Luật Giám định\ntư pháp; khoản 4, khoản 6 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật\nGiám định tư pháp và Thông tư số 11/2020/TT-BTP ngày 31/12/2020 của Bộ\nTư pháp quy định về mẫu thẻ, trình tự, thủ tục cấp mới, cấp lại thẻ giám định\nviên tư pháp.\n2. Ngoài các nội dung quy định tại khoản 1 Điều này, hồ sơ bổ nhiệm, cấp\nthẻ, miễn nhiệm và thu hồi thẻ giám định viên tư pháp tại Bộ Tài chính được\nthực hiện như sau:\na) Hồ sơ bổ nhiệm, cấp thẻ giám định viên tư pháp trong lĩnh vực tài chính\ntại Bộ Tài chính:\n- Văn bản đề nghị bổ nhiệm, cấp thẻ giám định viên tư pháp của đơn vị\nthuộc Bộ Tài chính nơi người được đề nghị bổ nhiệm đang công tác.\n- Bản sao các văn bằng chứng minh được đào tạo quy định tại điểm b\nkhoản 1 Điều 7 Luật Giám định tư pháp; văn bản công nhận của cấp có thẩm\nquyền đối với văn bằng do cơ sở giáo dục nước ngoài cấp.\n- Sơ yếu lý lịch có xác nhận của cấp có thẩm quyền.\n- Xác nhận thời gian hoạt động chuyên môn của người được đề nghị bổ\nnhiệm giám định viên tư pháp theo Phụ lục I ban hành kèm theo Thông tư này.\nTrường hợp người được đề nghị bổ nhiệm giám định viên tư pháp có thời gian thực tế hoạt động chuyên môn ở lĩnh vực được đào tạo tại đơn vị khác thuộc Bộ Tài chính hoặc tại các cơ quan, tổ chức khác (đơn vị khác) trước khi được đề nghị bổ nhiệm giám định viên tư pháp thì thời gian hoạt động chuyên môn ở lĩnh vực được đào tạo của người được đề nghị bổ nhiệm giám định viên tư pháp bao gồm thời gian thực tế làm việc tại đơn vị đề nghị và thời gian thực tế làm việc tại đơn vị khác.\n- 02 ảnh chân dung cỡ 2cm x 3cm (chụp trong thời gian 06 tháng gần nhất) của người được đề nghị bổ nhiệm giám định viên tư pháp.\nb) Hồ sơ miễn nhiệm giám định viên tư pháp, thu hồi thẻ giám định viên tư pháp trong lĩnh vực tài chính tại Bộ Tài chính:\n- Văn bản đề nghị miễn nhiệm, thu hồi thẻ giám định viên tư pháp của đơn vị thuộc Bộ Tài chính quản lý giám định viên tư pháp hoặc đơn xin miễn nhiệm của giám định viên tư pháp.\n- Văn bản, giấy tờ chứng minh giám định viên tư pháp thuộc một trong các trường hợp miễn nhiệm theo quy định tại khoản 6 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Giám định tư pháp."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "7",
+                                    "title": "Trình tự, thủ tục bổ nhiệm, cấp thẻ, miễn nhiệm và thu hồi thẻ giám định viên tư pháp",
+                                    "position": 5890,
+                                    "children": [],
+                                    "content": "Điều 7. Trình tự, thủ tục bổ nhiệm, cấp thẻ, miễn nhiệm và thu hồi thẻ giám định viên tư pháp\n1. Trình tự, thủ tục bổ nhiệm, cấp thẻ, miễn nhiệm và thu hồi thẻ giám định viên tư pháp trong lĩnh vực tài chính được thực hiện theo quy định tại Điều 9 Luật Giám định tư pháp, khoản 5, khoản 6 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Giám định tư pháp, khoản 10 Điều 1 Nghị định số 157/2020/NĐ-CP ngày 31/12/2020 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 85/2013/NĐ-CP ngày 29/7/2013 của Chính phủ quy định chi tiết và biện pháp thi hành Luật Giám định tư pháp và Thông tư số 11/2020/TT-BTP ngày 31/12/2020 của Bộ Tư pháp quy định về mẫu thẻ, trình tự, thủ tục cấp mới, cấp lại thẻ giám định viên tư pháp.\n2. Ngoài các nội dung quy định tại khoản 1 Điều này, việc bổ nhiệm, cấp thẻ, miễn nhiệm, thu hồi thẻ giám định viên tư pháp trong lĩnh vực tài chính tại Bộ Tài chính và tại địa phương được thực hiện như sau:\na) Bổ nhiệm, cấp thẻ, miễn nhiệm, thu hồi thẻ giám định viên tư pháp trong lĩnh vực tài chính tại Bộ Tài chính:\n- Trước ngày 31 tháng 10 hàng năm, đơn vị thuộc Bộ Tài chính có trách nhiệm lập hồ sơ đề nghị bổ nhiệm, cấp thẻ giám định viên tư pháp theo quy định tại điểm a khoản 2 Điều 6 Thông tư này gửi Vụ Tổ chức cán bộ.\n+ Vụ Tổ chức cán bộ có trách nhiệm tiếp nhận và kiểm tra tính hợp lệ của\nhồ sơ đề nghị bổ nhiệm, cấp thẻ giám định viên tư pháp do đơn vị thuộc Bộ Tài chính đề xuất, trình Bộ xem xét, quyết định.\n+ Trong thời hạn 20 ngày, kể từ ngày nhận được hồ sơ hợp lệ, Bộ trưởng Bộ Tài chính quyết định bổ nhiệm và cấp thẻ cho giám định viên tư pháp. Trong trường hợp từ chối, giao Vụ Tổ chức cán bộ có văn bản nêu rõ lý do gửi đơn vị đề nghị bổ nhiệm, cấp thẻ giám định viên tư pháp.\n+ Vụ Tổ chức cán bộ có trách nhiệm trình Bộ trưởng Bộ Tài chính ký công văn về danh sách giám định viên tư pháp gửi Bộ Tư pháp để lập danh sách chung về giám định viên tư pháp, đồng thời gửi Cục Tin học và Thống kê tài chính để thực hiện đăng tải danh sách trên Công thông tin điện tử của Bộ Tài chính.\n- Miễn nhiệm, thu hồi thẻ giám định viên tư pháp trong lĩnh vực tài chính tại Bộ Tài chính:\n+ Trước ngày 31 tháng 10 hàng năm, đơn vị thuộc Bộ Tài chính có trách nhiệm lập hồ sơ đề nghị miễn nhiệm, thu hồi thẻ giám định viên tư pháp theo quy định tại điểm b khoản 2 Điều 6 Thông tư này gửi Vụ Tổ chức cán bộ.\n+ Vụ Tổ chức cán bộ có trách nhiệm tiếp nhận và kiểm tra tính hợp lệ của hồ sơ đề nghị miễn nhiệm, thu hồi thẻ giám định viên tư pháp do đơn vị thuộc Bộ Tài chính đề xuất, trình Bộ xem xét, quyết định.\n+ Trong thời hạn 10 ngày, kể từ ngày nhận được hồ sơ hợp lệ, Bộ trưởng Bộ Tài chính quyết định miễn nhiệm và thu hồi thẻ giám định viên tư pháp. Trong trường hợp từ chối, giao Vụ Tổ chức cán bộ có văn bản nêu rõ lý do gửi đơn vị đề nghị miễn nhiệm, thu hồi thẻ giám định viên tư pháp.\n+ Vụ Tổ chức cán bộ có trách nhiệm trình Bộ trưởng Bộ Tài chính ký công văn điều chỉnh danh sách giám định viên tư pháp gửi Bộ Tư pháp để điều chỉnh danh sách chung về giám định viên tư pháp, đồng thời gửi Cục Tin học và Thống kê tài chính để điều chỉnh danh sách trên Công thông tin điện tử của Bộ Tài chính.\nb) Bổ nhiệm, cấp thẻ, miễn nhiệm, thu hồi thẻ giám định viên tư pháp trong lĩnh vực tài chính tại địa phương:\n- Bổ nhiệm giám định viên tư pháp trong lĩnh vực tài chính tại địa phương:\nSở Tài chính phối hợp với Sở Tư pháp lựa chọn người có đủ tiêu chuẩn quy định tại Điều 5 Thông tư này, lập hồ sơ theo quy định tại Điều 8 Luật Giám định tư pháp, khoản 4 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Giám định tư pháp trình Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định bổ nhiệm giám định viên tư pháp trong lĩnh vực tài chính thuộc thẩm quyền quản lý của địa phương và đăng tải danh sách giám định viên tư pháp trên Công thông tin điện tử của Ủy ban nhân dân cấp tỉnh, đồng thời gửi Bộ Tư pháp để lập danh sách chung về giám định viên tư pháp.\n- Miễn nhiệm giám định viên tư pháp trong lĩnh vực tài chính tại địa phương:\nSở Tài chính phối hợp với Sở Tư pháp và các cơ quan, đơn vị có liên quan lập hồ sơ theo quy định tại khoản 6 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Giám định tư pháp trình Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định miễn nhiệm giám định viên tư pháp trong lĩnh vực tài chính thuộc thẩm quyền quản lý của địa phương và điều chỉnh danh sách giám định viên tư pháp trên Công thông tin điện tử của Ủy ban nhân dân cấp tỉnh, đồng thời gửi Bộ Tư pháp để điều chỉnh danh sách chung về giám định viên tư pháp.\nViệc cấp thẻ, thu hồi thẻ giám định viên tư pháp trong lĩnh vực tài chính tại địa phương được thực hiện theo quy định tại khoản 10 Điều 1 Nghị định số 157/2020/NĐ-CP và Thông tư số 11/2020/TT-BTP."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "8",
+                                    "title": "Cấp lại thẻ giám định viên tư pháp",
+                                    "position": 10587,
+                                    "children": [],
+                                    "content": "Điều 8. Cấp lại thẻ giám định viên tư pháp\n1. Thẻ giám định viên tư pháp trong lĩnh vực tài chính được cấp lại trong trường hợp thẻ đã được cấp bị mất, bị hỏng (rách, bẩn, mờ) không thể sử dụng được hoặc có sự thay đổi thông tin đã được ghi trên thẻ.\n2. Hồ sơ, trình tự, thủ tục cấp lại thẻ giám định viên tư pháp trong lĩnh vực tài chính được thực hiện theo quy định tại Điều 8 Thông tư số 11/2020/TT-BTP ngày 31/12/2020 của Bộ Tư pháp quy định về mẫu thẻ, trình tự, thủ tục cấp mới, cấp lại thẻ giám định viên tư pháp."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "9",
+                                    "title": "Trình tự, thủ tục công nhận, hủy bỏ công nhận, đăng tải danh sách người giám định tư pháp theo vụ việc",
+                                    "position": 11108,
+                                    "children": [],
+                                    "content": "Điều 9. Trình tự, thủ tục công nhận, hủy bỏ công nhận, đăng tải danh sách người giám định tư pháp theo vụ việc\n1. Công nhận, hủy bỏ công nhận, đăng tải danh sách người giám định tư pháp theo vụ việc tại Bộ Tài chính:\na) Trước ngày 31 tháng 10 hàng năm, các đơn vị thuộc Bộ Tài chính có trách nhiệm rà soát, lựa chọn, lập danh sách người có đủ điều kiện quy định tại khoản 2 Điều 5 Thông tư này, lập hồ sơ công nhận người giám định tư pháp theo vụ việc gửi Vụ Tổ chức cán bộ đề trình Bộ trưởng Bộ Tài chính xem xét, quyết định. Hồ sơ gồm:\n- Văn bản đề nghị công nhận người giám định tư pháp theo vụ việc của đơn vị thuộc Bộ Tài chính nơi người được đề nghị công nhận đang công tác.\n- Danh sách đề nghị công nhận người giám định tư pháp theo vụ việc, gồm các thông tin sau: họ và tên; ngày, tháng, năm sinh; nơi công tác; trình độ chuyên môn; lĩnh vực chuyên sâu được đào tạo, bồi dưỡng; kinh nghiệm hoạt động chuyên môn ở lĩnh vực được đào tạo.\n- Hồ sơ quy định tại gạch đầu dòng thứ hai, ba, bốn, năm điểm a khoản 2 Điều 6 Thông tư này.\nb) Vụ Tổ chức cán bộ có trách nhiệm tiếp nhận và kiểm tra tính hợp lệ của hồ sơ đề nghị công nhận người giám định tư pháp theo vụ việc do đơn vị thuộc\nBộ Tài chính đề xuất, trình Bộ xem xét, quyết định.\nTrong thời hạn 20 ngày, kể từ ngày nhận được hồ sơ hợp lệ, Bộ trưởng Bộ Tài chính quyết định công nhận người giám định tư pháp theo vụ việc. Trong trường hợp từ chối, giao Vụ Tổ chức cán bộ có văn bản nêu rõ lý do gửi đơn vị đề nghị công nhận người giám định tư pháp theo vụ việc.\nc) Vụ Tổ chức cán bộ có trách nhiệm trình Bộ trưởng Bộ Tài chính ký công văn về danh sách công nhận người giám định tư pháp theo vụ việc gửi Bộ Tư pháp để lập danh sách chung, đồng thời gửi Cục Tin học và Thống kê tài chính để đăng tải danh sách trên Công thông tin điện tử của Bộ Tài chính.\nTrường hợp có sự thay đổi thông tin liên quan đến người giám định tư pháp theo vụ việc đã công bố thì các đơn vị thuộc Bộ Tài chính có trách nhiệm rà soát, có văn bản gửi Vụ Tổ chức cán bộ đề nghị điều chỉnh danh sách. Trên cơ sở đề xuất của các đơn vị thuộc Bộ Tài chính, Vụ Tổ chức cán bộ có trách nhiệm trình Bộ trưởng Bộ Tài chính quyết định điều chỉnh danh sách người giám định tư pháp theo vụ việc và gửi Bộ Tư pháp để cập nhật danh sách chung, đồng thời gửi Cục Tin học và Thống kê tài chính để cập nhật danh sách trên Công thông tin điện tử của Bộ Tài chính.\nd) Hủy bỏ công nhận người giám định tư pháp theo vụ việc:\n- Khi người giám định tư pháp theo vụ việc không còn đủ tiêu chuẩn quy định tại khoản 2 Điều 5 Thông tư này, trước ngày 31 tháng 10 hàng năm, các đơn vị thuộc Bộ Tài chính có văn bản gửi Vụ Tổ chức cán bộ để trình Bộ quyết định hủy bỏ công nhận người giám định tư pháp theo vụ việc.\n- Vụ Tổ chức cán bộ tổng hợp, điều chỉnh danh sách công nhận người giám định tư pháp theo vụ việc trình Bộ trưởng Bộ Tài chính xem xét, quyết định và gửi Bộ Tư pháp để cập nhật danh sách chung, đồng thời gửi Cục Tin học và Thống kê tài chính để cập nhật danh sách trên Công thông tin điện tử của Bộ Tài chính.\n2. Việc công nhận, hủy bỏ công nhận, đăng tải danh sách người giám định tư pháp theo vụ việc tại địa phương được thực hiện theo quy định của Ủy ban nhân dân cấp tỉnh. Thông tư này hướng dẫn một số nội dung cụ thể như sau:\na) Sở Tài chính phối hợp với Sở Tư pháp lựa chọn người có đủ tiêu chuẩn quy định tại khoản 2 Điều 5 Thông tư này, lập hồ sơ trình Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét công nhận người giám định theo vụ việc trong lĩnh vực tài chính thuộc thẩm quyền quản lý của địa phương và đăng tải danh sách người giám định tư pháp theo vụ việc trên Công thông tin điện tử của Ủy ban nhân dân cấp tỉnh, đồng thời gửi Bộ Tư pháp để lập danh sách chung.\nb) Khi người giám định tư pháp theo vụ việc không còn đủ tiêu chuẩn quy định tại khoản 2 Điều 5 Thông tư này, Sở Tài chính phối hợp với Sở Tư pháp trình Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định hủy bỏ công nhận người giám định tư pháp theo vụ việc và cập nhật danh sách người giám định tư\npháp theo vụ việc trên Công thông tin điện tử của Ủy ban nhân dân cấp tỉnh,\nđồng thời gửi Bộ Tư pháp để cập nhật danh sách chung."
+                                }
+                            ]
+                        },
+                        {
+                            "type": "SECTION",
+                            "number": "2",
+                            "title": "QUY TRÌNH THỰC HIỆN GIÁM ĐỊNH TƯ PHÁP",
+                            "position": 15235,
+                            "children": [
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "10",
+                                    "title": "Tiếp nhận trung cầu giám định tư pháp",
+                                    "position": 15304,
+                                    "children": [],
+                                    "content": "Điều 10. Tiếp nhận trung cầu giám định tư pháp\n1. Việc tiếp nhận trung cầu giám định tư pháp trong lĩnh vực tài chính đối\nvới Bộ Tài chính, các đơn vị thuộc Bộ Tài chính, giám định viên tư pháp, người\ngiám định tư pháp theo vụ việc thuộc Bộ Tài chính được thực hiện như sau:\na) Trường hợp văn bản trung cầu giám định tư pháp gửi đến Bộ Tài chính\nhoặc gửi đến các đơn vị thuộc Bộ Tài chính (trừ các Tổng cục và tương đương,\ncác đơn vị cấp Cục thuộc Tổng cục và tương đương đóng tại địa phương): Trình\ntự, thủ tục tiếp nhận văn bản trung cầu giám định được thực hiện như tiếp nhận\nvăn bản do các cơ quan, tổ chức, cá nhân gửi đến Bộ Tài chính theo quy định tại\nQuy chế văn thư của Bộ Tài chính và Quy chế làm việc của Bộ Tài chính.\nThông tư này hướng dẫn một số nội dung cụ thể như sau:\n- Văn phòng Bộ Tài chính thực hiện tiếp nhận văn bản trung cầu và xử lý\nvăn bản theo quy trình công văn đến để trình Lãnh đạo Bộ xác định cụ thể đơn\nvị chủ trì trình Bộ cử người thực hiện giám định tư pháp là Vụ Tổ chức cán bộ,\nđơn vị thuộc Bộ phối hợp xử lý và thời hạn xử lý.\n- Trong thời hạn tối đa 03 ngày làm việc kể từ ngày nhận bản sao hoặc bản\nđiện tử theo phân công của Lãnh đạo Bộ, các đơn vị thuộc Bộ được giao phối\nhợp có trách nhiệm lựa chọn, cử giám định viên tư pháp, người giám định tư\npháp theo vụ việc gửi Vụ Tổ chức cán bộ để trình Bộ phê duyệt. Trường hợp từ\nchối cử người tham gia giám định, các đơn vị thuộc Bộ trực tiếp trình Bộ xem\nxét, phê duyệt chủ trương và giao đơn vị ký văn bản từ chối cử người tham gia\ngiám định gửi tổ chức, cá nhân trung cầu giám định (văn bản từ chối phải gửi\nVụ Tổ chức cán bộ 01 bản để theo dõi).\n- Trong thời hạn tối đa 02 ngày làm việc kể từ ngày nhận được văn bản cử\nngười tham gia giám định tư pháp của đơn vị thuộc Bộ, Vụ Tổ chức cán bộ tổng\nhợp, trình Lãnh đạo Bộ phê duyệt. Việc ký quyết định cử người thực hiện giám\nđịnh tư pháp thực hiện theo Quy chế làm việc của Bộ Tài chính và quy định về\nphân cấp quản lý công chức, viên chức tại các đơn vị thuộc và trực thuộc Bộ Tài\nchính.\nb) Trường hợp văn bản trung cầu giám định tư pháp gửi đến Tổng cục hoặc\ntương đương: Trong thời hạn tối đa 05 ngày làm việc kể từ ngày nhận được văn\nbản trung cầu giám định tư pháp, các đơn vị căn cứ nội dung trung cầu giám\nđịnh để lựa chọn và ký văn bản cử giám định viên tư pháp, người giám định tư\npháp theo vụ việc. Văn bản cử người phải gửi Bộ Tài chính (Vụ Tổ chức cán bộ)\nđể theo dõi, phối hợp thực hiện.\nc) Trường hợp văn bản trung cầu giám định tư pháp gửi đến các đơn vị cấp Cục thuộc Tổng cục (hoặc tương đương) đóng tại địa phương: Trong thời hạn tối đa 05 ngày làm việc kể từ ngày nhận được văn bản trung cầu giám định tư pháp, các đơn vị căn cứ nội dung trung cầu giám định để lựa chọn và ký văn bản cử giám định viên tư pháp, người giám định tư pháp theo vụ việc. Văn bản cử người phải gửi Tổng cục (hoặc tương đương) và Bộ Tài chính (Vụ Tổ chức cán bộ) để theo dõi, phối hợp thực hiện khi có phát sinh.\nd) Trường hợp người trung cầu giám định tư pháp trung cầu trực tiếp giám định viên tư pháp, người giám định tư pháp theo vụ việc là cán bộ, công chức thuộc các đơn vị của Bộ Tài chính thì giám định viên tư pháp, người giám định tư pháp theo vụ việc báo cáo đơn vị trực tiếp quản lý để bổ trí, tạo điều kiện thực hiện giám định; đơn vị trực tiếp quản lý có văn bản báo cáo Bộ Tài chính (Vụ Tổ chức cán bộ) để theo dõi, phối hợp thực hiện.\nđ) Trường hợp từ chối giám định thì phải nêu rõ lý do theo quy định tại khoản 3 Điều 18, Điều 34 Luật Giám định tư pháp, khoản 7, khoản 14 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Giám định tư pháp hoặc do nội dung yêu cầu giám định không thuộc lĩnh vực tài chính quy định tại Điều 3 Thông tư này, trong thời hạn tối đa 05 ngày làm việc kể từ ngày nhận được văn bản trung cầu giám định, cơ quan, tổ chức được trung cầu giám định hoặc giám định viên tư pháp, người giám định theo vụ việc phải có văn bản gửi tổ chức, cá nhân trung cầu giám định tư pháp.\n2. Việc tiếp nhận trung cầu giám định tư pháp trong lĩnh vực tài chính đối với Sở Tài chính được thực hiện như sau:\na) Sở Tài chính phối hợp với Sở Tư pháp và các cơ quan, đơn vị có liên quan thực hiện việc tiếp nhận trung cầu giám định theo quy định của Ủy ban nhân dân cấp tỉnh, Luật Giám định tư pháp và Luật sửa đổi, bổ sung một số điều của Luật Giám định tư pháp.\nb) Trường hợp từ chối giám định, giám định viên, người giám định tư pháp theo vụ việc hoặc cơ quan, tổ chức được trung cầu phải có văn bản gửi người trung cầu giám định theo quy định của Luật Giám định tư pháp, Luật sửa đổi, bổ sung một số điều của Luật Giám định tư pháp và nêu rõ lý do từ chối nhận trung cầu giám định theo quy định."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "11",
+                                    "title": "Tiếp nhận đối tượng giám định và tài liệu, đồ vật có liên quan",
+                                    "position": 19954,
+                                    "children": [],
+                                    "content": "Điều 11. Tiếp nhận đối tượng giám định và tài liệu, đồ vật có liên quan\n1. Việc giao, nhận, mở niêm phong đối tượng giám định, tài liệu, đồ vật liên quan (nếu có) phải lập thành biên bản giao, nhận, mở niêm phong (nếu có niêm phong) theo mẫu tại Phụ lục II, Phụ lục III ban hành kèm theo Thông tư này.\n2. Trường hợp giao, nhận trực tiếp thì phải được tiến hành tại trụ sở cơ quan của giám định viên tư pháp, người giám định tư pháp theo vụ việc, cán bộ,\ncông chức được cử thực hiện giám định, hoặc trụ sở của người trung cầu giám định.\n3. Trường hợp đối tượng giám định có niêm phong được gửi qua đường bưu chính thì trước khi mở phải kiểm tra kỹ niêm phong. Trường hợp phát hiện niêm phong bị rách hoặc có dấu hiệu bị thay đổi, người được trung cầu hoặc tổ chức được trung cầu thực hiện giám định tư pháp có quyền từ chối nhận và ghi vào biên bản mở niêm phong.\n4. Trường hợp việc trung cầu giám định không kèm theo đối tượng giám định, tài liệu, đồ vật liên quan nhưng hồ sơ thể hiện có đối tượng giám định, tài liệu, đồ vật có liên quan thì người thực hiện giám định có văn bản yêu cầu người trung cầu giám định và các bên có liên quan bổ sung hoặc tạo điều kiện tiếp cận đối tượng giám định và tài liệu, đồ vật có liên quan (nếu có) để phục vụ thực hiện giám định."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "12",
+                                    "title": "Áp dụng quy chuẩn chuyên môn cho hoạt động giám định tư pháp",
+                                    "position": 21223,
+                                    "children": [],
+                                    "content": "Điều 12. Áp dụng quy chuẩn chuyên môn cho hoạt động giám định tư pháp\n1. Quy chuẩn chuyên môn được áp dụng cho hoạt động giám định tư pháp trong lĩnh vực tài chính là các chuẩn mực về kế toán, kiểm toán; tiêu chuẩn về thẩm định giá, phương pháp định giá và các chuẩn mực, tiêu chuẩn khác được quy định tại các văn bản quy phạm pháp luật trong lĩnh vực tài chính.\n2. Đối với lĩnh vực không có quy chuẩn thì việc giám định được căn cứ vào các văn bản quy phạm pháp luật quy định về lĩnh vực cần giám định.\n3. Việc giám định tư pháp trong lĩnh vực tài chính phải căn cứ vào các văn bản quy phạm pháp luật và thực hiện theo nguyên tắc áp dụng văn bản quy phạm pháp luật quy định tại Luật Ban hành văn bản quy phạm pháp luật"
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "13",
+                                    "title": "Chuẩn bị giám định tư pháp",
+                                    "position": 21943,
+                                    "children": [],
+                                    "content": "Điều 13. Chuẩn bị giám định tư pháp\n1. Trong thời hạn tối đa 05 ngày làm việc kể từ ngày nhận được văn bản trưng cầu giám định tư pháp, cơ quan, đơn vị được trưng cầu giám định phải lựa chọn, cử giám định viên tư pháp, người giám định tư pháp theo vụ việc để thực hiện giám định tư pháp.\nTrường hợp cần bổ nhiệm thêm giám định viên tư pháp, công nhận thêm người giám định tư pháp theo vụ việc, cơ quan, đơn vị được trưng cầu giám định lựa chọn người có đủ tiêu chuẩn quy định tại Điều 5 Thông tư này, phù hợp với nội dung yêu cầu giám định theo quyết định trưng cầu giám định, lập hồ sơ theo quy định tại Điều 6 Thông tư này để trình cấp có thẩm quyền bổ nhiệm, công nhận theo quy định tại Điều 7, Điều 9 Thông tư này.\nTrường hợp cử từ hai giám định viên tư pháp, người giám định tư pháp theo vụ việc trở lên cùng tham gia giám định một nội dung yêu cầu giám định, cơ quan, đơn vị được trưng cầu giám định thành lập Tổ giám định tư pháp, trong đó quy định cụ thể người đầu mối.\n2. Trường hợp trong cùng một văn bản yêu cầu giám định nhưng có nhiều nội dung giám định khác nhau và phải cử từ 02 người tham gia giám định các nội dung khác nhau thì tại quyết định cử người tham gia giám định phải nêu rõ nhiệm vụ của từng giám định viên, phân công cụ thể người đầu mối (nếu cần thiết).\n3. Người thực hiện giám định phối hợp với người trung cầu giám định để nhận bàn giao hồ sơ, đối tượng giám định, thông tin, tài liệu (nếu người trung cầu giám định chưa gửi kèm quyết định trung cầu giám định).\n4. Người thực hiện giám định nghiên cứu nội dung vụ việc nêu tại quyết định trưng cầu giám định, hồ sơ, đối tượng giám định, thông tin, tài liệu để yêu cầu người trung cầu giám định cung cấp bổ sung hồ sơ, đối tượng giám định, thông tin, tài liệu cần thiết còn thiếu phục vụ việc giám định theo nội dung yêu cầu giám định."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "14",
+                                    "title": "Trình tự thực hiện giám định tư pháp",
+                                    "position": 23759,
+                                    "children": [],
+                                    "content": "Điều 14. Trình tự thực hiện giám định tư pháp\n1. Giám định viên tư pháp, người giám định tư pháp theo vụ việc trong lĩnh vực tài chính triển khai thực hiện giám định như sau:\na) Thu thập thông tin, tài liệu có liên quan đến nội dung được trưng cầu giám định.\nb) Thực hiện giám định.\nc) Báo cáo kết quả hoặc đưa ra kết luận giám định theo hướng dẫn tại Điều 16 Thông tư này.\nd) Việc lập đề cương giám định tư pháp được thực hiện trong trường hợp cử từ hai giám định viên tư pháp, người giám định tư pháp theo vụ việc trở lên. Đề cương giám định tư pháp gồm các nội dung cơ bản sau:\n- Xác định các quy chuẩn chuyên môn, quy định của pháp luật liên quan dự kiến được áp dụng khi thực hiện giám định theo hướng dẫn tại Điều 12 Thông tư này.\n- Danh sách người thực hiện giám định, người được phân công chủ trì thực hiện giám định, thông tin về năng lực của các cá nhân thực hiện giám định (nếu có).\n- Thời gian dự kiến hoàn thành giám định.\n- Các điều kiện khác theo quy định của pháp luật để thực hiện giám định.\nTrường hợp cần thiết, cá nhân, tổ chức thực hiện giám định đề nghị với người trung cầu giám định cho khảo sát đối tượng giám định để phục vụ công tác lập kế hoạch và thực hiện giám định, trừ trường hợp pháp luật có quy định khác.\n2. Trường hợp có thay đổi người thực hiện giám định, cơ quan, đơn vị được trung cầu giám định có trách nhiệm thông báo bằng văn bản cho người trung cầu\ngiám định biết.\n3. Trong quá trình thực hiện, người thực hiện giám định phải lập văn bản ghi nhận quá trình và kết quả thực hiện giám định theo quy định tại khoản 17 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Giám định tư pháp và Phụ lục IV ban hành kèm theo Thông tư này.\n4. Giám định viên tư pháp, người giám định tư pháp theo vụ việc khi thực hiện giám định tư pháp có quyền sử dụng kết quả thực nghiệm, xét nghiệm chuyên môn do cá nhân, tổ chức khác có đủ điều kiện, năng lực phù hợp theo quy định tại Thông tư này thực hiện nhằm phục vụ cho việc giám định.\n5. Việc phối hợp trong khi thực hiện công tác giám định tư pháp được thực hiện theo văn bản của cấp có thẩm quyền quy định về công tác phối hợp và trách nhiệm trong hoạt động trung cầu giám định tư pháp."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "15",
+                                    "title": "Thời hạn giám định tư pháp",
+                                    "position": 25923,
+                                    "children": [],
+                                    "content": "Điều 15. Thời hạn giám định tư pháp\n1. Thời hạn giám định tư pháp trong lĩnh vực tài chính tối đa không quá 03 tháng, trừ trường hợp quy định tại khoản 2, khoản 3 Điều này.\n2. Trường hợp vụ việc giám định có từ 02 nội dung giám định khác nhau trong lĩnh vực tài chính quy định tại Điều 3 Thông tư này trở lên hoặc có tính chất phức tạp hoặc khối lượng công việc lớn, liên quan đến nhiều cơ quan, tổ chức, cá nhân hoặc phụ thuộc vào kết quả giám định của cơ quan, tổ chức, cá nhân khác thì thời hạn giám định tối đa không quá 04 tháng.\n3. Thời hạn giám định tư pháp có thể được gia hạn theo quyết định của cơ quan trung cầu giám định nhưng không quá một phần hai thời hạn giám định tối đa được quy định tại khoản 1 Điều này.\n4. Thời hạn giám định tư pháp trong lĩnh vực tài chính được tính từ ngày cá nhân, tổ chức được trung cầu giám định nhận được quyết định trung cầu giám định và kèm theo đầy đủ hồ sơ, đối tượng giám định, thông tin, tài liệu, đồ vật cần thiết cho việc giám định.\nTrong quá trình thực hiện giám định, trường hợp cần phải bổ sung thêm hồ sơ, tài liệu làm cơ sở cho việc giám định thì cá nhân, tổ chức được trung cầu có văn bản đề nghị người đã trung cầu giám định bổ sung hồ sơ, tài liệu. Thời gian từ khi cá nhân, tổ chức được trung cầu giám định có văn bản đề nghị đến khi nhận được hồ sơ, tài liệu bổ sung không tính vào thời hạn giám định.\n5. Trường hợp có vấn đề phát sinh hoặc có cơ sở cho rằng vụ việc giám định không thể hoàn thành đúng thời hạn thì cá nhân, tổ chức thực hiện giám định phải kịp thời thông báo bằng văn bản, nêu rõ lý do cho người trung cầu giám định và thời gian dự kiến hoàn thành, ra kết luận giám định."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "16",
+                                    "title": "Kết luận giám định tư pháp",
+                                    "position": 27575,
+                                    "children": [],
+                                    "content": "Điều 16. Kết luận giám định tư pháp\n1. Giám định viên tư pháp, người giám định tư pháp theo vụ việc chỉ kết\nluận giám định đối với nội dung yêu cầu giám định thuộc phạm vi giám định tư pháp trong lĩnh vực tài chính quy định tại Điều 3 Thông tư này và theo quy chuẩn chuyên môn áp dụng cho việc giám định tư pháp trong lĩnh vực tài chính quy định tại Điều 12 Thông tư này.\n2. Căn cứ kết quả thực hiện giám định tư pháp quy định tại khoản 3 Điều 14 Thông tư này, giám định viên tư pháp, người giám định tư pháp theo vụ việc đưa ra nhận xét, đánh giá, kết luận đối với từng nội dung yêu cầu giám định cụ thể. Kết luận giám định thực hiện theo Phụ lục V ban hành kèm theo Thông tư này.\n3. Trường hợp người trung cầu giám định trung cầu trực tiếp giám định viên tư pháp, người giám định tư pháp theo vụ việc, bản kết luận giám định phải có chữ ký và ghi rõ họ và tên của giám định viên tư pháp, người giám định tư pháp theo vụ việc.\n4. Trường hợp người trung cầu giám định trung cầu tổ chức cử người giám định thì bản kết luận giám định phải có đầy đủ chữ ký, ghi rõ họ và tên của người giám định tư pháp và có xác nhận chữ ký của tổ chức cử người giám định theo quy định tại khoản 18 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Giám định tư pháp. Thông tư này hướng dẫn một số nội dung cụ thể trong việc ký và xác nhận chữ ký do Bộ Tài chính, các đơn vị thuộc Bộ Tài chính cử người giám định như sau:\na) Trường hợp người trung cầu giám định trung cầu Bộ Tài chính hoặc các đơn vị thuộc Bộ Tài chính (trừ các Tổng cục và tương đương, các đơn vị cấp Cục thuộc Tổng cục và tương đương đóng tại địa phương) đề cử người giám định thì bản kết luận giám định phải có chữ ký, ghi rõ họ và tên của giám định viên tư pháp, người giám định tư pháp theo vụ việc và giao Lãnh đạo đơn vị nơi người thực hiện giám định công tác thừa lệnh Bộ trưởng xác nhận chữ ký.\nTrường hợp có nhiều người cùng được cử tham gia giám định là cán bộ, công chức thuộc nhiều đơn vị thuộc Bộ thì giao Vụ Tổ chức cán bộ thừa lệnh Bộ trưởng xác nhận chữ ký. Trường hợp nhiều người cùng được cử tham gia giám định, trong đó có cán bộ, công chức thuộc các Tổng cục, đơn vị cấp Cục thuộc Tổng cục (hoặc tương đương) đóng tại địa phương thì các đơn vị này phải có công văn gửi Vụ Tổ chức cán bộ để Vụ Tổ chức cán bộ có cơ sở xem xét, thừa lệnh Bộ trưởng xác nhận chữ ký.\nb) Trường hợp văn bản trung cầu giám định tư pháp gửi Tổng cục và tương đương để cử người giám định thì bản kết luận giám định phải có chữ ký, ghi rõ họ và tên của giám định viên tư pháp, người giám định tư pháp theo vụ việc và có xác nhận chữ ký của Tổng cục và tương đương.\nc) Trường hợp văn bản trung cầu giám định tư pháp gửi các đơn vị cấp Cục thuộc Tổng cục (hoặc tương đương) đóng tại địa phương để cử người giám định thì bản kết luận giám định phải có chữ ký, ghi rõ họ và tên của giám định viên tư pháp, người giám định tư pháp theo vụ việc và có xác nhận chữ ký của Lãnh đạo\n14\nđơn vị.\n5. Trường hợp người trung cầu giám định trung cầu tổ chức thực hiện giám\nđịnh tư pháp thì ngoài chữ ký, họ và tên của người giám định, người đứng đầu tổ\nchức phải ký tên, đóng dấu vào ban kết luận giám định tư pháp và tổ chức được\ntrung cầu, yêu cầu giám định tư pháp phải chịu trách nhiệm về kết luận giám\nđịnh tư pháp theo quy định tại khoản 18 Điều 1 Luật sửa đổi, bổ sung một số\nđiều của Luật Giám định tư pháp."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "17",
+                                    "title": "Hội đồng giám định",
+                                    "position": 30919,
+                                    "children": [],
+                                    "content": "Điều 17. Hội đồng giám định\nViệc thành lập Hội đồng giám định được thực hiện theo quy định tại Điều\n30 Luật Giám định tư pháp. Thông tư này hướng dẫn một số nội dung cụ thể về\nviệc thành lập Hội đồng giám định tại cơ quan Bộ Tài chính như sau:\n1. Trong trường hợp thành lập Hội đồng giám định theo quy định tại Điều\n30 Luật Giám định tư pháp thì Vụ Tổ chức cặn bộ chủ trì, phối hợp với các đơn\nvị có liên quan thuộc Bộ lựa chọn cá nhân, tổ chức giám định phù hợp nội dung\ntrung cầu giám định, trong đó phải có ít nhất 03 thành viên là những người có\nchuyên môn cao và có uy tín trong lĩnh vực cần giám định, trình Bộ trưởng Bộ\nTài chính quyết định thành lập Hội đồng giám định.\n2. Thành phần, số lượng thành viên và cơ chế hoạt động của Hội đồng giám\nđịnh thực hiện theo quy định tại Điều 30 Luật Giám định tư pháp."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "18",
+                                    "title": "Lập hồ sơ giám định tư pháp",
+                                    "position": 31735,
+                                    "children": [],
+                                    "content": "Điều 18. Lập hồ sơ giám định tư pháp\n1. Cá nhân, tổ chức thực hiện giám định tư pháp trong lĩnh vực tài chính\nphải lập hồ sơ giám định tư pháp theo đúng quy định. Hồ sơ giám định tư pháp\ntrong lĩnh vực tài chính bao gồm các tài liệu sau:\na) Quyết định trung cầu giám định, Quyết định trung cầu giám định bổ\nsung (nếu có), Quyết định trung cầu giám định lại (nếu có) và thông tin, tài liệu,\nđồ vật kèm theo (nếu có).\nb) Văn bản cử cá nhân, tổ chức thực hiện giám định tư pháp;\nc) Biên bản giao, nhận hồ sơ, tài liệu, đồ vật (nếu có);\nd) Đề cương giám định (nếu có);\nd) Hồ sơ, tài liệu, chứng từ liên quan đến việc sử dụng dịch vụ phục vụ việc\ngiám định tư pháp (nếu có);\ne) Văn bản ghi nhận quá trình thực hiện giám định;\ng) Quyết định thành lập Hội đồng giám định đối với trường hợp giám định\nlại lần thứ hai (nếu có);\nh) Kết luận giám định, kết luận giám định bổ sung (nếu có), kết luận giám\nđịnh lại (nếu có);\ni) Tài liệu khác liên quan (nếu có).\n15\n2. Cá nhân, tổ chức thực hiện giám định tư pháp lập hồ sơ giám định tư\npháp chịu trách nhiệm về tính chính xác của hồ sơ được lập và phải xuất trình hồ\nsơ giám định tư pháp khi có yêu cầu của cơ quan tiến hành tố tụng, người tiến\nhành tố tụng có thẩm quyền giải quyết các vụ án theo quy định của pháp luật tố\ntụng."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "19",
+                                    "title": "Lưu hồ sơ giám định tư pháp",
+                                    "position": 33002,
+                                    "children": [],
+                                    "content": "Điều 19. Lưu hồ sơ giám định tư pháp\nViệc bảo quản, lưu giữ hồ sơ giám định tư pháp được thực hiện theo quy\nđịnh tại khoản 19 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Giám định\ntư pháp. Thông tư này hướng dẫn một số nội dung cụ thể như sau:\n1. Giám định viên tư pháp, người giám định tư pháp theo vụ việc, người\nđầu mối của Tổ giám định tư pháp, Chủ tịch Hội đồng giám định lập hồ sơ giám\nđịnh tư pháp là các cán bộ, công chức của Bộ Tài chính có trách nhiệm bảo\nquản, lưu trữ hồ sơ giám định tư pháp do mình thực hiện; trường hợp chuyển\ncông tác, nghỉ hưu, thôi việc thì phải bàn giao hồ sơ giám định tư pháp theo quy\nđịnh tại Quy chế văn thư của Bộ Tài chính, Quy chế công tác lưu trữ của Bộ Tài\nchính, Quy chế bảo vệ bí mật nhà nước của Bộ Tài chính và các văn bản quy\nphạm pháp luật khác có liên quan.\n2. Việc lưu hồ sơ giám định tư pháp trong lĩnh vực tài chính tại Sở Tài\nchính được thực hiện theo quy định của Ủy ban nhân dân cấp tỉnh."
+                                }
+                            ]
+                        },
+                        {
+                            "type": "SECTION",
+                            "number": "3",
+                            "title": "VĂN PHÒNG GIÁM ĐỊNH TƯ PHÁP, TỔ CHỨC GIÁM ĐỊNH TƯ",
+                            "position": 33954,
+                            "children": [
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "20",
+                                    "title": "Điều kiện về cơ sở vật chất của Văn phòng giám định tư pháp",
+                                    "position": 34053,
+                                    "children": [],
+                                    "content": "Điều 20. Điều kiện về cơ sở vật chất của Văn phòng giám định tư pháp\ntrong lĩnh vực tài chính\nVăn phòng giám định tư pháp trong lĩnh vực tài chính phải có đủ các điều\nkiện sau:\n1. Có trụ sở riêng thuộc quyền sở hữu hoặc quyền sử dụng tối thiểu là 03\n(ba) năm kể từ ngày Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định cho phép\nthành lập Văn phòng giám định tư pháp.\n2. Có phòng làm việc cho giám định viên tư pháp và nhân viên; có tủ hoặc\nkho hoặc khu vực riêng lưu trữ hồ sơ giám định tư pháp."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "21",
+                                    "title": "Điều kiện đối với tổ chức giám định tư pháp theo vụ việc",
+                                    "position": 34545,
+                                    "children": [],
+                                    "content": "Điều 21. Điều kiện đối với tổ chức giám định tư pháp theo vụ việc\ntrong lĩnh vực tài chính\nTổ chức giám định tư pháp theo vụ việc trong lĩnh vực tài chính phải có đủ\nđiều kiện sau:\n1. Đáp ứng điều kiện quy định tại Khoản 1 Điều 19 Luật Giám định tư\npháp.\n2. Đáp ứng tiêu chuẩn, điều kiện chuyên môn tài chính để thực hiện giám.\n16\nđịnh tư pháp theo quy định của pháp luật hiện hành."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "22",
+                                    "title": "Lập, công bố danh sách tổ chức giám định tư pháp theo vụ",
+                                    "position": 34928,
+                                    "children": [],
+                                    "content": "Điều 22. Lập, công bố danh sách tổ chức giám định tư pháp theo vụ\nviệc\n1. Tổ chức giám định tư pháp theo vụ việc trong lĩnh vực tài chính là tổ\nchức, doanh nghiệp hoạt động trong lĩnh vực kế toán, kiểm toán, thẩm định giá\nvà lĩnh vực tài chính khác đáp ứng các điều kiện quy định tại Điều 21 Thông tư\nnày.\n2. Việc lập, công bố danh sách tổ chức giám định tư pháp theo vụ việc\ntrong lĩnh vực tài chính tại Bộ Tài chính thực hiện theo quy định tại khoản 10"
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "1",
+                                    "title": "Luật sửa đổi, bổ sung một số điều của Luật Giám định tư pháp. Thông tư",
+                                    "position": 35383,
+                                    "children": [],
+                                    "content": "Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Giám định tư pháp. Thông tư\nnày hướng dẫn một số nội dung cụ thể như sau:\na) Danh sách doanh nghiệp kiểm toán được lập, công bố theo quy định tại\nThông tư số 203/2012/TT-BTC ngày 19 tháng 11 năm 2012 của Bộ Tài chính về\ntrình tự, thủ tục cấp, quản lý, sử dụng chứng nhận đủ điều kiện kinh doanh dịch\nvụ kiểm toán, Thông tư số 183/2013/TT-BTC ngày 04 tháng 12 năm 2013 của\nBộ Tài chính về kiểm toán độc lập đối với đơn vị có lợi ích công chúng; Danh\nsách doanh nghiệp cung cấp dịch vụ kế toán được lập, công bố theo quy định tại\nThông tư số 297/2016/TT-BTC ngày 15 tháng 11 năm 2016 của Bộ Tài chính về\ncấp, quản lý và sử dụng giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kế\ntoán.\nĐịnh kỳ trước ngày 30 tháng 11 hàng năm, căn cứ vào danh sách doanh\nnghiệp kiểm toán, doanh nghiệp cung cấp dịch vụ kế toán độc lập đã được công\nbố, giao Cục Quản lý, giám sát kế toán, kiểm toán thừa lệnh Bộ trưởng ký công\nvăn gửi Bộ Tư pháp để tổng hợp vào danh sách chung, đồng thời gửi Vụ Tổ chức\ncán bộ (để theo dõi).\nb) Danh sách doanh nghiệp thẩm định giá được lập, công bố theo quy định\ntại Thông tư số 38/2014/TT-BTC ngày 28 tháng 3 năm 2014 của Bộ Tài chính\nhướng dẫn một số điều của Nghị định số 89/2013/NĐ-CP ngày 06/8/2013 của\nChính phủ quy định chi tiết thi hành một số điều của Luật Giá về thẩm định giá;\nThông tư số 60/2021/TT-BTC ngày 21 tháng 7 năm 2021 sửa đổi, bổ sung một\nsố điều của Thông tư số 38/2014/TT-BTC ngày 28 tháng 3 năm 2014 hướng dẫn\nmột số điều của Nghị định số 89/2013/NĐ-CP ngày 06/8/2013 của Chính phủ\nquy định chi tiết thi hành một số điều của Luật Giá về thẩm định giá.\nĐịnh kỳ trước ngày 30 tháng 11 hàng năm, căn cứ vào danh sách doanh\nnghiệp thẩm định giá, giao Cục Quản lý giá thừa lệnh Bộ trưởng ký công văn\ngửi Bộ Tư pháp để tổng hợp vào danh sách chung, đồng thời gửi Vụ Tổ chức\ncán bộ (để theo dõi).\nc) Đối với các lĩnh vực tài chính khác, định kỳ trước ngày 30 tháng 11 hàng\nnăm, các đơn vị thuộc Bộ Tài chính chủ trì, phối hợp với Vụ Tổ chức cán bộ, Vụ\nPháp chế rà soát, lập danh sách tổ chức giám định tư pháp theo vụ việc thuộc\nlĩnh vực tài chính (nếu có) để trình Bộ xem xét, quyết định gửi Bộ Tư pháp để\ntổng hợp vào danh sách chung, đồng thời gửi Cục Tin học và Thống kê tài chính\nđăng tải trên Cổng thông tin điện tử Bộ Tài chính và Vụ Tổ chức cán bộ (để theo\ndõi).\nd) Trường hợp có sự thay đổi thông tin liên quan đến tổ chức giám định tư\npháp theo vụ việc đã công bố, giao các đơn vị thuộc Bộ Tài chính có liên quan\nthừa lệnh Bộ trưởng thông báo cho Bộ Tư pháp, đồng thời gửi Vụ Tổ chức cán\nbộ (để theo dõi) và gửi Cục Tin học và Thống kê tài chính để đăng tải trên Cổng\nthông tin điện tử Bộ Tài chính (nếu thông tin chưa được đăng tải).\n3. Việc lập, công bố danh sách tổ chức giám định tư pháp theo vụ việc\ntrong lĩnh vực tài chính tại địa phương thực hiện theo quy định tại khoản 10",
+                                    "is_amendment": true
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "1",
+                                    "title": "Luật sửa đổi, bổ sung một số điều của Luật Giám định tư pháp và quy",
+                                    "position": 38257,
+                                    "children": [],
+                                    "content": "Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Giám định tư pháp và quy\nđịnh của Ủy ban nhân dân cấp tỉnh. Thông tư này hướng dẫn một số nội dung cụ\nthể như sau:\na) Sở Tài chính phối hợp với Sở Tư pháp lập danh sách tổ chức giám định\ntư pháp theo vụ việc trong lĩnh vực tài chính thuộc thẩm quyền quản lý của địa\nphương trình Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định, đồng thời\ngửi Bộ Tư pháp để biết và gửi đăng tải trên Cổng thông tin điện tử của Ủy ban\nnhân dân cấp tỉnh.\nb) Trường hợp có sự thay đổi thông tin liên quan đến tổ chức giám định tư\npháp theo vụ việc đã công bố thì Sở Tài chính phối hợp với Sở Tư pháp trình\nChủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định điều chỉnh danh sách và\nthông báo cho Bộ Tư pháp để biết và gửi đăng tải trên Cổng thông tin điện tử\ncủa Ủy ban nhân dân cấp tỉnh.",
+                                    "is_amendment": true
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "23",
+                                    "title": "Tiếp nhận trung cầu giám định tư pháp trong lĩnh vực tài",
+                                    "position": 39083,
+                                    "children": [],
+                                    "content": "Điều 23. Tiếp nhận trung cầu giám định tư pháp trong lĩnh vực tài\nchính đối với Văn phòng giám định tư pháp, tổ chức giám định tư pháp\ntheo vụ việc\n1. Việc trung cầu giám định tư pháp của cơ quan tiến hành tố tụng, người\ntiến hành tố tụng (sau đây gọi là người trưng cầu giám định) đối với Văn phòng\ngiám định tư pháp, tổ chức giám định tư pháp theo vụ việc được thực hiện bằng\nvăn bản theo quy định tại khoản 15 Điều 1 Luật sửa đổi, bổ sung một số điều\ncủa Luật Giám định tư pháp.\n2. Khi nhận được văn bản trung cầu của người trưng cầu giám định tư\npháp, Văn phòng giám định tư pháp, tổ chức giám định tư pháp theo vụ việc có\ntrách nhiệm tiếp nhận và tổ chức thực hiện giám định theo nội dung được trưng\ncầu, trừ trường hợp từ chối theo quy định tại khoản 2 Điều 34 Luật Giám định tư\npháp, khoản 14 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Giám định tư\npháp.\n3. Trường hợp từ chối giám định, Văn phòng giám định tư pháp, tổ chức\ngiám định tư pháp theo vụ việc phải có văn bản gửi người trưng cầu giám định\ntrong thời hạn được quy định tại khoản 14 Điều 1 Luật sửa đổi, bổ sung một số\nđiều của Luật Giám định tư pháp và nêu rõ lý do từ chối nhận trưng cầu giám\nđịnh."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "24",
+                                    "title": "Thực hiện giám định tư pháp trong lĩnh vực tài chính đối với",
+                                    "position": 40259,
+                                    "children": [],
+                                    "content": "Điều 24. Thực hiện giám định tư pháp trong lĩnh vực tài chính đối với\nVăn phòng giám định tư pháp, tổ chức giám định tư pháp theo vụ việc\n1. Việc thực hiện tiếp nhận đối tượng giám định và tài liệu, đồ vật có liên\nquan, áp dụng quy chuẩn chuyên môn, tổ chức triển khai thực hiện giám định\nđược thực hiện theo quy định tại Điều 11, Điều 12, Điều 13, Điều 14 Thông tư\nnày.\nTrường hợp giao, nhận trực tiếp đối tượng giám định và tài liệu, đồ vật có\nliên quan thì phải được tiến hành tại trụ sở Văn phòng giám định tư pháp, tổ\nchức giám định tư pháp theo vụ việc hoặc trụ sở của người trung cầu giám định.\nTrường hợp có thay đổi người thực hiện giám định, Văn phòng giám định tư\npháp, tổ chức giám định tư pháp theo vụ việc có trách nhiệm thông báo bằng văn\nbản cho người trung cầu giám định biết. Trong quá trình thực hiện phải lập văn\nbản ghi nhận quá trình và kết quả thực hiện giám định theo quy định tại khoản\n17 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Giám định tư pháp và Phụ\nlục IV ban hành kèm theo Thông tư này.\n2. Thời hạn giám định tư pháp, Kết luận giám định tư pháp trong lĩnh vực\ntài chính, lập, bảo quản, lưu trữ hồ sơ giám định tư pháp được thực hiện theo\nquy định tại Điều 15, Điều 16, Điều 18, Điều 19 Thông tư này.\nKết luận giám định do Văn phòng giám định tư pháp, tổ chức giám định tư\npháp theo vụ việc trong lĩnh vực tài chính thực hiện phải có chữ ký của người\nthực hiện giám định, đồng thời người đứng đầu tổ chức phải ký tên, đóng dấu\nvào bản kết luận giám định và chịu trách nhiệm về kết luận giám định. Cá nhân,\ntổ chức thực hiện giám định tư pháp lập hồ sơ giám định tư pháp chịu trách\nnhiệm về tính chính xác của hồ sơ được lập và phải xuất trình hồ sơ giám định\ntư pháp khi có yêu cầu của cơ quan tiến hành tố tụng, người tiến hành tố tụng\ntheo quy định của pháp luật tố tụng. Văn phòng giám định tư pháp, tổ chức giám\nđịnh tư pháp theo vụ việc trong lĩnh vực tài chính có trách nhiệm bảo quản, lưu\ntrữ hồ sơ giám định do mình thực hiện theo quy định của pháp luật về lưu trữ."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "III",
+                    "title": "TRÁCH NHIỆM CỦA CÁC TỔ CHỨC, CÁ NHÂN LIÊN QUAN",
+                    "position": 42273,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "25",
+                            "title": "Trách nhiệm của các đơn vị thuộc Bộ Tài chính",
+                            "position": 42331,
+                            "children": [],
+                            "content": "Điều 25. Trách nhiệm của các đơn vị thuộc Bộ Tài chính\n1. Trách nhiệm của đơn vị có giám định viên tư pháp, người giám định tư\npháp theo vụ việc được giao thực hiện giám định tư pháp:\na) Tạo điều kiện cho cán bộ, công chức đơn vị thực hiện giám định;\nb) Thực hiện chế độ thông tin, báo cáo và các nội dung theo quy định của\npháp luật về giám định tư pháp.\nc) Căn cứ quy định về tiêu chuẩn, điều kiện bổ nhiệm, miễn nhiệm giám định viên tư pháp, công nhận, hủy bỏ công nhận người giám định tư pháp theo vụ việc, rà soát, đề xuất với Vụ Tổ chức cán bộ tổng hợp, trình Bộ trưởng Bộ Tài chính xem xét, quyết định bổ nhiệm, miễn nhiệm giám định viên tư pháp, công nhận, hủy bỏ công nhận người giám định tư pháp theo vụ việc trong lĩnh vực tài chính theo quy định tại Điều 7, Điều 9 Thông tư này.\nd) Rà soát, lựa chọn tổ chức có đủ tiêu chuẩn, điều kiện công nhận là tổ chức giám định tư pháp theo vụ việc theo quy định tại Điều 22 Thông tư này.\nd) Căn cứ điều kiện cụ thể của tổ chức, đơn vị, người đứng đầu tổ chức, đơn vị ban hành quy trình tiếp nhận, cử giám định viên tư pháp bảo đảm thực hiện đúng quy trình của pháp luật về giám định tư pháp và quy định tại Thông tư này.\ne) Yêu cầu cán bộ, công chức đơn vị thực hiện giám định bàn giao hồ sơ, lưu trữ hồ sơ giám định trong trường hợp chuyển công tác ra khỏi đơn vị, nghỉ hưu, thôi việc theo quy định.\ng) Thực hiện các nhiệm vụ được giao theo quy định tại Thông tư này.\n2. Trách nhiệm của Vụ Tổ chức cán bộ:\na) Thực hiện trách nhiệm liên quan đến việc tham mưu giúp Bộ trưởng Bộ Tài chính thực hiện bổ nhiệm, cấp thẻ, miễn nhiệm, thu hồi thẻ giám định viên tư pháp; công nhận, hủy bỏ công nhận người giám định tư pháp theo vụ việc, thành lập Hội đồng giám định theo quy định tại Thông tư này.\nb) Chủ trì, phối hợp với các đơn vị thuộc Bộ có liên quan căn cứ nội dung trung tâm giám định tư pháp để trình Bộ cử giám định viên tư pháp, người giám định tư pháp theo vụ việc theo quy định tại Thông tư này.\nc) Hằng năm, trên cơ sở đề xuất khen thưởng của các đơn vị có liên quan, phối hợp với Vụ Thi đua khen thưởng kịp thời khen thưởng người giám định tư pháp có thành tích xuất sắc trong hoạt động giám định tư pháp.\nd) Thực hiện các nhiệm vụ được giao theo quy định tại Thông tư này.\n3. Trách nhiệm của Vụ Pháp chế:\na) Chủ trì, phối hợp với các đơn vị thuộc Bộ soạn thảo văn bản quy phạm pháp luật về giám định tư pháp trong lĩnh vực tài chính theo phân công, chỉ đạo của Bộ.\nb) Chủ trì, phối hợp với các đơn vị liên quan hướng dẫn thực hiện, tuyên truyền phổ biến pháp luật về giám định tư pháp trong lĩnh vực tài chính.\nc) Chủ trì, phối hợp với các đơn vị tổ chức bồi dưỡng, tập huấn nghiệp vụ giám định và kiến thức pháp lý cần thiết cho đội ngũ giám định viên tư pháp, người giám định tư pháp theo vụ việc, cán bộ chuyên môn làm công tác giám định trong lĩnh vực tài chính.\nd) Chủ trì thực hiện sơ kết, tổng kết, đánh giá về tình hình thực hiện công tác giám định tư pháp."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "26",
+                            "title": "Trách nhiệm của Sở Tài chính",
+                            "position": 45258,
+                            "children": [],
+                            "content": "Điều 26. Trách nhiệm của Sở Tài chính\nSở Tài chính chịu trách nhiệm trước Ủy ban nhân dân cấp tỉnh về tổ chức, hoạt động giám định tư pháp thuộc lĩnh vực tài chính ở địa phương; phối hợp với Sở Tư pháp giúp Ủy ban nhân dân cấp tỉnh trong quản lý nhà nước về giám định tư pháp ở địa phương theo quy định tại điểm b khoản 25 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Giám định tư pháp và quy định tại Thông tư này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "27",
+                            "title": "Trách nhiệm của giám định viên tư pháp, người giám định tư pháp theo vụ việc, Văn phòng giám định tư pháp, tổ chức giám định tư pháp theo vụ việc trong lĩnh vực tài chính",
+                            "position": 45679,
+                            "children": [],
+                            "content": "Điều 27. Trách nhiệm của giám định viên tư pháp, người giám định tư pháp theo vụ việc, Văn phòng giám định tư pháp, tổ chức giám định tư pháp theo vụ việc trong lĩnh vực tài chính\n1. Giám định viên tư pháp, người giám định tư pháp theo vụ việc, Văn phòng giám định tư pháp, tổ chức giám định tư pháp khi thực hiện giám định tư pháp trong lĩnh vực tài chính có trách nhiệm thực hiện theo quy định tại Điều 11, khoản 3 Điều 18, Điều 23, Điều 28 Luật Giám định tư pháp, khoản 7, khoản 13, khoản 14 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Giám định tư pháp, Điều 18 Nghị định số 85/2013/NĐ-CP ngày 29 tháng 7 năm 2013 của Chính phủ quy định chi tiết và biện pháp thi hành Luật Giám định tư pháp và các văn bản quy định chi tiết thi hành.\n2. Thực hiện đúng các quy định về giám định tư pháp trong lĩnh vực tài chính theo quy định tại Thông tư này.\n3. Tham gia các lớp bồi dưỡng nghiệp vụ giám định, kiến thức pháp luật."
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "IV",
+                    "title": "ĐIỀU KHOẢN THI HÀNH",
+                    "position": 46604,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "28",
+                            "title": "Hiệu lực thi hành",
+                            "position": 46634,
+                            "children": [],
+                            "content": "Điều 28. Hiệu lực thi hành\n1. Thông tư này có hiệu lực kể từ ngày 15 tháng 8 năm 2022 và thay thế Thông tư số 138/2013/TT-BTC ngày 09 tháng 10 năm 2013 của Bộ Tài chính hướng dẫn một số nội dung của Luật Giám định tư pháp và Nghị định số 85/2013/NĐ-CP ngày 29 tháng 7 năm 2013 của Chính phủ quy định chi tiết và biện pháp thi hành Luật Giám định tư pháp.\n2. Giám định viên tư pháp, người giám định tư pháp theo vụ việc, Tổ giám định tư pháp, Hội đồng giám định đang thực hiện giám định tư pháp theo quyết định trung cầu giám định tư pháp của người trung cầu giám định trước ngày Thông tư này có hiệu lực thi hành thì thực hiện theo quy định tại Thông tư số 138/2013/TT-BTC và các văn bản khác có liên quan."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "29",
+                            "title": "Tổ chức thực hiện",
+                            "position": 47341,
+                            "children": [],
+                            "content": "Điều 29. Tổ chức thực hiện\n1. Vụ trưởng Vụ Pháp chế, Vụ trưởng Vụ Tổ chức cán bộ, Thủ trưởng các đơn vị thuộc Bộ Tài chính chịu trách nhiệm tổ chức thực hiện Thông tư này.\n2. Trường hợp các văn bản quy phạm pháp luật dẫn chiếu tại Thông tư này được sửa đổi, bổ sung hoặc thay thế bằng văn bản quy phạm pháp luật khác thì áp dụng quy định tại văn bản sửa đổi, bổ sung hoặc thay thế.\n3. Bộ, cơ quan ngang Bộ, Ủy ban nhân dân cấp tỉnh và các cá nhân, tổ chức có liên quan chịu trách nhiệm thi hành Thông tư này. Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, các cá nhân, tổ chức phản ánh kịp thời về Bộ Tài chính để sửa đổi, bổ sung cho phù hợp./."
+                        }
+                    ]
+                }
+            ],
+            "metadata": {
+                "total_units": 38,
+                "total_articles": 31,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 2,
+                "depth": 3
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [],
+            "replaces": [],
+            "mentions": [],
+            "abolished": [],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "replaces": {
+                "crawl_count": 2,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "138/2013/TT-BTC",
+                    "85/2013/NĐ-CP"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "[replaces] LLM thiếu target so với crawl: ['138/2013/TT-BTC', '85/2013/NĐ-CP']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "40/2022/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "40/2022/TT-BTC",
+            "target_id": "85/2013/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "40/2022/TT-BTC",
+            "target_id": "56/2020/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "40/2022/TT-BTC",
+            "target_id": "157/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "40/2022/TT-BTC",
+            "target_id": "13/2012/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "40/2022/TT-BTC",
+            "target_id": "85/2013/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "40/2022/TT-BTC",
+            "target_id": "138/2013/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ]
+}

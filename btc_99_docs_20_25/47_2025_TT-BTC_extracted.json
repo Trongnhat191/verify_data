@@ -1,0 +1,107 @@
+{
+    "file_name": "6+7_2025_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {},
+    "_has_crawl_metadata": false,
+    "crawled_edges": [],
+    "regex_data": {
+        "file_name": "6+7_2025_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "47/2025/TT-BTC",
+        "dates": {
+            "promulgation_date": "2025-06-20",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Bãi bỏ toàn bộ các Thông tư",
+                    "position": 0,
+                    "children": [],
+                    "content": "Bãi bỏ toàn bộ các Thông tư sau đây:\n1. Thông tư số 82/2021/TT-BTC ngày 30 tháng 9 năm 2021 của Bộ\ntrưởng Bộ Tài chính quy định về giám sát hải quan đối với hàng hóa nhập khẩu\nchuyển của khâu trong trường hợp hàng hóa nhập khẩu ùn tắc hoặc có nguy cơ\nùn tắc tại cảng biên nơi thực hiện giãn cách xã hội theo Chỉ thị số 16/CT-TTg\nngày 31 ngày 3 tháng 2020 của Thủ tướng Chính phủ về thực hiện các giải pháp\ncấp bách phòng, chống dịch Covid-19.\n2. Thông tư số 121/2021/TT-BTC ngày 24 tháng 12 năm 2021 của Bộ\ntrưởng Bộ Tài chính quy định về thủ tục hải quan đối với hàng hóa nhập khẩu\nphục vụ công tác phòng, chống dịch Covid-19, nộp chứng từ thuộc hồ sơ hải\nquan và kiểm tra thực tế đối với hàng hóa xuất khẩu, nhập khẩu trong bối canh\ndịch Covid-19.",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Bãi bỏ một phần Thông tư",
+                    "position": 785,
+                    "children": [],
+                    "content": "Điều 2. Bãi bỏ một phần Thông tư\nBãi bỏ nội dung “Việc kiểm tra thực tế hàng hóa theo quy định tại khoản này chỉ áp dụng đối với hàng xá, hàng rời và hàng hóa nhập khẩu phục vụ gia công, sản xuất xuất khẩu, hàng hóa nhập khẩu của doanh nghiệp chế xuất, cụ thể như sau:\" tại khoản 9 Điều 29 Thông tư số 38/2015/TT-BTC ngày 25 tháng 3 năm 2015 của Bộ trưởng Bộ Tài chính quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu, thuế nhập khẩu và quản lý thuế đối với hàng hóa xuất khẩu, nhập khẩu được sửa đổi, bổ sung tại khoản 18 Điều 1 Thông tư 39/2018/TTBTC ngày 20 tháng 4 năm 2018 của Bộ trưởng Bộ Tài chính.",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "3",
+                    "title": "Điều khoản thi hành",
+                    "position": 1416,
+                    "children": [],
+                    "content": "Điều 3. Điều khoản thi hành\n1. Thông tư này có hiệu lực thi hành từ ngày 20 tháng 6 năm 2025.\n2. Cục trưởng Cục Hải quan, Thủ trưởng các đơn vị thuộc Bộ Tài chính và các cơ quan, tổ chức, cá nhân khác có liên quan chịu trách nhiệm thi hành Thông tư này."
+                }
+            ],
+            "metadata": {
+                "total_units": 3,
+                "total_articles": 3,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 2,
+                "depth": 1
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [],
+            "replaces": [],
+            "mentions": [],
+            "abolished": [],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": null,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "replaces": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": []
+    },
+    "final_edges": []
+}

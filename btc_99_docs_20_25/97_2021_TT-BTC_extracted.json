@@ -1,0 +1,251 @@
+{
+    "file_name": "97_2021_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "97/2021/TT-BTC",
+        "title": "Sửa đổi, bổ sung một số điều của Thông tư số 23/2020/TT-BTC ngày 13 tháng 4 năm 2020 của Bộ trưởng Bộ Tài chính quy định tạm ứng, vay ngân quỹ nhà nước của ngân sách nhà nước",
+        "promulgationDate": "2021-11-12",
+        "effectiveDate": "2022-01-01",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Võ Thành Hưng",
+        "draftingUnit": "Kho bạc nhà nước",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:21Z",
+        "_doc_id": "104331"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "97/2021/TT-BTC",
+            "target_id": "Luật Quản lý nợ công 2017",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "97/2021/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "97/2021/TT-BTC",
+            "target_id": "163/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "97/2021/TT-BTC",
+            "target_id": "Luật ngân sách nhà nước 2015",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "97/2021/TT-BTC",
+            "target_id": "103/2025/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "97/2021/TT-BTC",
+            "target_id": "155/QĐ-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "97/2021/TT-BTC",
+            "target_id": "23/2020/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "97_2021_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "23/2020/TT-BTC",
+        "dates": {
+            "promulgation_date": "2021-11-12",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Sửa đổi, bổ sung một số điều của Thông tư số 23/2020/TT-BTC",
+                    "position": 0,
+                    "children": [],
+                    "content": "ngày 13 tháng 4 năm 2020 của Bộ trưởng Bộ Tài chính quy định tạm ứng,\nvay ngân quỹ nhà nước của ngân sách nhà nước (sau đây gọi tắt là Thông tư\nsố 23/2020/TT-BTC) như sau:\n1. Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 16 như sau:\n“1. Chi phí sử dụng ngân quỹ nhà nước\nNgân sách trung ương khi tạm ứng, vay ngân quỹ nhà nước và ngân sách\ncấp tỉnh khi tạm ứng ngân quỹ nhà nước có trách nhiệm thanh toán khoản chi phí\nsử dụng ngân quỹ nhà nước cho Kho bạc Nhà nước định kỳ hàng tháng (chậm\nnhất vào ngày 10 của tháng liền kề sau tháng phải thanh toán) với mức chi phí sử\ndụng ngân quỹ nhà nước bằng mức lãi suất áp dụng đối với tiền gửi bằng đồng\nViệt Nam của Kho bạc Nhà nước tại Ngân hàng Nhà nước Việt Nam trong cùng thời kỳ.\nRiêng khoản chi phí sử dụng ngân quỹ nhà nước của tháng đến hạn hoàn trả khoản tạm\nứng, vay ngân quỹ nhà nước được thanh toán cho Kho bạc Nhà nước cùng thời\n2\nđiểm khi hoàn trả khoản tạm ứng, vay ngân quỹ nhà nước. Chi phí sử dụng ngân\nquỹ nhà nước hàng tháng được xác định như sau:\nChi phí sử dụng ngân quỹ nhà nước = Σ(Số dư nợ tạm ứng, vay ngân quỹ nhà nước thực tế x Số ngày duy trì số dư nợ thực tế x Mức chi phí sử dụng ngân quỹ nhà nước)\nTrong đó:\na) Số dư nợ tạm ứng, vay ngân quỹ nhà nước thực tế được xác định tại thời điểm cuối mỗi ngày trong thời hạn tính chi phí sử dụng ngân quỹ nhà nước.\nThời hạn tính chi phí sử dụng ngân quỹ nhà nước theo tháng, được tính từ ngày rút vốn đối với kỳ tính khoản chi phí sử dụng ngân quỹ nhà nước đầu tiên hoặc ngày đầu tiên của tháng đối với các kỳ tính khoản chi phí sử dụng ngân quỹ nhà nước tiếp theo đến hết ngày cuối cùng của tháng tính khoản chi phí sử dụng ngân quỹ nhà nước hoặc ngày liền kề trước ngày hoàn trả khoản tạm ứng, vay ngân quỹ nhà nước đối với kỳ tính khoản chi phí sử dụng ngân quỹ nhà nước cuối cùng.\nb) Số ngày duy trì số dư nợ thực tế (bao gồm cả ngày nghỉ, ngày lễ theo quy định của pháp luật) là số ngày mà số dư nợ tạm ứng, vay ngân quỹ nhà nước thực tế cuối mỗi ngày không thay đổi trong thời hạn tính chi phí sử dụng ngân quỹ nhà nước quy định tại điểm a khoản này.\nc) Mức chi phí sử dụng ngân quỹ nhà nước bằng mức lãi suất áp dụng đối với tiền gửi bằng đồng Việt Nam của Kho bạc Nhà nước tại Ngân hàng Nhà nước Việt Nam theo quyết định của Thống đốc Ngân hàng Nhà nước Việt Nam trong cùng thời kỳ. Trường hợp Thống đốc Ngân hàng Nhà nước Việt Nam ban hành quyết định điều chỉnh mức lãi suất áp dụng đối với tiền gửi bằng đồng Việt Nam của Kho bạc Nhà nước tại Ngân hàng Nhà nước Việt Nam, thì áp dụng theo mức lãi suất mới kể từ thời điểm mức lãi suất đó có hiệu lực thi hành.\n2. Chi phí sử dụng ngân quỹ nhà nước quá hạn\nTrường hợp khoản tạm ứng, vay ngân quỹ nhà nước của ngân sách trung ương, khoản tạm ứng ngân quỹ nhà nước của ngân sách cấp tỉnh quá thời hạn hoàn trả, ngân sách trung ương, ngân sách cấp tỉnh có trách nhiệm thanh toán khoản chi phí sử dụng ngân quỹ nhà nước quá hạn theo mức bằng 150% mức chi phí sử dụng ngân quỹ nhà nước theo quy định tại điểm c khoản 1 Điều này được áp dụng tại ngày liền kề trước thời hạn tính chi phí sử dụng ngân quỹ nhà nước quá hạn. Chi phí sử dụng ngân quỹ nhà nước quá hạn được thanh toán một lần cho Kho bạc Nhà nước khi thu hồi khoản tạm ứng, vay ngân quỹ nhà nước quá hạn và được xác định như sau:\nChi phí sử dụng ngân quỹ nhà nước quá hạn = Σ (Số dư nợ tạm ứng, vay ngân quỹ nhà nước quá hạn thực tế x Số ngày duy trì số dư nợ quá hạn thực tế x 150% x Mức chi phí sử dụng ngân quỹ nhà nước)\nTrong đó:\na) Số dư nợ tạm ứng, vay ngân quỹ nhà nước quá hạn thực tế được xác định tại thời điểm cuối mỗi ngày trong thời hạn tính chi phí sử dụng ngân quỹ nhà nước quá hạn.\nThời hạn tính chi phí sử dụng ngân quỹ nhà nước quá hạn được tính từ ngày đến hạn hoàn trả mà khoản tạm ứng, vay ngân quỹ nhà nước không được hoàn trả đến hết ngày liền kề trước ngày thực trả khoản tạm ứng, vay ngân quỹ nhà nước quá hạn.\nb) Số ngày duy trì số dư nợ quá hạn thực tế (bao gồm cả ngày nghỉ, ngày lễ theo quy định của pháp luật) là số ngày mà số dư nợ tạm ứng, vay ngân quỹ nhà nước quá hạn thực tế cuối mỗi ngày không thay đổi trong thời hạn tính chi phí sử dụng ngân quỹ nhà nước quá hạn quy định tại điểm a khoản này.\nc) Mức chi phí sử dụng ngân quỹ nhà nước là mức lãi suất theo quy định tại điểm c khoản 1 Điều này được áp dụng tại ngày liền kề trước thời hạn tính chi phí sử dụng ngân quỹ nhà nước quá hạn.”\n2. Bổ sung điểm đ vào khoản 5 Điều 19 như sau:\n“đ) Thông báo cho Vụ Ngân sách nhà nước, Sở Tài chính và Kho bạc Nhà nước cấp tỉnh về mức và thời điểm điều chỉnh mức chi phí sử dụng ngân quỹ nhà nước chậm nhất 05 ngày làm việc kể từ ngày nhận được quyết định của Thống đốc Ngân hàng Nhà nước Việt Nam về mức lãi suất áp dụng đối với tiền gửi bằng đồng Việt Nam của Kho bạc Nhà nước tại Ngân hàng Nhà nước Việt Nam.\".",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "3",
+                    "title": "Hiệu lực thi hành và tổ chức thực hiện",
+                    "position": 5456,
+                    "children": [],
+                    "content": "Điều 3. Hiệu lực thi hành và tổ chức thực hiện\n1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2022.\n2. Kho bạc Nhà nước và các cơ quan, đơn vị, tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./."
+                }
+            ],
+            "metadata": {
+                "total_units": 2,
+                "total_articles": 2,
+                "skipped_nested_articles": 1,
+                "amendment_articles": 1,
+                "depth": 1
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [
+                {
+                    "official_number_target": "23/2020/TT-BTC",
+                    "affected_articles": [
+                        "Khoản 1 Điều 16",
+                        "Khoản 2 Điều 16",
+                        "Khoản 5 Điều 19"
+                    ],
+                    "effective_from": "2022-01-01"
+                }
+            ],
+            "replaces": [],
+            "mentions": [],
+            "abolished": [],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": false,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 1,
+                "llm_count": 1,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "replaces": {
+                "crawl_count": 2,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "103/2025/TT-BTC",
+                    "155/QĐ-BTC"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "Số hiệu không khớp: crawl='97/2021/TT-BTC', regex='23/2020/TT-BTC'",
+            "[replaces] LLM thiếu target so với crawl: ['103/2025/TT-BTC', '155/QĐ-BTC']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "97/2021/TT-BTC",
+            "target_id": "Luật Quản lý nợ công 2017",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "97/2021/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "97/2021/TT-BTC",
+            "target_id": "163/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "97/2021/TT-BTC",
+            "target_id": "Luật ngân sách nhà nước 2015",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "97/2021/TT-BTC",
+            "target_id": "103/2025/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "97/2021/TT-BTC",
+            "target_id": "155/QĐ-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "97/2021/TT-BTC",
+            "target_id": "23/2020/TT-BTC",
+            "properties": {
+                "source": "crawled",
+                "effective_from": "2022-01-01",
+                "affected_articles": [
+                    "Khoản 1 Điều 16",
+                    "Khoản 2 Điều 16",
+                    "Khoản 5 Điều 19"
+                ]
+            },
+            "_crawled": true
+        }
+    ]
+}

@@ -1,0 +1,342 @@
+{
+    "file_name": "15_2021_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "15/2021/TT-BTC",
+        "title": "Quy định về chế độ và biểu mẫu báo cáo tình hình thực hiện, thanh toán vốn đầu tư công",
+        "promulgationDate": "2021-02-18",
+        "effectiveDate": "2021-04-05",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Tạ Anh Tuấn",
+        "draftingUnit": "Vụ Đầu tư",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "EXPIRED",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:21Z",
+        "_doc_id": "103173"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "15/2021/TT-BTC",
+            "target_id": "973/2020/UBTVQH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "15/2021/TT-BTC",
+            "target_id": "56/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "15/2021/TT-BTC",
+            "target_id": "40/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "15/2021/TT-BTC",
+            "target_id": "Luật Đầu tư công 2019",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "15/2021/TT-BTC",
+            "target_id": "09/2019/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "15/2021/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "15/2021/TT-BTC",
+            "target_id": "163/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "15/2021/TT-BTC",
+            "target_id": "Luật ngân sách nhà nước 2015",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "15/2021/TT-BTC",
+            "target_id": "82/2017/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "15_2021_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "15/2021/TT-BTC",
+        "dates": {
+            "promulgation_date": "2021-02-18",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "CHAPTER",
+                    "number": "I",
+                    "title": "QUY ĐỊNH CHUNG",
+                    "position": 0,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "1",
+                            "title": "Phạm vi điều chỉnh, đối tượng áp dụng",
+                            "position": 23,
+                            "children": [],
+                            "content": "Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng\n1. Phạm vi điều chỉnh: Thông tư này quy định về chế độ và biểu mẫu báo\ncáo tình hình thực hiện và thanh toán vốn đầu tư công (bao gồm vốn ngân sách\nnhà nước và vốn từ nguồn thu hợp pháp của các cơ quan nhà nước, đơn vị sự\nnghiệp công lập dành để đầu tư theo quy định của pháp luật) thuộc kế hoạch\ntrung hạn và hằng năm.\n2. Đối tượng áp dụng:\na) Các cơ quan, tổ chức, cá nhân thực hiện chế độ và biểu mẫu báo cáo tình hình thực hiện và thanh toán vốn đầu tư công trung hạn và hằng năm thuộc phạm vi điều chỉnh của Thông tư này.\nb) Các cơ quan, tổ chức, cá nhân có liên quan."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "2",
+                            "title": "Các loại báo cáo",
+                            "position": 643,
+                            "children": [],
+                            "content": "Điều 2. Các loại báo cáo\n1. Báo cáo định kỳ: Là báo cáo để đáp ứng yêu cầu thông tin tổng hợp về tình hình thực hiện và thanh toán vốn đầu tư công trung hạn và hằng năm, được thực hiện theo một chu kỳ xác định và lặp lại nhiều lần, bao gồm báo cáo hằng tháng, hằng năm, giữa kỳ trung hạn, cả giai đoạn trung hạn.\n- Lũy kế thực tế thanh toán vốn đầu tư công 03 tháng tại báo cáo tháng 4 cũng là kết quả thanh toán vốn của quý I năm kế hoạch.\n- Lũy kế thực tế thanh toán vốn đầu tư công 6 tháng tại báo cáo tháng 7 cũng là kết quả thanh toán vốn của quý II năm kế hoạch.\n- Lũy kế thực tế thanh toán vốn đầu tư công 9 tháng tại báo cáo tháng 10 cũng là kết quả thanh toán vốn của quý III năm kế hoạch.\n- Lũy kế thực tế thanh toán vốn đầu tư công 12 tháng tại báo cáo tháng 01 năm sau năm kế hoạch cũng là kết quả thanh toán vốn của quý IV năm kế hoạch.\n2. Báo cáo chuyên đề và báo cáo đột xuất: Là báo cáo để đáp ứng yêu cầu quản lý của cấp có thẩm quyền, các thông tin báo cáo có tính chuyên sâu về một chủ đề cụ thể hoặc về vấn đề phát sinh đột xuất liên quan đến tình hình thực hiện, thanh toán vốn đầu tư công trung hạn và hằng năm và phải thực hiện một hoặc nhiều lần trong khoảng thời gian nhất định."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "3",
+                            "title": "Nguyên tắc thực hiện chế độ báo cáo",
+                            "position": 1847,
+                            "children": [],
+                            "content": "Điều 3. Nguyên tắc thực hiện chế độ báo cáo\n1. Các cơ quan, đơn vị báo cáo tình hình thực hiện và thanh toán vốn đầu tư công trung hạn và hằng năm trên cơ sở kế hoạch vốn đầu tư công trung hạn và hằng năm được phân bổ theo đúng quy định của Luật Đầu tư công và các văn bản hướng dẫn.\n2. Các cơ quan, đơn vị báo cáo tình hình thực hiện và thanh toán vốn đầu tư công trung hạn và hằng năm phải đầy đủ nội dung, chính xác, trung thực, đúng thời hạn quy định tại Thông tư này. Báo cáo cần thuyết minh rõ các tồn tại, khó khăn, vướng mắc, các yếu tố ảnh hưởng đến việc thực hiện giao kế hoạch, thanh toán vốn đầu tư công theo kế hoạch; đề xuất các biện pháp tháo gỡ có liên quan đến công tác quản lý, thanh toán vốn đầu tư công; đảm bảo cung cấp đầy đủ thông tin phục vụ cho công tác quản lý của cơ quan nhà nước có thẩm quyền và các cơ quan, tổ chức, cá nhân có liên quan.\n3. Danh mục dự án (bao gồm dự án đầu tư, nhiệm vụ (dự án hoặc chi phí) chuẩn bị đầu tư, nhiệm vụ quy hoạch), số vốn bố trí cho từng ngành, lĩnh vực, chương trình, dự án, của từng bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, cơ quan khác ở trung ương, các ngân hàng chính sách (sau đây gọi tắt là bộ, cơ\n3\nquản trung ương) và địa phương đảm bảo đúng theo các quyết định giao kế\nhoạch vốn của cấp có thẩm quyền (bao gồm kế hoạch trung hạn, kế hoạch năm,\nkế hoạch bổ sung, kế hoạch kéo dài, kế hoạch điều chỉnh, kế hoạch vốn ứng nếu\ncó).\nĐối với nguồn vốn cân đối ngân sách địa phương, trường hợp Hội đồng\nnhân dân các cấp giao tăng so với kế hoạch do Quốc hội, Thủ tướng Chính phủ\ngiao thì địa phương phải báo cáo rõ nguồn vốn giao tăng và tổng hợp đầy đủ vào\nbáo cáo (cột giao kế hoạch vốn của địa phương tại các biểu mẫu quy định Thông\ntư này).\nCác bộ, cơ quan trung ương; Ủy ban nhân dân các tỉnh, thành phố trực\nthuộc trung ương (sau đây gọi tắt là Ủy ban nhân dân cấp tỉnh) báo cáo đủ các\nnguồn vốn đầu tư công do bộ, cơ quan trung ương và địa phương quản lý bao\ngồm nguồn vốn được kiểm soát, thanh toán qua Kho bạc nhà nước các cấp và\nnguồn vốn do các đơn vị khác được giao kiểm soát, thanh toán theo quy định.\n4. Trường hợp bộ, cơ quan trung ương và địa phương không thực hiện báo\ncáo đảm bảo đầy đủ nội dung và đúng thời hạn quy định tại Thông tư này, Bộ\nTài chính tổng hợp, báo cáo cấp có thẩm quyền xem xét, xử lý theo quy định của\npháp luật.\n5. Ứng dụng công nghệ thông tin trong việc thực hiện chế độ báo cáo, đáp\nứng yêu cầu của Hệ thống thông tin báo cáo quốc gia."
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "II",
+                    "title": "QUY ĐỊNH CỤ THỂ",
+                    "position": 4295,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "4",
+                            "title": "Báo cáo định kỳ tình hình thực hiện và thanh toán vốn đầu tư",
+                            "position": 4321,
+                            "children": [],
+                            "content": "Điều 4. Báo cáo định kỳ tình hình thực hiện và thanh toán vốn đầu tư\ncông hằng năm\n1. Tên báo cáo: “Báo cáo tình hình thực hiện và thanh toán vốn đầu tư\ncông kế hoạch năm...”.\n2. Nội dung báo cáo:\na) Hằng tháng, các đơn vị báo cáo lũy kế kết quả thanh toán vốn đầu tư\ncông đến hết tháng trước, ước kết quả thanh toán vốn đầu tư công đến hết tháng\nbáo cáo theo từng nguồn vốn của kế hoạch được giao trong năm, kế hoạch vốn\ncác năm trước được cấp có thẩm quyền cho phép kéo dài thời gian thực hiện và\nthanh toán trong năm kế hoạch, kế hoạch vốn ứng trước nếu có.\nĐịnh kỳ 06 tháng, hằng năm, các đơn vị báo cáo chi tiết danh mục dự án\nsử dụng vốn ngân sách trung ương theo nguồn vốn, ngành, lĩnh vực, chương\ntrình theo quy định tại điểm b khoản 2 Điều 45 Nghị định số 40/2020/NĐ-CP\nngày 06/4/2020 của Chính phủ quy định chi tiết thi hành một số điều của Luật\nĐầu tư công (sau đây gọi tắt là Nghị định số 40/2020/NĐ-CP).\nĐối với các chương trình mục tiêu quốc gia, chỉ báo cáo theo tổng số từng\nnguồn vốn (vốn trong nước, vốn hỗ trợ phát triển chính thức (ODA) và vốn vay\nưu đãi của các nhà tài trợ nước ngoài (sau đây gọi tắt là vốn nước ngoài)) của\ntừng chương trình.\nb) Đánh giá kết quả đạt được; khó khăn, vướng mắc; nguyên nhân của những khó khăn, vướng mắc dẫn đến chậm thanh toán vốn đầu tư công trong năm; đề xuất giải pháp xử lý, kiến nghị.\n3. Cơ quan thực hiện báo cáo\na) Các bộ, cơ quan trung ương, Ủy ban nhân dân cấp tỉnh.\nb) Kho bạc Nhà nước ở trung ương (sau đây gọi tắt là Kho bạc nhà nước), Kho bạc Nhà nước tỉnh (thành phố).\n4. Cơ quan nhận báo cáo:\na) Báo cáo của các bộ, cơ quan trung ương, Ủy ban nhân dân cấp tỉnh: Cơ quan nhận báo cáo là Bộ Tài chính, Bộ Kế hoạch và Đầu tư.\nb) Báo cáo của Kho bạc Nhà nước: Cơ quan nhận báo cáo là các bộ, cơ quan trung ương; Bộ Tài chính (Vụ Đầu tư, Vụ I, Cục Quản lý nợ và Tài chính đối ngoại, Vụ Tài chính các ngân hàng và tổ chức tài chính),\nc) Báo cáo của Kho bạc Nhà nước tỉnh (thành phố): Cơ quan nhận báo cáo là Kho bạc Nhà nước, Ủy ban nhân dân cấp tỉnh, Sở Tài chính, Sở Kế hoạch và Đầu tư.\n5. Thời hạn gửi báo cáo:\na) Các bộ, cơ quan trung ương, Ủy ban nhân dân cấp tỉnh, Kho bạc Nhà nước báo cáo định kỳ hằng tháng, hằng năm gửi cơ quan nhận báo cáo theo thời hạn quy định tại điểm c khoản 1 Điều 45 Nghị định số 40/2020/NĐ-CP, cụ thể như sau:\nHằng tháng: Trước ngày 15 của tháng báo cáo. Đối với báo cáo lũy kế thực tế thanh toán vốn đầu tư công 12 tháng, ước thanh toán 13 tháng, báo cáo trước ngày 15 tháng 01 năm sau năm kế hoạch.\nHằng năm (báo cáo 13 tháng): Trước ngày 28 tháng 02 năm sau năm kế hoạch.\nb) Kho bạc Nhà nước tỉnh (thành phố) báo cáo định kỳ hằng tháng, hằng năm gửi Kho bạc Nhà nước theo thời hạn sau đây:\nHằng tháng: Trước ngày 13 của tháng báo cáo. Đối với báo cáo lũy kế thực tế thanh toán vốn đầu tư công 12 tháng, ước thanh toán 13 tháng, báo cáo trước ngày 13 tháng 01 năm sau năm kế hoạch.\nHằng năm (báo cáo 13 tháng): Trước ngày 20 tháng 02 năm sau năm kế hoạch.\n6. Mẫu đề cương báo cáo: Mẫu số 01/TTKHN ban hành kèm theo Thông tư này.\n7. Biểu mẫu số liệu báo cáo: Biểu số 01a/TTKHN, 01b/TTKHN, 01c/TTKHVU, 01d/TTKHVU.\n4\na) Hằng tháng, đơn vị báo cáo lũy kế kết quả thanh toán vốn đầu tư công đến hết tháng trước, ước kết quả thanh toán vốn đầu tư công đến hết tháng báo cáo theo Biểu số 01a/TTKHN và Biểu số 01c/TTKHVU (nếu có phát sinh ứng trong năm).\nRiêng tháng 7, ngoài việc báo cáo tháng theo Biểu số 01a/TTKHN và Biểu số 01c/TTKHVU (nếu có phát sinh ứng trong năm), các đơn vị thực hiện báo cáo lũy kế thanh toán vốn đầu tư công 6 tháng nguồn ngân sách trung ương chi tiết dự án theo Biểu số 01b/TTKHN và tình hình thanh toán, thu hồi vốn ứng trước 06 tháng theo Biểu số 01d/TTKHVU.\nb) Hằng năm, đơn vị báo cáo lũy kế thanh toán vốn đầu tư công 13 tháng nguồn ngân sách trung ương chi tiết dự án theo Biểu số 01b/TTKHN và tình hình thanh toán, thu hồi vốn ứng trước theo Biểu số 01d/TTKHVU."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "5",
+                            "title": "Báo cáo định kỳ tình hình thực hiện và thanh toán vốn đầu tư công giữa kỳ trung hạn, cả giai đoạn trung hạn",
+                            "position": 8213,
+                            "children": [],
+                            "content": "Điều 5. Báo cáo định kỳ tình hình thực hiện và thanh toán vốn đầu tư công giữa kỳ trung hạn, cả giai đoạn trung hạn\n1. Tên báo cáo: “Báo cáo kết quả thanh toán vốn đầu tư công giữa kỳ trung hạn, cả giai đoạn trung hạn”.\n2. Nội dung báo cáo:\na) Báo cáo tình hình thực hiện và thanh toán vốn đầu tư công giữa kỳ trung hạn, cả giai đoạn trung hạn chi tiết danh mục dự án sử dụng vốn ngân sách trung ương theo ngành, lĩnh vực, chương trình. Riêng đối với các chương trình mục tiêu quốc gia, chỉ báo cáo theo tổng số từng nguồn vốn (trong nước, nước ngoài) của từng chương trình.\n- Đối với báo cáo giữa kỳ trung hạn: báo cáo kết quả thanh toán vốn đầu tư công từ đầu kỳ trung hạn đến hết quý II năm thứ ba của kế hoạch đầu tư công trung hạn.\n- Đối với báo cáo cả giai đoạn trung hạn: báo cáo ước kết quả thanh toán vốn từ đầu kỳ trung hạn đến hết năm cuối của kế hoạch đầu tư công trung hạn.\nb) Đánh giá kết quả đạt được; khó khăn, vướng mắc (nếu có); nguyên nhân của những vướng mắc dẫn đến chậm thanh toán vốn đầu tư công giữa kỳ trung hạn, giai đoạn trung hạn, đề xuất giải pháp xử lý, kiến nghị.\n3. Cơ quan thực hiện báo cáo:\na) Các bộ, cơ quan trung ương, Ủy ban nhân dân cấp tỉnh.\nb) Kho bạc Nhà nước, Kho bạc Nhà nước tỉnh (thành phố).\n4. Cơ quan nhận báo cáo:\na) Báo cáo của các bộ, cơ quan trung ương, Ủy ban nhân dân cấp tỉnh: Cơ quan nhận báo cáo là Bộ Tài chính, Bộ Kế hoạch và Đầu tư.\nb) Báo cáo của Kho bạc Nhà nước: Cơ quan nhận báo cáo là các bộ, cơ quan trung ương; Bộ Tài chính (Vụ Đầu tư, Vụ I, Cục Quản lý nợ và Tài chính đối ngoại, Vụ Tài chính các ngân hàng và tổ chức tài chính).\nc) Báo cáo của Kho bạc Nhà nước tỉnh (thành phố): Cơ quan nhận báo cáo là Kho bạc Nhà nước, Ủy ban nhân dân cấp tỉnh, Sở Tài chính, Sở Kế hoạch và Đầu tư.\n5. Thời hạn gửi báo cáo:\na) Các bộ, cơ quan trung ương, Ủy ban nhân dân cấp tỉnh, Kho bạc Nhà nước báo cáo định kỳ giữa kỳ trung hạn, cả giai đoạn trung hạn gửi cơ quan nhận báo cáo theo thời hạn quy định tại điểm a, b khoản 1 Điều 45 Nghị định số 40/2020/NĐ-CP, cụ thể như sau:\nGiữa kỳ trung hạn: Trước ngày 31 tháng 7 năm thứ 3 của kế hoạch đầu tư công trung hạn.\nCả giai đoạn trung hạn: Trước ngày 31 tháng 7 năm thứ năm của kế hoạch đầu tư công trung hạn.\nb) Kho bạc Nhà nước tỉnh (thành phố) báo cáo định kỳ giữa kỳ trung hạn, cả giai đoạn trung hạn gửi Kho bạc Nhà nước theo thời hạn sau đây:\nGiữa kỳ trung hạn: Trước ngày 20 tháng 7 năm thứ 3 của kế hoạch đầu tư công trung hạn.\nCả giai đoạn trung hạn: Trước ngày 20 tháng 7 năm thứ năm của kế hoạch đầu tư công trung hạn.\n6. Mẫu đề cương báo cáo: Mẫu số 02/TTKHΘΗ ban hành kèm theo Thông tư này.\n7. Biểu mẫu số liệu báo cáo: Biểu số 02/TTKHΘΗ."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "6",
+                            "title": "Báo cáo chuyên đề và báo cáo đột xuất",
+                            "position": 10868,
+                            "children": [],
+                            "content": "Điều 6. Báo cáo chuyên đề và báo cáo đột xuất\nĐể đáp ứng yêu cầu quản lý của cấp có thẩm quyền trong chỉ đạo điều hành ngân sách hoặc phục vụ công tác quản lý, điều hành kế hoạch vốn đầu tư công; Bộ Tài chính sẽ có văn bản yêu cầu các Bộ, cơ quan trung ương và địa phương thực hiện chế độ báo cáo theo chuyên đề hoặc báo cáo đột xuất.\nKết cấu, nội dung, phương thức, kỳ hạn báo cáo, thời điểm lấy số liệu, thời hạn báo cáo, nơi nhận báo cáo và các nội dung khác có liên quan sẽ được hướng dẫn tại văn bản của Bộ Tài chính."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "7",
+                            "title": "Phương thức gửi, nhận báo cáo",
+                            "position": 11391,
+                            "children": [],
+                            "content": "Điều 7. Phương thức gửi, nhận báo cáo\nCác cơ quan, đơn vị gửi báo cáo bằng một trong các phương thức:\n1. Báo cáo bằng văn bản điện tử được gửi qua Hệ thống văn bản và Điều hành, Hệ thống thông tin báo cáo của Bộ Tài chính hoặc các phương thức khác theo quy định của pháp luật (đồng thời gửi file văn bản qua hệ thống thư điện tử theo địa chỉ dautu@mof.gov.vn).\n2. Báo cáo bằng văn bản giấy (đối với các cơ quan, đơn vị chưa thực hiện tiếp nhận và gửi văn bản điện tử).\n7"
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "8",
+                            "title": "Trách nhiệm của các cơ quan trong quá trình thực hiện",
+                            "position": 11862,
+                            "children": [],
+                            "content": "Điều 8. Trách nhiệm của các cơ quan trong quá trình thực hiện\n1. Trách nhiệm của Bộ Tài chính:\na) Hằng tháng, 06 tháng, hằng năm, giữa kỳ và cả giai đoạn trung hạn,\ntổng hợp báo cáo Thủ tướng Chính phủ đồng gửi Bộ Kế hoạch và Đầu tư tỉnh\nhình thực hiện và thanh toán vốn đầu tư nguồn ngân sách nhà nước của các cơ\nquan đơn vị theo Mẫu số 03/BTC ban hành kèm theo Thông tư này. Thời hạn\nbáo cáo theo đúng quy định tại Điều 45 Nghị định số 40/2020/NĐ-CP ngày 06\ntháng 4 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Đầu tư\ncông\nCăn cứ tình hình báo cáo của các cơ quan đơn vị, nhu cầu quản lý và chỉ\nđạo của Chính phủ, Thủ tướng Chính phủ, Bộ Tài chính thực hiện báo cáo theo\ncác mẫu biểu khác đảm bảo theo đúng quy định.\nb) Tổ chức công khai thông tin tình hình thực hiện và thanh toán vốn đầu\ntư công nguồn ngân sách nhà nước hàng tháng của các bộ, cơ quan trung ương\nvà địa phương trên Hệ thống thông tin báo cáo quốc gia và các phương tiện\nthông tin đại chúng.\nc) Tổ chức kiểm tra, kiểm soát việc thực hiện chế độ báo cáo tình hình\nthực hiện và thanh toán vốn đầu tư công tại các bộ, cơ quan trung ương, địa\nphương, các chủ đầu tư đề tham mưu với Chính phủ về các giải pháp đẩy nhanh\ntiến độ thanh toán vốn đầu tư của các dự án, đề xuất biện pháp xử lý những sai\nphạm trong việc quản lý, sử dụng vốn đầu tư công (nếu có).\nd) Phân tích đánh giá kết quả thực hiện và thanh toán vốn đầu tư công của\ncác bộ, cơ quan trung ương và các địa phương; theo thẩm quyền được giao hoặc\ntham mưu cho Thủ tướng Chính phủ kịp thời chỉ đạo, tháo gỡ những khó khăn\nvướng mắc cho các bộ, cơ quan trung ương và địa phương để phục vụ chỉ đạo\nđiều hành ngân sách.\n2. Trách nhiệm của bộ, cơ quan trung ương:\na) Định kỳ báo cáo tình hình thực hiện và thanh toán vốn đầu tư công\ntrung hạn, hằng năm theo đúng thời gian và nội dung quy định tại Thông tư này\ngửi Bộ Tài chính, Bộ Kế hoạch và Đầu tư. Chịu trách nhiệm trước Chính phủ,\nThủ tướng Chính phủ về kết quả thực hiện và tính chính xác của số liệu báo cáo.\nb) Thực hiện chế độ báo cáo chuyên đề, báo cáo đột xuất khi có yêu cầu\ncủa Bộ Tài chính; báo cáo tồn tại, khó khăn, vướng mắc, các yếu tố ảnh hưởng\nđến việc thực hiện giao kế hoạch, thanh toán vốn đầu tư công theo kế hoạch.\nKiến nghị với Bộ Tài chính, Bộ Kế hoạch và Đầu tư và các Bộ ngành có\nliên quan về những biện pháp thúc đẩy tiến độ thanh toán vốn đầu tư công và\nbiện pháp xử lý những sai phạm của chủ đầu tư trong việc quản lý, sử dụng vốn\nđầu tư, vốn tạm ứng theo chế độ (nếu có).\nc) Yêu cầu chủ đầu tư rà soát, đối chiếu số liệu thanh toán vốn các dự án\nvới Kho bạc Nhà nước nơi giao dịch để tổng hợp báo cáo cơ quan chủ quản tỉnh\n8\nhình thực hiện kế hoạch vốn đầu tư công theo quy định.\nTrường hợp bộ, cơ quan trung ương với tư cách là cơ quan chủ quản các\ndự án ODA, vay ưu đãi: Yêu cầu các chủ đầu tư thực hiện hoàn chứng từ phần\nrút vốn nước ngoài theo phương thức tài khoản đặc biệt đã được kiểm soát chi\ngửi Bộ Tài chính để ký đơn rút vốn hoàn chứng từ.\nd) Chỉ đạo tổ chức kiểm tra các chủ đầu tư, Ban quản lý dự án về tình hình\nthực hiện kế hoạch vốn đầu tư công, thực hiện chế độ báo cáo tình hình thực\nhiện và thanh toán vốn đầu tư công theo quy định tại Thông tư này để có biện\npháp chỉ đạo chủ đầu tư kịp thời tháo gỡ những khó khăn, vướng mắc trong\ncông tác giao kế hoạch, thực hiện, thanh toán vốn đầu tư công, đẩy nhanh tiến\nđộ thực hiện và thanh toán vốn các dự án đầu tư.\n3. Trách nhiệm của Ủy ban nhân dân cấp tỉnh:\na) Định kỳ báo cáo tình hình thực hiện và thanh toán vốn đầu tư công\ntrung hạn, hằng năm theo đúng thời gian và nội dung quy định tại Thông tư này\ngửi Bộ Tài chính, Bộ Kế hoạch và Đầu tư. Chịu trách nhiệm trước Chính phủ,\nThủ tướng Chính phủ về kết quả thực hiện và tính chính xác của số liệu báo cáo.\nb) Thực hiện chế độ báo cáo chuyên đề, báo cáo đột xuất khi có yêu cầu\ncủa Bộ Tài chính; báo cáo tồn tại, khó khăn, vướng mắc, các yếu tố ảnh hưởng\nđến việc thực hiện giao kế hoạch, thanh toán vốn đầu tư công theo kế hoạch.\nKiến nghị với Bộ Tài chính, Bộ Kế hoạch và Đầu tư và các Bộ ngành có\nliên quan về những biện pháp thúc đẩy tiến độ thanh toán vốn đầu tư công và\nbiện pháp xử lý những sai phạm của chủ đầu tư trong việc quản lý, sử dụng vốn\nđầu tư, vốn tạm ứng theo chế độ (nếu có).\nTrường hợp Ủy ban nhân dân cấp tỉnh với tư cách là cơ quan chủ quản các\ndự án ODA, vay ưu đãi: Yêu cầu các chủ đầu tư thực hiện hoàn chứng từ phần\nrút vốn nước ngoài theo phương thức tài khoản đặc biệt đã được kiểm soát chi\ngửi Bộ Tài chính để ký đơn rút vốn hoàn chứng từ.\nc) Chỉ đạo Sở Tài chính chủ trì, phối hợp với Sở Kế hoạch và Đầu tư, Kho\nbạc Nhà nước tỉnh (thành phố) và các đơn vị liên quan tổ chức kiểm tra các chủ\nđầu tư, các Ban quản lý về tình hình thực hiện kế hoạch vốn đầu tư công, thực\nhiện chế độ báo cáo tình hình thực hiện và thanh toán vốn đầu tư công để kịp\nthời có phương án tháo gỡ những khó khăn vướng mắc trong công tác giao kế\nhoạch, thực hiện, thanh toán vốn đầu tư công, đặc biệt là công tác bồi thường, hỗ\ntrợ tái định cư, qua đó nhằm đẩy nhanh tiến độ thực hiện và thanh toán vốn của\ncác dự án đầu tư.\n4. Trách nhiệm của Kho bạc Nhà nước:\na) Tổng hợp báo cáo tình hình thực hiện và thanh toán vốn đầu tư công\ncủa các dự án thuộc các bộ, cơ quan trung ương và địa phương quản lý; gửi các\nbộ, cơ quan trung ương, Bộ Tài chính đúng thời gian và nội dung quy định tại\nThông tư này. Thực hiện báo cáo chuyên đề, báo cáo đột xuất khi có yêu cầu của\nBộ Tài chính.\n9\nb) Hướng dẫn, chỉ đạo Kho bạc Nhà nước tỉnh (thành phố) thực hiện chế độ báo cáo tình hình thực hiện và thanh toán các nguồn vốn đầu tư công đảm bảo đúng thời gian, nội dung quy định tại Thông tư này.\nc) Chịu trách nhiệm trước Bộ trưởng Bộ Tài chính về tính chính xác của số liệu tổng hợp về tình hình thực hiện và thanh toán các nguồn vốn đầu tư công.\n5. Trách nhiệm của Sở Tài chính:\na) Phối hợp với Sở Kế hoạch và Đầu tư báo cáo tình hình thực hiện, thanh toán vốn đầu tư công trên cơ sở kế hoạch vốn đầu tư công trung hạn và hằng năm được phân bổ cho các chương trình, dự án đảm bảo đúng ngành, lĩnh vực theo thứ tự ưu tiên theo quy định của Luật Đầu tư công và Nghị quyết của Ủy ban Thường vụ Quốc hội quy định về các nguyên tắc, tiêu chí và định mức phân bổ vốn đầu tư công nguồn ngân sách nhà nước giai đoạn 2021-2025 (bao gồm kế hoạch trung hạn, kế hoạch năm, kế hoạch bổ sung, kế hoạch kéo dài, kế hoạch điều chỉnh, kế hoạch vốn ứng nếu có).\nb) Phối hợp với Kho bạc Nhà nước tỉnh (thành phố), Sở Kế hoạch và Đầu tư rà soát số liệu vốn kế hoạch, số thanh toán vốn đầu tư công hằng tháng để thống nhất báo cáo Ủy ban nhân dân cấp tỉnh để xem xét báo cáo Bộ Tài chính, Bộ Kế hoạch và Đầu tư theo đúng quy định.\nc) Chủ trì, phối hợp với Sở Kế hoạch và Đầu tư, Kho bạc Nhà nước tỉnh (thành phố) và các đơn vị liên quan kiểm tra các chủ đầu tư, các Ban quản lý dự án về tình hình thực hiện kế hoạch vốn đầu tư công; tham mưu cho Ủy ban nhân dân cấp tỉnh giải pháp thúc đẩy tiến độ thanh toán các nguồn vốn đầu tư công của các dự án, biện pháp xử lý những sai phạm trong quản lý, sử dụng vốn đầu tư công (nếu có).\n6. Trách nhiệm của Kho bạc Nhà nước tỉnh (thành phố):\na) Tổng hợp báo cáo tình hình thực hiện và thanh toán vốn đầu tư công các dự án thuộc địa phương quản lý (sau khi đã rà soát thống nhất số kế hoạch, số thanh toán vốn đầu tư công với Sở Tài chính, Sở Kế hoạch và Đầu tư) và các dự án thuộc bộ, cơ quan trung ương quản lý trên địa bàn Ủy ban nhân dân cấp tỉnh, Kho bạc Nhà nước, Sở Tài chính, Sở Kế hoạch và Đầu tư theo đúng thời gian và nội dung quy định tại Thông tư này.\nb) Chịu trách nhiệm trước Bộ trưởng Bộ Tài chính, Ủy ban nhân dân cấp tỉnh, Tổng Giám đốc Kho bạc Nhà nước về tính chính xác của số liệu tổng hợp về tình hình thực hiện, thanh toán các nguồn vốn đầu tư công. Thực hiện rà soát, đối chiếu số liệu thanh toán với cơ quan tài chính, chủ đầu tư để đảm bảo cung cấp số liệu kịp thời, chính xác.\nc) Chỉ đạo Kho bạc Nhà nước cấp huyện phối hợp với Phòng Tài chính - Kế hoạch huyện, chủ đầu tư đối chiếu số liệu báo cáo về kế hoạch vốn trung hạn, hằng năm, số liệu thanh toán các nguồn vốn đầu tư công chi tiết các dự án, kịp thời điều chỉnh cho phù hợp với quy định.\n7. Các cơ quan, đơn vị, chủ đầu tư thuộc các bộ, cơ quan trung ương và địa phương lập báo cáo tình hình thực hiện và thanh toán vốn đầu tư công trung hạn và hằng năm thuộc đơn vị, cấp mình quản lý theo đúng chỉ tiêu báo cáo quy định tại các biểu mẫu tại Thông tư này, gửi cơ quan cấp trên để tổng hợp, báo cáo theo quy định."
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "III",
+                    "title": "ĐIỀU KHOẢN THI HÀNH",
+                    "position": 20317,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "9",
+                            "title": "Hiệu lực thi hành",
+                            "position": 20348,
+                            "children": [],
+                            "content": "Điều 9. Hiệu lực thi hành\nThông tư này có hiệu lực thi hành kể từ ngày 05 tháng 4 năm 2021 và thay thế Thông tư số 82/2017/TT-BTC ngày 15/8/2017 của Bộ Tài chính quy định về chế độ và biểu mẫu báo cáo tình hình thực hiện, thanh toán kế hoạch vốn đầu tư công."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "10",
+                            "title": "Tổ chức thực hiện",
+                            "position": 20607,
+                            "children": [],
+                            "content": "Điều 10. Tổ chức thực hiện\n1. Các bộ, cơ quan trung ương và địa phương, các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.\n2. Trong quá trình thực hiện, trường hợp có vướng mắc, đề nghị phản ánh về Bộ Tài chính để nghiên cứu sửa đổi, bổ sung cho phù hợp./."
+                        }
+                    ]
+                }
+            ],
+            "metadata": {
+                "total_units": 13,
+                "total_articles": 10,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 2
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [],
+            "replaces": [
+                {
+                    "official_number_target": "82/2017/TT-BTC",
+                    "effective_from": "2021-04-05"
+                }
+            ],
+            "mentions": [],
+            "abolished": [],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "replaces": {
+                "crawl_count": 1,
+                "llm_count": 1,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": []
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "15/2021/TT-BTC",
+            "target_id": "973/2020/UBTVQH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "15/2021/TT-BTC",
+            "target_id": "56/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "15/2021/TT-BTC",
+            "target_id": "40/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "15/2021/TT-BTC",
+            "target_id": "Luật Đầu tư công 2019",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "15/2021/TT-BTC",
+            "target_id": "09/2019/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "15/2021/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "15/2021/TT-BTC",
+            "target_id": "163/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "15/2021/TT-BTC",
+            "target_id": "Luật ngân sách nhà nước 2015",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "15/2021/TT-BTC",
+            "target_id": "82/2017/TT-BTC",
+            "properties": {
+                "source": "crawled",
+                "effective_from": "2021-04-05"
+            },
+            "_crawled": true
+        }
+    ]
+}

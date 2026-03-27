@@ -1,0 +1,217 @@
+{
+    "file_name": "38_2020_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "38/2020/TT-BTC",
+        "title": "Bãi bỏ một số văn bản quy phạm pháp luật do Bộ trưởng Bộ Tài chính ban hành trong lĩnh vực Kho bạc Nhà nước và ngân sách nhà nước",
+        "promulgationDate": "2020-05-12",
+        "effectiveDate": "2020-06-26",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Đỗ Hoàng Anh Tuấn",
+        "draftingUnit": "Vụ Pháp chế",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:22Z",
+        "_doc_id": "77107"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "38/2020/TT-BTC",
+            "target_id": "Luật ban hành văn bản quy phạm pháp luật 2015",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "38/2020/TT-BTC",
+            "target_id": "34/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "38/2020/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "38/2020/TT-BTC",
+            "target_id": "42/2004/QĐ-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "38/2020/TT-BTC",
+            "target_id": "51/2004/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "38_2020_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": null,
+        "dates": {
+            "promulgation_date": "2020-05-12",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Bãi bỏ toàn bộ 02 văn bản quy phạm pháp luật trong lĩnh vực Kho bạc nhà nước, sau đây:",
+                    "position": 0,
+                    "children": [],
+                    "content": "1. Thông tư số 34-TC/KBNN ngày 11/7/1996 của Bộ Tài chính hướng dẫn việc phát hành trái phiếu công trình thủy điện Yaly.\n2. Quyết định số 93/2000/QĐ-BTC ngày 06/6/2000 của Bộ Tài chính về việc Ban hành Quy chế điều hành Quỹ ngoại tệ tập trung của Nhà nước.",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Bãi bỏ toàn bộ 08 văn bản quy phạm pháp luật trong lĩnh vực ngân sách nhà nước, sau đây:",
+                    "position": 351,
+                    "children": [],
+                    "content": "Điều 2. Bãi bỏ toàn bộ 08 văn bản quy phạm pháp luật trong lĩnh vực ngân sách nhà nước, sau đây:\n1. Quyết định số 42/2004/QĐ-BTC ngày 22/4/2004 của Bộ Tài chính về việc ban hành quy định về chi ngân sách trung ương bằng hình thức lệnh chi tiền.\n2\n2. Thông tư số 51/2004/TT-BTC ngày 09/6/2004 của Bộ Tài chính hướng dẫn thi hành Nghị định số 123/2004/NĐ-CP ngày 18/5/2004 của Chính phủ về một số cơ chế tài chính ngân sách đặc thù đối với Thủ đô Hà Nội.\n3. Thông tư số 37/2008/TT-BTC ngày 19/5/2008 của Bộ Tài chính về việc hướng dẫn chính sách hỗ trợ dầu hoả thấp sáng cho các hộ đồng bào dân tộc thiểu số, hộ thuộc diện chính sách và hộ nghèo ở những nơi chưa có điện lưới.\n4. Thông tư số 52/2008/TT-BTC ngày 16/6/2008 của Bộ Tài chính sửa đổi, bổ sung Thông tư số 37/2008/TT-BTC ngày 19/5/2008 của Bộ Tài chính hướng dẫn chính sách hỗ trợ dầu hoả thấp sáng cho các hộ đồng bào dân tộc thiểu số, hộ thuộc diện chính sách và hộ nghèo ở những nơi chưa có điện lưới.\n5. Thông tư số 63/2009/TT-BTC ngày 27/3/2009 của Bộ Tài chính quy định về công tác lập dự toán, tổ chức thực hiện dự toán và quyết toán ngân sách huyện, quận, phường nơi không tổ chức Hội đồng nhân dân.\n6. Thông tư số 53/2010/TT-BTC ngày 14/4/2010 của Bộ Tài chính Quy định chế độ tài chính để thực hiện phòng, trừ bệnh vàng lùn, lùn xoắn lá và bệnh lùn sọc đen hại lúa.\n7. Thông tư số 205/2012/TT-BTC ngày 23/11/2012 của Bộ Tài chính hướng dẫn thực hiện chính sách hỗ trợ để bảo vệ và phát triển đất trồng lúa theo Nghị định số 42/2012/NĐ-CP ngày 11/5/2012 của Chính phủ về quản lý sử dụng đất trồng lúa.\n8. Thông tư số 319/2016/TT-BTC ngày 13/12/2016 của Bộ Tài chính quy định việc xử lý chuyển nguồn ngân sách nhà nước năm 2016 sang năm 2017.",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "3",
+                    "title": "Tổ chức thực hiện.",
+                    "position": 2062,
+                    "children": [],
+                    "content": "Điều 3. Tổ chức thực hiện.\nThông tư này có hiệu lực thi hành kể từ ngày 26 tháng 6 năm 2020.\nThủ trưởng các đơn vị thuộc Bộ và các cơ quan có liên quan chịu trách nhiệm thi hành Thông tư này./."
+                }
+            ],
+            "metadata": {
+                "total_units": 3,
+                "total_articles": 3,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 2,
+                "depth": 1
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [],
+            "replaces": [
+                {
+                    "official_number_target": "42/2004/QĐ-BTC",
+                    "effective_from": "2020-06-26"
+                },
+                {
+                    "official_number_target": "51/2004/TT-BTC",
+                    "effective_from": "2020-06-26"
+                }
+            ],
+            "mentions": [],
+            "abolished": [],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": null,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "replaces": {
+                "crawl_count": 2,
+                "llm_count": 2,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": []
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "38/2020/TT-BTC",
+            "target_id": "Luật ban hành văn bản quy phạm pháp luật 2015",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "38/2020/TT-BTC",
+            "target_id": "34/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "38/2020/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "38/2020/TT-BTC",
+            "target_id": "42/2004/QĐ-BTC",
+            "properties": {
+                "source": "crawled",
+                "effective_from": "2020-06-26"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "38/2020/TT-BTC",
+            "target_id": "51/2004/TT-BTC",
+            "properties": {
+                "source": "crawled",
+                "effective_from": "2020-06-26"
+            },
+            "_crawled": true
+        }
+    ]
+}

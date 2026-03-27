@@ -1,0 +1,275 @@
+{
+    "file_name": "54_2025_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "54/2025/TT-BTC",
+        "title": "Quy định về mức kinh phí chi trả lương, phụ cấp, trợ cấp và các chế độ liên quan khác cho giáo viên Việt Nam được cử đi giảng dạy tiếng Việt tại nước Cộng hòa Dân chủ Nhân dân Lào",
+        "promulgationDate": "2025-06-24",
+        "effectiveDate": "2025-07-01",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Nguyễn Đức Chi",
+        "draftingUnit": "Cục Quản lý nợ & kinh tế đối ngoại",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:19Z",
+        "_doc_id": "468185"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "54/2025/TT-BTC",
+            "target_id": "Luật Ngân sách nhà nước 2025",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "54/2025/TT-BTC",
+            "target_id": "163/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "54/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "54/2025/TT-BTC",
+            "target_id": "83/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "54/2025/TT-BTC",
+            "target_id": "7O/VPCP-QHQT",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "54/2025/TT-BTC",
+            "target_id": "204/2004/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "54_2025_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": null,
+        "dates": {
+            "promulgation_date": "2025-06-24",
+            "effective_date": null
+        },
+        "issuing_place": "BTC\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Phạm vi điều chỉnh",
+                    "position": 0,
+                    "children": [],
+                    "content": "1. Thông tư này quy định về định mức kinh phí từ nguồn ngân sách nhà\nnước để chi trả lương, phụ cấp, trợ cấp và các chế độ liên quan khác cho giáo\nviên Việt Nam được cử đi giảng dạy tiếng Việt tại nước Cộng hòa Dân chủ\nNhân dân Lào (gọi chung là nước CHDCND Lào) theo quyết định của Bộ Giáo\ndục và Đào tạo.\n2. Thông tư này không quy định việc quản lý giáo viên Việt Nam được cử\nđi giảng dạy tiếng Việt tại nước CHDNND Lào thuộc trách nhiệm của Bộ Giáo\ndục và Đào tạo theo quy định pháp luật."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Đối tượng áp dụng",
+                    "position": 518,
+                    "children": [],
+                    "content": "Điều 2. Đối tượng áp dụng\nThông tư này áp dụng đối với giáo viên Việt Nam được cử đi giảng dạy tiếng Việt tại nước CHDCND Lào theo quyết định của Bộ Giáo dục và Đào tạo, các tổ chức, cá nhân có liên quan đến việc bố trí, quản lý kinh phí ngân sách nhà nước để chi trả lương, phụ cấp, trợ cấp và chế độ khác cho giáo viên Việt Nam được cử đi giảng dạy tiếng Việt tại nước CHDCND Lào."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "3",
+                    "title": "Giải thích từ ngữ",
+                    "position": 901,
+                    "children": [],
+                    "content": "Điều 3. Giải thích từ ngữ\nTrong Thông tư này, các từ, cụm từ sau đây được hiểu như sau:\n1. Giáo viên Việt Nam được cử đi giảng dạy tiếng Việt tại nước CHDCND Lào:\na) Là cán bộ, công chức, sỹ quan, quân nhân chuyên nghiệp làm việc trong lực lượng vũ trang, viên chức, người lao động hưởng lương từ ngân sách nhà nước; viên chức, công nhân viên hưởng lương từ ngân sách nhà nước, được cấp có thẩm quyền cử và Bộ Giáo dục và Đào tạo tuyển chọn, cử đi giảng dạy tiếng Việt tại nước CHDCND Lào.\nb) Là công dân Việt Nam, được Bộ Giáo dục và Đào tạo tuyển chọn, cử đi giảng dạy tiếng Việt tại nước CHDCND Lào.\n2. Phụ cấp sinh hoạt phí cho giáo viên Việt Nam được cử đi giảng dạy tiếng Việt tại nước CHDCND Lào: Là khoản kinh phí được cấp cho giáo viên để đảm bảo cuộc sống, sinh hoạt bình thường và hoàn thành các nhiệm vụ, trách nhiệm được giao tại nước CHDCND Lào."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "4",
+                    "title": "Nguyên tắc quản lý sử dụng kinh phí",
+                    "position": 1761,
+                    "children": [],
+                    "content": "Điều 4. Nguyên tắc quản lý sử dụng kinh phí\n1. Trong thời gian được cử đi giảng dạy tiếng Việt tại nước CHDCND Lào theo quyết định của Bộ Giáo dục và Đào tạo, giáo viên Việt Nam được hưởng lương trong nước theo ngạch, bậc, hệ số lương hiện hưởng từ ngân sách nhà nước, phụ cấp sinh hoạt, một số chế độ và trợ cấp khác khi giảng dạy tiếng Việt tại nước CHDCND Lào quy định tại Điều 5, Điều 6 Thông tư này.\n2. Kinh phí được cấp cho giáo viên Việt Nam được cử đi giảng dạy tiếng Việt tại nước CHDCND Lào gồm lương đối với giáo viên được quy định tại điểm a khoản 1 Điều 3 Thông tư này, phụ cấp sinh hoạt phí, hỗ trợ chi phí lưu trú tại nước CHDCND Lào được tính theo tháng và các khoản hỗ trợ, trợ cấp khác theo quy định, được bố trí trong dự toán chi ngân sách nhà nước hằng năm của Bộ Giáo dục và Đào tạo. Bộ Giáo dục và Đào tạo chịu trách nhiệm rà soát, đảm bảo việc sử dụng kinh phí được giao phù hợp với dự toán ngân sách nhà nước hằng năm theo quy định.\n3\n3. Việc lập dự toán, thanh toán, quyết toán theo quy định của Luật Ngân sách nhà nước, các quy định liên quan và Thông tư này. Bộ Giáo dục và Đào tạo bảo đảm các khoản chi tiêu được sử dụng tiết kiệm, hiệu quả, đúng mục đích, đối tượng, chế độ, tiêu chuẩn, định mức theo quy định của pháp luật về ngân sách nhà nước."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "5",
+                    "title": "Lương và định mức phụ cấp sinh hoạt phí tại nước CHDCND Lào",
+                    "position": 3037,
+                    "children": [],
+                    "content": "Điều 5. Lương và định mức phụ cấp sinh hoạt phí tại nước CHDCND Lào\n1. Giáo viên Việt Nam được cử đi giảng dạy tiếng Việt tại nước CHDCND Lào quy định tại điểm a khoản 1 Điều 3 Thông tư này được hưởng 40% lương trong nước theo ngạch, bậc, hệ số lương hiện hưởng từ ngân sách nhà nước theo Nghị định số 204/2004/NĐ-CP ngày 14/12/2004 của Chính phủ quy định về chế độ tiền lương đối với cán bộ, công chức, viên chức và lực lượng vũ trang.\n2. Phụ cấp sinh hoạt hoạt phí của giáo viên Việt Nam được cử đi giảng dạy tiếng Việt tại nước CHDCND Lào là 1.350 đô-la Mỹ/người/tháng và có thể được xem xét điều chỉnh trong trường hợp chỉ số trượt giá của đồng đô-la Mỹ tăng trên 10% so với thời điểm năm 2025."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "6",
+                    "title": "Các chế độ và trợ cấp khác",
+                    "position": 3736,
+                    "children": [],
+                    "content": "Điều 6. Các chế độ và trợ cấp khác\n1. Chế độ bảo hiểm: Giáo viên Việt Nam được cử đi giảng dạy tiếng Việt tại nước CHDCND Lào được hưởng chế độ tham gia bảo hiểm xã hội tại Việt Nam theo quy định hiện hành và được hỗ trợ mua bảo hiểm y tế tại nước CHDCND Lào tương đương với cán bộ ngoại giao Việt Nam công tác tại nước CHDCND Lào theo thực tế nhưng không quá 200 USD/năm.\n2. Hỗ trợ chi phí đi lại: Giáo viên Việt Nam được cử đi giảng dạy tiếng Việt tại nước CHDCND Lào được hỗ trợ 01 vé máy bay khứ hồi hạng ghế phổ thông (vé sang nước CHDCND Lào khi sang giảng dạy và vé khi về Việt Nam) và lệ phí sân bay, cước hành lý thêm ngoài vé (20kg) theo thực tế cho tuyến đường tiết kiệm chi phí nhất.\n3. Hỗ trợ chi phí lưu trú: Giáo viên Việt Nam được cử đi giảng dạy tiếng Việt tại nước CHDCND Lào được hỗ trợ tiền thuê nhà theo mức khoản là 150 USD/tháng."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "7",
+                    "title": "Cơ chế chi trả",
+                    "position": 4589,
+                    "children": [],
+                    "content": "Điều 7. Cơ chế chi trả\nLương, phụ cấp sinh hoạt và các khoản hỗ trợ của giáo viên Việt Nam được cử đi giảng dạy tiếng Việt tại nước CHDCND Lào được chi trả trực tiếp vào tài khoản cá nhân được mở tại ngân hàng tại Việt Nam hoặc tại nước CHDCND Lào."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "8",
+                    "title": "Lập dự toán, thanh toán và quyết toán",
+                    "position": 4838,
+                    "children": [],
+                    "content": "Điều 8. Lập dự toán, thanh toán và quyết toán\n1. Hằng năm, căn cứ vào các cam kết của Chính phủ Việt Nam và Chính phủ nước CHDCND Lào và quy định của pháp luật liên quan, Bộ Giáo dục và Đào tạo lập dự toán kinh phí cho giáo viên Việt Nam được cử đi giảng dạy tiếng Việt tại nước CHDCND Lào, tổng hợp trong dự toán ngân sách hàng năm của Bộ Giáo dục và Đào tạo, gửi Bộ Tài chính trình cấp thẩm quyền theo quy định pháp luật về ngân sách nhà nước.\n2. Thanh toán và quyết toán: Bộ Giáo dục và Đào tạo thực hiện rút dự toán kinh phí được giao qua Kho bạc Nhà nước để thực hiện nhiệm vụ theo quy định và tổng hợp trong báo cáo quyết toán kinh phí để thực hiện quyết toán ngân sách nhà nước theo quy định pháp luật về ngân sách nhà nước."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "9",
+                    "title": "Tổ chức thực hiện",
+                    "position": 5570,
+                    "children": [],
+                    "content": "Điều 9. Tổ chức thực hiện\n1. Hiệu lực thi hành\nThông tư này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2025.\nTrong quá trình thực hiện, nếu các văn bản quy phạm pháp luật được dẫn chiếu để áp dụng tại Thông tư này được sửa đổi, bổ sung, thay thế thì áp dụng theo các văn bản sửa đổi, bổ sung, thay thế đó.\n2. Trong quá trình triển khai thực hiện, trường hợp phát sinh khó khăn, vướng mắc, các cơ quan, đơn vị có liên quan thông báo kịp thời cho Bộ Tài chính để xem xét việc bổ sung, sửa đổi theo quy định."
+                }
+            ],
+            "metadata": {
+                "total_units": 9,
+                "total_articles": 9,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 1
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [],
+            "replaces": [],
+            "mentions": [],
+            "abolished": [],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": null,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "replaces": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 2,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "204/2004/NĐ-CP",
+                    "7O/VPCP-QHQT"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "[mentions] LLM thiếu target so với crawl: ['204/2004/NĐ-CP', '7O/VPCP-QHQT']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "54/2025/TT-BTC",
+            "target_id": "Luật Ngân sách nhà nước 2025",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "54/2025/TT-BTC",
+            "target_id": "163/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "54/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "54/2025/TT-BTC",
+            "target_id": "83/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "54/2025/TT-BTC",
+            "target_id": "7O/VPCP-QHQT",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "54/2025/TT-BTC",
+            "target_id": "204/2004/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ]
+}

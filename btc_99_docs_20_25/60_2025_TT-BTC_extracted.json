@@ -1,0 +1,565 @@
+{
+    "file_name": "60_2025_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "60/2025/TT-BTC",
+        "title": "Quy định về phân quyền, phân cấp trong lĩnh vực dự trữ quốc gia và việc nhập, xuất hàng dự trữ quốc gia để cứu trợ, hỗ trợ, viện trợ",
+        "promulgationDate": "2025-06-27",
+        "effectiveDate": "2025-07-01",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Lê Tấn Cận",
+        "draftingUnit": "Cục DTNN",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:19Z",
+        "_doc_id": "468225"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "60/2025/TT-BTC",
+            "target_id": "Luật Dự trữ quốc gia",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "60/2025/TT-BTC",
+            "target_id": "Luật Đấu thầu",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "60/2025/TT-BTC",
+            "target_id": "Luật Quản lý tài sản công",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "60/2025/TT-BTC",
+            "target_id": "94/2013/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "60/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "60/2025/TT-BTC",
+            "target_id": "126/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "60/2025/TT-BTC",
+            "target_id": "22/2023/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "60/2025/TT-BTC",
+            "target_id": "56/2024/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "60/2025/TT-BTC",
+            "target_id": "15/2017/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "60/2025/TT-BTC",
+            "target_id": "128/2015/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "60/2025/TT-BTC",
+            "target_id": "22/2012/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "60/2025/TT-BTC",
+            "target_id": "51/2020/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "60/2025/TT-BTC",
+            "target_id": "51/2020/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "60/2025/TT-BTC",
+            "target_id": "126/2025/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "60_2025_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "60/2025/TT-BTC",
+        "dates": {
+            "promulgation_date": "2025-06-27",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "CHAPTER",
+                    "number": "I",
+                    "title": "NHỮNG QUY ĐỊNH CHUNG",
+                    "position": 0,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "1",
+                            "title": "Phạm vi điều chỉnh",
+                            "position": 29,
+                            "children": [],
+                            "content": "Điều 1. Phạm vi điều chỉnh\nThông tư này quy định về quy trình, trình tự, thủ tục thực hiện phân quyền,\nphân cấp về nhập, xuất, luân phiên đổi hàng dự trữ quốc gia; nhập, xuất, giao\nnhận, phân phối, sử dụng hàng dự trữ quốc gia phòng, chống, khắc phục hậu quả\nthIÊN TẠI, THẨM HỌA, HÒA HOẠN, DỊCH BỆNH, CỨU ĐÓI, KHI GIÁ CẢ TĂNG, GIẢM ĐỘT BIẾN,\nPHỤC VỤ QUỐC PHÒNG, AN NINH, TRẬT TỰ AN TOÀN XÃ HỘI, HOẠT ĐỘNG ĐỐI NGOẠI CỦA ĐẢNG\nVÀ NHÀ NƯỚC, CÁC NHIỆM VỤ KHÁC NHÀ NƯỚC GIAO; NHẬP, XUẤT TRONG TỈNH HUỞNG ĐỘT\nXUẤT, CẤP BÁCH; NGÂN SÁCH NHÀ NƯỚC CHI CHO MUA HÀNG DỰ TRỮ QUỐC GIA VÀ CHI HOẠT\nĐỘNG NHẬP, XUẤT, MUA, BÁN, BẢO QUẢN, BẢO VỆ, BẢO HIỂM HÀNG DỰ TRỮ QUỐC GIA."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "2",
+                            "title": "Đối tượng áp dụng",
+                            "position": 687,
+                            "children": [],
+                            "content": "Điều 2. Đối tượng áp dụng\nThông tư này áp dụng đối với các cơ quan, tổ chức, cá nhân có liên quan\nđến việc nhập, xuất, luân phiên đổi hàng dự trữ quốc gia; nhập, xuất, giao nhận,\nphân phối, sử dụng hàng dự trữ quốc gia phòng, chống, khắc phục hậu quả thiên\ntại, thảm họa, hòa hoạn, dịch bệnh, cứu đói, khi giá cả tăng, giảm đột biến, phục\nvụ quốc phòng, an ninh, trật tự an toàn xã hội, hoạt động đối ngoại của Đảng và\nNhà nước, các nhiệm vụ khác Nhà nước giao; nhập, xuất trong tình huống đột\nxuất, cấp bách; ngân sách nhà nước chi cho mua hàng dự trữ quốc gia và chi hoạt\nđộng nhập, xuất, mua, bán, bảo quản, bảo vệ, bảo hiểm hàng dự trữ quốc gia."
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "II",
+                    "title": "NHỮNG QUY ĐỊNH CỤ THỂ",
+                    "position": 1337,
+                    "children": [
+                        {
+                            "type": "SECTION",
+                            "number": "1",
+                            "title": "NHẬP, XUẤT HÀNG DỰ TRỮ QUỐC GIA THEO QUYẾT ĐỊNH CỦA",
+                            "position": 1369,
+                            "children": [
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "3",
+                                    "title": "Bộ trưởng Bộ Tài chính quyết định nhập, xuất hàng dự trữ",
+                                    "position": 1450,
+                                    "children": [],
+                                    "content": "Điều 3. Bộ trưởng Bộ Tài chính quyết định nhập, xuất hàng dự trữ\nquốc gia trong các trường hợp sau:\n1. Quyết định kế hoạch nhập, xuất, luân phiên đổi hàng dự trữ quốc gia\nhàng năm.\n2. Quyết định nhập, xuất hàng dự trữ quốc gia để cứu trợ, hỗ trợ, viện trợ\ntrong các tình huống\na) Khi Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương\n(sau đây gọi chung là cấp tỉnh) công bố dịch bệnh xảy ra tại địa phương;\nb) Phòng chống khắc phục hậu quả thiên tai, thảm hỏa, dịch bệnh, hỏa hoạn,\ncứu đói;\nc) Khi giá cả thị trường tăng, giảm đột biến;\nd) Đáp ứng yêu cầu quốc phòng, an ninh;\nd) Phục vụ hoạt động đối ngoại của Đảng, Nhà nước."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "4",
+                                    "title": "Quy trình, trình tự, thủ tục quyết định kế hoạch nhập, xuất,",
+                                    "position": 2091,
+                                    "children": [],
+                                    "content": "Điều 4. Quy trình, trình tự, thủ tục quyết định kế hoạch nhập, xuất,\nluân phiên đổi hàng dự trữ quốc gia hàng năm\n1. Hàng năm, cùng với thời điểm xây dựng kế hoạch phát triển kinh tế xã\nhội, dự toán ngân sách nhà nước của năm sau, các bộ, ngành quản lý hàng dự trữ\nquốc gia lập kế hoạch nhập, xuất, luân phiên đổi hàng kèm dự toán ngân sách nhà\nnước chi dự trữ quốc gia để mua hàng và chi cho hoạt động nhập, xuất, mua, bán,\nbảo quản, bảo vệ, bảo hiểm hàng dự trữ quốc gia gửi Bộ Tài chính quyết định.\nVăn bản đề nghị gồm các nội dung sau:\na) Mức dự trữ quốc gia cuối kỳ bao gồm số lượng và giá trị từng mặt hàng\nđược xác định tại thời điểm 31 tháng 12 năm kế hoạch hoặc năm cuối kỳ kế hoạch.\nb) Kế hoạch nhập hàng dự trữ quốc gia bao gồm số lượng và giá trị các mặt\nhàng đưa vào dự trữ quốc gia trong năm kế hoạch, hoặc kỳ kế hoạch được lập chi\ntiết từng mặt hàng.\nc) Kế hoạch xuất hàng dự trữ quốc gia bao gồm số lượng và giá trị các mặt\nhàng xuất cấp để cứu trợ, hỗ trợ, viện trợ; xuất giảm do hao hụt theo định mức\nkinh tế - kỹ thuật; xuất bán thu tiền; xuất giảm do không còn nhu cầu tiếp tục dư\ntrữ quốc gia hoặc do thay đổi yêu cầu về số lượng, danh mục hàng dự trữ quốc\ngia trong năm kế hoạch, hoặc kỳ kế hoạch, được lập chi tiết cho từng mặt hàng\ntheo quy cách, ký mã hiệu, thời gian sản xuất, thời gian nhập kho.\nd) Kế hoạch luân phiên đổi hàng dự trữ quốc gia bao gồm số lượng, giá trị\nnhững mặt hàng đến thời hạn xuất luân phiên đổi hàng trong năm kế hoạch hoặc\nkỳ kế hoạch để bảo đảm chất lượng hàng dự trữ quốc gia, hoặc do hàng giảm chất\nlượng, hàng không phù hợp với tiến bộ kỹ thuật, hoặc do thay đổi danh mục mặt\nhàng. Kế hoạch luân phiên đổi hàng dự trữ quốc gia được lập chi tiết từng mặt\nhàng theo quy cách, ký mã hiệu, thời gian sản xuất, thời gian nhập kho.\nđ) Dự toán chi dự trữ quốc gia để mua hàng và chi hoạt động nhập, xuất,\nmua, bán, bảo quản, bảo vệ, bảo hiểm hàng dự trữ quốc gia; kèm thuyết minh chi\ntiết về căn cứ tính toán, định mức kinh tế - kỹ thuật, các chế độ chính sách của\nnhà nước để lập dự toán (nếu có).\n2. Cục Dự trữ Nhà nước phối hợp với các cơ quan liên quan kiểm tra, tổng\nhợp, trình Bộ trưởng Bộ Tài chính quyết định kế hoạch nhập, xuất, luân phiên đổi\n4\nhàng dự trữ quốc gia cho các bộ, ngành quản lý hàng dự trữ quốc gia trước ngày\n15 tháng 12; việc phê duyệt dự toán ngân sách nhà nước chi dự trữ quốc gia thực\nhiện theo quy định của Luật Ngân sách nhà nước.\n3. Căn cứ quyết định của Bộ trưởng Bộ Tài chính giao kế hoạch nhập, xuất,\nluân phiên đổi hàng dự trữ quốc gia, Thủ trưởng các bộ, ngành quản lý hàng dự\ntrữ quốc gia phân bổ, giao kế hoạch và dự toán ngân sách nhà nước chi dự trữ\nquốc gia cho các đơn vị dự trữ quốc gia trực thuộc trước ngày 31 tháng 12; đảm\nbảo trong phạm vi dự toán được giao và chi tiết theo từng danh mục mặt hàng\nđược phê duyệt; đồng thời gửi Bộ Tài chính (Cục Dự trữ Nhà nước) để kiểm tra,\ntheo dõi. Chậm nhất 10 ngày làm việc kể từ ngày nhận được văn bản phân bổ của\nThủ trưởng bộ, ngành quản lý hàng dự trữ quốc gia, Bộ Tài chính (Cục Dự trữ\nNhà nước) có trách nhiệm kiểm tra và yêu cầu Thủ trưởng bộ, ngành quản lý hàng\ndự trữ quốc gia điều chỉnh lại đối với trường hợp phân bổ không đúng danh mục,\nkhông đúng tổng mức, không đúng chính sách, chế độ hiện hành của pháp luật đã\nquy định và không đúng chi tiết theo từng nội dung chi dự trữ quốc gia đã được\ngiao.\n4. Trường hợp chưa thực hiện xong kế hoạch nhập, xuất, luân phiên đổi\nhàng dự trữ quốc gia trong năm kế hoạch, các bộ, ngành quản lý hàng dự trữ quốc\ngia có văn bản gửi Bộ Tài chính quyết định.\nNội dung văn bản phải nêu rõ quá trình triển khai thực hiện, những khó\nkhăn, vướng mắc khi thực hiện kế hoạch và các đề xuất, kiến nghị (nếu có); trường\nhợp kiến nghị chuyển kế hoạch sang năm sau thực hiện thì phải thuyết minh sự\ncần thiết, giải pháp thực hiện, dự kiến thời gian hoàn thành kế hoạch và các nội\ndung liên quan (nếu có)."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "5",
+                                    "title": "Quy trình, trình tự, thủ tục xuất hàng dự trữ quốc gia để cứu",
+                                    "position": 5968,
+                                    "children": [],
+                                    "content": "Điều 5. Quy trình, trình tự, thủ tục xuất hàng dự trữ quốc gia để cứu\ntrợ, hỗ trợ, viện trợ\n1. Khi xảy ra tình huống quy định tại khoản 2 Điều 3 Thông tư này, Thủ\ntrưởng bộ, ngành quản lý lĩnh vực, Chủ tịch Ủy ban nhân dân cấp tỉnh có văn bản\ngửi bộ, ngành quản lý hàng dự trữ quốc gia và Bộ Tài chính quyết định xuất hàng\ndự trữ quốc gia để cứu trợ, hỗ trợ, viện trợ; chịu trách nhiệm về nội dung đề nghị\ncủa mình.\nVăn bản đề nghị nêu rõ tình hình thiệt hại, nhu cầu cần thiết và căn cứ tính\ntoán để xuất số lượng hàng dự trữ quốc gia cần xuất để cứu trợ, hỗ trợ, viện trợ;\nQuyết định của Chủ tịch Ủy ban nhân dân cấp tỉnh về việc công bố dịch bệnh xảy\nra tại địa phương (nếu có).\na) Trường hợp xuất hàng dự trữ quốc gia phục vụ nhiệm vụ quốc phòng, an\nninh, trật tự an toàn xã hội, Bộ Quốc phòng, Bộ Công an có văn bản đề nghị Bộ\nTài chính quyết định.\nb) Trường hợp xuất hàng dự trữ quốc gia phục vụ hoạt động đối ngoại của Đảng và Nhà nước, Bộ Ngoại giao, Bộ Công an, Bộ Quốc phòng hoặc các bộ, ngành phối hợp với Bộ Ngoại giao có văn bản đề nghị Bộ Tài chính quyết định.\nc) Trường hợp xuất hàng dự trữ quốc gia khi giá cả thị trường tăng, giảm đột biến, trên cơ sở chủ trương của cấp có thẩm quyền về việc sử dụng hàng dự trữ quốc gia để bình ổn giá, bộ, ngành quản lý hàng dự trữ quốc gia có văn bản đề nghị Bộ Tài chính quyết định.\n2. Tối đa 03 ngày làm việc kể từ ngày nhận được văn bản của Thủ trưởng bộ, ngành quản lý lĩnh vực, Chủ tịch Ủy ban nhân dân cấp tỉnh kèm đầy đủ hồ sơ, tài liệu có liên quan; bộ, ngành quản lý hàng dự trữ quốc gia có trách nhiệm rà soát, kiểm tra, tổng hợp số lượng, giá trị, mặt hàng dự trữ quốc gia cần cứu trợ, hỗ trợ, viện trợ gửi Cục Dự trữ Nhà nước thẩm định, trình Bộ Tài chính quyết định (kèm theo hồ sơ gồm: Văn bản đề nghị của Thủ trưởng bộ, ngành quản lý lĩnh vực, Chủ tịch Ủy ban nhân dân cấp tỉnh và căn cứ tính toán chi tiết nhu cầu xuất hàng dự trữ quốc gia).\nNội dung thẩm định bao gồm: Phù hợp với mục tiêu, nhiệm vụ của dự trữ quốc gia và các nhiệm vụ được nhà nước giao; khả năng đáp ứng (mức tồn kho) đối với các mặt hàng đề nghị xuất cấp; phù hợp về trình tự, văn bản, hồ sơ kèm theo đối với đề nghị của Thủ trưởng bộ, ngành quản lý lĩnh vực, của Chủ tịch Ủy ban nhân dân cấp tỉnh; phù hợp với định mức xuất cấp hàng dự trữ quốc gia (nếu có).\n3. Tối đa 03 ngày làm việc kể từ ngày nhận được văn bản đề nghị của bộ, ngành quản lý hàng dự trữ quốc gia cùng đầy đủ hồ sơ, tài liệu có liên quan kèm theo, Bộ Tài chính quyết định xuất hàng dự trữ quốc gia; trường hợp chưa đáp ứng yêu cầu, Bộ Tài chính (Cục Dự trữ Nhà nước) có văn bản gửi bộ, ngành quản lý hàng dự trữ quốc gia để hoàn thiện hồ sơ theo quy định."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "6",
+                                    "title": "Nhiệm vụ của bộ, ngành quản lý hàng dự trữ quốc gia và Cục Dự trữ Nhà nước trong xuất cấp hàng dự trữ quốc gia để cứu trợ, hỗ trợ, viện trợ",
+                                    "position": 8635,
+                                    "children": [],
+                                    "content": "Điều 6. Nhiệm vụ của bộ, ngành quản lý hàng dự trữ quốc gia và Cục Dự trữ Nhà nước trong xuất cấp hàng dự trữ quốc gia để cứu trợ, hỗ trợ, viện trợ\n1. Trên cơ sở quyết định xuất cấp hàng dự trữ quốc gia để cứu trợ, hỗ trợ, viện trợ của Bộ trưởng Bộ Tài chính, Thủ trưởng bộ, ngành quản lý hàng dự trữ quốc gia ban hành quyết định giao nhiệm vụ cho đơn vị dự trữ quốc gia, doanh nghiệp được thuê bảo quản hàng dự trữ quốc gia thực hiện nhiệm vụ xuất cấp hàng dự trữ quốc gia để cứu trợ, hỗ trợ, viện trợ và tổ chức kiểm tra các đơn vị dự trữ quốc gia, doanh nghiệp được thuê bảo quản hàng dự trữ quốc gia trong quá trình thực hiện xuất cấp, giao hàng.\n2. Cục trưởng Cục Dự trữ Nhà nước ban hành quyết định giao nhiệm vụ cho Chi cục Dự trữ Nhà nước khu vực thực hiện việc xuất hàng dự trữ quốc gia do Bộ Tài chính quản lý.\n3. Thủ trưởng bộ, ngành quản lý hàng dự trữ quốc gia, Cục trưởng Cục Dự trữ Nhà nước ký kết Biên bản thỏa thuận về việc giao nhận hàng dự trữ quốc gia và tổ chức Lễ giao tượng trưng hàng dự trữ quốc gia với Đại sứ các nước nhận viện trợ tại Việt Nam trong trường hợp xuất hàng dự trữ quốc gia để viện trợ quốc tế.\nBiên bản thỏa thuận với Đại sứ các nước về việc giao nhận hàng dự trữ quốc gia để viện trợ bao gồm các nội dung chính sau:\na) Tên, địa chỉ đơn vị xuất hàng.\nb) Số lượng, chất lượng hàng dự trữ quốc gia xuất viện trợ.\nc) Hạn sử dụng của hàng dự trữ quốc gia (nếu có).\nd) Quy cách, bao bì đóng gói và mẫu markets in trên bao bì đóng gói.\ne) Địa điểm giao hàng tại nước nhận viện trợ.\nf) Phương thức vận chuyển; tên phương tiện vận chuyển (nếu có).\ng) Đơn vị và người đại diện nhận hàng của nước nhận viện trợ.\nh) Thời gian, tiến độ thực hiện và trách nhiệm của các bên liên quan.\ni) Các nội dung khác có liên quan."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "7",
+                                    "title": "Nhiệm vụ của bộ, ngành quản lý lĩnh vực, Ủy ban nhân dân cấp tỉnh trong việc phân bổ, tiếp nhận, phân phối hàng dự trữ quốc gia để cứu trợ, hỗ trợ, viện trợ",
+                                    "position": 10383,
+                                    "children": [],
+                                    "content": "Điều 7. Nhiệm vụ của bộ, ngành quản lý lĩnh vực, Ủy ban nhân dân cấp tỉnh trong việc phân bổ, tiếp nhận, phân phối hàng dự trữ quốc gia để cứu trợ, hỗ trợ, viện trợ\n1. Trong thời gian 10 ngày làm việc kể từ ngày nhận được quyết định xuất, cấp hàng dự trữ quốc gia của cấp có thẩm quyền; Thủ trưởng bộ, ngành quản lý lĩnh vực, Chủ tịch Ủy ban nhân dân cấp tỉnh được nhận hàng dự trữ quốc gia phải ban hành quyết định phân bổ, giao nhiệm vụ cho các đơn vị, tổ chức tiếp nhận hàng dự trữ quốc gia; đồng thời gửi quyết định này cho các đơn vị dự trữ quốc gia, doanh nghiệp được thuê bảo quản hàng dự trữ quốc gia trực tiếp xuất cấp và giao hàng để phối hợp thực hiện.\nNội dung quyết định phải ghi rõ tên đơn vị, tổ chức tiếp nhận hàng, tên mặt hàng, số lượng hàng, thời gian nhận hàng và địa điểm nhận hàng.\n2. Chỉ đạo các đơn vị, tổ chức được giao nhiệm vụ khẩn trương tiếp nhận, phân phối kịp thời hàng dự trữ quốc gia đến đúng đối tượng thụ hưởng; đồng thời tổ chức công tác kiểm tra, giám sát việc phân phối, sử dụng hàng dự trữ quốc gia.\n3. Trong trường hợp không phân bổ hết hoặc không nhận hết số hàng dự trữ quốc gia theo quyết định của cấp có thẩm quyền, Thủ trưởng bộ, ngành quản lý lĩnh vực, Chủ tịch Ủy ban nhân dân cấp tỉnh phải kịp thời có văn bản báo cáo Thủ trưởng bộ ngành quản lý hàng dự trữ quốc gia, Bộ trưởng Bộ Tài chính quyết định theo thẩm quyền.\n7"
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "8",
+                                    "title": "Nhiệm vụ của đơn vị dự trữ quốc gia, doanh nghiệp được thuê bảo quản hàng dự trữ quốc gia trong xuất hàng dự trữ quốc gia để cứu trợ, hỗ trợ, viện trợ",
+                                    "position": 11752,
+                                    "children": [],
+                                    "content": "Điều 8. Nhiệm vụ của đơn vị dự trữ quốc gia, doanh nghiệp được thuê bảo quản hàng dự trữ quốc gia trong xuất hàng dự trữ quốc gia để cứu trợ, hỗ trợ, viện trợ\nThủ trưởng đơn vị dự trữ quốc gia, doanh nghiệp được thuê bảo quản hàng dự trữ quốc gia căn cứ quyết định giao nhiệm vụ xuất hàng của Thủ trưởng bộ, ngành quản lý hàng dự trữ quốc gia hoặc của Cục trưởng Cục Dự trữ Nhà nước triển khai thực hiện các nhiệm vụ sau:\n1. Kiểm tra danh mục hàng hóa, chủng loại, quy cách, số lượng, chất lượng hàng dự trữ quốc gia và hồ sơ tài liệu kỹ thuật (nếu có).\n2. Bố trí nhân lực, phương tiện để kiểm tra, giám sát, bốc xếp hàng tại các điểm kho và phương tiện vận chuyển (nếu có).\n3. Tổ chức giao hàng đến địa điểm quy định\na) Hàng dự trữ quốc gia xuất cấp để cứu trợ, hỗ trợ, viện trợ phải được bảo quản an toàn trong quá trình vận chuyển; giao cho đơn vị, tổ chức tiếp nhận kịp thời, thuận tiện, đúng thời gian, đúng chủng loại, đủ số lượng, đảm bảo về chất lượng.\nb) Hàng dự trữ quốc gia xuất cấp để cứu trợ, hỗ trợ, viện trợ là lương thực, muối ăn, hạt giống cây trồng, thuốc thú y, thuốc bảo vệ thực vật, thuốc phòng chống dịch bệnh cho người, hóa chất khử khuẩn, khử trùng xử lý nguồn nước..., các đơn vị dự trữ quốc gia, doanh nghiệp được thuê bảo quản hàng dự trữ quốc gia tổ chức xuất cấp, vận chuyển, giao hàng trên phương tiện vận chuyển của bên giao hàng tại trung tâm các đơn vị hành chính cấp xã (xã, phường, đặc khu trực thuộc cấp tỉnh) được cấp hàng cứu trợ, hỗ trợ, viện trợ; hoặc giao hàng trên phương tiện vận chuyển của bên nhận hàng tại cửa kho bảo quản hàng dự trữ quốc gia; hoặc tại địa điểm theo quyết định của Thủ trưởng bộ, ngành quản lý hàng dự trữ quốc gia.\nc) Hàng dự trữ quốc gia xuất cứu trợ, hỗ trợ, viện trợ là các trang thiết bị, phương tiện, máy móc, hàng cứu hộ cứu nạn, các đơn vị dự trữ quốc gia, doanh nghiệp được thuê bảo quản hàng dự trữ quốc gia tổ chức xuất cấp, giao nhận trên phương tiện vận chuyển của đơn vị nhận hàng tại cửa kho bảo quản hàng dự trữ quốc gia. Trong trường hợp cấp bách, các đơn vị dự trữ quốc gia, doanh nghiệp được thuê bảo quản hàng dự trữ quốc gia được huy động, hoặc thuê phương tiện để vận chuyển, giao hàng đến đúng địa điểm theo quyết định của cấp có thẩm quyền.\nd) Hàng dự trữ quốc gia xuất viện trợ, phục vụ hoạt động đối ngoại của Đảng và nhà nước được giao đến địa điểm theo quyết định của cấp có thẩm quyền."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "9",
+                                    "title": "Nhiệm vụ của đơn vị, tổ chức được giao nhiệm vụ tiếp nhận, phân bổ hàng dự trữ quốc gia để cứu trợ, hỗ trợ, viện trợ",
+                                    "position": 14131,
+                                    "children": [],
+                                    "content": "Điều 9. Nhiệm vụ của đơn vị, tổ chức được giao nhiệm vụ tiếp nhận, phân bổ hàng dự trữ quốc gia để cứu trợ, hỗ trợ, viện trợ\n1. Tối đa 30 ngày, kể từ ngày nhận được quyết định phân bổ hàng của Thủ\n8\ntrường bộ, ngành quản lý lĩnh vực hoặc của Chủ tịch Ủy ban nhân dân cấp tỉnh,\ncác đơn vị, tổ chức được giao nhiệm vụ tiếp nhận hàng phải triển khai công việc\nvà thực hiện ngay việc tiếp nhận và nhận đủ số hàng dự trữ quốc gia được phân\nbổ. Trường hợp kế hoạch phân bổ có thời gian thực hiện cụ thể thì thực hiện theo\nthời gian ghi trong quyết định phân bổ.\n2. Thống nhất thời gian, địa điểm giao nhận hàng với các đơn vị dự trữ quốc\ngia, doanh nghiệp được thuê bảo quản hàng dự trữ quốc gia được giao nhiệm vụ\nxuất cấp hàng; bố trí nhân lực, phương tiện để nhận hàng trên phương tiện của\nđơn vị giao hàng.\n3. Tiếp nhận hàng nhanh chóng, kịp thời, đúng thời gian, đúng về chủng\nloại, đủ về số lượng, chất lượng; quản lý, phân phối kịp thời theo đúng chế độ,\nchính sách và đúng đối tượng. Trong trường hợp không nhận hết hoặc không sử\ndụng hết hàng dự trữ quốc gia để cứu trợ, hỗ trợ, viện trợ phải báo cáo Thủ trưởng\nBộ, ngành quản lý lĩnh vực hoặc Chủ tịch Ủy ban nhân dân cấp tỉnh để báo cáo\ncấp có thẩm quyền xem xét, quyết định.\n4. Lập hồ sơ theo dõi kết quả tiếp nhận, quản lý, phân phối hàng dự trữ quốc\ngia; mở sổ kế toán ghi chép, hạch toán đầy đủ về số lượng và giá trị hàng đã tiếp\nnhận, phân bổ hàng dự trữ quốc gia.\n5. Chịu trách nhiệm về mọi thiệt hại do sau khi tiếp nhận bảo quản không\ntốt, không kịp thời phân phối, dẫn đến hàng dự trữ quốc gia bị hư hỏng, kém hoặc\nmất phẩm chất, không đủ số lượng hoặc không báo cáo kịp thời trong trường hợp\nkhông nhận hết hoặc không sử dụng hết hàng dự trữ quốc gia để cứu trợ, hỗ trợ,\nviện trợ; tùy theo mức độ thiệt hại mà cá nhân, tổ chức có liên quan phải bồi\nthường thiệt hại, hoặc bị xử lý theo quy định của pháp luật."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "10",
+                                    "title": "Hồ sơ, chứng từ, thủ tục giao hàng, nhận hàng dự trữ quốc",
+                                    "position": 16007,
+                                    "children": [],
+                                    "content": "Điều 10. Hồ sơ, chứng từ, thủ tục giao hàng, nhận hàng dự trữ quốc\ngia cứu trợ, hỗ trợ, viện trợ\n1. Đơn vị dự trữ quốc gia, doanh nghiệp được thuê bảo quản hàng dự trữ\nquốc gia trực tiếp xuất cấp, giao hàng phải thực hiện đúng các quy định về xuất\nkho dự trữ quốc gia, cụ thể:\na) Lập hóa đơn bán hàng dự trữ quốc gia ghi rõ số lượng và giá trị hàng dự\ntrữ quốc gia xuất cấp theo đơn giá đang hạch toán trên sổ sách kế toán.\nb) Lập biên bản giao hàng, nhận hàng dự trữ quốc gia. Nội dung Biên bản\ngiao hàng, nhận hàng bao gồm các nội dung chính sau: Ghi rõ họ tên, chức vụ, địa\nchỉ của người giao hàng, người nhận hàng; đơn vị giao hàng, đơn vị nhận hàng;\nthời gian, địa điểm giao hàng; tên hàng, số lượng, giá trị, chất lượng hàng giao,\nnhận; hạn sử dụng (nếu có); hồ sơ kèm theo (nếu có); các nội dung cần thiết khác.\n2. Người đại diện cho đơn vị, tổ chức được giao nhiệm vụ tiếp nhận hàng phải có đủ các giấy tờ sau:\na) Giấy giới thiệu của đơn vị, tổ chức được giao nhiệm vụ tiếp nhận hàng;\nb) Quyết định phân bổ hàng dự trữ quốc gia của Thủ trưởng bộ, ngành quản lý lĩnh vực hoặc của Chủ tịch Ủy ban nhân dân cấp tỉnh (bản sao y bản chính trong trường hợp cùng một quyết định phân bổ hàng nhưng nhận hàng ở nhiều địa điểm khác nhau); Quyết định giao nhiệm vụ cho các đơn vị, tổ chức tiếp nhận hàng của cơ quan có thẩm quyền.\nc) Trường hợp tiếp nhận hàng dự trữ quốc gia tạm xuất, các đơn vị, tổ chức được giao nhiệm vụ tiếp nhận chưa có bản gốc quyết định phân bổ hàng dự trữ quốc gia của Thủ trưởng bộ, ngành quản lý lĩnh vực hoặc Chủ tịch Ủy ban nhân dân cấp tỉnh thì chậm nhất sau 05 ngày làm việc, kể từ ngày nhận đủ hàng phải có trách nhiệm gửi bản gốc quyết định phân bổ hàng dự trữ quốc gia cho đơn vị dự trữ quốc gia, doanh nghiệp được thuê bảo quản hàng dự trữ quốc gia đã xuất hàng để hoàn thiện hồ sơ giao, nhận hàng."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "11",
+                                    "title": "Quản lý, sử dụng hàng dự trữ quốc gia để cứu trợ, hỗ trợ, viện trợ",
+                                    "position": 17839,
+                                    "children": [],
+                                    "content": "Điều 11. Quản lý, sử dụng hàng dự trữ quốc gia để cứu trợ, hỗ trợ, viện trợ\nBộ, ngành quản lý lĩnh vực, Ủy ban nhân dân cấp tỉnh, đơn vị, tổ chức sau khi nhận hàng dự trữ quốc gia có trách nhiệm:\n1. Quản lý, sử dụng hàng dự trữ quốc gia đúng mục đích, đối tượng, tiêu chuẩn theo quy định của pháp luật; bảo đảm không thất thoát, lãng phí. Nghiêm cấm việc bán, đổi hàng để tạo nguồn bù đắp các chi phí, hoặc sử dụng sai mục đích. Trường hợp không sử dụng hết số hàng đã tiếp nhận (sau khi kết thúc việc cứu trợ, hỗ trợ, viện trợ) phải theo dõi, bảo quản, quản lý chặt chẽ, đảm bảo an toàn, chất lượng và chỉ sử dụng vào mục đích để cứu trợ, hỗ trợ, viện trợ.\n2. Lập hồ sơ theo dõi, hạch toán, báo cáo tình hình quản lý và sử dụng đối với hàng dự trữ quốc gia được cấp theo quy định của pháp luật về kế toán, thống kê. Đối với hàng dự trữ quốc gia được sử dụng nhiều lần phải mở sổ sách theo dõi chi tiết theo quy định của pháp luật về quản lý và sử dụng tài sản nhà nước và phải thực hiện chế độ bảo quản, bảo dưỡng theo đúng quy trình kỹ thuật của cơ quan quản lý chuyên trách để hàng dự trữ quốc gia được cấp luôn đảm bảo về chất lượng, sẵn sàng đáp ứng kịp thời khi có nhu cầu sử dụng.\n3. Đối với các mặt hàng dự trữ quốc gia phục vụ nhiệm vụ quốc phòng, an ninh, vật tư thiết bị cứu hộ cứu nạn đã xuất cấp cứu trợ, hỗ trợ, viện trợ mà không còn nhu cầu sử dụng, sau khi kiểm tra hàng nếu đảm bảo tiêu chuẩn chất lượng hàng dự trữ quốc gia thì nhập lại kho dự trữ quốc gia nơi xuất hàng để tiếp tục\n10\nbảo quản theo quy định; nếu không đảm bảo tiêu chuẩn chất lượng thì có văn bản\ngửi Bộ Tài chính quyết định."
+                                }
+                            ]
+                        },
+                        {
+                            "type": "SECTION",
+                            "number": "2",
+                            "title": "NHẬP, XUẤT HÀNG DỰ TRỮ QUỐC GIA THEO QUYẾT ĐỊNH CỦA",
+                            "position": 19451,
+                            "children": [
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "12",
+                                    "title": "Thủ trưởng bộ, ngành quản lý hàng dự trữ quốc gia quyết",
+                                    "position": 19559,
+                                    "children": [],
+                                    "content": "Điều 12. Thủ trưởng bộ, ngành quản lý hàng dự trữ quốc gia quyết\nđịnh nhập, xuất hàng dự trữ quốc gia trong tình huống đột xuất, cấp bách\nThủ trưởng bộ, ngành quản lý hàng dự trữ quốc gia quyết định nhập, xuất\nhàng dự trữ quốc gia trong tình huống đột xuất, cấp bách, bao gồm: Tình trạng\nthiên tai, thảm họa, hỏa hoạn, dịch bệnh có nguy cơ bùng phát trên diện rộng;\nnhiệm vụ quốc phòng, an ninh; trật tự an toàn xã hội cần được giải quyết ngay."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "13",
+                                    "title": "Quy trình, trình tự, thủ tục xuất hàng dự trữ quốc gia trong",
+                                    "position": 20004,
+                                    "children": [],
+                                    "content": "Điều 13. Quy trình, trình tự, thủ tục xuất hàng dự trữ quốc gia trong\ntình huống đột xuất, cấp bách\n1. Trong tình huống đột xuất, cấp bách, Thủ trưởng bộ, ngành quản lý lĩnh\nvực, Chủ tịch Ủy ban nhân dân cấp tỉnh có văn bản đề nghị Thủ trưởng bộ, ngành\nquản lý hàng dự trữ quốc gia quyết định xuất cấp hàng dự trữ quốc gia; chịu trách\nnhiệm về nội dung đề nghị của mình. Nội dung văn bản đề nghị theo quy định tại\nkhoản 1 Điều 5 Thông tư này.\n2. Tối đa 03 ngày làm việc kể từ ngày nhận được văn bản của Thủ trưởng\nbộ, ngành quản lý lĩnh vực, Chủ tịch Ủy ban nhân dân cấp tỉnh, Thủ trưởng bộ,\nngành quản lý hàng dự trữ quốc gia ban hành quyết định xuất cấp hàng dự trữ\nquốc gia, giao nhiệm vụ cho các đơn vị, doanh nghiệp được thuê bảo quản hàng\ndự trữ quốc gia thực hiện nhiệm vụ xuất cấp; gửi các bộ, ngành quản lý lĩnh vực,\nỦy ban nhân dân cấp tỉnh để phối hợp thực hiện; tổ chức thực hiện và kiểm tra\nquá trình xuất cấp, giao hàng.\n3. Thủ trưởng các đơn vị dự trữ quốc gia, doanh nghiệp được thuê bảo quản\nhàng dự trữ quốc gia được sử dụng bản FAX, văn bản điện tử Quyết định của Bộ\ntrưởng Bộ Tài chính, Thủ trưởng bộ, ngành quản lý hàng dự trữ quốc gia, hoặc\nđiện thoại của Thủ trưởng bộ, ngành quản lý hàng dự trữ quốc gia, Cục trưởng\nCục Dự trữ Nhà nước để xuất cấp hàng dự trữ quốc gia. Sau 05 ngày làm việc kể\ntừ ngày xuất cấp, đơn vị dự trữ quốc gia, doanh nghiệp được thuê bảo quản hàng\ndự trữ quốc gia được giao nhiệm vụ xuất cấp hàng phải hoàn thiện đủ hồ sơ theo\nquy định.\n4. Thủ trưởng bộ, ngành quản lý hàng dự trữ quốc gia quyết định tạm xuất\nvật tư, thiết bị dự trữ quốc gia để kịp thời phục vụ nhiệm vụ phát sinh và chịu\ntrách nhiệm về quyết định của mình.\nSau khi hoàn thành nhiệm vụ, tối đa 30 ngày, đơn vị dự trữ quốc gia, doanh nghiệp được thuê bảo quản hàng dự trữ quốc gia được giao nhiệm vụ xuất cấp phải phối hợp với đơn vị nhận hàng thành lập hội đồng và mời cơ quan có chức năng kiểm tra, giám định chất lượng hàng để kiểm tra, đánh giá chất lượng để thu hồi, bảo dưỡng, nhập lại kho và bảo quản theo quy định.\na) Trường hợp hàng tạm xuất đáp ứng tiêu chuẩn dự trữ quốc gia, đơn vị, doanh nghiệp được thuê bảo quản làm thủ tục nhập lại kho và báo cáo kết quả về bộ, ngành quản lý hàng dự trữ quốc gia. Trong thời hạn 03 ngày kể từ ngày nhận được báo cáo, Bộ, ngành quản lý hàng dự trữ quốc gia có văn bản gửi Bộ Tài chính tổng hợp.\nb) Trường hợp hàng tạm xuất không đảm bảo chất lượng để nhập kho dự trữ quốc gia, đơn vị, doanh nghiệp được thuê bảo quản báo cáo Thủ trưởng bộ, ngành quản lý hàng dự trữ quốc gia quyết định xử lý theo quy định. Đơn vị, doanh nghiệp được thuê bảo quản chịu trách nhiệm về nội dung báo cáo. Thủ trưởng bộ, ngành quản lý hàng dự trữ quốc gia chịu trách nhiệm về quyết định của mình.\nTrong thời hạn 03 ngày kể từ ngày ban hành quyết định, bộ, ngành quản lý hàng dự trữ quốc gia có văn bản gửi Bộ Tài chính tổng hợp."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "14",
+                                    "title": "Trách nhiệm của Thủ trưởng bộ, ngành quản lý hàng dự trữ quốc gia và các tổ chức, cá nhân có liên quan đến xuất cấp hàng dự trữ quốc gia trong tình huống đột xuất, cấp bách",
+                                    "position": 22877,
+                                    "children": [],
+                                    "content": "Điều 14. Trách nhiệm của Thủ trưởng bộ, ngành quản lý hàng dự trữ quốc gia và các tổ chức, cá nhân có liên quan đến xuất cấp hàng dự trữ quốc gia trong tình huống đột xuất, cấp bách\n1. Thủ trưởng bộ, ngành quản lý hàng dự trữ quốc gia quyết định xuất cấp hàng dự trữ quốc gia trong tình huống đột xuất, cấp bách và chịu trách nhiệm về quyết định của mình, tổ chức triển khai thực hiện việc xuất cấp theo quy định. Trong thời hạn 03 ngày làm việc kể từ ngày ban hành quyết định, bộ, ngành quản lý hàng dự trữ quốc gia gửi Bộ Tài chính để tổng hợp báo cáo Thủ tướng Chính phủ.\n2. Nhiệm vụ của các tổ chức, cá nhân có liên quan đến xuất cấp hàng dự trữ quốc gia trong tình huống đột xuất, cấp bách thực hiện theo quy định tại Điều 7, Điều 8, Điều 9, Điều 10, Điều 11 Thông tư này."
+                                }
+                            ]
+                        },
+                        {
+                            "type": "SECTION",
+                            "number": "3",
+                            "title": "NGÂN SÁCH NHÀ NƯỚC CHI CHO NHẬP, XUẤT VÀ CHI PHÍ NHẬP, XUẤT HÀNG DỰ TRỮ QUỐC GIA",
+                            "position": 23655,
+                            "children": [
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "15",
+                                    "title": "Ngân sách nhà nước chi cho nhập, xuất hàng dự trữ quốc gia",
+                                    "position": 23742,
+                                    "children": [],
+                                    "content": "Điều 15. Ngân sách nhà nước chi cho nhập, xuất hàng dự trữ quốc gia\n1. Ngân sách nhà nước chi dự trữ quốc gia bao gồm chi để mua hàng dự trữ quốc gia, chi hoạt động mua, bán, nhập, xuất, bảo quản, bảo vệ, bảo hiểm hàng\ndự trữ quốc gia được bố trí từ đầu năm để thực hiện kế hoạch nhập, xuất, luân\nphiên đổi hàng dự trữ quốc gia. Trường hợp các cơ quan, đơn vị không sử dụng\nhết dự toán được giao trong năm thì xử lý số dư dự toán theo quy định của pháp\nluật về ngân sách nhà nước.\n2. Hàng dự trữ quốc gia sau khi xuất cấp để cứu trợ, hỗ trợ, viện trợ được\nbù lại đầy đủ, kịp thời. Bộ, ngành quản lý hàng dự trữ quốc gia lập kế hoạch và\ndự toán mua bù hàng đã xuất cấp gửi Bộ Tài chính trình Thủ tướng Chính phủ\nquyết định ngân sách trung ương mua bù hàng dự trữ quốc gia đã xuất cấp trong\nnăm từ nguồn dự phòng ngân sách trung ương theo quy định của pháp luật về\nngân sách nhà nước.\nTrường hợp hàng dự trữ quốc gia đã xuất cấp để cứu trợ, hỗ trợ, viện trợ\ntrong năm chưa được bộ, ngành quản lý hàng dự trữ quốc gia lập kế hoạch, dự\ntoán mua bù thì bộ, ngành quản lý hàng dự trữ quốc gia tổng hợp trong kế hoạch\nnhập, xuất, luân phiên đổi hàng dự trữ quốc gia của năm kế hoạch liền kề.\n3. Khi lượng tồn kho hàng dự trữ quốc gia hiện có không đáp ứng được yêu\ncầu xuất cấp để cứu trợ, hỗ trợ, viện trợ; bộ, ngành quản lý hàng dự trữ quốc gia\nlập kế hoạch, dự toán ngân sách nhà nước nhập hàng dự trữ quốc gia để cứu trợ, hỗ\ntrợ, viện trợ, gửi Bộ Tài chính quyết định hoặc trình cấp có thẩm quyền quyết định\ntheo quy định của pháp luật về ngân sách nhà nước, pháp luật về dự trữ quốc gia.\n4. Ngân sách nhà nước chi cho việc tiếp nhận, phân phối hàng dự trữ quốc\ngia từ điểm nhận hàng đến người sử dụng được bố trí từ ngân sách của địa phương\nhoặc ngân sách nhà nước của bộ, ngành quản lý lĩnh vực. Thủ trưởng bộ, ngành\nquản lý lĩnh vực, Chủ tịch Ủy ban nhân dân cấp tỉnh hướng dẫn cụ thể về lập dự\ntoán, cấp phát kinh phí phục vụ công tác tiếp nhận, phân phối hàng dự trữ quốc gia\nvà quyết toán theo đúng quy định của pháp luật về ngân sách nhà nước."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "16",
+                                    "title": "Phương thức lựa chọn đơn vị ký hợp đồng vận chuyển, cung",
+                                    "position": 25790,
+                                    "children": [],
+                                    "content": "Điều 16. Phương thức lựa chọn đơn vị ký hợp đồng vận chuyển, cung\ncấp bao bì đóng gói, bốc xếp, bảo hiểm hàng dự trữ quốc gia và các dịch vụ\ncó liên quan để xuất cấp hàng dự trữ quốc gia\n1. Các đơn vị dự trữ quốc gia, doanh nghiệp được thuê bảo quản hàng dự\ntrữ quốc gia thực hiện xuất cấp, giao hàng phải tổ chức lựa chọn nhà thầu theo\nquy định của pháp luật về đấu thầu để lựa chọn đơn vị vận chuyển, đơn vị cung\ncấp bao bì đóng gói, bốc xếp, bảo hiểm hàng dự trữ quốc gia và các dịch vụ có\nliên quan.\n2. Trường hợp xuất cấp hàng dự trữ quốc gia trong tình huống đột xuất, cấp\nbách theo quy định tại Điều 12 Thông tư này, Thủ trưởng bộ, ngành quản lý hàng\ndự trữ quốc gia quyết định lựa chọn đơn vị vận chuyển, đơn vị cung cấp bao bì\nđóng gói, bốc xếp, bảo hiểm hàng dự trữ quốc gia và các dịch vụ có liên quan theo\nquy định của pháp luật về đấu thầu.\n13"
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "17",
+                                    "title": "Trình tự và thẩm quyền phê duyệt chi phí nhập, xuất hàng dự trữ quốc gia",
+                                    "position": 26647,
+                                    "children": [],
+                                    "content": "Điều 17. Trình tự và thẩm quyền phê duyệt chi phí nhập, xuất hàng dự trữ quốc gia\n1. Đối với chi phí nhập, xuất hàng dự trữ quốc gia đã có định mức: Các đơn vị được giao nhiệm vụ xuất cấp, giao hàng dự trữ quốc gia thực hiện định mức chi phí nhập, xuất theo quy định hiện hành.\n2. Đối với chi phí xuất hàng dự trữ quốc gia chưa có định mức:\na) Căn cứ quyết định giao nhiệm vụ xuất hàng dự trữ quốc gia của Thủ trưởng bộ, ngành quản lý hàng dự trữ quốc gia, Cục trưởng Dự trữ Nhà nước và quyết định phân bổ hàng dự trữ quốc gia của Chủ tịch Ủy ban nhân dân cấp tỉnh; các đơn vị được giao nhiệm vụ xuất cấp, giao hàng dự trữ quốc gia lập dự toán chi phí gửi bộ, ngành quản lý hàng dự trữ quốc gia, gửi Cục Dự trữ Nhà nước (đối với đơn vị thuộc Cục Dự trữ Nhà nước).\nb) Trong thời gian 07 ngày làm việc kể từ ngày tiếp nhận đầy đủ hồ sơ về dự toán chi phí tối đa xuất cấp hàng dự trữ quốc gia; bộ, ngành quản lý hàng dự trữ quốc gia, Cục Dự trữ Nhà nước có trách nhiệm kiểm tra, tổng hợp và có văn bản (kèm hồ sơ có liên quan) gửi Bộ Tài chính quyết định. Trường hợp hồ sơ chưa đầy đủ và không hợp lệ, tối đa 02 ngày làm việc kể từ ngày nhận được văn bản, bộ, ngành quản lý hàng dự trữ quốc gia, Cục Dự trữ Nhà nước có văn bản yêu cầu các đơn vị dự trữ quốc gia, doanh nghiệp được thuê bảo quản hàng dự trữ quốc gia bổ sung, hoàn thiện hồ sơ, trong đó nêu rõ các tài liệu cần bổ sung, hoàn thiện.\nc) Trong thời gian 07 ngày kể từ ngày nhận được văn bản đề nghị kèm theo hồ sơ của các bộ, ngành quản lý hàng dự trữ quốc gia, của Cục Dự trữ Nhà nước; đơn vị thuộc Bộ Tài chính được giao nhiệm vụ thẩm định (Cục Dự trữ Nhà nước), có trách nhiệm thẩm định trình Bộ trưởng Bộ Tài chính quyết định chi phí tối đa xuất cấp hàng dự trữ quốc gia. Trường hợp hồ sơ chưa đầy đủ và không hợp lệ, trong vòng 03 ngày làm việc, Cục Dự trữ Nhà nước phải có văn bản nêu rõ các tài liệu cần bổ sung, hoàn thiện, gửi bộ, ngành quản lý hàng dự trữ quốc gia, Cục Dự trữ Nhà nước để bổ sung và hoàn thiện hồ sơ.\nd) Căn cứ quyết định của Bộ trưởng Bộ Tài chính, Thủ trưởng bộ, ngành quản lý hàng dự trữ quốc gia quyết định giao chi phí cho các đơn vị thực hiện; Cục trưởng Cục Dự trữ Nhà nước quyết định giao chi phí cho các đơn vị dự trữ thuộc Cục Dự trữ Nhà nước thực hiện.\nđ) Hồ sơ đề nghị Bộ Tài chính phê duyệt chi phí tối đa xuất cấp hàng dự trữ quốc gia gồm: Quyết định của Thủ trưởng bộ, ngành quản lý hàng dự trữ quốc gia hoặc của Cục trưởng Cục Dự trữ Nhà nước về việc giao nhiệm vụ cho đơn vị dự trữ quốc gia, doanh nghiệp được thuê bảo quản hàng dự trữ quốc gia; Quyết định của Thủ trưởng bộ, ngành quản lý lĩnh vực, Chủ tịch Ủy ban nhân dân cấp tỉnh về việc phân bổ hàng dự trữ quốc gia được xuất cấp; bảng tính toán dự toán chi phí\nxuất cấp hàng dự trữ quốc gia của đơn vị dự trữ quốc gia, doanh nghiệp được thuê bảo quản hàng dự trữ quốc gia được giao nhiệm vụ xuất cấp hàng, trong đó:\n- Đối với những nội dung chi phí đã phát sinh trước thời điểm lập dự toán, đơn vị phải gửi toàn bộ hồ sơ, tài liệu, chứng từ liên quan (sao y bản chính).\n- Đối với những nội dung chi phí chưa phát sinh so với thời điểm lập dự toán, đơn vị phải gửi toàn bộ hồ sơ, tài liệu làm căn cứ tính toán, lập dự toán.\ne) Văn bản đề nghị phê duyệt chi phí tối đa xuất, cấp hàng dự trữ quốc gia của đơn vị trực tiếp xuất cấp hàng dự trữ quốc gia theo biểu số 01/DT-KPXС kèm biểu tính toán chi phí tối đa theo biểu mẫu số 02/DT-KPXС; của bộ, ngành quản lý hàng dự trữ quốc gia hoặc của Cục Dự trữ Nhà nước theo biểu số 03/DT-KPXС kèm theo Thông tư này."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "18",
+                                    "title": "Về kế toán, quyết toán chi phí nhập, xuất hàng dự trữ quốc gia",
+                                    "position": 30161,
+                                    "children": [],
+                                    "content": "Điều 18. Về kế toán, quyết toán chi phí nhập, xuất hàng dự trữ quốc gia\n1. Bộ, ngành quản lý hàng dự trữ quốc gia và các tổ chức, cá nhân có liên quan thực hiện chế độ hạch toán kế toán, quyết toán nhập xuất hàng dự trữ quốc gia theo pháp luật hiện hành. Riêng đối với xuất hàng dự trữ quốc gia để cứu trợ, hỗ trợ, viện trợ và trong tình huống đột xuất, cấp bách, các đơn vị thực hiện hạch toán kế toán, quyết toán số lượng, giá trị hàng dự trữ quốc gia như sau:\na) Đối với đơn vị xuất cấp, giao hàng dự trữ quốc gia\nCăn cứ quyết định của Thủ trưởng bộ, ngành quản lý hàng dự trữ quốc gia hoặc của Cục trưởng Cục Dự trữ Nhà nước; biên bản giao nhận hàng và hóa đơn bán hàng dự trữ quốc gia để ghi giảm giá trị hàng dự trữ quốc gia tương ứng với số lượng hàng thực tế đã xuất cấp, đồng thời ghi giảm nguồn vốn hàng dự trữ quốc gia theo đúng quy định của chế độ kế toán. Đối với hàng dự trữ quốc gia tạm xuất sử dụng, các đơn vị dự trữ quốc gia, doanh nghiệp được thuê bảo quản hàng dự trữ quốc gia ghi giảm số lượng, giá trị hàng dự trữ quốc gia để chuyển sang theo dõi hàng tạm xuất sử dụng. Khi hàng được nhập lại kho thì phải ghi tăng số lượng, giá trị hàng dự trữ quốc gia.\nb) Đối với đơn vị tiếp nhận hàng dự trữ quốc gia\nCăn cứ quyết định của Thủ trưởng bộ, ngành quản lý lĩnh vực hoặc của Chủ tịch Ủy ban nhân dân cấp tỉnh về việc phân bổ hàng dự trữ quốc gia và giao nhiệm vụ cho các đơn vị, tổ chức tiếp nhận hàng dự trữ quốc gia; biên bản giao nhận hàng, hoá đơn bán hàng dự trữ quốc gia và các hồ sơ có liên quan đến kết quả tiếp nhận, phân phối hàng dự trữ quốc gia; cơ quan tài chính của đơn vị trực tiếp nhận hàng dự trữ quốc gia thực hiện:\n- Mở sổ theo dõi, hạch toán kế toán đầy đủ số lượng, giá trị hàng dự trữ quốc gia được nhận theo quy định của chế độ kế toán hiện hành (không ghi tăng nguồn kinh phí). Đối với hàng dự trữ quốc gia tạm xuất sử dụng, các cơ quan, đơn\nvị nhận hàng phải mở sổ theo dõi, quản lý cho đến khi hàng được nhập lại kho dự trữ quốc gia.\n- Hàng năm tổng hợp và báo cáo cơ quan quản lý tài chính cấp trên về tình hình thực hiện công tác tiếp nhận, quản lý, phân phối, sử dụng hàng dự trữ quốc gia được nhận cùng với báo cáo quyết toán năm.\nc) Đối với Sở Tài chính địa phương:\nHàng năm căn cứ báo cáo của các đơn vị trực tiếp nhận hàng dự trữ quốc gia, Sở Tài chính có trách nhiệm tổng hợp và báo cáo kết quả tiếp nhận, sử dụng hàng dự trữ quốc gia được nhận trong năm cùng với báo cáo quyết toán ngân sách địa phương hàng năm (Báo cáo riêng về mặt hàng, số lượng và giá trị hàng dự trữ quốc gia đã nhận; đã thực hiện cấp cho đối tượng sử dụng; trong phần đánh giá, có mục báo cáo đánh giá riêng).\n2. Đối với các đợt xuất hàng dự trữ quốc gia có sử dụng nguồn kinh phí của nhà tài trợ hoặc của địa phương thì mở sổ kế toán để ghi chép, hạch toán và quyết toán theo quy định của nhà tài trợ, địa phương (nếu có quy định riêng). Trường hợp nhà tài trợ, địa phương không có quy định riêng thì thực hiện theo chế độ kế toán hiện hành."
+                                }
+                            ]
+                        },
+                        {
+                            "type": "SECTION",
+                            "number": "4",
+                            "title": "CHẾ ĐỘ BÁO CÁO VÀ KIỂM TRA",
+                            "position": 33132,
+                            "children": [
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "19",
+                                    "title": "Chế độ báo cáo",
+                                    "position": 33165,
+                                    "children": [],
+                                    "content": "Điều 19. Chế độ báo cáo\n1. Bộ, ngành quản lý hàng dự trữ quốc gia và các tổ chức, cá nhân có liên quan thực hiện công tác báo cáo nhập, xuất hàng dự trữ quốc gia theo quy định của pháp luật về chế độ báo cáo thống kê ngành dự trữ quốc gia. Riêng trường hợp xuất cấp hàng dự trữ quốc gia để cứu trợ, hỗ trợ, viện trợ hoặc xuất cấp trong tình huống đột xuất, cấp bách thực hiện như sau:\na) Đối với tổng hợp kết quả xuất cấp hàng dự trữ quốc gia: Trong thời hạn 10 ngày làm việc kể từ ngày hoàn thành nhiệm vụ xuất, cấp, giao hàng dự trữ quốc gia, bộ, ngành quản lý hàng dự trữ quốc gia phải tổng hợp kết quả thực hiện báo cáo Bộ Tài chính (Cục Dự trữ Nhà nước) để tổng hợp. Mẫu báo cáo theo biểu mẫu số 01/BC-THXC kèm theo Thông tư này.\nb) Đối với tổng hợp kết quả phân phối sử dụng hàng dự trữ quốc gia: Trong thời hạn 10 ngày làm việc kể từ ngày hoàn thành nhiệm vụ tiếp nhận, phân phối hàng dự trữ quốc gia bộ, ngành quản lý lĩnh vực, Ủy ban nhân dân cấp tỉnh phải tổng hợp kết quả thực hiện báo cáo Bộ Tài chính (Cục Dự trữ Nhà nước) và bộ, ngành quản lý hàng dự trữ quốc gia để phối hợp theo dõi quản lý. Mẫu báo cáo\ntheo biểu mẫu số 02/BC-TNPP kèm theo Thông tư này. Đối với hàng dự trữ quốc gia được cấp là các trang thiết bị, vật tư cứu hộ, cứu nạn, phương tiện, máy móc có thời gian sử dụng trên một năm và sử dụng nhiều lần được tổng hợp, báo cáo theo biểu mẫu số 03/BC-QLSD kèm theo Thông tư này.\n2. Trường hợp phải báo cáo đột xuất theo yêu cầu của Thủ tướng Chính phủ hoặc cơ quan nhà nước có thẩm quyền; bộ, ngành quản lý hàng dự trữ quốc gia, Thủ trưởng bộ, ngành quản lý lĩnh vực, Chủ tịch Ủy ban nhân dân cấp tỉnh phải thực hiện nghiêm túc chế độ báo cáo theo quy định."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "20",
+                                    "title": "Kiểm tra chuyên ngành",
+                                    "position": 34850,
+                                    "children": [],
+                                    "content": "Điều 20. Kiểm tra chuyên ngành\n1. Cục Dự trữ Nhà nước chủ trì, phối hợp với bộ, ngành quản lý hàng dự trữ quốc gia, bộ, ngành quản lý lĩnh vực và Ủy ban nhân dân cấp tỉnh để kiểm tra việc nhập, xuất hàng dự trữ quốc gia và việc sử dụng kinh phí nhập, xuất hàng dự trữ quốc gia trong các tình huống quy định tại Thông tư này.\n2. Các bộ, ngành quản lý hàng dự trữ quốc gia có trách nhiệm kiểm tra và xử lý vi phạm trong quá trình thực hiện đối với các đơn vị dự trữ quốc gia trực thuộc, doanh nghiệp được bộ, ngành thuê bảo quản hàng dự trữ quốc gia và tổng hợp gửi Bộ Tài chính.\n3. Đơn vị được giao nhiệm vụ xuất cấp thuộc bộ, ngành quản lý hàng dự trữ quốc gia kiểm tra việc tiếp nhận, phân phối, sử dụng hàng dự trữ quốc gia để cứu trợ, hỗ trợ, viện trợ của các đơn vị, tổ chức được Thủ trưởng bộ, ngành quản lý lĩnh vực, Chủ tịch Ủy ban nhân dân cấp tỉnh giao nhiệm vụ tiếp nhận, phân phối hàng trên địa bàn quản lý.\n4. Ủy ban nhân dân cấp tỉnh chịu trách nhiệm tổ chức kiểm tra việc phân phối, sử dụng hàng dự trữ quốc gia xuất cấp cho địa phương."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "III",
+                    "title": "TỔ CHỨC THỰC HIỆN",
+                    "position": 35901,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "21",
+                            "title": "Hiệu lực thi hành",
+                            "position": 35930,
+                            "children": [],
+                            "content": "Điều 21. Hiệu lực thi hành\n1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2025; thay thế Thông tư số 51/2020/TT-BTC ngày 02 tháng 06 năm 2020 của Bộ trưởng Bộ Tài chính quy định về quy trình xuất cấp, giao nhận, phân phối, sử dụng hàng dự trữ quốc gia xuất để cứu trợ, hỗ trợ, viện trợ và quản lý kinh phí đảm bảo cho công tác xuất cấp, giao nhận hàng để cứu trợ, hỗ trợ, viện trợ.\n2. Thông tư này hết hiệu lực kể từ ngày 01 tháng 3 năm 2027 trừ các trường hợp sau:\na) Bộ, cơ quan ngang bộ báo cáo Chính phủ đề xuất và được Quốc hội quyết định kéo dài thời gian áp dụng toàn bộ hoặc một phần Nghị định số 126/2025/NĐ-CP ngày 11 tháng 6 năm 2025 của Chính phủ quy định về phân quyền, phân cấp trong lĩnh vực dự trữ quốc gia;\nb) Luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban Thường vụ Quốc hội, nghị định, nghị quyết của Chính phủ, quyết định của Thủ tướng Chính phủ có quy định về thẩm quyền, trách nhiệm quản lý nhà nước quy định tại Nghị định số 126/2025/NĐ-CP ngày 11 tháng 6 năm 2025 thông qua hoặc ban hành kể từ ngày 01 tháng 7 năm 2025, có hiệu lực trước ngày 01 tháng 3 năm 2027 và quy định tương ứng trong Nghị định số 126/2025/NĐ-CP ngày 11 tháng 6 năm 2025 hết hiệu lực tại thời điểm các văn bản quy phạm pháp luật đó có hiệu lực.\n3. Trường hợp các văn bản được dẫn chiếu áp dụng tại Thông tư này được cấp có thẩm quyền sửa đổi, bổ sung hoặc thay thế thì áp dụng theo các văn bản được sửa đổi, bổ sung, thay thế.\n4. Các nội dung về quy trình, trình tự, thủ tục nhập, xuất, luân phiên đổi hàng dự trữ quốc gia; nhập, xuất, giao nhận, phân phối, sử dụng hàng dự trữ quốc gia để cứu trợ, hỗ trợ, viện trợ; nhập, xuất trong tình huống đột xuất, cấp bách; ngân sách nhà nước chi cho nhập, xuất hàng dự trữ quốc gia và chi phí nhập, xuất hàng dự trữ quốc gia đã được quy định tại Thông tư khác của Bộ trưởng Bộ Tài chính được thực hiện theo Thông tư này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "22",
+                            "title": "Tổ chức thực hiện",
+                            "position": 37823,
+                            "children": [],
+                            "content": "Điều 22. Tổ chức thực hiện\n1. Các cơ quan, tổ chức, cá nhân có liên quan đến việc nhập, xuất hàng dự trữ quốc gia có trách nhiệm thi hành Thông tư này.\nTrong quá trình thực hiện, nếu có vướng mắc, các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Tài chính (Cục Dự trữ Nhà nước) để nghiên cứu, hướng dẫn bổ sung.\n2. Các hoạt động nhập, xuất hàng dự trữ quốc gia liên quan đến chính sách đầu tư trong lâm nghiệp; chính sách cho trẻ em, nhà trẻ, học sinh, học viên ở vùng đồng bào dân tộc thiểu số và miền núi, vùng bãi ngang, ven biển và hải đảo và cơ sở giáo dục có trẻ em nhà trẻ, học sinh hưởng chính sách và các chính sách phục vụ an sinh xã hội khác thì thực hiện theo văn bản của cấp có thẩm quyền. Trường hợp văn bản của cấp có thẩm quyền chưa có quy định thì thực hiện theo quy định tại Thông tư này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "23",
+                            "title": "Điều khoản chuyển tiếp",
+                            "position": 38635,
+                            "children": [],
+                            "content": "Điều 23. Điều khoản chuyển tiếp\nCác hoạt động xuất cấp hàng dự trữ quốc gia để cứu trợ, hỗ trợ, viện trợ và trong tình huống đột xuất, cấp bách đã được cấp có thẩm quyền quyết định trước thời điểm Thông tư này có hiệu lực thi tiếp tục thực hiện theo Thông tư số 51/2020/TT-BTC ngày 02 tháng 6 năm 2020 của Bộ trưởng Bộ Tài chính; các hoạt động nhập, xuất hàng dự trữ quốc gia chưa được cấp có thẩm quyền quyết định thì thực hiện theo quy định tại Thông tư này./."
+                        }
+                    ]
+                }
+            ],
+            "metadata": {
+                "total_units": 30,
+                "total_articles": 23,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 3
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [],
+            "replaces": [
+                {
+                    "official_number_target": "51/2020/TT-BTC",
+                    "effective_from": "2025-07-01"
+                }
+            ],
+            "mentions": [],
+            "abolished": [],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "replaces": {
+                "crawl_count": 1,
+                "llm_count": 1,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 2,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "126/2025/NĐ-CP",
+                    "51/2020/TT-BTC"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "[mentions] LLM thiếu target so với crawl: ['126/2025/NĐ-CP', '51/2020/TT-BTC']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "60/2025/TT-BTC",
+            "target_id": "Luật Dự trữ quốc gia",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "60/2025/TT-BTC",
+            "target_id": "Luật Đấu thầu",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "60/2025/TT-BTC",
+            "target_id": "Luật Quản lý tài sản công",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "60/2025/TT-BTC",
+            "target_id": "94/2013/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "60/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "60/2025/TT-BTC",
+            "target_id": "126/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "60/2025/TT-BTC",
+            "target_id": "22/2023/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "60/2025/TT-BTC",
+            "target_id": "56/2024/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "60/2025/TT-BTC",
+            "target_id": "15/2017/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "60/2025/TT-BTC",
+            "target_id": "128/2015/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "60/2025/TT-BTC",
+            "target_id": "22/2012/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "60/2025/TT-BTC",
+            "target_id": "51/2020/TT-BTC",
+            "properties": {
+                "source": "crawled",
+                "effective_from": "2025-07-01"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "60/2025/TT-BTC",
+            "target_id": "51/2020/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "60/2025/TT-BTC",
+            "target_id": "126/2025/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ]
+}

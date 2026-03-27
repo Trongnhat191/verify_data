@@ -1,0 +1,393 @@
+{
+    "file_name": "71_2025_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "71/2025/TT-BTC",
+        "title": "Sửa đổi, bổ sung một số điều của các Thông tư của Bộ trưởng Bộ Tài chính quy định về phí, lệ phí",
+        "promulgationDate": "2025-07-01",
+        "effectiveDate": "2025-07-01",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Cao Anh Tuấn",
+        "draftingUnit": "Cục quản lý, giám sát Chính sách thuế, phí & lệ phí",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "PARTIALLY_EXPIRED",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:19Z",
+        "_doc_id": "468338"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "71/2025/TT-BTC",
+            "target_id": "120/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "71/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "71/2025/TT-BTC",
+            "target_id": "72/2025/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "71/2025/TT-BTC",
+            "target_id": "166/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "71/2025/TT-BTC",
+            "target_id": "82/2023/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "71/2025/TT-BTC",
+            "target_id": "97/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "71/2025/TT-BTC",
+            "target_id": "73/2024/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "71/2025/TT-BTC",
+            "target_id": "168/2016/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "71/2025/TT-BTC",
+            "target_id": "60/2023/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "71/2025/TT-BTC",
+            "target_id": "34/2023/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "71/2025/TT-BTC",
+            "target_id": "75/2022/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "71/2025/TT-BTC",
+            "target_id": "34/2017/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "71/2025/TT-BTC",
+            "target_id": "75/2022/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "71/2025/TT-BTC",
+            "target_id": "34/2023/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "71_2025_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "71/2025/TT-BTC",
+        "dates": {
+            "promulgation_date": "2025-07-01",
+            "effective_date": null
+        },
+        "issuing_place": "BTC\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Sửa đổi, bổ sung một số điều của các Thông tư của Bộ trưởng",
+                    "position": 0,
+                    "children": [],
+                    "content": "Bộ Tài chính quy định về phí, lệ phí\n1. Sửa đổi, bổ sung khoản 1 Điều 4 Thông tư số 168/2016/TT-BTC ngày\n26 tháng 10 năm 2016 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu,\nnộp, quản lý và sử dụng phí thẩm định kinh doanh hàng hoá, dịch vụ hạn chế\nkinh doanh; hàng hoá, dịch vụ kinh doanh có điều kiện thuộc lĩnh vực thương\nmại và lệ phí cấp Giấy phép thành lập Sơ Giao dịch hàng hoá như sau:\n“1. Tại khu vực thành phố trực thuộc trung ương:\na) Mức thu phí thẩm định kinh doanh hàng hoá, dịch vụ hạn chế kinh\ndoanh thuộc lĩnh vực thương mại là 1.200.000 đồng/điểm kinh doanh/lần thẩm\nđịnh.\nb) Mức thu phí thẩm định kinh doanh hàng hoá, dịch vụ kinh doanh có\nđiều kiện thuộc lĩnh vực thương mại đối với chủ thể kinh doanh là tổ chức,\ndoanh nghiệp là 1.200.000 đồng/điểm kinh doanh/lần thẩm định.\nc) Mức thu phí thẩm định kinh doanh hàng hoá, dịch vụ kinh doanh có điều kiện thuộc lĩnh vực thương mại đối với chủ thể kinh doanh là hộ kinh doanh, cá nhân là 400.000 đồng/điểm kinh doanh/lần thẩm định.\nd) Mức thu lệ phí cấp Giấy phép thành lập Sở Giao dịch hàng hoá là 200.000 đồng/giấy/lần cấp.\n2. Bổ sung khoản 4 vào Điều 3 Thông tư số 34/2017/TT-BTC ngày 21 tháng 4 năm 2017 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định cấp giấy phép hoạt động do đặc và bán đồ như sau:\n“4. Trường hợp khu vực địa lý hoặc các tỉnh, thành phố thuộc các khu vực địa lý quy định tại khoản 1 Điều này có thay đổi sau khi sắp xếp các đơn vị hành chính thì mức thu phí được áp dụng theo khu vực địa lý sau sắp xếp hoặc khu vực địa lý của tỉnh, thành phố sau hợp nhất.”\n3. Sửa đổi, bổ sung khoản 3 Điều 4 Thông tư số 75/2022/TT-BTC ngày 22 tháng 12 năm 2022 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp và quản lý lệ phí đăng ký cư trú như sau:\n“3. Đồng bào dân tộc thiểu số ở các xã có điều kiện kinh tế - xã hội đặc biệt khó khăn; công dân thường trú tại các xã biên giới; công dân thường trú tại các đặc khu trực thuộc cấp tỉnh; công dân thuộc hộ nghèo theo quy định của pháp luật.”\n4. Bổ sung khoản 2 vào Điều 3 Thông tư số 34/2023/TT-BTC ngày 31 tháng 5 năm 2023 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định đủ điều kiện hoạt động dịch vụ quan trắc môi trường như sau:\n“2. Trường hợp khu vực địa lý hoặc các tỉnh, thành phố thuộc các khu vực địa lý quy định tại khoản 1 Điều này có thay đổi sau khi sắp xếp các đơn vị hành chính thì mức thu phí được áp dụng theo khu vực địa lý sau sắp xếp hoặc khu vực địa lý của tỉnh, thành phố sau hợp nhất.”\n5. Sửa đổi, bổ sung một số điều của Thông tư số 60/2023/TT-BTC ngày 07 tháng 9 năm 2023 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, miễn, quản lý lệ phí đăng ký, cấp biên phương tiện giao thông cơ giới đường bộ\na) Sửa đổi, bổ sung khoản 2 Điều 4 như sau:\n“2. Các khu vực quy định tại Thông tư này được xác định theo địa giới hành chính, cụ thể như sau:\na) Khu vực I gồm: Thành phố Hà Nội, Thành phố Hồ Chí Minh bao gồm tất cả các xã, phường trực thuộc thành phố không phân biệt nội thành hay ngoại thành, trừ đặc khu trực thuộc cấp tỉnh.\nb) Khu vực II gồm: Đặc khu trực thuộc cấp tỉnh tại khu vực I và các tỉnh, thành phố trực thuộc trung ương khác ngoài khu vực I quy định tại điểm a\nKhoản này.\"\nb) Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 5 như sau:\n\"1. Mức thu lệ phí cấp chứng nhận đăng ký, biển số phương tiện giao thông được thực hiện như sau:\nĐơn vị tính: đồng/lần/xe\nSố\nTT\nNội dung thu lệ phí\nKhu vực",
+                    "is_amendment": true
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "I",
+                    "title": "Khu vực",
+                    "position": 3546,
+                    "children": []
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "II",
+                    "title": "1",
+                    "position": 3556,
+                    "children": []
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "II",
+                    "title": "Cấp đổi chứng nhận đăng ký, biển số",
+                    "position": 3998,
+                    "children": []
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "III",
+                    "title": "Cấp chứng nhận đăng ký, biển số tạm thời",
+                    "position": 4233,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "2",
+                            "title": "Điều khoản thi hành",
+                            "position": 5334,
+                            "children": [],
+                            "content": "Điều 2. Điều khoản thi hành\n1. Thông tư này có hiệu lực kể từ ngày 04 tháng 7 năm 2025.\n2. Trường hợp các văn bản quy phạm pháp luật nêu tại Thông tư này được\nsửa đổi, bổ sung hoặc thay thế thì thực hiện theo văn bản mới sửa đổi, bổ sung\nhoặc thay thế.\n3. Trong quá trình thực hiện, nếu có vướng mắc, đề nghị các tổ chức, cá\nnhân phản ánh kịp thời về Bộ Tài chính để nghiên cứu, hướng dẫn bổ sung./ký"
+                        }
+                    ]
+                }
+            ],
+            "metadata": {
+                "total_units": 6,
+                "total_articles": 2,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 1,
+                "depth": 2
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [],
+            "replaces": [],
+            "mentions": [],
+            "abolished": [],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 6,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "168/2016/TT-BTC",
+                    "34/2017/TT-BTC",
+                    "34/2023/TT-BTC",
+                    "60/2023/TT-BTC",
+                    "73/2024/TT-BTC",
+                    "75/2022/TT-BTC"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "replaces": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 2,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "34/2023/TT-BTC",
+                    "75/2022/TT-BTC"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "[amends] LLM thiếu target so với crawl: ['168/2016/TT-BTC', '34/2017/TT-BTC', '34/2023/TT-BTC', '60/2023/TT-BTC', '73/2024/TT-BTC', '75/2022/TT-BTC']",
+            "[mentions] LLM thiếu target so với crawl: ['34/2023/TT-BTC', '75/2022/TT-BTC']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "71/2025/TT-BTC",
+            "target_id": "120/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "71/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "71/2025/TT-BTC",
+            "target_id": "72/2025/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "71/2025/TT-BTC",
+            "target_id": "166/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "71/2025/TT-BTC",
+            "target_id": "82/2023/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "71/2025/TT-BTC",
+            "target_id": "97/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "71/2025/TT-BTC",
+            "target_id": "73/2024/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "71/2025/TT-BTC",
+            "target_id": "168/2016/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "71/2025/TT-BTC",
+            "target_id": "60/2023/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "71/2025/TT-BTC",
+            "target_id": "34/2023/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "71/2025/TT-BTC",
+            "target_id": "75/2022/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "71/2025/TT-BTC",
+            "target_id": "34/2017/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "71/2025/TT-BTC",
+            "target_id": "75/2022/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "71/2025/TT-BTC",
+            "target_id": "34/2023/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ]
+}

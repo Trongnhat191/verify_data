@@ -1,0 +1,554 @@
+{
+    "file_name": "66_2025_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "66/2025/TT-BTC",
+        "title": "Quy định phân cấp thẩm quyền quản lý nội ngành của Bộ trưởng Bộ Tài chính trong các lĩnh vực quản lý ngân sách, tài sản công, đầu tư xây dựng, đầu tư ứng dụng công nghệ thông tin",
+        "promulgationDate": "2025-07-01",
+        "effectiveDate": "2025-07-01",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Bùi Văn Khắng",
+        "draftingUnit": "Vụ Pháp chế",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:19Z",
+        "_doc_id": "468246"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "Luật Quản Ịý, sử dụng tài sàn công",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "Luật Đầu tư công",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "Luật Tô chức Chỉnh phù",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "98/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "73/2019/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "151/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "50/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "77/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "155/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "15/2025/QĐ-TTg",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "57/2024/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "166/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "63/2025/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "58/2024/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "114/2024/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "82/2024/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "62/2020/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "21/2017/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "15/2017/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "83/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "50/2014/QH13",
+            "properties": {},
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "66_2025_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "66/2025/TT-BTC",
+        "dates": {
+            "promulgation_date": "2025-07-01",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "CHAPTER",
+                    "number": "I",
+                    "title": "QUY ĐỊNH CHUNG",
+                    "position": 0,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "1",
+                            "title": "Phạm vi điều chỉnh và đối tượng áp dụng",
+                            "position": 23,
+                            "children": [],
+                            "content": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Phạm vi điều chỉnh\na) Thông tư này quy định phân cấp thẩm quyền quản lý nội ngành của\nBộ trưởng Bộ Tài chính trong các lĩnh vực quản lý ngân sách, tài sản công, đầu\ntư xây dựng, đầu tư ứng dụng công nghệ thông tin;\nb) Thông tư này không điều chỉnh đối với:\nb1) Việc phân cấp thẩm quyền quản lý ngân sách, tài sản công, đầu tư xây\ndựng, đầu tư ứng dụng công nghệ thông tin đối với Bảo hiểm xã hội Việt Nam;\nb2) Nội dung đã có quy định pháp luật xác định thuộc thẩm quyền của\nthủ trưởng các đơn vị tại khoản 2 Điều này;\nc) Nội dung về thẩm quyền quản lý ngân sách, tài sản công, đầu tư xây\ndựng, đầu tư ứng dụng công nghệ thông tin không được quy định trong Thông\ntư này thực hiện theo quy định pháp luật hiện hành.\n2. Đối tượng áp dụng\na) Đơn vị dự toán cấp 2 thuộc Bộ Tài chính (bao gồm Cục loại 1 thuộc Bộ\nTài chính, các đơn vị sự nghiệp công lập thuộc Bộ Tài chính và các đơn vị dự toán\ncấp 2 khác);\nb) Đơn vị sử dụng ngân sách thuộc Bộ Tài chính;\nc) Đơn vị sử dụng ngân sách thuộc Cục loại 1;\nd) Các tổ chức, cá nhân khác có liên quan đến việc phân cấp quản lý\nngân sách, tài sản công, đầu tư xây dựng, đầu tư ứng dụng công nghệ thông tin\ncủa Bộ Tài chính."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "2",
+                            "title": "Giải thích từ ngữ",
+                            "position": 1234,
+                            "children": [],
+                            "content": "Điều 2. Giải thích từ ngữ\nTrong Thông tư này, các từ ngữ dưới đây được hiểu như sau:\n1. Cục loại 1 là Cục Thuế, Cục Hải quan, Cục Dự trữ nhà nước, Kho bạc\nnhà nước, Cục Thống kê, Ủy ban Chúng khoán nhà nước.\n2. Đơn vị dự toán cấp 2 là đơn vị dự toán ngân sách được Bộ trưởng Bộ\nTài chính (đơn vị dự toán cấp 1) giao dự toán ngân sách nhưng không phải là\nđơn vị sử dụng ngân sách theo quy định của Luật Ngân sách nhà nước."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "3",
+                            "title": "Nguyên tắc phân cấp",
+                            "position": 1656,
+                            "children": [],
+                            "content": "Điều 3. Nguyên tắc phân cấp\n1. Đảm bảo sự quản lý thống nhất, toàn diện trong lĩnh vực quản lý ngân\nsách, tài sản công, đầu tư xây dựng, đầu tư ứng dụng công nghệ thông tin đối\nvới các đơn vị thuộc Bộ Tài chính.\n2. Bảo đảm phù hợp với các quy định pháp luật về tiêu chuẩn, trình tự,\nthủ tục khi quyết định các nội dung về quản lý ngân sách, tài sản công, đầu tư\nxây dựng, đầu tư ứng dụng công nghệ thông tin phù hợp với mô hình tổ chức,\ntính chất hoạt động nghiệp vụ của các đơn vị thuộc Bộ Tài chính.\n3. Bảo đảm phù hợp với năng lực chuyên môn của các đơn vị, đáp ứng\nmục tiêu đơn giản hóa các thủ tục hành chính, giảm bớt khâu trung gian, giảm\nthiểu các chi phí tổ chức thực hiện, phát huy trách nhiệm, quyền tự chủ, tự chịu\ntrách nhiệm của các đơn vị và trách nhiệm của người đứng đầu, tăng cường\ntính chủ động và linh hoạt trong việc thực hiện nhiệm vụ.\nTổ chức, cá nhân đã được phân cấp thẩm quyền theo quy định tại Thông\ntư này không được phân cấp tiếp nhiệm vụ, quyền hạn mà mình được phân cấp,\nchịu trách nhiệm toàn diện trước pháp luật về kết quả thực hiện nhiệm vụ, thẩm\nquyền được phân cấp, không lấy thêm ý kiến của các đơn vị khác thuộc Bộ\ntrong quá trình thực hiện nhiệm vụ làm ảnh hưởng đến tiến độ, thời hạn giải\nquyết nhiệm vụ được giao.\n4. Trong trường hợp cần thiết, Bộ trưởng Bộ Tài chính quyết định điều\nchỉnh việc phân cấp một số nội dung cụ thể khác với Thông tư này.\n4"
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "II",
+                    "title": "QUY ĐỊNH CỤ THỂ",
+                    "position": 3049,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "4",
+                            "title": "Phân cấp thẩm quyền trong quản lý ngân sách",
+                            "position": 3075,
+                            "children": [],
+                            "content": "Điều 4. Phân cấp thẩm quyền trong quản lý ngân sách\n1. Thủ trưởng các đơn vị dự toán cấp 2 thuộc Bộ Tài chính có thẩm quyền:\na) Quyết định phân bổ và giao dự toán, điều chỉnh dự toán ngân sách đã giao cho các đơn vị sử dụng ngân sách thuộc phạm vi quản lý theo quy định;\nb) Quyết định giao quyền tự chủ tài chính cho các đơn vị sự nghiệp công lập thuộc phạm vi quản lý (không bao gồm các đơn vị sự nghiệp công lập thuộc thẩm quyền quyết định giao quyền tự chủ tài chính của đơn vị sự nghiệp công lập cấp trên trực tiếp thuộc đơn vị dự toán cấp 2 thuộc Bộ Tài chính);\nc) Quyết định phê duyệt và phê duyệt điều chỉnh nhiệm vụ khoa học và công nghệ cấp cơ sở (bao gồm dự toán kinh phí thực hiện) theo quy định về tổ chức và hoạt động của đơn vị;\nd) Quyết định phê duyệt và phê duyệt điều chỉnh các nhiệm vụ theo quy định pháp luật thuộc thẩm quyền của Bộ trưởng làm căn cứ lập dự toán ngân sách hằng năm.\n2. Thủ trưởng đơn vị sử dụng ngân sách thuộc Bộ Tài chính có thẩm quyền quyết định phê duyệt nhiệm vụ khoa học và công nghệ cấp cơ sở (bao gồm dự toán kinh phí thực hiện) theo quy định về tổ chức và hoạt động của đơn vị."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "5",
+                            "title": "Phân cấp thẩm quyền trong quản lý đầu tư xây dựng",
+                            "position": 4198,
+                            "children": [],
+                            "content": "Điều 5. Phân cấp thẩm quyền trong quản lý đầu tư xây dựng\n1. Cục trưởng Cục loại 1 có thẩm quyền:\na) Quyết định chủ trương đầu tư, quyết định điều chỉnh chủ trương đầu tư, quyết định việc dừng chủ trương đầu tư dự án nhóm B, nhóm C sử dụng vốn đầu tư công từ nguồn thu hợp pháp của Cục dành để đầu tư;\nb) Quyết định đầu tư, điều chỉnh quyết định đầu tư và phê duyệt quyết toán vốn đầu tư dự án hoàn thành đối với dự án nhóm B, nhóm C sử dụng vốn đầu tư công;\nc) Quyết định phê duyệt, điều chỉnh nhiệm vụ và dự toán kinh phí chi thường xuyên thực hiện nhiệm vụ sửa chữa, cải tạo, nâng cấp, mở rộng, xây dựng mới hạng mục công trình trong các dự án đã đầu tư xây dựng có tổng dự toán kinh phí thực hiện không quá 20 tỷ đồng/nhiệm vụ;\nd) Cục trưởng Cục Thống kê có các thẩm quyền quy định tại điểm a, điểm b, điểm c khoản này và thẩm quyền quyết định đầu tư, điều chỉnh quyết định đầu\ntư và quyết định phê duyệt quyết toán vốn đầu tư dự án hoàn thành sử dụng vốn\nnhà nước ngoài đầu tư công có tổng mức đầu tư dưới 20 tỷ đồng/dự án.\n2. Thủ trưởng các đơn vị sự nghiệp công lập thuộc Bộ Tài chính có thẩm\nquyền:\na) Quyết định chủ trương đầu tư và quyết định điều chỉnh chủ trương đầu\ntư, quyết định việc dùng chủ trương đầu tư:\na1) Dự án nhóm A, nhóm B, nhóm C sử dụng vốn đầu tư công từ nguồn\nthu hợp pháp của đơn vị sự nghiệp công lập tự bảo đảm chi thường xuyên và\nchi đầu tư;\na2) Dự án nhóm B, nhóm C sử dụng vốn đầu tư công từ nguồn thu hợp\npháp của đơn vị sự nghiệp công lập tự bảo đảm chi thường xuyên;\na3) Dự án nhóm C sử dụng vốn đầu tư công từ nguồn thu hợp pháp của\nđơn vị sự nghiệp công lập tự bảo đảm một phần chi thường xuyên và đơn vị sự\nnghiệp công lập do Nhà nước bảo đảm chi thường xuyên;\na4) Đối với chủ trương đầu tư dự án của các Trường, Học viện thuộc Bộ\nTài chính có Hội đồng Trường, phải được Hội đồng Trường thông qua theo quy\nđịnh và quy chế hoạt động của Hội đồng Trường.\nb) Quyết định đầu tư, điều chỉnh quyết định đầu tư, quyết định phê duyệt\nquyết toán vốn đầu tư hoàn thành:\nb1) Dự án nhóm B, nhóm C sử dụng vốn đầu tư công nguồn ngân sách\nnhà nước;\nb2) Dự án nhóm A, nhóm B, nhóm C sử dụng vốn đầu tư công từ nguồn\nthu hợp pháp của đơn vị.\nc) Quyết định đầu tư, điều chỉnh quyết định đầu tư và quyết định phê\nduyệt quyết toán vốn đầu tư dự án hoàn thành sử dụng vốn nhà nước ngoài đầu\ntư công có tổng mức đầu tư dưới 20 tỷ đồng/dự án.\n3. Thủ trưởng đơn vị dự toán cấp 2 thuộc Bộ Tài chính và thủ trưởng đơn\nvị sử dụng ngân sách thuộc Bộ Tài chính (trừ các trường hợp nêu tại khoản 1,\nkhoản 2 Điều này), thủ trưởng đơn vị sử dụng ngân sách thuộc Cục loại 1 có\nthẩm quyền quyết định đầu tư, điều chỉnh quyết định đầu tư và quyết định phê\nduyệt quyết toán vốn đầu tư dự án hoàn thành sử dụng vốn nhà nước ngoài đầu\ntư công có tổng mức đầu tư dưới 20 tỷ đồng/dự án (trừ trường hợp quy định tại\nđiểm d khoản 1 Điều này)."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "6",
+                            "title": "Phân cấp thẩm quyền trong quản lý đầu tư ứng dụng công nghệ thông tin",
+                            "position": 7041,
+                            "children": [],
+                            "content": "Điều 6. Phân cấp thẩm quyền trong quản lý đầu tư ứng dụng công nghệ thông tin\n1. Cục trưởng Cục loại 1 có thẩm quyền:\na) Quyết định chủ trương đầu tư, quyết định điều chỉnh chủ trương đầu tư, quyết định việc dừng chủ trương đầu tư dự án nhóm B, nhóm C sử dụng vốn đầu tư công từ nguồn thu hợp pháp của Cục dành để đầu tư;\nb) Quyết định đầu tư, điều chỉnh quyết định đầu tư và phê duyệt quyết toán vốn đầu tư dự án hoàn thành đối với dự án nhóm B, nhóm C sử dụng vốn đầu tư công hoặc vốn nhà nước ngoài đầu tư công;\nc) Quyết định phê duyệt, điều chỉnh nhiệm vụ và dự toán kinh phí mua sắm, sửa chữa, cải tạo, nâng cấp tài sản, trang thiết bị ứng dụng công nghệ thông tin, chuyển đổi số phục vụ hoạt động của các cơ quan, đơn vị thuộc phạm vi quản lý và kinh phí thực hiện nhiệm vụ thuê hàng hóa, dịch vụ đối với nhiệm vụ có tổng dự toán kinh phí thực hiện dưới 45 tỷ đồng/nhiệm vụ;\nd) Quyết định phê duyệt kế hoạch thuê dịch vụ công nghệ thông tin của đơn vị có dự toán thuê từ 45 tỷ đồng đến dưới 500 tỷ đồng;\ne) Quyết định phê duyệt dự toán nhiệm vụ chuẩn bị đầu tư đối với các dự án đầu tư.\n2. Thủ trưởng các đơn vị sự nghiệp công lập thuộc Bộ Tài chính có thẩm quyền:\na) Quyết định chủ trương đầu tư, quyết định điều chỉnh chủ trương đầu tư, quyết định việc dừng chủ trương đầu tư:\na1) Dự án nhóm A, nhóm B, nhóm C sử dụng vốn đầu tư công từ nguồn thu hợp pháp của đơn vị sự nghiệp tự bảo đảm chi thường xuyên và chi đầu tư;\na2) Dự án nhóm B, nhóm C sử dụng vốn đầu tư công từ nguồn thu hợp pháp của đơn vị sự nghiệp tự bảo đảm chi thường xuyên;\na3) Dự án nhóm C sử dụng vốn đầu tư công từ nguồn thu hợp pháp của đơn vị sự nghiệp tự bảo đảm một phần chi thường xuyên và đơn vị sự nghiệp do Nhà nước bảo đảm chi thường xuyên;\na4) Đối với chủ trương đầu tư dự án của các Trường/Học viện thuộc Bộ Tài chính có Hội đồng Trường, phải được Hội đồng Trường thông qua theo quy định và quy chế hoạt động của Hội đồng Trường.\n7\nb) Quyết định đầu tư, điều chỉnh quyết định đầu tư, quyết định phê duyệt\nquyết toán vốn đầu tư hoàn thành:\nb1) Dự án nhóm B, nhóm C sử dụng vốn đầu tư công nguồn ngân sách\nnhà nước và vốn nhà nước ngoài đầu tư công;\nb2) Dự án nhóm A, nhóm B, nhóm C sử dụng vốn đầu tư công từ nguồn\nthu hợp pháp của đơn vị;\nc) Quyết định phê duyệt dự toán nhiệm vụ chuẩn bị đầu tư đối với các dự án;\nd) Quyết định phê duyệt kế hoạch thuê dịch vụ công nghệ thông tin của\nđơn vị có dự toán dưới 500 tỷ đồng;\nd) Quyết định mua sắm tài sản, hàng hóa, dịch vụ công nghệ thông tin có\ntổng mức dự toán dưới 500 tỷ đồng.\n3. Thủ trưởng đơn vị dự toán cấp 2 thuộc Bộ Tài chính và thủ trưởng đơn\nvị sử dụng ngân sách thuộc Bộ Tài chính (trừ các trường hợp nêu tại khoản 1,\nkhoản 2 Điều này) có thẩm quyền:\na) Quyết định chủ trương đầu tư, quyết định điều chỉnh chủ trương đầu\ntư, quyết định việc dùng chủ trương đầu tư dự án nhóm B, nhóm C sử dụng vốn\nđầu tư công từ nguồn thu hợp pháp của đơn vị dành để đầu tư;\nb) Quyết định đầu tư, điều chỉnh quyết định đầu tư và phê duyệt quyết toán\nvốn đầu tư dự án hoàn thành đối với dự án nhóm B, nhóm C sử dụng vốn đầu tư\ncông hoặc vốn nhà nước ngoài đầu tư công;\nc) Quyết định phê duyệt kế hoạch thuê dịch vụ công nghệ thông tin của\nđơn vị có dự toán thuê dưới 500 tỷ đồng;\nd) Quyết định mua sắm tài sản, hàng hóa, dịch vụ công nghệ thông tin có\ntổng mức dự toán dưới 500 tỷ đồng;\nd) Quyết định phê duyệt dự toán nhiệm vụ chuẩn bị đầu tư đối với các dự\nán đầu tư.\n4. Thủ trưởng đơn vị sử dụng ngân sách thuộc Cục loại 1 có thẩm quyền:\na) Quyết định phê duyệt kế hoạch thuê dịch vụ công nghệ thông tin,\nquyết định mua sắm tài sản, hàng hóa, dịch vụ công nghệ thông tin có tổng\nmức dự toán dưới 45 tỷ đồng (trừ trường hợp quy định tại điểm b khoản này);\nb) Thủ trưởng đơn vị sử dụng ngân sách thuộc Cục Thống kê quyết định\nphê duyệt kế hoạch thuê dịch vụ công nghệ thông tin, quyết định mua sắm tài sản,\nhàng hóa, dịch vụ công nghệ thông tin có tổng mức dự toán dưới 500 triệu đồng."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "7",
+                            "title": "Phân cấp thẩm quyền liên quan đến quản lý, sử dụng tài sản công",
+                            "position": 10958,
+                            "children": [],
+                            "content": "Điều 7. Phân cấp thẩm quyền liên quan đến quản lý, sử dụng tài sản công\n1. Cục trưởng Cục loại 1 có thẩm quyền:\na) Quyết định chủ trương đầu tư, quyết định điều chỉnh chủ trương đầu tư, quyết định việc dùng chủ trương đầu tư dự án nhóm B, nhóm C sử dụng vốn đầu tư công từ nguồn thu hợp pháp của Cục dành để đầu tư;\nb) Quyết định đầu tư, điều chỉnh quyết định đầu tư và phê duyệt quyết toán vốn đầu tư hoàn thành đối với dự án nhóm B, nhóm C sử dụng vốn đầu tư công;\nc) Quyết định phê duyệt, điều chỉnh nhiệm vụ và dự toán kinh phí mua sắm, sửa chữa, cải tạo, nâng cấp tài sản, trang thiết bị phục vụ hoạt động của các cơ quan, đơn vị thuộc phạm vi quản lý và kinh phí thực hiện nhiệm vụ thuế hàng hóa, dịch vụ đối với nhiệm vụ có tổng dự toán kinh phí thực hiện dưới 45 tỷ đồng/nhiệm vụ;\nd) Quyết định phê duyệt dự toán nhiệm vụ chuẩn bị đầu tư đối với các dự án đầu tư;\ne) Quyết định xác lập quyền sở hữu toàn dân về tài sản và phê duyệt phương án xử lý tài sản do chủ sở hữu tự nguyện chuyển giao quyền sở hữu cho Nhà nước Việt Nam thông qua Bộ Tài chính mà khi chuyển giao đã xác định cụ thể Cục loại 1 hoặc các đơn vị sử dụng ngân sách thuộc Cục loại 1 là chủ thể tiếp nhận, quản lý, sử dụng tài sản;\nf) Quyết định mức khoán kinh phí sử dụng nhà ở công vụ, đối tượng, mức khoán kinh phí sử dụng máy móc, thiết bị đối với các đối tượng thuộc Cục loại 1 theo quy định;\ng) Quyết định tiêu chuẩn, định mức đối với máy móc, thiết bị chuyên dùng, diện tích chuyên dùng, diện tích công trình sự nghiệp và tài sản công theo quy định tại khoản 6 Điều 26 Luật Quản lý, sử dụng tài sản công đối với các đơn vị thuộc phạm vi quản lý theo quy định;\nh) Quyết định chế độ, tiêu chuẩn, định mức kinh tế - kỹ thuật bảo dưỡng, sửa chữa hoặc định mức chi bảo dưỡng, sửa chữa áp dụng đối với tài sản công của các đơn vị thuộc phạm vi quản lý;\ni) Quyết định điều chỉnh mức giá máy móc, thiết bị phục vụ công tác các chức danh và máy móc, thiết bị phục vụ hoạt động chung trong trường hợp điều chỉnh mức giá cao hơn từ trên 15% đến không quá 30% so với mức giá theo Quyết định của Thủ tướng Chính phủ quy định tiêu chuẩn, định mức sử dụng máy móc, thiết bị;\nk) Quyết định bổ sung số lượng máy móc, thiết bị phục vụ công tác các chức danh, máy móc, thiết bị phục vụ hoạt động chung trang bị tại phòng làm việc hoặc bổ sung các loại máy móc, thiết bị khác để phục vụ Chính phủ điện tử, số hóa, khoa học, công nghệ, đổi mới sáng tạo và nhiệm vụ được giao đối với đơn vị thuộc phạm vi quản lý;\nl) Quyết định mua sắm tài sản công, hàng hóa, dịch vụ, vật tiêu hao có tổng mức dự toán từ 45 tỷ đồng đến dưới 500 tỷ đồng trừ trường hợp quy định tại điểm t khoản này;\nm) Quyết định việc trang bị máy móc, thiết bị theo quy định tại khoản 3 Điều 5 Quyết định số 15/2025/QĐ-TTg đối với các đơn vị thuộc phạm vi quản lý (không bao gồm các nội dung quy định tại điểm 1 khoản 1, khoản 4 Điều này);\nn) Quyết định việc khoán kinh phí sử dụng xe ô tô cho các đối tượng được sử dụng xe ô tô phục vụ công tác chung của Cục loại 1 theo quy định (trừ trường hợp quy định tại điểm i khoản 4 Điều này);\no) Quyết định phương thức quản lý xe ô tô phục vụ công tác chung của các đơn vị thuộc phạm vi quản lý;\np) Quyết định xử lý tài sản công, xử lý vật tư, vật liệu thu hồi được trong quá trình bảo dưỡng, sửa chữa tài sản công, xử lý vật tư, vật liệu thu hồi trong quá trình thực hiện dự án theo quy định đối với tài sản công Cục loại 1 được giao quản lý, sử dụng (không bao gồm hình thức điều chuyển tài sản ra ngoài các đơn vị thuộc phạm vi quản lý);\nq) Quyết định xử lý, phê duyệt phương án xử lý theo hình thức giao, điều chuyển giữa các đơn vị sử dụng ngân sách thuộc Cục loại 1 đối với tài sản công, vật tư, vật liệu thu hồi được trong quá trình bảo dưỡng, sửa chữa tài sản công, xử lý vật tư, vật liệu thu hồi trong quá trình thực hiện dự án, tài sản là tang vật, phương tiện vi phạm hành chính bị tịch thu theo quy định;\nr) Phê duyệt Đề án sử dụng tài sản của đơn vị sự nghiệp công lập thuộc phạm vi quản lý vào mục đích kinh doanh, cho thuê, liên doanh, liên kết;\ns) Phê duyệt phương án xử lý tài sản phục vụ hoạt động của dự án và tài sản là kết quả của quá trình thực hiện dự án (đối với dự án không xác định cụ thể đối tượng thụ hưởng) của các đơn vị thuộc phạm vi quản lý (không bao gồm hình thức điều chuyển tài sản ra ngoài các đơn vị thuộc phạm vi quản lý);\nt) Ngoài các nội dung quy định tại các điểm từ điểm a đến điểm s khoản này, một số Cục trưởng Cục loại 1 còn có các thẩm quyền cụ thể như sau:\nt1) Cục trưởng Cục Dự trữ nhà nước quyết định khai thác kho dự trữ quốc gia thuộc Cục Dự trữ nhà nước theo quy định của pháp luật;\nt2) Cục trưởng Cục Hải quan quyết định phê duyệt phương án xử lý theo hình thức giao, điều chuyển giữa các đơn vị thuộc Cục Hải quan đối với tài sản là hàng hóa tồn đọng thuộc địa bàn hoạt động hải quan đã được xác lập quyền sở hữu toàn dân;\nt3) Cục trưởng Cục Hải quan quyết định mua sắm các tài sản, hàng hóa là vũ khí, công cụ hỗ trợ; ấn chỉ nghiệp vụ; niêm phong hải quan; chứng minh thư hải quan; lịch, sổ tay, ấn phẩm tuyên truyền; trang chế phục trừ biển tên công chức, viên chức, trang phục cho đối tượng làm việc theo hợp đồng lao động giản đơn;\nt4) Cục trưởng Cục Thuế quyết định mua sắm các tài sản, hàng hóa là trang phục (trừ trang phục bảo vệ), ấn chỉ thuế (tem điện tử).\n2. Thủ trưởng các đơn vị sự nghiệp công lập thuộc Bộ Tài chính có thẩm quyền:\na) Quyết định chủ trương đầu tư, quyết định điều chỉnh chủ trương đầu tư, quyết định việc dùng chủ trương đầu tư:\na1) Dự án nhóm A, nhóm B, nhóm C sử dụng vốn đầu tư công từ nguồn thu hợp pháp của đơn vị sự nghiệp tự bảo đảm chi thường xuyên và chi đầu tư;\na2) Dự án nhóm B, nhóm C sử dụng vốn đầu tư công từ nguồn thu hợp pháp của đơn vị sự nghiệp tự bảo đảm chi thường xuyên;\na3) Dự án nhóm C sử dụng vốn đầu tư công từ nguồn thu hợp pháp của đơn vị sự nghiệp tự bảo đảm một phần chi thường xuyên và đơn vị sự nghiệp do Nhà nước bảo đảm chi thường xuyên;\na4) Đối với chủ trương đầu tư dự án của các Trường/Học viện thuộc Bộ Tài chính có Hội đồng Trường, phải được Hội đồng Trường thông qua theo quy định và quy chế hoạt động của Hội đồng Trường;\nb) Quyết định đầu tư, điều chỉnh quyết định đầu tư, quyết định phê duyệt quyết toán vốn đầu tư hoàn thành:\nb1) Dự án nhóm B, nhóm C sử dụng vốn đầu tư công nguồn ngân sách nhà nước;\nb2) Dự án nhóm A, nhóm B, nhóm C sử dụng vốn đầu tư công từ nguồn thu hợp pháp của đơn vị;\nc) Quyết định phê duyệt dự toán nhiệm vụ chuẩn bị đầu tư đối với các dự án đầu tư;\nd) Quyết định xác lập sở hữu toàn dân, phê duyệt phương án xử lý tài sản đối với tài sản do chủ sở hữu tự nguyện chuyển giao quyền sở hữu cho nhà nước Việt Nam thông qua Bộ Tài chính mà khi chuyển giao đã xác định cụ thể đơn vị sự nghiệp công lập và các đơn vị thuộc phạm vi quản lý là chủ thể tiếp nhận, quản lý, sử dụng tài sản;\nd) Quyết định mua sắm tài sản công, hàng hóa, dịch vụ, vật tiêu hao phục vụ hoạt động đơn vị thuộc phạm vi quản lý có tổng mức dự toán dưới 500 tỷ đồng;\ne) Quyết định thuê, thuê mua tài sản đối với các đơn vị thuộc phạm vi quản lý;\ng) Quyết định mức khoán kinh phí sử dụng nhà ở công vụ, đối tượng, mức khoán kinh phí sử dụng máy móc, thiết bị đối với các đơn vị thuộc phạm vi quản lý theo quy định;\nh) Quyết định tiêu chuẩn, định mức máy móc, thiết bị chuyên dùng, diện tích chuyên dùng, diện tích công trình sự nghiệp thuộc cơ sở hoạt động sự nghiệp và tài sản công theo quy định tại khoản 6 Điều 26 Luật Quản lý, sử dụng tài sản công đối với các đơn vị thuộc phạm vi quản lý theo quy định;\ni) Quyết định chế độ, tiêu chuẩn, định mức kinh tế - kỹ thuật bảo dưỡng, sửa chữa hoặc định mức chi bảo dưỡng, sửa chữa áp dụng đối với tài sản công tại đơn vị thuộc phạm vi quản lý;\nk) Quyết định điều chuyển tài sản công giữa các cơ quan, tổ chức, đơn vị thuộc phạm vi quản lý;\nl) Quyết định xử lý tài sản công, xử lý vật tư, vật liệu thu hồi được trong quá trình bảo dưỡng, sửa chữa tài sản công, xử lý vật tư, vật liệu thu hồi trong quá trình thực hiện dự án theo quy định đối với các đơn vị thuộc phạm vi quản lý (không bao gồm hình thức điều chuyển tài sản ra ngoài các đơn vị thuộc phạm vi quản lý);\nm) Phê duyệt Đề án sử dụng tài sản công thuộc phạm vi quản lý, sử dụng vào mục đích kinh doanh, cho thuê, liên doanh, liên kết;\nn) Quyết định khai thác tài sản công phục vụ hoạt động phụ trợ; hỗ trợ cho việc thực hiện chức năng, nhiệm vụ của các đơn vị thuộc phạm vi quản lý theo quy định;\no) Quyết định bổ sung số lượng máy móc, thiết bị phục vụ công tác các chức danh, máy móc, thiết bị phục vụ hoạt động chung trang bị tại phòng làm việc hoặc bổ sung các loại máy móc, thiết bị khác để phục vụ Chính phủ điện\ntử, số hóa, khoa học, công nghệ, đổi mới sáng tạo và nhiệm vụ được giao,\nquyết định việc trang bị máy móc, thiết bị theo quy định tại khoản 3 Điều 5\nQuyết định số 15/2025/QĐ-TTg đối với các đơn vị thuộc phạm vi quản lý\n(không bao gồm các nội dung quy định tại điểm đ, điểm e khoản này);\np) Quyết định việc khoán kinh phí sử dụng xe ô tô cho các đối tượng\nđược sử dụng xe ô tô phục vụ công tác chung của các đơn vị thuộc phạm vi\nquản lý theo quy định;\nq) Phê duyệt phương án xử lý tài sản phục vụ hoạt động của dự án và tài\nsản là kết quả của quá trình thực hiện dự án (đối với dự án không xác định cụ\nthể đối tượng thụ hưởng) của các đơn vị thuộc phạm vi quản lý (không bao\ngồm hình thức điều chuyển tài sản ra ngoài các đơn vị thuộc phạm vi quản lý);\n3. Thủ trưởng các đơn vị dự toán cấp 2 thuộc Bộ Tài chính (ngoài các\ntrường hợp tại khoản 1, khoản 2 Điều này), thủ trưởng các đơn vị sử dụng ngân\nsách thuộc Bộ Tài chính có thẩm quyền:\na) Quyết định xác lập sở hữu toàn dân, phê duyệt phương án xử lý tài sản\nđối với tài sản do chủ sở hữu tự nguyện chuyển giao quyền sở hữu cho nhà\nnước Việt Nam thông qua Bộ Tài chính mà khi chuyển giao đã xác định cụ thể\nđơn vị dự toán cấp 2 thuộc Bộ Tài chính, thủ trưởng các đơn vị sử dụng ngân\nsách thuộc Bộ Tài chính là chủ thể tiếp nhận, quản lý, sử dụng tài sản;\nb) Quyết định mua sắm tài sản công, hàng hóa, dịch vụ, vật tiêu hao có\ntổng mức dự toán dưới 500 tỷ đồng;\nc) Quyết định xử lý tài sản công, xử lý vật tư, vật liệu thu hồi được trong\nquá trình bảo dưỡng, sửa chữa tài sản công, xử lý vật tư, vật liệu thu hồi trong\nquá trình thực hiện dự án theo quy định đối với tài sản công được giao quản lý,\nsử dụng (không bao gồm hình thức điều chuyển tài sản ra ngoài các đơn vị\nthuộc phạm vi quản lý);\nd) Quyết định điều chuyển tài sản công giữa các đơn vị thuộc phạm vi\nquản lý;\nđ) Quyết định thuê, thuê mua tài sản đối với các đơn vị thuộc phạm vi\nquản lý;\ne) Quyết định khai thác tài sản công tại đơn vị thuộc phạm vi quản lý đối\nvới tài sản phục vụ hoạt động phụ trợ, hỗ trợ cho việc thực hiện nhiệm vụ chính\ntrị của cơ quan nhằm phục vụ cho hoạt động của cơ quan nhà nước và các nhu\ncầu thiết yếu của cán bộ, công chức, người lao động của cơ quan nhà nước và\nkhách đến công tác theo quy định;\ng) Quyết định xử lý tài sản công là tang vật, phương tiện vi phạm hành chính do người có thẩm quyền thuộc phạm vi quản lý của đơn vị sử dụng ngân sách ra quyết định tịch thu/quyết định xử phạt vi phạm hành chính;\nh) Quyết định mức khoán kinh phí sử dụng nhà ở công vụ, đối tượng, mức khoán kinh phí sử dụng máy móc, thiết bị cho các đối tượng thuộc phạm vi quản lý theo quy định;\ni) Quyết định việc khoán kinh phí sử dụng xe ô tô cho các đối tượng được sử dụng xe ô tô phục vụ công tác chung của đơn vị thuộc phạm vi quản lý theo quy định;\nk) Phê duyệt Đề án sử dụng tài sản công của Đơn vị sự nghiệp công lập thuộc phạm vi quản lý vào mục đích kinh doanh, cho thuê, liên doanh, liên kết;\nl) Quyết định việc trang bị máy móc, thiết bị theo quy định tại khoản 3 Điều 5 Quyết định số 15/2025/QĐ-TTg (không bao gồm các nội dung quy định tại điểm b, điểm đ khoản này).\n4. Thủ trưởng các đơn vị sử dụng ngân sách thuộc Cục loại 1 có thẩm quyền:\na) Quyết định mua sắm tài sản công, hàng hóa, dịch vụ, vật tiêu hao có tổng mức dự toán dưới 45 tỷ đồng (trừ trường hợp quy định tại điểm t khoản 1 và điểm 1 khoản 4 Điều này);\nb) Quyết định xử lý tài sản công, xử lý vật tư, vật liệu thu hồi được trong quá trình bảo dưỡng, sửa chữa tài sản công, xử lý vật tư, vật liệu thu hồi trong quá trình thực hiện dự án theo quy định (trừ trường hợp quy định tại điểm q khoản 1 Điều này);\nc) Quyết định điều chuyển tài sản công giữa các đơn vị thuộc phạm vi quản lý;\nd) Quyết định thuê, thuê mua tài sản phục vụ hoạt động;\nđ) Quyết định khai thác tài sản công tại đơn vị thuộc phạm vi quản lý đối với tài sản phục vụ hoạt động phụ trợ, hỗ trợ cho việc thực hiện nhiệm vụ chính trị của cơ quan nhằm phục vụ cho hoạt động của cơ quan nhà nước và các nhu cầu thiết yếu của cán bộ, công chức, người lao động của cơ quan nhà nước và khách đến công tác theo quy định;\ne) Quyết định xử lý tài sản công là tang vật, phương tiện vi phạm hành chính do người có thẩm quyền thuộc phạm vi quản lý của đơn vị sử dụng ngân sách ra quyết định tịch thu/quyết định xử phạt vi phạm hành chính trừ trường hợp quy định tại điểm q khoản 1 Điều này;\n14\ng) Chi cục trưởng Chi cục Hải quan khu vực quyết định phương án xử lý tài sản là hàng hóa tồn đọng thuộc địa bàn hoạt động hải quan đã được xác lập quyền sở hữu toàn dân (trừ trường hợp quy định tại điểm 1 Điều này);\nh) Quyết định mức khoán kinh phí sử dụng nhà ở công vụ, đối tượng, mức khoán kinh phí sử dụng máy móc, thiết bị đối với các đơn vị thuộc phạm vi quản lý theo quy định;\ni) Quyết định việc khoán kinh phí sử dụng xe ô tô cho các đối tượng được sử dụng xe ô tô phục vụ công tác chung của đơn vị thuộc phạm vi quản lý theo quy định;\nk) Quyết định việc trang bị máy móc, thiết bị theo quy định tại khoản 3 Điều 5 Quyết định số 15/2025/QĐ-TTg (không bao gồm các nội dung quy định tại điểm a, điểm d khoản này);\nl) Thủ trưởng đơn vị sử dụng ngân sách thuộc Cục Thống kê quyết định mua sắm tài sản công, hàng hóa, dịch vụ, vật tiêu hao có tổng mức dự toán dưới 500 triệu đồng;\nm) Thẩm quyền quy định tại các điểm c, h, i, k khoản này không áp dụng đối với Văn phòng Cục loại 1."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "8",
+                            "title": "Quyền hạn và nghĩa vụ của các đơn vị",
+                            "position": 24913,
+                            "children": [],
+                            "content": "Điều 8. Quyền hạn và nghĩa vụ của các đơn vị\n1. Cục Kế hoạch - Tài chính\na) Trình Bộ trưởng Bộ Tài chính ban hành Quy chế Kiểm tra, giám sát nội bộ về quản lý, sử dụng tài chính, tài sản, đầu tư xây dựng, đầu tư ứng dụng công nghệ thông tin tại các cơ quan hành chính, đơn vị sự nghiệp thuộc Bộ Tài chính, trong đó quy định cụ thể về việc kiểm tra, giám sát việc thực hiện nhiệm vụ của cơ quan, tổ chức được phân cấp thẩm quyền;\nb) Theo dõi, giám sát, đánh giá việc thực hiện các quy định tại Thông tư này của các cơ quan, tổ chức được phân cấp thẩm quyền;\nc) Giúp Bộ trưởng Bộ Tài chính tổng hợp, xây dựng Kế hoạch tổng thể kiểm tra, giám sát việc thực hiện các nhiệm vụ được phân cấp của các cơ quan, tổ chức, đơn vị được phân cấp thẩm quyền quy định tại Thông tư này; tổ chức thực hiện kiểm tra việc thực hiện các nhiệm vụ được phân cấp của các cơ quan, tổ chức, đơn vị được phân cấp thẩm quyền quy định tại Thông tư này;\nd) Kíp thời đề xuất báo cáo Bộ trưởng Bộ Tài chính các trường hợp phải tạm dừng việc phân cấp thẩm quyền theo quy định tại Thông tư này;\n15\nđ) Trình Bộ ban hành biểu mẫu chi tiết báo cáo đánh giá tình hình thực hiện nhiệm vụ, quyền hạn được phân cấp của các cơ quan, tổ chức, đơn vị theo quy định tại Thông tư này;\ne) Định kỳ hằng năm (chậm nhất vào ngày 20/01 năm sau liền kề) hoặc đột xuất tổng hợp, báo cáo Bộ trưởng đánh giá kết quả thực hiện nhiệm vụ, quyền hạn được phân cấp của các cơ quan, tổ chức, đơn vị theo quy định tại Thông tư này;\ng) Tham mưu giúp Bộ trưởng Bộ Tài chính nội dung thuộc thẩm quyền quyết định của Bộ trưởng trong quản lý công tác tài chính, tài sản, đầu tư xây dựng, đầu tư ứng dụng công nghệ thông tin, kiểm tra, kiểm toán nội bộ không được phân cấp cho các đơn vị tại Thông tư này.\n2. Vụ Pháp chế\nTổng hợp, đề xuất báo cáo Bộ trưởng Bộ Tài chính xem xét, điều chỉnh, bổ sung quy định về phân cấp đảm bảo phù hợp quy định của pháp luật và yêu cầu công tác quản lý ngân sách, tài sản công, đầu tư xây dựng, đầu tư ứng dụng công nghệ thông tin.\n3. Các đơn vị được phân cấp quy định tại Thông tư này\na) Chịu trách nhiệm trước pháp luật và Bộ Tài chính về kết quả thực hiện nhiệm vụ, quyền hạn được phân cấp; thực hiện đúng trình tự, thủ tục, thẩm quyền, thời hạn theo quy định của pháp luật đối với các nội dung được phân cấp;\nb) Báo cáo Bộ Tài chính (qua Cục Kế hoạch - Tài chính) về tổng hợp dự toán đã phân bổ, giao, điều chỉnh của các đơn vị dự toán thuộc phạm vi quản lý để kiểm tra (kèm theo các tài liệu có liên quan theo quy định của pháp luật ngân sách nhà nước, đồng thời thuyết minh rõ sự cần thiết, căn cứ điều chỉnh dự toán);\nc) Định kỳ hằng năm (chậm nhất vào ngày 15/01 năm sau liền kề), báo cáo Bộ trưởng Bộ Tài chính (qua Cục Kế hoạch - Tài chính) đánh giá kết quả việc thực hiện nhiệm vụ, quyền hạn được phân cấp;\nd) Báo cáo đột xuất về việc thực hiện nhiệm vụ, quyền hạn được phân cấp theo yêu cầu của Bộ trưởng Bộ Tài chính;\nd) Tự kiểm tra việc chấp hành pháp luật về quản lý, sử dụng ngân sách, tài sản công, đầu tư xây dựng, đầu tư ứng dụng công nghệ thông tin tại đơn vị mình đối với nhiệm vụ, quyền hạn được phân cấp theo quy định tại Thông tư này và quy định pháp luật chuyên ngành;\n16\ne) Kịp thời đề xuất, báo cáo Bộ trưởng Bộ Tài chính (qua Vụ Pháp chế)\nxem xét điều chỉnh, bổ sung quy định về phân cấp phù hợp quy định của pháp\nluật, yêu cầu công tác của đơn vị và các điều kiện cần thiết để thực hiện nhiệm\nvụ quyền hạn được phân cấp.\n4. Cục loại 1\na) Theo dõi, giám sát, đánh giá việc thực hiện các quy định tại Thông tư\nnày của các đơn vị sử dụng ngân sách thuộc Cục loại 1;\nb) Xây dựng Kế hoạch kiểm tra việc thực hiện các nhiệm vụ được phân\ncấp của đơn vị sử dụng ngân sách thuộc Cục loại 1 được phân cấp thẩm quyền\nquy định tại Thông tư này gửi Cục Kế hoạch - Tài chính tổng hợp; tổ chức thực\nhiện kiểm tra việc thực hiện các nhiệm vụ được phân cấp của đơn vị sử dụng\nngân sách thuộc Cục loại 1;\nc) Kịp thời đề xuất báo cáo Bộ trưởng Bộ Tài chính (qua Cục Kế hoạch\n- Tài chính) các trường hợp phải tạm dừng việc phân cấp thẩm quyền theo quy\nđịnh tại Thông tư này;\nd) Tổng hợp báo cáo Bộ Tài chính (qua Cục Kế hoạch - Tài chính) các\nnội dung quy định tại điểm b, c, d khoản 3 Điều này của các đơn vị sử dụng\nngân sách thuộc Cục loại 1."
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "III",
+                    "title": "KIỂM TRA, GIÁM SÁT VÀ XỬ LÝ VI PHẠM",
+                    "position": 29135,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "9",
+                            "title": "Giám sát việc thực hiện các nhiệm vụ, quyền hạn được phân cấp",
+                            "position": 29182,
+                            "children": [],
+                            "content": "Điều 9. Giám sát việc thực hiện các nhiệm vụ, quyền hạn được phân cấp\n1. Phương thức giám sát\nHoạt động giám sát việc thực hiện các nhiệm vụ, quyền hạn được phân\ncấp được thực hiện đồng thời thông qua các phương thức sau:\na) Giám sát định kỳ theo kế hoạch được cấp có thẩm quyền phê duyệt;\nb) Giám sát đột xuất khi có dấu hiệu vi phạm hoặc theo chỉ đạo của Bộ\ntrưởng Bộ Tài chính.\n2. Đơn vị giám sát việc thực hiện nhiệm vụ, quyền hạn được phân cấp\nCác cơ quan sau đây có trách nhiệm giúp Bộ trưởng Bộ Tài chính giám\nsát việc thực hiện nhiệm vụ, quyền hạn được phân cấp của các tổ chức, cá nhân\ntheo quy định tại Thông tư này bao gồm:\n17\na) Cục Kế hoạch - Tài chính giám sát việc thực hiện, nhiệm vụ quyền hạn được phân cấp đối với các đơn vị dự toán cấp 2 thuộc Bộ Tài chính và đơn vị sử dụng ngân sách của Bộ Tài chính;\nb) Cục loại 1 thuộc Bộ Tài chính giám sát việc thực hiện, nhiệm vụ quyền hạn được phân cấp đối với các đơn vị sử dụng ngân sách thuộc Cục loại 1.\n3. Nội dung giám sát\nGiám sát việc tổ chức thực hiện và chấp hành quy định của Nhà nước và Bộ Tài chính đối với thực hiện nhiệm vụ, quyền hạn được phân cấp trong các lĩnh vực quản lý ngân sách, quản lý, sử dụng tài sản công, đầu tư xây dựng, đầu tư ứng dụng công nghệ thông tin tại các cơ quan, tổ chức, cá nhân được phân cấp theo quy định tại Thông tư này.\n4. Nguyên tắc thực hiện giám sát\na) Việc giám sát không làm cản trở hoạt động bình thường của đối tượng được giám sát và cơ quan, tổ chức, cá nhân khác. Cơ quan thực hiện giám sát được yêu cầu đối tượng được giám sát cung cấp thông tin, tài liệu, báo cáo trong trường hợp có phản ánh, kiến nghị, dấu hiệu bất thường hoặc khi thực hiện giám sát đột xuất theo chỉ đạo của Bộ trưởng Bộ Tài chính;\nb) Đảm bảo tính độc lập, trung thực, khách quan, công khai và minh bạch; đúng trình tự, nội dung, thời gian theo quy định;\nc) Trường hợp cơ quan thực hiện giám sát yêu cầu đối tượng được giám sát cung cấp thông tin, tài liệu, báo cáo thì phải được lập thành Biên bản ghi nhận đầy đủ sự việc;\nd) Trường hợp phát hiện hành vi vi phạm thì cơ quan thực hiện giám sát có trách nhiệm kịp thời xử lý hoặc kiến nghị cơ quan có thẩm quyền xử lý theo quy định pháp luật."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "10",
+                            "title": "Kiểm tra việc thực hiện các nhiệm vụ, quyền hạn được phân cấp",
+                            "position": 31363,
+                            "children": [],
+                            "content": "Điều 10. Kiểm tra việc thực hiện các nhiệm vụ, quyền hạn được phân cấp\n1. Phương thức kiểm tra\nHoạt động kiểm tra việc thực hiện các nhiệm vụ, quyền hạn được phân cấp được thực hiện đồng thời thông qua các phương thức sau:\na) Phương thức tự kiểm tra;\nb) Phương thức kiểm tra định kỳ, đột xuất theo kế hoạch được cấp có thẩm quyền phê duyệt hoặc khi có dấu hiệu vi phạm quy định pháp luật trong\n18\ncác lĩnh vực quản lý ngân sách, quản lý, sử dụng tài sản công, đầu tư xây dựng,\nđầu tư ứng dụng công nghệ thông tin.\n2. Đơn vị kiểm tra việc thực hiện các nhiệm vụ, quyền hạn được phân cấp\nCác cơ quan sau đây có trách nhiệm giúp Bộ trưởng Bộ Tài chính kiểm\ntra việc thực hiện nhiệm vụ, quyền hạn được phân cấp của các tổ chức, cá nhân\ntheo quy định tại Thông tư này:\na) Đối với phương thức tự kiểm tra: cơ quan, tổ chức được phân cấp\nnhiệm vụ, quyền hạn tự thực hiện;\nb) Đối với phương thức kiểm tra định kỳ, đột xuất:\nb1) Cục Kế hoạch - Tài chính kiểm tra việc thực hiện, nhiệm vụ quyền\nhạn được phân cấp đối với các đơn vị dự toán cấp 2 thuộc Bộ Tài chính và đơn\nvị sử dụng ngân sách của Bộ Tài chính;\nb2) Cục loại 1 thuộc Bộ Tài chính kiểm tra việc thực hiện, nhiệm vụ\nquyền hạn đối với các đơn vị sử dụng ngân sách thuộc Cục loại 1.\n3. Nội dung kiểm tra\nKiểm tra toàn diện việc tổ chức thực hiện và chấp hành quy định của\nNhà nước và Bộ Tài chính đối với thực hiện nhiệm vụ, quyền hạn được phân\ncấp trong các lĩnh vực quản lý ngân sách, quản lý, sử dụng tài sản công, đầu tư\nxây dựng, đầu tư ứng dụng công nghệ thông tin tại các cơ quan, tổ chức, cá\nnhân được phân cấp theo quy định tại Thông tư này.\n4. Nguyên tắc thực hiện kiểm tra\na) Đảm bảo không chồng chéo về nội dung, đối tượng, thời kỳ kiểm tra\ngiữa các đơn vị và không chồng chéo với các cơ quan có chức năng quản lý nhà\nnước về kế hoạch thanh tra, kiểm tra, kiểm toán;\nb) Đảm bảo tính độc lập, trung thực, khách quan, công khai và minh\nbạch; đúng trình tự, nội dung, thời gian theo quy định;\nc) Việc kiểm tra không làm cản trở hoạt động bình thường của đối tượng\nđược kiểm tra, giám sát và cơ quan, tổ chức, cá nhân khác;\nd) Việc kiểm tra phải được lập thành Biên bản ghi nhận đầy đủ thông tin,\nkịp thời xử lý hoặc kiến nghị cơ quan có thẩm quyền xử lý theo quy định pháp luật.\n19"
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "11",
+                            "title": "Xử lý vi phạm và bồi thường thiệt hại",
+                            "position": 33605,
+                            "children": [],
+                            "content": "Điều 11. Xử lý vi phạm và bồi thường thiệt hại\n1. Cơ quan, tổ chức, cá nhân thực hiện không đúng quy định về phân cấp thẩm quyền theo quy định tại Thông tư này hoặc thực hiện không đúng các quy định pháp luật chuyên ngành có liên quan thì bị xử lý như sau:\na) Có trách nhiệm giải trình theo yêu cầu của cơ quan, tổ chức, cá nhân quản lý trực tiếp, cơ quan cấp trên, cơ quan thanh tra, kiểm tra, kiểm toán, giám sát và cơ quan quản lý nhà nước chuyên ngành;\nb) Bồi thường một phần hoặc toàn bộ thiệt hại theo quy định pháp luật;\nc) Tùy theo mức độ vi phạm bị xử lý theo quy định pháp luật.\n2. Người đứng đầu cơ quan, tổ chức không trực tiếp vi phạm nhưng để xảy ra tình trạng thực hiện không đúng quy định về phân cấp theo quy định tại Thông tư này thì bị xử lý như sau:\na) Có trách nhiệm giải trình theo yêu cầu của cơ quan, tổ chức, cá nhân cấp trên, cơ quan thanh tra, kiểm tra, kiểm toán, giám sát và cơ quan quản lý nhà nước chuyên ngành;\nb) Tùy theo mức độ bị xử lý theo quy định của pháp luật."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "12",
+                            "title": "Tạm dừng việc thực hiện thẩm quyền đã phân cấp",
+                            "position": 34605,
+                            "children": [],
+                            "content": "Điều 12. Tạm dừng việc thực hiện thẩm quyền đã phân cấp\nBộ trưởng Bộ Tài chính quyết định tạm dừng việc thực hiện thẩm quyền đã phân cấp cho các đơn vị trong các trường hợp sau:\n1. Đơn vị xảy ra tình trạng mất đoàn kết nội bộ, không đảm bảo yêu cầu để phân cấp.\n2. Các trường hợp khác do Bộ trưởng Bộ Tài chính quyết định."
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "IV",
+                    "title": "ĐIỀU KHOẢN THI HÀNH, ĐIỀU KHOẢN CHUYỂN TIẾP",
+                    "position": 34928,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "13",
+                            "title": "Quy định chuyển tiếp",
+                            "position": 34982,
+                            "children": [],
+                            "content": "Điều 13. Quy định chuyển tiếp\n1. Đối với các quyết định chủ trương đầu tư, quyết định đầu tư, quyết toán dự án hoàn thành và nhiệm vụ kế hoạch đã được cấp có thẩm quyền phê duyệt theo đúng quy định pháp luật trước ngày Thông tư này có hiệu lực thì không phải điều chỉnh lại các quyết định đã ban hành trong trường hợp có sự thay đổi về thẩm quyền quyết định theo quy định tại Thông tư này. Việc thực hiện các bước tiếp theo (bao gồm cả trường hợp điều chỉnh) áp dụng các quy định về thẩm quyền tại Thông tư này.\n2. Đối với việc mua sắm tài sản, hàng hóa, dịch vụ, vật tiêu hao (bao gồm tài sản, hàng hóa, dịch vụ công nghệ thông tin) đã phê duyệt kế hoạch lựa chọn nhà thầu theo đúng quy định pháp luật trước ngày Thông tư này có hiệu lực thì không phải điều chỉnh lại các văn bản đã ban hành trong trường hợp có sự thay đổi về thẩm quyền quy định tại Thông tư này. Việc thực hiện các bước tiếp theo (bao gồm cả trường hợp điều chỉnh) thực hiện theo quy định của Thông tư này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "14",
+                            "title": "Hiệu lực thi hành",
+                            "position": 35959,
+                            "children": [],
+                            "content": "Điều 14. Hiệu lực thi hành\n1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2025.\n2. Khi các văn bản dẫn chiếu để áp dụng tại Thông tư này được sửa đổi, bổ sung hoặc thay thế bằng văn bản mới thì áp dụng theo các văn bản sửa đổi, bổ sung hoặc thay thế.\n3. Trong quá trình thực hiện nếu có khó khăn vướng mắc, đề nghị các cơ quan, đơn vị phản ánh về Bộ Tài chính (Vụ Pháp chế) để nghiên cứu giải quyết./"
+                        }
+                    ]
+                }
+            ],
+            "metadata": {
+                "total_units": 18,
+                "total_articles": 14,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 2
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [],
+            "replaces": [],
+            "mentions": [],
+            "abolished": [],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "replaces": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": []
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "Luật Quản Ịý, sử dụng tài sàn công",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "Luật Đầu tư công",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "Luật Tô chức Chỉnh phù",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "98/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "73/2019/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "151/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "50/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "77/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "155/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "15/2025/QĐ-TTg",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "57/2024/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "166/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "63/2025/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "58/2024/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "114/2024/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "82/2024/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "62/2020/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "21/2017/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "15/2017/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "83/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "66/2025/TT-BTC",
+            "target_id": "50/2014/QH13",
+            "properties": {},
+            "_crawled": true
+        }
+    ]
+}

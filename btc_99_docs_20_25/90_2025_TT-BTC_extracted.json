@@ -1,0 +1,430 @@
+{
+    "file_name": "90_2025_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "90/2025/TT-BTC",
+        "title": "Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thăm quan Bảo tàng Lịch sử Quân sự Việt Nam",
+        "promulgationDate": "2025-09-18",
+        "effectiveDate": "2025-09-18",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Cao Anh Tuấn",
+        "draftingUnit": "Cục quản lý, giám sát Chính sách thuế, phí & lệ phí",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:17Z",
+        "_doc_id": "488661"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "Luật Phỉ và lệ phí",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "Luật Ngân sách nhà nước",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "Luật Quản ìỷ thuế",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "Luật Di sán văn hỏa",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "120/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "126/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "11/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "123/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "120/2016/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "126/2020/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "123/2020/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "70/2025/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "166/2025/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "74/2022/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "90_2025_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "90/2025/TT-BTC",
+        "dates": {
+            "promulgation_date": "2025-09-18",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Phạm vi điều chỉnh và đối tượng áp dụng",
+                    "position": 0,
+                    "children": [],
+                    "content": "1. Phạm vi điều chỉnh\nThông tư này quy định về mức thu, chế độ thu, nộp, quản lý và sử dụng\nphí thăm quan Bảo tàng Lịch sử Quân sự Việt Nam.\n2. Đối tượng áp dụng\nThông tư này áp dụng đối với người nộp phí, tổ chức thu phí thăm quan\nBảo tàng Lịch sử Quân sự Việt Nam và các tổ chức, cá nhân khác có liên quan\nđến thu, nộp, quản lý và sử dụng phí thăm quan Bảo tàng Lịch sử Quân sự Việt\nNam."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Người nộp phí và tổ chức thu phí",
+                    "position": 437,
+                    "children": [],
+                    "content": "Điều 2. Người nộp phí và tổ chức thu phí\n1. Tổ chức, cá nhân thăm quan Bảo tàng Lịch sử Quân sự Việt Nam phải\nnộp phí thăm quan Bảo tàng Lịch sử Quân sự Việt Nam, trừ các trường hợp\nđược miễn phí theo quy định tại khoản 1 Điều 4 Thông tư này.\n2. Bảo tàng Lịch sử Quân sự Việt Nam là tổ chức thu phí."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "3",
+                    "title": "Mức thu phí",
+                    "position": 737,
+                    "children": [],
+                    "content": "Điều 3. Mức thu phí\nMức thu phí thăm quan Bảo tàng Lịch sử Quân sự Việt Nam là 40.000\nđồng/người/lượt."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "4",
+                    "title": "Các trường hợp được miễn, giảm phí",
+                    "position": 840,
+                    "children": [],
+                    "content": "Điều 4. Các trường hợp được miễn, giảm phí\n1. Miễn phí thăm quan Bảo tàng Lịch sử Quân sự Việt Nam đối với các\ntrường hợp sau:\na) Trẻ em theo quy định của pháp luật về trẻ em;\nb) Người cao tuổi từ 80 tuổi trở lên;\nc) Người khuyết tật đặc biệt nặng theo quy định của pháp luật về người\nkhuyết tật;\nd) Người được hưởng chính sách ưu đãi hưởng thụ văn hoá theo quy định\ncủa pháp luật bao gồm: Người tàn tật, người già cô đơn; các đối tượng được\nchăm sóc tại cơ sở bảo trợ xã hội; học sinh các trường phổ thông dân tộc nội trú;\ne) Người có công với cách mạng theo quy định của pháp luật về ưu đãi\nngười có công với cách mạng;\nf) Cựu chiến binh theo quy định của pháp luật về cựu chiến binh;\ng) Khách dồi ngoại của các cơ quan Đảng, Nhà nước, Chính phủ, Quốc\nhội theo phê duyệt của Bộ trưởng Bộ Quốc phòng, Chủ nhiệm Tổng cục Chính\ntrị Quân đội nhân dân Việt Nam;\nh) Sĩ quan Quân đội nhân dân Việt Nam, quân nhân chuyên nghiệp, hạ sĩ\nquan, binh sĩ, công nhân và viên chức quốc phòng theo phê duyệt của Bộ trưởng\nBộ Quốc phòng, Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam.\n2. Giảm 50% mức phí thăm quan Bảo tàng Lịch sử Việt Nam đối với các trường hợp sau:\na) Người từ đủ 16 tuổi đến dưới 18 tuổi;\nb) Sinh viên, học sinh, học viên các trường đại học, cao đẳng, trung cấp và trung tâm giáo dục nghề nghiệp;\nc) Người cao tuổi từ 60 tuổi đến dưới 80 tuổi;\nd) Người khuyết tật nặng theo quy định của pháp luật về người khuyết tật;\nd) Người cư trú tại các xã đặc biệt khó khăn, đồng bào dân tộc thiểu số ở xã biên giới, xã an toàn khu theo quy định của pháp luật.\nTrường hợp đối tượng thuộc diện hưởng từ hai chính sách giảm phí trở lên quy định tại khoản 2 Điều này thì chỉ được giảm 50% mức thu phí thăm quan Bảo tàng Lịch sử Việt Nam.\nNgười nộp phí xuất trình Thẻ Căn cước hoặc Thẻ Căn cước công dân hoặc Chứng minh nhân dân hoặc Giấy xác nhận thông tin về cư trú hoặc Giấy thông báo số định danh cá nhân hoặc thông tin công dân trong Cơ sở dữ liệu quốc gia về dân cư; thẻ sinh viên, học sinh, học viên do các nhà trường thuộc hệ thống giáo dục quốc dân ở Việt Nam cấp để xác định đối tượng được miễn giảm phí theo độ tuổi, nơi cư trú, sinh viên, học sinh, học viên quy định tại khoản 1, khoản 2 Điều này."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "5",
+                    "title": "Kê khai, thu, nộp phí",
+                    "position": 3050,
+                    "children": [],
+                    "content": "Điều 5. Kê khai, thu, nộp phí\n1. Đối với người nộp phí\nNgười nộp phí thực hiện nộp phí cho tổ chức thu phí theo mức thu quy định tại Điều 3 Thông tư này theo hình thức quy định tại Thông tư số 74/2022/TT-BTC ngày 22 tháng 12 năm 2022 của Bộ trưởng Bộ Tài chính quy định về hình thức, thời hạn thu, nộp, kê khai các khoản phí, lệ phí thuộc thẩm quyền quy định của Bộ Tài chính.\n2. Đối với tổ chức thu phí\na) Chậm nhất là ngày 05 hàng tháng, tổ chức thu phí gửi số tiền phí đã thu của tháng trước vào tài khoản phí chờ nộp ngân sách mở tại Kho bạc Nhà nước.\nb) Tổ chức thu phí thực hiện kê khai, thu, nộp và quyết toán phí theo quy định tại Thông tư số 74/2022/TT-BTC."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "6",
+                    "title": "Quản lý và sử dụng phí",
+                    "position": 3717,
+                    "children": [],
+                    "content": "Điều 6. Quản lý và sử dụng phí\nTổ chức thu phí được đề lại 90% số tiền phí thu được để trang trải chi phí hoạt động, cung cấp dịch vụ, thu phí theo quy định tại khoản 4 Điều 1 Nghị định số 82/2023/NĐ-CP ngày 28 tháng 11 năm 2023 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 120/2016/NĐ-CP ngày 23 tháng 8 năm 2016 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Phí và\nlệ phí; nộp 10% số tiền phí thu được vào ngân sách nhà nước theo Chương, mục,\ntiểu mục tương ứng của Mục lục ngân sách nhà nước hiện hành."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "7",
+                    "title": "Điều khoản thi hành",
+                    "position": 4267,
+                    "children": [],
+                    "content": "Điều 7. Điều khoản thi hành\n1. Thông tư này có hiệu lực kể từ ngày 18 tháng 9 năm 2025.\n2. Các nội dung khác liên quan đến việc thu, nộp, quản lý, sử dụng, chứng\ntử thu, công khai chế độ thu phí không quy định tại Thông tư này được thực hiện\ntheo quy định pháp luật về phí, lệ phí, quản lý thuế, thủ tục hành chính thuộc\nlĩnh vực Kho bạc Nhà nước.\n3. Trường hợp các văn bản liên quan viện dẫn tại Thông tư này được sửa\nđổi, bổ sung hoặc thay thế thì thực hiện theo văn bản sửa đổi, bổ sung hoặc thay\nthế đó.\n4. Trong quá trình thực hiện, trường hợp có vướng mắc, đề nghị các tổ\nchức, cá nhân phản ánh kịp thời về Bộ Tài chính đề nghiên cứu, hướng dẫn bổ\nsung./."
+                }
+            ],
+            "metadata": {
+                "total_units": 7,
+                "total_articles": 7,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 1
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [],
+            "replaces": [],
+            "mentions": [],
+            "abolished": [],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 3,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "120/2016/NĐ-CP",
+                    "123/2020/NĐ-CP",
+                    "126/2020/NĐ-CP"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "replaces": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 4,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "166/2025/NĐ-CP",
+                    "29/2025/NĐ-CP",
+                    "70/2025/NĐ-CP",
+                    "74/2022/TT-BTC"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "[amends] LLM thiếu target so với crawl: ['120/2016/NĐ-CP', '123/2020/NĐ-CP', '126/2020/NĐ-CP']",
+            "[mentions] LLM thiếu target so với crawl: ['166/2025/NĐ-CP', '29/2025/NĐ-CP', '70/2025/NĐ-CP', '74/2022/TT-BTC']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "Luật Phỉ và lệ phí",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "Luật Ngân sách nhà nước",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "Luật Quản ìỷ thuế",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "Luật Di sán văn hỏa",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "120/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "126/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "11/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "123/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "120/2016/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "126/2020/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "123/2020/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "70/2025/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "166/2025/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "90/2025/TT-BTC",
+            "target_id": "74/2022/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ]
+}

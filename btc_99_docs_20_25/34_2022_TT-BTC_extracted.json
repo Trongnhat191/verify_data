@@ -1,0 +1,216 @@
+{
+    "file_name": "34_2022_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "34/2022/TT-BTC",
+        "title": "Bãi bỏ Quyết định số 83/2005/QĐ-BTC ngày 28 tháng 11 năm 2005 của Bộ trưởng Bộ Tài chính ban hành Tiêu chuẩn Giám đốc Sở Tài chính thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương",
+        "promulgationDate": "2022-06-10",
+        "effectiveDate": "2022-08-01",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Hồ Đức Phớc",
+        "draftingUnit": "Vụ Tổ chức Cán bộ",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:21Z",
+        "_doc_id": "107850"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "34/2022/TT-BTC",
+            "target_id": "154/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "34/2022/TT-BTC",
+            "target_id": "107/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "34/2022/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "34/2022/TT-BTC",
+            "target_id": "34/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "34/2022/TT-BTC",
+            "target_id": "80/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "34/2022/TT-BTC",
+            "target_id": "83/2005/QĐ-BTC",
+            "properties": {},
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "34_2022_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": null,
+        "dates": {
+            "promulgation_date": "2022-06-10",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Bãi bỏ toàn bộ văn bản quy phạm pháp luật",
+                    "position": 0,
+                    "children": [],
+                    "content": "Bãi bỏ toàn bộ Quyết định số 83/2005/QĐ-BTC ngày 28 tháng 11 năm\n2005 của Bộ trưởng Bộ Tài chính về việc Ban hành Tiêu chuẩn Giám đốc Sở\nTài chính thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương.",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Tổ chức thực hiện",
+                    "position": 257,
+                    "children": [],
+                    "content": "Điều 2. Tổ chức thực hiện\n1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 8 năm 2022.\n2. Vụ trưởng Vụ Tổ chức cán bộ, Thủ trưởng các đơn vị thuộc Bộ Tài chính và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./."
+                }
+            ],
+            "metadata": {
+                "total_units": 2,
+                "total_articles": 2,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 1,
+                "depth": 1
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [],
+            "replaces": [],
+            "mentions": [],
+            "abolished": [
+                {
+                    "official_number_target": "83/2005/QĐ-BTC",
+                    "date_abolished": "2022-08-01",
+                    "affected_details": [
+                        "Toàn văn"
+                    ]
+                }
+            ],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": null,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "replaces": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 1,
+                "llm_count": 1,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": []
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "34/2022/TT-BTC",
+            "target_id": "154/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "34/2022/TT-BTC",
+            "target_id": "107/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "34/2022/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "34/2022/TT-BTC",
+            "target_id": "34/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "34/2022/TT-BTC",
+            "target_id": "80/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "34/2022/TT-BTC",
+            "target_id": "83/2005/QĐ-BTC",
+            "properties": {
+                "date_abolished": "2022-08-01",
+                "affected_details": [
+                    "Toàn văn"
+                ]
+            },
+            "_crawled": true
+        }
+    ]
+}

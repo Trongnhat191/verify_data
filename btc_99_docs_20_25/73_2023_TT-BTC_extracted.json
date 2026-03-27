@@ -1,0 +1,239 @@
+{
+    "file_name": "73_2023_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "73/2023/TT-BTC",
+        "title": "Sửa đổi, bổ sung một số điều của Thông tư số 117/2020/TT-BTC ngày 31 tháng 12 năm 2020 của Bộ trưởng Bộ Tài chính quy định phương pháp tính khoản thu trái pháp luật, số lợi bất hợp pháp có được do thực hiện hành vi vi phạm pháp luật về chứng khoán và thị trường chứng khoán",
+        "promulgationDate": "2023-12-19",
+        "effectiveDate": "2024-02-05",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Nguyễn Đức Chi",
+        "draftingUnit": "Uỷ ban Chứng khoán Nhà nước",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:19Z",
+        "_doc_id": "194349"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "73/2023/TT-BTC",
+            "target_id": "118/2021/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "73/2023/TT-BTC",
+            "target_id": "14/2023/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "73/2023/TT-BTC",
+            "target_id": "128/2021/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "73/2023/TT-BTC",
+            "target_id": "67/2020/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "73/2023/TT-BTC",
+            "target_id": "156/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "73/2023/TT-BTC",
+            "target_id": "54/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "73/2023/TT-BTC",
+            "target_id": "15/2012/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "73/2023/TT-BTC",
+            "target_id": "73/2023/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "73_2023_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "73/2023/TT-BTC",
+        "dates": {
+            "promulgation_date": "2023-12-19",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Sửa đổi, bổ sung một số điều của Thông tư số 117/2020/TT-",
+                    "position": 1,
+                    "children": [],
+                    "content": "Điều 1. Sửa đổi, bổ sung một số điều của Thông tư số 117/2020/TT-\nBTC ngày 31 tháng 12 năm 2020 của Bộ trưởng Bộ Tài chính quy định\nphương pháp tính khoản thu trái pháp luật, số lợi bất hợp pháp có được do\nthực hiện hành vi vi phạm pháp luật về chứng khoán và thị trường chứng\nkhoán\n1. Sửa đổi, bổ sung điểm d khoản 3 Điều 3 như sau:\n“d) Khoản thu trái pháp luật đối với trường hợp trong thời kỳ thao tùng\nthị trường chứng khoán có điều chỉnh về giá chứng khoán được tính bằng tổng\nkhoản thu trái pháp luật trong các giai đoạn trước thời điểm điều chỉnh về giá\n/ngày giao dịch không hưởng quyền) và khoản thu trái pháp luật trong giai đoạn\nsau khi điều chỉnh về giá.\nKhoản thu trái pháp luật trong giai đoạn trước thời điểm điều chỉnh về giá\nvà khoản thu trái pháp luật trong giai đoạn sau khi điều chỉnh về giá được tính\ntheo công thức quy định tại khoản này. Đối với trường hợp tổng khối lượng\nchứng khoán bán ra lớn hơn tổng khối lượng chứng khoán mua vào trong giai\nđoạn sau khi điều chỉnh giá, giá của khối lượng chứng khoán chênh lệch quy\nđịnh tại điểm c khoản này là giá mua bình quân trong giai đoạn trước ngày giao\ndịch không hưởng quyền được điều chỉnh giá theo công thức sau:\nP'=(P+Pa*a-C)/(1+a+b)\nTrong đó:\nP': giá của khối lượng chứng khoán chênh lệch quy định tại điểm c khoản\nnày.\nP: giá mua bình quân cổ phiếu trong giai đoạn trước ngày giao dịch không\nhưởng quyền.\nPa: giá cổ phiếu phát hành thêm cho quyền mua ưu đãi.\na: tỷ lệ cổ phiếu phát hành thêm cho quyền mua ưu đãi.\nb: tỷ lệ chia cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu.\nC: cổ tức bằng tiền.\".\n2. Sửa đổi, bổ sung điểm h khoản 3 Điều 4 như sau:\n“h) Số lợi bất hợp pháp có được do thực hiện hành vi che giấu thông tin\nvề quyền sở hữu thực sự đối với một hoặc một số chứng khoán để trốn tránh\nhoặc để hỗ trợ người khác trốn tránh nghĩa vụ công bố thông tin hoặc chào mua\ncông khai hoặc quy định về tỷ lệ sở hữu nước ngoài trên thị trường chứng khoán\nViệt Nam quy định tại khoản 4 Điều 34 Nghị định số 156/2020/NĐ-CP được\nsửa đổi, bổ sung theo quy định tại khoản 28 Điều 1 Nghị định số 128/2021/NĐ-\nCP ngày 30 tháng 12 năm 2021 của Chính phủ sửa đổi, bổ sung một số điều của\nNghị định số 156/2020/NĐ-CP được tính như sau:\n- Đối với tổ chức, cá nhân thực hiện hành vi che giấu thông tin về quyền sở\n3\nhữu thực sự đối với một hoặc một số chứng khoán để trốn tránh nghĩa vụ công bố thông tin theo quy định hoặc nghĩa vụ phải tuân thủ trong thực hiện chào mua công khai hoặc quy định phải tuân thủ về tỷ lệ sở hữu nước ngoài trên thị trường chứng khoán Việt Nam, số lợi bất hợp pháp mà tổ chức, cá nhân vi phạm có được do thực hiện hành vi vi phạm là toàn bộ số tiền, chứng khoán và khoản lợi ích khác phát sinh từ số chứng khoán che giấu quyền sở hữu thực sự.\n- Đối với tổ chức, cá nhân thực hiện hành vi nhằm hỗ trợ người khác che giấu thông tin về quyền sở hữu thực sự đối với một hoặc một số chứng khoán để trốn tránh thực hiện nghĩa vụ công bố thông tin hoặc chào mua công khai hoặc quy định về tỷ lệ sở hữu nước ngoài trên thị trường chứng khoán Việt Nam, số lợi bất hợp pháp mà tổ chức, cá nhân vi phạm có được do thực hiện hành vi vi phạm là toàn bộ số tiền, chứng khoán và khoản lợi ích liên quan đến số tiền, chứng khoán này phát sinh từ hành vi vi phạm, được xác định trên cơ sở hợp đồng hoặc thỏa thuận giữa các bên;\";",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Điều khoản thi hành",
+                    "position": 3313,
+                    "children": [],
+                    "content": "Điều 2. Điều khoản thi hành\n1. Thông tư này có hiệu lực từ ngày 05 tháng 02 năm 2024.\n2. Đối với hành vi vi phạm xảy ra trước thời điểm Thông tư này có hiệu lực thi hành mà bị phát hiện hoặc đang trong quá trình xem xét ra quyết định xử phạt vi phạm hành chính hoặc xem xét ra quyết định áp dụng biện pháp khắc phục hậu quả khi Thông tư này đã có hiệu lực thì áp dụng quy định tại Thông tư này nếu Thông tư này quy định trách nhiệm pháp lý nhẹ hơn.\n3. Trong quá trình thực hiện, nếu phát sinh vướng mắc đề nghị các cơ quan, tổ chức, đơn vị kịp thời phản ánh về Bộ Tài chính để xem xét, giải quyết./."
+                }
+            ],
+            "metadata": {
+                "total_units": 2,
+                "total_articles": 2,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 1,
+                "depth": 1
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [],
+            "replaces": [],
+            "mentions": [],
+            "abolished": [],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 1,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "73/2023/TT-BTC"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "replaces": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "[amends] LLM thiếu target so với crawl: ['73/2023/TT-BTC']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "73/2023/TT-BTC",
+            "target_id": "118/2021/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "73/2023/TT-BTC",
+            "target_id": "14/2023/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "73/2023/TT-BTC",
+            "target_id": "128/2021/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "73/2023/TT-BTC",
+            "target_id": "67/2020/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "73/2023/TT-BTC",
+            "target_id": "156/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "73/2023/TT-BTC",
+            "target_id": "54/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "73/2023/TT-BTC",
+            "target_id": "15/2012/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "73/2023/TT-BTC",
+            "target_id": "73/2023/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ]
+}

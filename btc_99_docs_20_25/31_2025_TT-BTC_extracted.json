@@ -1,0 +1,414 @@
+{
+    "file_name": "31_2025_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "31/2025/TT-BTC",
+        "title": "Sửa đổi, bổ sung một số điều của Thông tư số 23/2021/TT-BTC ngày 30 tháng 3 ăm 2021 của Bộ trưởng Bộ Tài chính hướng dẫn việc in, phát hành, quản lý và sử dụng tem điện tử rượu và tem điện tử thuốc lá.",
+        "promulgationDate": "2025-05-31",
+        "effectiveDate": "2025-06-01",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Cao Anh Tuấn",
+        "draftingUnit": "Cục Hải quan; Cục Thuế",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:19Z",
+        "_doc_id": "468119"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "Luật Quản lý thuế",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "Luật Giao dịch điện tử sô",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "Luật Công nghệ thông tin",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "67/20I3/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "17/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "20/2023/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "70/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "123/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "38/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "105/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "106/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "67/2013/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "67/2006/QH11",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "23/2021/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "106/2017/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "123/2020/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "70/2025/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "31_2025_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "31/2025/TT-BTC",
+        "dates": {
+            "promulgation_date": "2025-05-31",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Sửa đổi, bổ sung một số điều của Thông tư số 23/2021/TT-BTC",
+                    "position": 0,
+                    "children": [],
+                    "content": "ngày 30 tháng 3 năm 2021 của Bộ trưởng Bộ Tài chính như sau:\n1. Sửa đổi, bổ sung điểm a, điểm b khoản 4 Điều 3 như sau:\n“4. Đơn vị thực hiện dán tem điện tử\na) Doanh nghiệp, tổ chức nhập khẩu sản phẩm rượu đóng chai, rượu thành phẩm dạng thùng, tách nhập khẩu về sang, chiết ra chai hoặc nhập khẩu sản phẩm thuốc lá có nhu cầu dán tem điện tử trong quá trình làm thủ tục nhập khẩu hoặc sau khi đã hoàn thành thủ tục nhập khẩu thì phải thực hiện dán tem điện tử theo đúng quy định tại Thông tư này và tự chịu trách nhiệm việc dán tem điện tử trước khi đưa ra thị trường tiêu thụ.\nb) Trường hợp doanh nghiệp, tổ chức nhập khẩu sản phẩm rượu đóng chai hoặc nhập khẩu sản phẩm thuốc lá có nhu cầu dán tem điện tử tại cơ sở sản xuất ở nước ngoài thì phải đảm bảo việc dán tem điện tử theo đúng quy định tại Thông tư này trước khi nhập khẩu vào lãnh thổ Việt Nam.\"\n2. Sửa đổi, bổ sung Điều 5 như sau:\na) Sửa đổi, bổ sung khoản 2 Điều 5 như sau:\n“2. In, phát hành tem\na) Cục Hải quan chịu trách nhiệm in, cấp tem điện tử cho Chi cục Hải quan khu vực sử dụng theo nhu cầu của các đơn vị đã đăng ký theo định kỳ hàng năm.\nb) Chi cục Hải quan khu vực thực hiện bán tem điện tử cho doanh nghiệp, tổ chức đã hoàn thành trách nhiệm theo quy định tại điểm b khoản 3 Điều này.\nc) Toàn bộ tem điện tử trước khi đưa vào sử dụng phải được Cục Hải quan thông báo phát hành trên Cổng thông tin điện tử Cục Hải quan (địa chỉ: https://customs.gov.vn). Nội dung thông báo phát hành bao gồm: Tên tem, mẫu/ký hiệu tem, số lượng, số seri, thời gian bắt đầu sử dụng, giá bán.”\nb) Sửa đổi, bổ sung khoản 3 Điều 5 như sau:\n“3. Mua, bán tem điện tử thuốc lá, tem điện tử rượu\na) Trách nhiệm của cơ quan hải quan\nCục Hải quan thông báo và cập nhật khi có thay đổi giá bán tem điện tử trên Công thông tin điện tử Cục Hải quan (địa chỉ: https://customs.gov.vn).\nChi cục Hải quan khu vực thực hiện bán tem điện tử cho doanh nghiệp, tổ chức theo đề nghị của doanh nghiệp, tổ chức đảm bảo đầy đủ hồ sơ mua tem điện tử theo quy định và lũy kế số tem bán (của toàn ngành) không vượt quá số tem được cơ quan hải quan phê duyệt.\nb) Trách nhiệm của doanh nghiệp, tổ chức khi mua tem điện tử thuốc lá, tem điện tử rượu\n- Nộp 01 đơn đề nghị mua tem điện tử rượu/tem điện tử thuốc lá nhập khẩu theo Mẫu số 09/TI:M, Phụ lục 6 ban hành kèm theo Thông tư này đến Hệ thống xử lý dữ liệu điện tử hải quan hoặc nộp bản giấy trong trường hợp Hệ thống gặp sự cố;\n3\n- Thanh toán tiền mua tem, nhận tem, quản lý và sử dụng tem theo đúng quy định tại Thông tư này.”\nc) Sửa đổi, bổ sung tại khoản 4 Điều 5 như sau:\n“4. Báo cáo tình hình sử dụng tem\nDoanh nghiệp, tổ chức mua tem điện tử thực hiện khai báo, gửi dữ liệu thông tin về tem điện tử: Tổng số lượng tem đưa vào dán, số lượng tem dán thành công, số lượng tem bị hỏng, tên tem, ký hiệu mẫu số tem, ký hiệu tem, tên đơn vị nhập khẩu, mã số thuế đơn vị nhập khẩu, tên đơn vị sản xuất, ngày sản xuất... về Hệ thống xử lý dữ liệu điện tử hải quan theo Mẫu số 12/TEM, Phụ lục 6 ban hành kèm theo Thông tư này.\na) Thời hạn gửi dữ liệu thông tin về tem điện tử cụ thể như sau:\nTrong thời gian năm (05) ngày kể từ ngày hoàn thành việc dán tem điện tử cho lô hàng và trước khi đưa sản phẩm ra thị trường tiêu thụ đối với sản phẩm rượu, thuốc lá nhập khẩu; hoặc sau khi thông quan và trước khi đưa sản phẩm ra thị trường tiêu thụ đối với sản phẩm rượu, thuốc lá nhập khẩu được dán tem tại cơ sở sản xuất ở nước ngoài.\nb) Trường hợp bảng tổng hợp dữ liệu tem điện tử đã gửi cơ quan hải quan có sai, sót hoặc cần bổ sung thì ngay sau khi phát hiện sai, sót hoặc cần bổ sung (đảm bảo không quá năm (05) ngày kể từ ngày hoàn thành gửi dữ liệu thông tin về tem) người khai hải quan gửi lại bảng đã tổng hợp dữ liệu tem điện tử thay thế bảng tổng hợp dữ liệu tem điện tử có sai, sót hoặc cần bổ sung đã gửi theo Mẫu số 12/TEM, Phụ lục 6 ban hành kèm theo Thông tư này.\nVới tem điện tử bị hỏng trong tổng số tem điện tử được doanh nghiệp, tổ chức khai báo, khi tra cứu hệ thống của Cục Hải quan sẽ xác định con tem điện tử đó không có giá trị sử dụng.\nc) Trường hợp Hệ thống xử lý dữ liệu điện tử hải quan gặp sự cố, sau khi hoàn thành việc dán tem điện tử cho hàng hoá, doanh nghiệp, tổ chức lập báo cáo sử dụng tem điện tử theo Mẫu số 12/TEM, Phụ lục 6 ban hành kèm theo Thông tư này và gửi đến Chi cục Hải quan khu vực cấp bản tem điện tử.\nTrong thời hạn 05 ngày kể từ ngày cơ quan hải quan thông báo Hệ thống được khắc phục sự cố, doanh nghiệp, tổ chức thực hiện khai báo, gửi dữ liệu thông tin về tem điện tử về Hệ thống xử lý dữ liệu điện tử hải quan theo quy định.\"\nd) Sửa đổi, bổ sung khoản 5 Điều 5 như sau:\n“5. Tra cứu thông tin về tem điện tử\nKhi người sử dụng sản phẩm thuốc lá, sản phẩm rượu hoặc các cơ quan có liên quan có nhu cầu tra cứu các thông tin của tem điện tử thuốc lá, tem điện tử rượu đã dán lên sản phẩm thuốc lá, sản phẩm rượu nhập khẩu thì thực hiện quét mã QR hoặc\n4\ntruy cập trên Cổng thông tin điện tử Cục Hải quan (địa chỉ: https://customs.gov.vn).\nCác thông tin của tem điện tử thuốc lá nhập khẩu, tem điện tử rượu nhập khẩu trên mã QR đã dán lên sản phẩm thuốc lá nhập khẩu, sản phẩm rượu nhập khẩu bao gồm: Số seri tem; tên tem, ký hiệu mẫu, ký hiệu; tên đơn vị sản xuất; ngày sản xuất; tên đơn vị nhập khẩu; mã số thuế đơn vị nhập khẩu; tên sản phẩm; quy cách đóng gói; số tờ khai hải quan/số Quyết định; ngày đăng ký tờ khai/ngày Quyết định.\nd) Bổ sung khoản 7 Điều 5 như sau:\n“7. Thủ tục mua tem điện tử để dán tại cơ sở sản xuất ở nước ngoài trước khi nhập khẩu vào thị trường Việt Nam\nKhi vận chuyển tem điện tử ra cơ sở sản xuất tại nước ngoài để dán trên sản phẩm hàng hóa, căn cứ thời hạn giao hàng ghi trên hợp đồng mua bán, doanh nghiệp, tổ chức khai thời hạn tạm xuất tái nhập trên tờ khai hải quan và làm thủ tục hải quan tạm xuất tại cơ quan hải quan nơi thuận tiện.\nKhi nhập khẩu hàng hóa đã được dán tem, ngoài khai làm thủ tục nhập khẩu sản phẩm, hàng hoá theo loại hình tương ứng, doanh nghiệp phải khai tờ khai hải quan và làm thủ tục tái nhập số lượng tem tương ứng với số lượng sản phẩm hàng hóa đã được dán tem. Trường hợp chưa sử dụng hoặc chưa sử dụng hết số lượng tem đã làm thủ tục tạm xuất, doanh nghiệp chịu trách nhiệm lưu giữ để sử dụng cho số lượng sản phẩm hàng hóa còn lại trên hợp đồng mua bán, nếu điều chuyển sang hợp đồng mua bán khác thì phải thông báo lại cho cơ quan hải quan nơi bán tem biết và điều chỉnh thông tin mua tem trên Hệ thống.”\n3. Sửa đổi, bổ sung Điều 6 như sau:\na) Sửa đổi, bổ sung điểm a4 khoản 1 Điều 6 như sau:\n“a4. Thông báo tem điện tử thuốc lá, tem điện tử rượu không còn giá trị sử dụng do thay đổi chính sách về quản lý tem điện tử hoặc tem không còn giá trị sử dụng do mất, cháy, hỏng tại kho Cục Thuế.”\nb) Sửa đổi, bổ sung điểm b3 khoản 1 Điều 6 như sau:\n“b3. Về việc tiếp nhận hồ sơ đăng ký, sử dụng tem điện tử của tổ chức, cá nhân\nTrong thời gian 01 ngày làm việc, kể từ ngày Hệ thống thông tin giải quyết các thủ tục hành chính ngành thuế tiếp nhận thành công hồ sơ đăng ký, sử dụng tem điện tử của tổ chức, cá nhân theo quy định tại khoản 2 Điều này, cơ quan thuế gửi thông báo chấp nhận/không chấp nhận hồ sơ đăng ký, sử dụng tem điện tử theo Mẫu số 02/TB/TEM, Phụ lục 3 ban hành kèm theo Thông tư này cho tổ chức, cá nhân qua Hệ thống thông tin giải quyết các thủ tục hành chính ngành thuế (riêng\n5\ncác mẫu 04/TEM, 07/TEM, Hệ thống thông tin giải quyết các thủ tục hành chính\nngành thuế sẽ tự động trả thông báo).\n- Trường hợp không chấp nhận, cơ quan thuế thực hiện thông báo lý do\nkhông chấp nhận và hướng dẫn để tổ chức, cá nhân bổ sung hồ sơ theo quy định.\"\nc) Sửa đổi, bổ sung điểm b5 khoản 1 Điều 6 như sau:\n“b5. Các trường hợp cơ quan thuế thông báo tem điện tử thuốc lá, tem điện\ntừ rượu không còn giá trị sử dụng\n- Tem điện tử thuốc lá, tem điện từ rượu không còn giá trị sử dụng do mất,\ncháy, hỏng tại kho cơ quan thuế;\nRiêng đối với tem điện tử thuốc lá, tem điện từ rượu mất, cháy, hỏng không\ncòn giá trị sử dụng do tổ chức, cá nhân phải thực hiện báo cáo, thông báo với cơ\nquan thuế trên Hệ thống thông tin giải quyết các thủ tục hành chính ngành thuế\nthuộc các trường hợp quy định tại điểm e khoản 2 Điều này, cơ quan thuế không\nphải thực hiện thông báo tem điện tử thuốc lá, tem điện từ rượu không còn giá trị\nsử dụng.\n- Tem điện từ thuốc lá, tem điện từ rượu của tổ chức, cá nhân chấm dứt hiệu\nlực mã số thuế;\n- Tem điện từ thuốc lá, tem điện từ rượu của tổ chức, cá nhân thuộc trường\nhợp cơ quan thuế xác minh và thông báo không hoạt động tại địa chỉ đã đăng ký;\n- Tổ chức, cá nhân sử dụng tem điện từ thuốc lá, tem điện từ rượu trong\nthời gian thông báo với cơ quan quản lý nhà nước có thẩm quyền tạm ngừng sản\nxuất, kinh doanh;\n- Trường hợp có hành vi sử dụng tem điện tử để dán lên hàng nhập lậu,\nhàng cấm, hàng giả, hàng xâm phạm quyền sở hữu trí tuệ bị cơ quan chức năng\nphát hiện và thông báo cho cơ quan thuế;\n- Trường hợp cơ quan đăng ký kinh doanh, cơ quan nhà nước có thẩm quyền\nyêu cầu tổ chức, cá nhân ngừng sản xuất kinh doanh ngành, nghề kinh doanh có\nđiều kiện khi phát hiện tổ chức, cá nhân không có đủ điều kiện sản xuất, kinh\ndoanh rượu, thuốc lá theo quy định của pháp luật;\n- Tem điện từ thuốc lá, tem điện từ rượu của tổ chức, cá nhân có hành vi\ncho, bán;\n- Tem điện từ thuốc lá, tem điện từ rượu của tổ chức, cá nhân do cơ quan\nquản lý nhà nước thông báo sử dụng không đúng quy định.”\nd) Sửa đổi, bổ sung điểm c khoản 2 Điều 6 như sau:\n\"c) Mua tem điện tử thuốc lá, tem điện tử rượu\nc1. Căn cứ kế hoạch mua, kế hoạch mua bổ sung tem điện tử của năm kế\nhoạch đã đăng ký với cơ quan thuế quản lý trực tiếp, tổ chức, cá nhân sử dụng tài\nkhoản giao dịch điện tử còn hiệu lực đã được cơ quan thuế cấp, truy cập Hệ thống thông tin giải quyết các thủ tục hành chính ngành thuế để đăng ký mua tem điện tử theo Mẫu số 02/TB/TEM, Phụ lục 3 ban hành kèm theo Thông tư này.\nc2. Trong thời gian một (01) ngày làm việc, tổ chức, cá nhân nhận thông báo của cơ quan thuế qua phương thức điện tử theo Mẫu số 02/TB/TEM, Phụ lục 3 ban hành kèm theo Thông tư này về việc chấp nhận hay không chấp nhận đề nghị mua tem điện tử thuốc lá, tem điện tử rượu.\n- Trường hợp được chấp nhận, khi đến cơ quan thuế để mua, nhận tem điện từ thuốc lá, tem điện tử rượu, tổ chức, cá nhân thực hiện thanh toán tiền mua tem, nhận tem, quản lý và sử dụng tem theo đúng quy định tại Thông tư này.\n- Trường hợp không được chấp nhận, tổ chức, cá nhân bổ sung hồ sơ theo thông báo của cơ quan thuế trước khi thực hiện các thủ tục mua tem, nhận tem theo quy định.\nc3. Khi tổ chức, cá nhân xuất tem cho bộ phận sản xuất thì tổ chức, cá nhân phải quét mã QR gắn trên thùng tem hoặc block tem hoặc con tem, đồng thời nhập các dữ liệu: tên hàng hóa, thời gian sản xuất, đơn vị đo lường (lít đối với rượu, điều đối với thuốc lá), đơn giá bán sản phẩm, để đảm bảo kết nối thông tin về dữ liệu tem điện tử được truyền về Hệ thống quản lý tem điện tử.\nc4. Trường hợp kết thúc năm kế hoạch mà tổ chức, cá nhân không sử dụng hết số lượng tem điện tử thuốc lá hoặc tem điện tử rượu đã mua thì số lượng tem điện tử còn lại được tiếp tục sử dụng cho năm tiếp theo.\"\nd) Sửa đổi, bổ sung điểm d1 khoản 2 Điều 6 như sau:\n“đ1. Chậm nhất ngày 20 của tháng tiếp theo, tổ chức, cá nhân sử dụng tài khoản giao dịch điện tử còn hiệu lực đã được cơ quan thuế cấp, truy cập Hệ thống thông tin giải quyết các thủ tục hành chính ngành thuế để truyền dữ liệu thông tin của tem điện tử đã dán theo Mẫu số 07/TB/TEM, Phụ lục 3 ban hành kèm Thông tư này về Hệ thống thông tin giải quyết các thủ tục hành chính ngành thuế. Trường hợp ngày cuối cùng trùng với ngày nghỉ theo quy định của pháp luật thì ngày cuối cùng của thời hạn được tính là ngày làm việc liền kề sau ngày nghỉ đó. Trường hợp dữ liệu tem điện tử đã gửi cơ quan thuế có sai, sót hoặc cần bổ sung thì tổ chức, cá nhân gửi lại dữ liệu tem điện tử thay thế dữ liệu tem điện tử có sai, sót hoặc cần bổ sung.”\ne) Sửa đổi, bổ sung điểm d1, điểm d2 khoản 2 Điều 6 như sau:\n“đ1. Doanh nghiệp sản xuất sản phẩm thuốc lá hoặc tổ chức, cá nhân sản xuất rượu khi ngừng sản xuất, giải thể, phá sản, hợp nhất thực hiện quyết toán và hủy số tem điện tử đã mua còn tồn trong vòng năm (05) ngày làm việc kể từ ngày tổ chức, cá nhân thông báo ngừng sản xuất hoặc ngày Quyết định giải thể, phá sản, hợp nhất và gửi thông báo kết quả hủy theo Mẫu số 04/TB/TEM, Phụ lục 3 ban hành kèm Thông tư này về cơ quan thuế.\n7\nđ2. Tổ chức, cá nhân chia, tách, sáp nhập hoặc chuyển cơ quan thuế quản lý có nhu cầu tiếp tục sử dụng số tem còn tồn, sử dụng tài khoản giao dịch điện tử còn hiệu lực đã được cơ quan thuế cấp, truy cập Hệ thống thông tin giải quyết các thủ tục hành chính ngành thuế để đăng ký điều chỉnh số tem còn tồn tại tổ chức, cá nhân chia, tách, sáp nhập sang tên, mã số thuế của tổ chức, cá nhân sau chia, tách, sáp nhập theo Mẫu số 06/TEM, Phụ lục 3 ban hành kèm Thông tư này. Trường hợp không có nhu cầu tiếp tục sử dụng thì thực hiện quyết toán và hủy số tem còn tồn như điểm d1 nêu trên.\ng) Sửa đổi, bổ sung điểm e1, điểm e2, điểm e3 khoản 2 Điều 6 như sau:\n“e1. Trường hợp mất, cháy tem điện tử thuốc lá hoặc tem điện tử rượu: tổ chức, cá nhân phát hiện mất, cháy tem, sử dụng tài khoản giao dịch điện tử còn hiệu lực đã được cơ quan thuế cấp, truy cập Hệ thống thông tin giải quyết các thủ tục hành chính ngành thuế để lập báo cáo mất, cháy tem trên Hệ thống thông tin giải quyết các thủ tục hành chính ngành thuế chậm nhất không quá năm (05) ngày làm việc kể từ ngày phát hiện việc mất, cháy tem theo Mẫu số 04/TEM, Phụ lục 3 ban hành kèm Thông tư này. Trường hợp tìm lại được tem đã mất, tổ chức, cá nhân phải thực hiện hủy tem chậm nhất là năm (05) ngày kể từ ngày tìm lại được tem đã mất.\ne2. Trường hợp tem điện tử thuốc lá hoặc tem điện tử rượu sản xuất để tiêu thụ trong nước bị hỏng (tem bị hỏng tại kho, hỏng trong quá trình sản xuất là tem còn trạng thái vật lý nhưng không còn nguyên như mẫu tem quy định tại Thông tư số 23/2021/TT-BTC: tem bị rách, bị mờ ký tự,... hoặc tem không còn trạng thái vật lý: vỡ vụn thành nhiều mảnh, không còn thể hiện được các dấu hiệu định danh của tem gồm số seri và mã QR): doanh nghiệp sản xuất sản phẩm thuốc lá hoặc tổ chức, cá nhân sản xuất rượu tiêu thụ trong nước, phải thực hiện hủy tem điện tử thuốc lá hoặc tem điện tử rượu bị hỏng không còn trạng thái vật lý thì không phải thực hiện hủy tem. Trường hợp tem đã được dán lên sản phẩm, đã báo cáo sử dụng nhưng sau đó tem bị hỏng trong quá trình lưu thông hoặc sản phẩm không dùng được nữa và được nhà sản xuất thực hiện hủy sản phẩm: doanh nghiệp sản xuất sản phẩm thuốc lá hoặc tổ chức, cá nhân sản xuất rượu tiêu thụ trong nước, thực hiện hủy tem điện tử thuốc lá hoặc tem điện tử rượu. Tổ chức, cá nhân sử dụng tài khoản giao dịch điện tử còn hiệu lực đã được cơ quan thuế cấp, truy cập Hệ thống thông tin giải quyết các thủ tục hành chính ngành thuế để lập thông báo kết quả hủy tem điện tử rượu trên Hệ thống thông tin giải quyết các thủ tục hành chính ngành thuế chậm nhất không quá năm (05) ngày làm việc kể từ ngày huỷ tem hỏng theo Mẫu số 04/TEM, Phụ lục 3 ban hành kèm theo Thông tư này.\ne3. Tổ chức, cá nhân nhận thông báo của cơ quan thuế qua phương thức điện tử theo Mẫu số 02/TB/TEM, Phụ lục 3 ban hành kèm Thông tư này về việc chấp nhận hay không chấp nhận thông báo kết quả hủy tem điện tử, báo cáo mất tem điện tử.\nTrường hợp không được chấp nhận, tổ chức, cá nhân bổ sung hồ sơ theo\nhướng dẫn của cơ quan thuế, gửi lại Mẫu số 04/TEM, Phụ lục 3 ban hành kèm\nThông tư này bằng phương thức điện tử.\"\nh) Sửa đổi, bổ sung khoản 3 Điều 6 như sau:\n“3. Tra cứu, xác thực thông tin về tem điện tử thuốc lá hoặc tem điện tử\nrượu dán trên bao thuốc lá hoặc chai rượu sản xuất để tiêu thụ trong nước\nKhi người sử dụng sản phẩm thuốc lá, sản phẩm rượu hoặc các cơ quan có\nliên quan có nhu cầu tra cứu, xác thực các thông tin của tem điện tử thuốc lá, tem\nđiện tử rượu trên mã QR đã dán lên sản phẩm thuốc lá, sản phẩm rượu thì việc\ntruy cập và tra cứu được thực hiện trên Công thông tin điện tử ngành thuế. Các\nthông tin của tem điện tử thuốc lá, tem điện tử rượu bao gồm: tên loại tem, ký hiệu\ntem; tên, mã số thuế của đơn vị sản xuất sản phẩm thuốc lá, sản xuất rượu; tên cơ\nquan thuế bán tem điện tử, ngày bán tem điện tử; tên hàng hóa; thời gian sản xuất;\nđơn vị đo lường (lít đối với rượu, điển đối với thuốc lá); đơn giá bán sản phẩm.”\n4. Sửa đổi, bổ sung Điều 7 như sau:\n“Điều 7. Kinh phí in tem\nCơ quan hải quan thực hiện bán tem thuốc lá, rượu nhập khẩu cho các doanh\nnghiệp nhập khẩu sản phẩm thuốc lá, rượu. Cơ quan thuế thực hiện bán tem thuốc\nlá, rượu sản xuất để tiêu thụ trong nước cho các tổ chức, cá nhân có Giấy phép sản\nxuất sản phẩm thuốc lá, rượu (bao gồm Giấy phép sản xuất rượu thủ công nhằm\nmục đích kinh doanh, Giấy phép sản xuất rượu công nghiệp).\nGiá bán tem được xác định theo nguyên tắc bảo đảm bù đắp toàn bộ các chi\nphí, gồm chi phí in tem và nộp thuế theo quy định; không bao gồm chi phí đầu tư\nứng dụng công nghệ thông tin, công nghệ quản lý để tiếp nhận, tra cứu dữ liệu, quản\nlý tem điện tử, các chi phí này do ngân sách Nhà nước bảo đảm theo quy định của\npháp luật hiện hành.\nCục trưởng Cục Thuế, Cục trưởng Cục Hải quan quyết định giá bán tem đảm\nbảo nguyên tắc nêu trên và phù hợp với thực tế thực hiện theo từng thời kỳ, từng đợt\nin phát hành tem đáp ứng kế hoạch, đăng ký nhu cầu sử dụng của tổ chức, cá nhân\nđược phép sử dụng tem theo quy định.\nCục Thuế, Cục Hải quan được ngân sách Nhà nước bố trí kinh phí để in tem;\nsố tiền thu được từ bán tem (sau khi nộp thuế theo quy định) được nộp toàn bộ vào\nngân sách Nhà nước.”",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Thay thế, bãi bỏ một số từ, cụm từ, điểm, khoản, mẫu biểu",
+                    "position": 17555,
+                    "children": [],
+                    "content": "Điều 2. Thay thế, bãi bỏ một số từ, cụm từ, điểm, khoản, mẫu biểu\ncủa Thông tư số 23/2021/TT-BTC\n1. Thay thế cụm từ “Tổng cục Thuế” thành “Cục Thuế” tại điểm b khoản 1\nĐiều 4; điểm a, điểm b khoản 1 Điều 6 và tại các Mẫu biểu.\n9\nThay thế cụm từ “Cục Thuế tỉnh, thành phố trực thuộc trung ương”, “Cục Thuế các tỉnh, thành phố”, thành “Chi cục Thuế khu vực” tại điểm a, điểm b khoản 1 Điều 6.\nThay thế cụm từ “cơ quan thuế các tỉnh, thành phố trực thuộc Trung ương” thành “cơ quan thuế các cấp” tại điểm b khoản 1 Điều 6.\nThay thế cụm từ “Chi cục Thuế” thành “Đội Thuế cấp huyện” tại điểm b khoản 1 Điều 6.\nThay thế cụm từ “trang thông tin điện tử của Tổng cục Thuế”, “Cổng thông tin điện tử của Tổng cục Thuế” thành “Cổng thông tin điện tử ngành thuế” tại điểm a1 khoản 1 Điều 6.\nThay thế cụm từ “Cổng thông tin điện tử của Tổng cục Thuế” thành “Hệ thống thông tin giải quyết các thủ tục hành chính ngành thuế” tại khoản 1 Điều 3, điểm a3 khoản 1 Điều 6; điểm a, điểm b khoản 2 Điều 6; Phụ lục 1; Phụ lục 2.\n2. Thay thế cụm từ “Tổng cục Hải quan” thành “Cục Hải quan” tại khoản 1 Điều 3; điểm a khoản 1 Điều 4; Phụ lục 5.\n3. Thay thế Danh mục mẫu biểu liên quan đến việc in, phát hành, quản lý và sử dụng tem điện tử thuốc lá, tem điện tử rượu sản xuất để tiêu thụ trong nước tại Phụ lục 3 ban hành kèm theo Thông tư số 23/2021/TT-BTC bằng Danh mục mẫu biểu liên quan đến việc in, phát hành, quản lý và sử dụng tem điện tử thuốc lá, tem điện tử rượu sản xuất để tiêu thụ trong nước tại Phụ lục 3 ban hành kèm theo Thông tư này.\n4. Thay thế Mẫu số 02/TEM, Mẫu số 04/TEM, Mẫu số 07/TEM, Mẫu số 09/TEM ban hành kèm theo Thông tư số 23/2021/TT-BTC bằng Mẫu số 02/TEM, Mẫu số 04/TEM, Mẫu số 07/TEM, Mẫu số 09/TEM ban hành kèm theo Thông tư này.\n5. Bãi bỏ khoản 1 Điều 5.\n6. Bãi bỏ Mẫu số 03/TEM, Mẫu số 05/TEM ban hành kèm theo Thông tư số 23/2021/TT-BTC.",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "3",
+                    "title": "Điều khoản thi hành",
+                    "position": 19405,
+                    "children": [],
+                    "content": "Điều 3. Điều khoản thi hành\n1. Thông tư này có hiệu lực kể từ ngày 01 tháng 6 năm 2025.\nCác tổ chức, cá nhân thực hiện nhập các dữ liệu: tên hàng hóa; thời gian sản xuất; đơn vị đo lường (lít đối với rượu, điếu đối với thuốc lá), đơn giá bán sản phẩm, để đảm bảo kết nối thông tin về dữ liệu tem điện tử được truyền về Hệ thống quản lý tem điện tử theo quy định tại điểm d khoản 3 Điều 1 Thông tư này từ ngày 01 tháng 01 năm 2026.\n2. Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, đề nghị các đơn vị, cơ sở kinh doanh phản ánh kịp thời về Bộ Tài chính để được giải quyết kịp thời"
+                }
+            ],
+            "metadata": {
+                "total_units": 3,
+                "total_articles": 3,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 2,
+                "depth": 1
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [
+            "Thuế, phí, lệ phí, các khoản thu khác",
+            "Tài chính"
+        ],
+        "edges": {
+            "amends": [],
+            "replaces": [],
+            "mentions": [],
+            "abolished": [],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 1,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "23/2021/TT-BTC"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "replaces": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 3,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "106/2017/NĐ-CP",
+                    "123/2020/NĐ-CP",
+                    "70/2025/NĐ-CP"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "[amends] LLM thiếu target so với crawl: ['23/2021/TT-BTC']",
+            "[mentions] LLM thiếu target so với crawl: ['106/2017/NĐ-CP', '123/2020/NĐ-CP', '70/2025/NĐ-CP']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "Luật Quản lý thuế",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "Luật Giao dịch điện tử sô",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "Luật Công nghệ thông tin",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "67/20I3/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "17/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "20/2023/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "70/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "123/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "38/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "105/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "106/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "67/2013/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "67/2006/QH11",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "23/2021/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "106/2017/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "123/2020/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "31/2025/TT-BTC",
+            "target_id": "70/2025/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ]
+}

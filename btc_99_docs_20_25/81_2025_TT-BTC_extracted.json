@@ -1,0 +1,391 @@
+{
+    "file_name": "81_2025_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "81/2025/TT-BTC",
+        "title": "Quy định về quản lý và sử dụng tài khoản thanh toán của Kho bạc Nhà nước mở tại Ngân hàng Nhà nước Việt Nam và các ngân hàng thương mại",
+        "promulgationDate": "2025-08-13",
+        "effectiveDate": "2025-10-01",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Cao Anh Tuấn",
+        "draftingUnit": "Kho bạc nhà nước",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:18Z",
+        "_doc_id": "480030"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "81/2025/TT-BTC",
+            "target_id": "Luật Ngân sách nhà nước",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "81/2025/TT-BTC",
+            "target_id": "24/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "81/2025/TT-BTC",
+            "target_id": "89/2025/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "81/2025/TT-BTC",
+            "target_id": "166/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "81/2025/TT-BTC",
+            "target_id": "14/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "81/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "81/2025/TT-BTC",
+            "target_id": "58/2019/TT-BTC",
+            "properties": {
+                "note": "het_hieu_luc",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "81/2025/TT-BTC",
+            "target_id": "08/2024/TT-NHNN",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "81/2025/TT-BTC",
+            "target_id": "24/2016/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "81/2025/TT-BTC",
+            "target_id": "58/2019/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "81_2025_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "81/2025/TT-BTC",
+        "dates": {
+            "promulgation_date": "2025-08-02",
+            "effective_date": null
+        },
+        "issuing_place": "BTC\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "CHAPTER",
+                    "number": "I",
+                    "title": "QUY ĐỊNH CHUNG",
+                    "position": 0,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "1",
+                            "title": "Phạm vi điều chỉnh, đối tượng áp dụng",
+                            "position": 23,
+                            "children": [],
+                            "content": "Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng\n1. Phạm vi điều chỉnh: Thông tư này quy định việc quản lý, sử dụng tài khoản thanh toán của Kho bạc Nhà nước mở tại Ngân hàng Nhà nước Việt Nam và các ngân hàng thương mại.\n2. Đối tượng áp dụng:\na) Kho bạc Nhà nước, bao gồm: Kho bạc Nhà nước (Trung ương) và các Kho bạc Nhà nước khu vực.\nb) Ngân hàng thương mại nơi Kho bạc Nhà nước mở tài khoản thanh toán."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "2",
+                            "title": "Giải thích từ ngữ",
+                            "position": 427,
+                            "children": [],
+                            "content": "Điều 2. Giải thích từ ngữ\nTrong Thông tư này, các từ ngữ dưới đây được hiểu như sau:\n1. Thanh toán song phương điện tử: Là quá trình xử lý các giao dịch thanh toán theo phương thức điện tử giữa Kho bạc Nhà nước với một ngân hàng thương mại theo mô hình tài khoản thanh toán phân tán quy định tại Điều 5 Thông tư này hoặc theo mô hình tài khoản thanh toán tập trung quy định tại Điều 6 Thông tư này.\n2. Thời điểm “cut off time” (sau đây viết tắt là COT): Là thời điểm tạm ngừng truyền, nhận chứng từ thanh toán để đối chiếu số liệu thanh toán trong ngày làm việc giữa Kho bạc Nhà nước và ngân hàng thương mại. Giờ COT được quy định là lúc 16 giờ của ngày làm việc theo giờ Việt Nam; trường hợp cần thiết, Kho bạc Nhà\nnước phối hợp với ngân hàng thương mại để điều chỉnh giờ COT cho phù hợp."
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "II",
+                    "title": "QUY ĐỊNH CỤ THỂ",
+                    "position": 1217,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "3",
+                            "title": "Quản lý và sử dụng tài khoản thanh toán của Kho bạc Nhà",
+                            "position": 1243,
+                            "children": [],
+                            "content": "Điều 3. Quản lý và sử dụng tài khoản thanh toán của Kho bạc Nhà\nnước tại Ngân hàng Nhà nước Việt Nam\n1. Kho bạc Nhà nước (Trung ương) mở 01 tài khoản thanh toán bằng đồng\nViệt Nam (VND) và 01 tài khoản thanh toán bằng ngoại tệ (theo loại ngoại tệ phát\nsinh) tại Sở Giao dịch Ngân hàng Nhà nước Việt Nam.\n2. Tài khoản thanh toán của Kho bạc Nhà nước (Trung ương) tại Sở Giao\ndịch Ngân hàng Nhà nước Việt Nam được sử dụng để thực hiện các giao dịch thu,\nchỉ ngân quỹ nhà nước; giao dịch điều hành số dư tài khoản (chuyển tiền giữa các\ntài khoản thanh toán của Kho bạc Nhà nước) để đảm bảo khả năng thanh toán của\nKho bạc Nhà nước; giao dịch sử dụng ngân quỹ nhà nước tạm thời nhân rồi, xu\nlý ngân quỹ nhà nước tạm thời thiếu hụt.\n3. Kho bạc Nhà nước thanh toán qua tài khoản thanh toán của Kho bạc Nhà\nnước (Trung ương) tại Sở Giao dịch Ngân hàng Nhà nước Việt Nam theo quy\nđịnh của Thông tư số 08/2024/TT-NHNN ngày 25 tháng 6 năm 2024 của Thống\nđốc Ngân hàng Nhà nước Việt Nam quy định về việc quản lý, vận hành và sử\ndụng Hệ thống Thanh toán điện tử liên ngân hàng Quốc gia."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "4",
+                            "title": "Ngân hàng thương mại nơi Kho bạc Nhà nước mở tài khoản",
+                            "position": 2318,
+                            "children": [],
+                            "content": "Điều 4. Ngân hàng thương mại nơi Kho bạc Nhà nước mở tài khoản\nthanh toán\n1. Kho bạc Nhà nước mở tài khoản thanh toán tại ngân hàng thương mại,\nđảm bảo ngân hàng thương mại đó không thuộc trường hợp đã chuyển giao bất\nbuộc hoặc đang bị kiểm soát đặc biệt theo quyết định của Ngân hàng Nhà nước\nViệt Nam; có khả năng thanh toán song phương điện tử theo yêu cầu nghiệp vụ và\nđặc tả kỹ thuật được công bố trên Công thông tin điện tử của Kho bạc Nhà nước.\n2. Trước khi thực hiện mở tài khoản thanh toán với mỗi ngân hàng thương\nmại, Kho bạc Nhà nước và ngân hàng thương mại thống nhất thỏa thuận thanh\ntoán song phương điện tử theo các nội dung chu yếu tại Phụ lục ban hành kèm\ntheo Thông tư này. Trong đó, việc thanh toán song phương điện tử với mỗi ngân\nhàng thương mại theo mô hình tài khoản thanh toán phân tán hoặc mô hình tài\nkhoản thanh toán tập trung được căn cứ vào khả năng đáp ứng yêu cầu nghiệp vụ\nvà đặc tả kỹ thuật của ngân hàng thương mại đó theo từng mô hình."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "5",
+                            "title": "Quản lý và sử dụng tài khoản thanh toán của Kho bạc Nhà",
+                            "position": 3290,
+                            "children": [],
+                            "content": "Điều 5. Quản lý và sử dụng tài khoản thanh toán của Kho bạc Nhà\nnước tại ngân hàng thương mại thanh toán song phương điện tử theo mô\nhình tài khoản thanh toán phân tán\n1. Nơi mở tài khoản thanh toán:\na) Kho bạc Nhà nước (Trung ương) mở tài khoản thanh toán bằng VND và\nbằng ngoại tệ (theo loại ngoại tệ phát sinh) tại trụ sở chính của mỗi ngân hàng\nthương mại.\n3\nb) Kho bạc Nhà nước khu vực được mở tài khoản thanh toán bằng VND và bằng ngoại tệ (theo loại ngoại tệ phát sinh) tại chi nhánh, phòng giao dịch thuộc cùng ngân hàng thương mại nơi Kho bạc Nhà nước (Trung ương) mở tài khoản thanh toán.\n2. Nội dung sử dụng tài khoản thanh toán:\na) Tài khoản thanh toán của Kho bạc Nhà nước (Trung ương) được sử dụng để thực hiện các giao dịch thu, chi ngân quỹ nhà nước; giao dịch điều hành số dư tài khoản (chuyển tiền giữa các tài khoản thanh toán của Kho bạc Nhà nước) để đảm bao khả năng thanh toán của Kho bạc Nhà nước; giao dịch sử dụng ngân quỹ nhà nước tạm thời nhân rồi, xử lý ngân quỹ nhà nước tạm thời thiếu hụt.\nb) Tài khoản thanh toán của các Kho bạc Nhà nước khu vực được sử dụng để thực hiện các giao dịch thu, chi ngân quỹ nhà nước.\n3. Quan lý số dư tài khoản thanh toán:\na) Cuối ngày giao dịch, toàn bộ số dư trên tài khoản thanh toán của Kho bạc Nhà nước (Trung ương) và các Kho bạc Nhà nước khu vực tại ngân hàng thương mại được chuyển về tài khoản thanh toán của Kho bạc Nhà nước (Trung ương) tại Sở Giao dịch Ngân hàng Nhà nước Việt Nam (trừ số dư những loại ngoại tệ mà Kho bạc Nhà nước chưa được mở tài khoản tại Ngân hàng Nhà nước Việt Nam), đảm bảo theo đúng quy định tại khoản 2 Điều 10 Nghị định số 24 2016 ND-CP ngày 05 tháng 4 năm 2016 của Chính phủ quy định chế độ quản lý ngân quỹ nhà nước (được sửa đổi, bổ sung năm 2025).\nb) Những khoản thu phát sinh sau thời điểm COT của ngày làm việc và trong ngày nghỉ, ngày lễ, tết theo quy định trên tài khoản thanh toán của Kho bạc Nhà nước (Trung ương) và Kho bạc Nhà nước khu vực tại ngân hàng thương mại; số dư tài khoản thanh toán của Kho bạc Nhà nước (Trung ương) và Kho bạc Nhà nước khu vực tại ngân hàng thương mại không thể chuyển về tài khoản thanh toán của Kho bạc Nhà nước (Trung ương) tại Sở Giao dịch Ngân hàng Nhà nước Việt Nam trong ngày làm việc do nguyên nhân bất khả kháng theo quy định tại khoản 1 Điều 156 Bộ luật dân sự năm 2015, thì được chuyển thành số dư đầu ngày làm việc tiếp theo của tài khoản đó và được chuyển về tài khoản thanh toán của Kho bạc Nhà nước (Trung ương) tại Sở Giao dịch Ngân hàng Nhà nước Việt Nam vào ngày làm việc tiếp theo.\n4. Kho bạc Nhà nước (Trung ương) và Kho bạc Nhà nước khu vực thực hiện thanh toán qua tài khoản thanh toán tương ứng của đơn vị tại ngân hàng thương mại theo quy định của Ngân hàng Nhà nước Việt Nam và thoả thuận thanh toán song phương điện tử giữa Kho bạc Nhà nước và ngân hàng thương mại.\n5. Trường hợp có khoản thu không được hạch toán kịp thời vào tài khoản thanh toán của Kho bạc Nhà nước (Trung ương) và Kho bạc Nhà nước khu vực do lỗi chủ quan của ngân hàng thương mại, thì chậm nhất 01 ngày làm việc kể từ ngày phát hiện, ngân hàng thương mại có trách nhiệm thanh toán tiền chậm hạch toán cho Kho bạc Nhà nước, được xác định như sau:\nTiền chậm\nhạch toán phải =\nthanh toán\nSố thu\nchậm × 150% x\nLãi suất áp dụng đối với tiền gửi của Kho\nbạc Nhà nước tại Ngân hàng Nhà nước\nViệt Nam cùng thời kỳ\nSố ngày\n× chậm hạch\ntoán\n365\nTrong đó, số ngày chậm hạch toán (bao gồm cả ngày nghỉ, ngày lễ, tết theo\nquy định của pháp luật) được tính từ ngày phải hạch toán khoản thu đến hết ngày\nliên kề trước ngày khoản thu được hạch toán vào tài khoản thanh toán của Kho\nbạc Nhà nước (Trung ương) tại Sở Giao dịch Ngân hàng Nhà nước Việt Nam."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "6",
+                            "title": "Quản lý và sử dụng tài khoản thanh toán của Kho bạc Nhà",
+                            "position": 6963,
+                            "children": [],
+                            "content": "Điều 6. Quản lý và sử dụng tài khoản thanh toán của Kho bạc Nhà\nnước tại ngân hàng thương mại thanh toán song phương điện tử theo mô\nhình tài khoản thanh toán tập trung\n1. Tại ngân hàng thương mại nơi thanh toán song phương điện tử theo mô\nhình tài khoản thanh toán tập trung với Kho bạc Nhà nước, Kho bạc Nhà nước\n(Trung ương) mở 01 tài khoản thanh toán bằng VND và 01 tài khoản thanh toán\nbằng ngoại tệ (theo loại ngoại tệ phát sinh) tại trụ sở chính của mỗi ngân hàng\nthương mại. Kho bạc Nhà nước khu vực không mở tài khoản thanh toán tại ngân\nhàng thương mại này.\n2. Tài khoản thanh toán của Kho bạc Nhà nước (Trung ương) được sử dụng\nđể thực hiện các giao dịch thu, chi ngân quỹ nhà nước; giao dịch điều hành số dư\ntài khoản (chuyển tiền giữa các tài khoản thanh toán của Kho bạc Nhà nước) để\nđảm bảo khả năng thanh toán của Kho bạc Nhà nước; giao dịch sử dụng ngân quỹ\nnhà nước tạm thời nhân rồi, xử lý ngân quỹ nhà nước tạm thời thiếu hụt.\n3. Quản lý số dư tài khoản thanh toán:\na) Cuối ngày giao dịch, toàn bộ số dư tại thời điểm COT trên tài khoản\nthanh toán của Kho bạc Nhà nước (Trung ương) tại ngân hàng thương mại được\nchuyển về tài khoản thanh toán của Kho bạc Nhà nước (Trung ương) tại Sở Giao\ndịch Ngân hàng Nhà nước Việt Nam (trừ số dư những loại ngoại tệ mà Kho bạc\nNhà nước chưa được mở tài khoản thanh toán tại Sở Giao dịch Ngân hàng Nhà\nnước Việt Nam).\nb) Việc xử lý đối với khoản thu phát sinh sau thời điểm COT của ngày làm\nviệc và trong ngày nghỉ, ngày lễ, tết theo quy định trên tài khoản thanh toán của\nKho bạc Nhà nước (Trung ương) tại ngân hàng thương mại; số dư trên các tài\nkhoản thanh toán của Kho bạc Nhà nước (Trung ương) tại ngân hàng thương mại\nkhông thể chuyển về tài khoản thanh toán của Kho bạc Nhà nước (Trung ương)\ntại Sở Giao dịch Ngân hàng Nhà nước Việt Nam trong ngày làm việc được thực\nhiện theo quy định tại điểm b khoản 3 Điều 5 Thông tư này.\n4. Kho bạc Nhà nước (Trung ương) và Kho bạc Nhà nước khu vực thực\nhiện thanh toán qua tài khoản thanh toán của Kho bạc Nhà nước (Trung ương) tại\ntrụ sở chính của ngân hàng thương mại theo quy định của Ngân hàng Nhà nước\nViệt Nam và thỏa thuận thanh toán song phương điện tử giữa Kho bạc Nhà nước\nvà ngân hàng thương mại.\n5\n5. Trường hợp có khoản thu không được hạch toán kịp thời vào tài khoản thanh toán của Kho bạc Nhà nước (Trung ương) tại ngân hàng thương mại do lỗi chủ quan của ngân hàng thương mại, thì chậm nhất 01 ngày làm việc kể từ ngày phát hiện, ngân hàng thương mại có trách nhiệm thanh toán tiền chậm hạch toán cho Kho bạc Nhà nước. Tiền chậm hạch toán và số ngày chậm hạch toán được xác định theo quy định tại khoản 5 Điều 5 Thông tư này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "7",
+                            "title": "Nhiệm vụ và quyền hạn của Kho bạc Nhà nước",
+                            "position": 9607,
+                            "children": [],
+                            "content": "Điều 7. Nhiệm vụ và quyền hạn của Kho bạc Nhà nước\n1. Giám đốc Kho bạc Nhà nước quyết định ngân hàng thương mại nơi Kho bạc Nhà nước mở tài khoản thanh toán (tài khoản thanh toán để thu, chi ngân quỹ nhà nước hoặc đề thu ngân quỹ nhà nước), đảm bảo theo đúng quy định tại Điều 4 Thông tư này.\n2. Thực hiện quản lý và sử dụng tài khoản thanh toán của Kho bạc Nhà nước (Trung ương) và các Kho bạc Nhà nước khu vực theo quy định tại Thông tư này. Định kỳ hàng năm, đánh giá ngân hàng thương mại nơi mở tài khoản theo các nội dung quy định tại khoản 1 Điều 4 và Điều 8 Thông tư này; trường hợp ngân hàng thương mại không còn đáp ứng quy định, thì thực hiện đóng tài khoản thanh toán của Kho bạc Nhà nước tại ngân hàng thương mại đó.\n3. Ban hành, công bố yêu cầu nghiệp vụ và đặc tả kỹ thuật thanh toán song phương điện tử theo mô hình tài khoản thanh toán phân tán và mô hình tài khoản thanh toán tập trung trên Cổng thông tin điện tử của Kho bạc Nhà nước.\n4. Chia sẻ và cập nhật đầy đủ, kịp thời dữ liệu điện tử danh mục tài khoản thanh toán của Kho bạc Nhà nước tại ngân hàng và danh sách ngân hàng thương mại nơi Kho bạc Nhà nước mở tài khoản thanh toán cho cơ quan thuế, cơ quan hải quan; đồng thời, công bố công khai trên Cổng thông tin điện tử của Kho bạc Nhà nước và Công Dịch vụ công Quốc gia."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "8",
+                            "title": "Trách nhiệm của ngân hàng thương mại",
+                            "position": 10905,
+                            "children": [],
+                            "content": "Điều 8. Trách nhiệm của ngân hàng thương mại\nThanh toán song phương điện tử và truyền đầy đủ, kịp thời thông tin thu ngân sách nhà nước cho Kho bạc Nhà nước, cơ quan thuế và cơ quan hải quan theo thỏa thuận thanh toán song phương điện tử đã ký kết với Kho bạc Nhà nước."
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "III",
+                    "title": "ĐIỀU KHOẢN THI HÀNH",
+                    "position": 11175,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "9",
+                            "title": "Hiệu lực thi hành",
+                            "position": 11206,
+                            "children": [],
+                            "content": "Điều 9. Hiệu lực thi hành\n1. Thông tư này có hiệu lực thi hành từ ngày 01 tháng 10 năm 2025.\n2. Thông tư số 58/2019/TT-BTC ngày 30 tháng 8 năm 2019 của Bộ trưởng Bộ Tài chính quy định về quản lý và sử dụng tài khoản của Kho bạc Nhà nước mở tại Ngân hàng Nhà nước Việt Nam và các ngân hàng thương mại (được sửa đổi, bổ sung năm 2021) hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành.\n3. Trường hợp các văn bản được dẫn chiếu tại Thông tư này được sửa đổi, bổ sung hoặc thay thế, thì thực hiện theo văn bản sửa đổi, bổ sung hoặc thay thế đó.\n4. Các thỏa thuận thanh toán song phương điện tử đã ký kết trước ngày Thông tư này có hiệu lực thi hành mà vẫn còn phù hợp với quy định tại Thông tư này, thì được tiếp tục thực hiện."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "10",
+                            "title": "Tổ chức thực hiện",
+                            "position": 11938,
+                            "children": [],
+                            "content": "Điều 10. Tổ chức thực hiện\n1. Kho bạc Nhà nước thống nhất với ngân hàng thương mại nơi đã mở tài khoản thanh toán về lộ trình chuyển đổi thanh toán song phương điện tử theo mô hình tài khoản thanh toán tập trung, đảm bảo hoàn thành khai thanh toán song phương điện tử theo mô hình tài khoản thanh toán tập trung chậm nhất vào ngày 30 tháng 6 năm 2028.\n2. Kho bạc Nhà nước và các cơ quan, đơn vị, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./."
+                        }
+                    ]
+                }
+            ],
+            "metadata": {
+                "total_units": 13,
+                "total_articles": 10,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 2
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [
+            "Tài chính",
+            "Ngân hàng, tiền tệ"
+        ],
+        "edges": {
+            "amends": [],
+            "replaces": [],
+            "mentions": [],
+            "abolished": [
+                {
+                    "official_number_target": "58/2019/TT-BTC",
+                    "date_abolished": "2025-10-01",
+                    "affected_details": [
+                        "Toàn văn"
+                    ]
+                }
+            ],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "replaces": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 3,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "08/2024/TT-NHNN",
+                    "24/2016/NĐ-CP",
+                    "58/2019/TT-BTC"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "abolished": {
+                "crawl_count": 1,
+                "llm_count": 1,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "[mentions] LLM thiếu target so với crawl: ['08/2024/TT-NHNN', '24/2016/NĐ-CP', '58/2019/TT-BTC']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "81/2025/TT-BTC",
+            "target_id": "Luật Ngân sách nhà nước",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "81/2025/TT-BTC",
+            "target_id": "24/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "81/2025/TT-BTC",
+            "target_id": "89/2025/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "81/2025/TT-BTC",
+            "target_id": "166/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "81/2025/TT-BTC",
+            "target_id": "14/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "81/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "81/2025/TT-BTC",
+            "target_id": "58/2019/TT-BTC",
+            "properties": {
+                "note": "het_hieu_luc",
+                "source": "crawled",
+                "date_abolished": "2025-10-01",
+                "affected_details": [
+                    "Toàn văn"
+                ]
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "81/2025/TT-BTC",
+            "target_id": "08/2024/TT-NHNN",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "81/2025/TT-BTC",
+            "target_id": "24/2016/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "81/2025/TT-BTC",
+            "target_id": "58/2019/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ]
+}

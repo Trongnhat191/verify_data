@@ -1,0 +1,367 @@
+{
+    "file_name": "43_2025_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "43/2025/TT-BTC",
+        "title": "Ban hành biểu mẫu sử dụng trong lĩnh vực quản lý nhà nước đối với hộ kinh doanh, tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã khi tổ chức chính quyền địa phương 02 cấp",
+        "promulgationDate": "2025-06-17",
+        "effectiveDate": "2025-07-01",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Nguyễn Đức Tâm",
+        "draftingUnit": "Cục Phát triển doanh nghiệp tư nhân và kinh tế tập thể",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "PARTIALLY_EXPIRED",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:19Z",
+        "_doc_id": "468167"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "43/2025/TT-BTC",
+            "target_id": "190/2025/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "43/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "43/2025/TT-BTC",
+            "target_id": "72/2025/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "43/2025/TT-BTC",
+            "target_id": "125/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "43/2025/TT-BTC",
+            "target_id": "Luật Tổ chức chính quyền địa phương 2025",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "43/2025/TT-BTC",
+            "target_id": "Bộ luật dân sự 2015",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "43/2025/TT-BTC",
+            "target_id": "113/2024/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "43/2025/TT-BTC",
+            "target_id": "01/2021/TT-BKHĐT",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "43/2025/TT-BTC",
+            "target_id": "09/2024/TT-BKHĐT",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "43/2025/TT-BTC",
+            "target_id": "02/2023/TT-BKHĐT",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "43/2025/TT-BTC",
+            "target_id": "09/2024/TT-BKHĐT",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "43/2025/TT-BTC",
+            "target_id": "01/2021/TT-BKHĐT",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "43/2025/TT-BTC",
+            "target_id": "125/2025/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "43_2025_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "43/2025/TT-BTC",
+        "dates": {
+            "promulgation_date": "2025-06-17",
+            "effective_date": null
+        },
+        "issuing_place": "BTC\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Phạm vi điều chỉnh",
+                    "position": 0,
+                    "children": [],
+                    "content": "Thông tư này quy định chi tiết khoản 3 Điều 33, khoản 3 Điều 35 và khoản 3 Điều 40 của Nghị định số 125/2025/NĐ-CP ngày 11 tháng 6 năm 2025 của Chính phủ quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Tài chính; quy định biểu mẫu nội dung thông tin về tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã và nội dung thông tin về quản lý tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã khi tổ chức chính quyền địa phương 02 cấp."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Đối tượng áp dụng",
+                    "position": 503,
+                    "children": [],
+                    "content": "Điều 2. Đối tượng áp dụng\n1. Hộ kinh doanh.\n2. Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã.\n3. Cơ quan, tổ chức, cá nhân có liên quan."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "3",
+                    "title": "Hệ thống biểu mẫu sử dụng trong lĩnh vực quản lý nhà nước đối với hộ kinh doanh, tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã khi tổ chức chính quyền địa phương 02 cấp",
+                    "position": 639,
+                    "children": [],
+                    "content": "Điều 3. Hệ thống biểu mẫu sử dụng trong lĩnh vực quản lý nhà nước đối với hộ kinh doanh, tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã khi tổ chức chính quyền địa phương 02 cấp\n1. Biểu mẫu sử dụng trong đăng ký hộ kinh doanh khi tổ chức chính quyền địa phương 02 cấp quy định tại Phụ lục I ban hành kèm theo Thông tư này.\n2. Biểu mẫu sử dụng trong đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã khi tổ chức chính quyền địa phương 02 cấp quy định tại Phụ lục II ban hành kèm theo Thông tư này.\n3. Biểu mẫu nội dung thông tin về tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã và nội dung thông tin về quản lý tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã khi tổ chức chính quyền địa phương 02 cấp quy định tại Phụ lục III ban hành kèm theo Thông tư này.\n4. Biểu mẫu sử dụng trong thông báo thành lập, thay đổi, chấm dứt hoạt động của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã khi tổ chức chính quyền địa phương 02 cấp quy định tại Phụ lục IV ban hành kèm theo Thông tư này.\n5. Biểu mẫu đăng ký và thông báo về hỗ trợ cho tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã khi tổ chức chính quyền địa phương 02 cấp quy định tại Phụ lục V ban hành kèm theo Thông tư này."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "4",
+                    "title": "Hiệu lực thi hành",
+                    "position": 1805,
+                    "children": [],
+                    "content": "Điều 4. Hiệu lực thi hành\n1. Thông tư này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2025.\n2. Thay thế, bãi bỏ một số cụm từ, biểu mẫu của Thông tư số 01/2021/TT-BKHĐT ngày 16 tháng 3 năm 2021 của Bộ trưởng Bộ Kế hoạch và Đầu tư hướng dẫn về đăng ký doanh nghiệp đã được sửa đổi, bổ sung một số điều theo Thông tư số 02/2023/TT-BKHĐT ngày 18 tháng 4 năm 2023 của Bộ trưởng Bộ Kế hoạch và Đầu tư như sau:\na) Thay thế cụm từ “cơ quan đăng ký kinh doanh cấp huyện” bằng cụm từ “Cơ quan đăng ký kinh doanh cấp xã” tại khoản 1 và khoản 2 Điều 1a, Điều 5a, điểm c khoản 2 Điều 5b, khoản 2 Điều 5c, khoản 1 Điều 5d, Điều 5đ, khoản 3 Điều 5e, khoản 4 Điều 5g, Điều 5h, khoản 1 Điều 5k và Điều 6;\nb) Thay thế cụm từ “cấp huyện” bằng cụm từ “cấp xã” tại khoản 1 Điều 5k;\nc) Bãi bỏ biểu mẫu quy định tại các Phụ lục từ III-1 đến III-7 và từ VI-1 đến VI-16.\n3. Thay thế, bãi bỏ một số cụm từ, điều, biểu mẫu của Thông tư số 09/2024/TT-BKHĐT ngày 16 tháng 5 năm 2024 của Bộ trưởng Bộ Kế hoạch và\nĐầu tư ban hành biểu mẫu thực hiện thủ tục đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã và quy định về nội dung thông tin, việc cập nhật, khai thác và quản lý Hệ thống thông tin quốc gia về hợp tác xã như sau:\na) Thay thế cụm từ “cơ quan đăng ký kinh doanh cấp huyện” bằng cụm từ “Cơ quan đăng ký kinh doanh cấp xã” tại khoản 1 Điều 7, khoản 2 và khoản 3 Điều;\nb) Thay thế cụm từ “Mẫu VII-1 Phụ lục VII” bằng cụm từ “Mẫu số 1 Phụ lục III” tại khoản 1 Điều 5 và khoản 1 Điều 6;\nc) Thay thế cụm từ “Mẫu VII-2 Phụ lục VII” bằng cụm từ “Mẫu số 2 Phụ lục III” tại khoản 2 Điều 5 và khoản 1 Điều 6;\nd) Thay thế cụm từ “Mẫu VII-3 Phụ lục VII” bằng cụm từ “Mẫu số 3 Phụ lục III” tại khoản 3 Điều 5 và khoản 1 Điều 6;\nd) Thay thế cụm từ “Mẫu VII-4 Phụ lục VII” bằng cụm từ “Mẫu số 4 Phụ lục III” tại khoản 4 Điều 5, khoản 1 và khoản 2 Điều 7;\ne) Thay thế biểu mẫu quy định tại Phụ lục VII bằng biểu mẫu quy định tại Phụ lục III ban hành kèm theo Thông tư này;\ng) Bãi bỏ Điều 3;\nh) Bãi bỏ biểu mẫu quy định tại các Phụ lục từ I đến VI và Phụ lục VIII."
+                }
+            ],
+            "metadata": {
+                "total_units": 4,
+                "total_articles": 4,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 1
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [],
+            "replaces": [
+                {
+                    "official_number_target": "01/2021/TT-BKHĐT",
+                    "effective_from": "2025-07-01"
+                },
+                {
+                    "official_number_target": "09/2024/TT-BKHĐT",
+                    "effective_from": "2025-07-01"
+                }
+            ],
+            "mentions": [
+                {
+                    "official_number_target": "125/2025/NĐ-CP",
+                    "relevance_type": "GUIDELINE",
+                    "context": "Thông tư này quy định chi tiết khoản 3 Điều 33, khoản 3 Điều 35 và khoản 3 Điều 40 của Nghị định số 125/2025/NĐ-CP ngày 11 tháng 6 năm 2025 của Chính phủ quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Tài chính; quy định biểu mẫu nội dung thông tin về tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã và nội dung thông tin về quản lý tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã khi tổ chức chính quyền địa phương 02 cấp."
+                }
+            ],
+            "abolished": [],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 3,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "01/2021/TT-BKHĐT",
+                    "02/2023/TT-BKHĐT",
+                    "09/2024/TT-BKHĐT"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "replaces": {
+                "crawl_count": 2,
+                "llm_count": 2,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 1,
+                "llm_count": 1,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "[amends] LLM thiếu target so với crawl: ['01/2021/TT-BKHĐT', '02/2023/TT-BKHĐT', '09/2024/TT-BKHĐT']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "43/2025/TT-BTC",
+            "target_id": "190/2025/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "43/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "43/2025/TT-BTC",
+            "target_id": "72/2025/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "43/2025/TT-BTC",
+            "target_id": "125/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "43/2025/TT-BTC",
+            "target_id": "Luật Tổ chức chính quyền địa phương 2025",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "43/2025/TT-BTC",
+            "target_id": "Bộ luật dân sự 2015",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "43/2025/TT-BTC",
+            "target_id": "113/2024/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "43/2025/TT-BTC",
+            "target_id": "01/2021/TT-BKHĐT",
+            "properties": {
+                "source": "crawled",
+                "effective_from": "2025-07-01"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "43/2025/TT-BTC",
+            "target_id": "09/2024/TT-BKHĐT",
+            "properties": {
+                "source": "crawled",
+                "effective_from": "2025-07-01"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "43/2025/TT-BTC",
+            "target_id": "02/2023/TT-BKHĐT",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "43/2025/TT-BTC",
+            "target_id": "09/2024/TT-BKHĐT",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "43/2025/TT-BTC",
+            "target_id": "01/2021/TT-BKHĐT",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "43/2025/TT-BTC",
+            "target_id": "125/2025/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled",
+                "relevance_type": "GUIDELINE",
+                "context": "Thông tư này quy định chi tiết khoản 3 Điều 33, khoản 3 Điều 35 và khoản 3 Điều 40 của Nghị định số 125/2025/NĐ-CP ngày 11 tháng 6 năm 2025 của Chính phủ quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Tài chính; quy định biểu mẫu nội dung thông tin về tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã và nội dung thông tin về quản lý tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã khi tổ chức chính quyền địa phương 02 cấp."
+            },
+            "_crawled": true
+        }
+    ]
+}

@@ -1,0 +1,805 @@
+{
+    "file_name": "55_2025_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "55/2025/TT-BTC",
+        "title": "Quy định mức thu, miễn, chế độ thu, nộp, quản lý và sử dụng lệ phí phân bổ và phí sử dụng mã, số viễn thông",
+        "promulgationDate": "2025-06-25",
+        "effectiveDate": "2025-07-20",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Cao Anh Tuấn",
+        "draftingUnit": "Cục quản lý, giám sát Chính sách thuế, phí & lệ phí",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:19Z",
+        "_doc_id": "468192"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "Luật Phí và lệ phí",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "Luật Quàn lý thuế",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "163/2024/NĐ-cp",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "15/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "126/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "115/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "70/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "163/2024/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "24/2023/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "82/2023/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "91/2022/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "123/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "11/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "38/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "120/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "97/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "83/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "32/2020/TT-BTC",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "268/2016/TT-BTC",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "SuspendedByEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "11/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "120/2016/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "123/2020/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "23/2020/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "Luật Viễn thông",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "70/2025/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "74/2022/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "268/2016/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "82/2023/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "32/2020/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "120/2016/ND-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "126/2020/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "91/2022/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "123/2020/ND-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "32/2025/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "123/2020/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "70/2025/ND-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "55_2025_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "55/2025/TT-BTC",
+        "dates": {
+            "promulgation_date": "2025-06-25",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Phạm vi điều chỉnh và đối tượng áp dụng",
+                    "position": 0,
+                    "children": [],
+                    "content": "1. Phạm vi điều chỉnh\nThông tư này quy định mức thu, miễn, chế độ thu, nộp, quản lý và sử dụng\nlệ phí phân bổ và phí sử dụng mã, số viễn thông.\n2. Đối tượng áp dụng\nThông tư này áp dụng đối với các tổ chức, doanh nghiệp, cá nhân được\nphân bổ, sử dụng mã, số viễn thông; cơ quan nhà nước phân bổ mã, số viễn thông\ntheo quy định của pháp luật về viễn thông và các tổ chức, cá nhân liên quan đến\nviệc thu, nộp, quản lý và sử dụng lệ phí phân bổ và phí sử dụng mã, số viễn\nthông."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Người nộp phí, lệ phí",
+                    "position": 523,
+                    "children": [],
+                    "content": "Điều 2. Người nộp phí, lệ phí\n1. Người nộp lệ phí phân bổ và phí sử dụng mã, số viễn thông theo quy\nđịnh tại Thông tư này là các tổ chức, doanh nghiệp, cá nhân được phân bổ, sử\ndụng mã, số viễn thông.\n2. Trường hợp chuyển nhượng quyền sử dụng mã, số viễn thông thì người\nnộp phí, lệ phí là bên nhận chuyển nhượng."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "3",
+                    "title": "Tổ chức thu phí, lệ phí",
+                    "position": 837,
+                    "children": [],
+                    "content": "Điều 3. Tổ chức thu phí, lệ phí\nCơ quan nhà nước có thẩm quyền phân bổ mã, số viễn thông theo quy định\ncủa pháp luật về viễn thông là tổ chức thu phí, lệ phí theo quy định tại Thông tư\nnày."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "4",
+                    "title": "Mức thu phí, lệ phí",
+                    "position": 1027,
+                    "children": [],
+                    "content": "Điều 4. Mức thu phí, lệ phí\nBan hành kèm theo Thông tư này Biểu mức thu lệ phí phân bổ và phí sử\ndụng mã, số viễn thông."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "5",
+                    "title": "Đối tượng miễn phí, lệ phí",
+                    "position": 1148,
+                    "children": [],
+                    "content": "Điều 5. Đối tượng miễn phí, lệ phí\n1. Miễn thu lệ phí phân bổ và phí sử dụng mã, số viễn thông đối với những\nđối tượng sau:\na) Mạng viễn thông dùng riêng phục vụ quốc phòng, an ninh, cơ yếu.\nb) Mạng viễn thông dùng riêng phục vụ công tác chỉ đạo điều cứu\nnạn, cứu hộ, phòng chống thiên tai, hộ đẻ và cứu hộ các công trình có liên quan\nđến an toàn đẻ điều, hòa hoạn, hoạt động nhân đạo, thảm họa khác.\nc) Mạng viễn thông dùng riêng của các cơ quan Đảng, Nhà nước.\nd) Mạng viễn thông dùng riêng cho tổ chức được hưởng quyền ưu đãi,\nmiễn trừ dành cho cơ quan đại diện ngoại giao, cơ quan lãnh sự và cơ quan đại\ndiện của tổ chức quốc tế tại Việt Nam.\nSố dịch vụ khẩn cấp; số dịch vụ đo thử; số dịch vụ hỗ trợ khách hàng bắt\nbuộc; mã, số dùng chung theo quy hoạch kho số viễn thông; số 1022 của cơ quan\nnhà nước phục vụ tiếp nhận, xử lý phản ánh, kiến nghị của tổ chức, cá nhân.\n2. Miễn thu phí sử dụng số thuê bao di động H2H trùng dấu giá."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "6",
+                    "title": "Kê khai, nộp phí, lệ phí",
+                    "position": 2085,
+                    "children": [],
+                    "content": "Điều 6. Kê khai, nộp phí, lệ phí\n1. Người nộp lệ phí nộp lệ phí phân bổ mã, số viễn thông tại thời điểm\nđược phân bổ mã, số viễn thông; nộp phí sử dụng mã, số viễn thông theo quý\ntrước ngày bắt đầu của quý phải nộp, theo hình thức quy định tại Thông tư số\n74/2022/TT-BTC ngày 22 tháng 12 năm 2022 của Bộ trưởng Bộ Tài chính quy\nđịnh về hình thức, thời hạn thu, nộp, kê khai các khoản phí, lệ phí thuộc thẩm\nquyền quy định của Bộ Tài chính.\nTrường hợp được phân bổ mã, số viễn thông mới, phân bổ bổ sung thì nộp\nphí khi được phân bổ mã, số viễn thông. Số phí phải nộp được tính từ quý được\nphân bổ.\nTrường hợp hoàn trả mã, số viễn thông thì phải nộp phí hết quý đó trước\nkhi được chấp nhận hoàn trả mã, số viễn thông.\nĐối với số phi phải nộp của quý II năm 2025, tiếp tục thực hiện nộp phí\ntheo thời hạn được quy định tại Thông tư số 268/2016/TT-BTC ngày 14 tháng 11\nnăm 2016 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản\nlý, sử dụng lệ phí phân bổ và phí sử dụng mã, số viễn thông. Đối với số phi phải\nnộp của quý III năm 2025, thời hạn nộp chậm nhất là ngày 30 tháng 9 năm 2025.\n2. Chậm nhất là ngày 05 tháng, tổ chức thu phí nộp toàn bộ số phí thu\ndược của tháng trước vào tài khoản phí chờ nộp ngân sách của tổ chức thu phí\nmở tại Kho bạc Nhà nước. Tổ chức thu phí, lệ phí thực hiện kê khai, thu, nộp phí,\nlệ phí, quyết toán phí theo quy định tại Thông tư số 74/2022/TT-BTC."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "7",
+                    "title": "Quản lý và sử dụng phí",
+                    "position": 3484,
+                    "children": [],
+                    "content": "Điều 7. Quản lý và sử dụng phí\n1. Tổ chức thu phí được đề lại 5% số tiền phí thu được để chi cho hoạt\nđộng cung cấp dịch vụ, thu phí theo quy định tại khoản 4 Điều 1 Nghị định số\n82/2023/NĐ-CP ngày 28 tháng 11 năm 2023 của Chính phủ sửa đổi, bổ sung một\nsố điều của Nghị định số 120/2016/NĐ-CP ngày 23 tháng 8 năm 2016 của Chính\nphủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Phí và lệ phí;\nnộp 95% số tiền phí thu được vào ngân sách nhà nước theo chương, tiểu mục của\nMục lục ngân sách nhà nước hiện hành.\n2. Trường hợp tổ chức thu phí là cơ quan nhà nước không được khoản chi\nphí hoạt động từ nguồn thu phí theo quy định tại khoản 3 Điều 1 Nghị định số\n82/2023/NĐ-CP thì phải nộp toàn bộ tiền phí thu được vào ngân sách nhà nước.\nSố tiền chi cho hoạt động cung cấp dịch vụ, thu phí do ngân sách nhà nước đảm\nbảo trong dự toán của tổ chức thu theo chế độ, định mức chi ngân sách nhà nước\ntheo quy định của pháp luật."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "8",
+                    "title": "Điều khoản thi hành",
+                    "position": 4420,
+                    "children": [],
+                    "content": "Điều 8. Điều khoản thi hành\n1. Thông tư này có hiệu lực thi hành từ ngày 20 tháng 7 năm 2025.\n2. Thông tư này bãi bỏ Thông tư số 268/2016/TT-BTC ngày 14 tháng 11\nnăm 2016 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản\nlý, sử dụng lệ phí phân bổ và phí sử dụng mã, số viễn thông và Thông tư số\n32/2020/TT-BTC ngày 04 tháng 5 năm 2020 của Bộ trưởng Bộ Tài chính sửa đổi,\nbổ sung một số điều của Thông tư số 268/2016/TT-BTC.\n3. Các nội dung khác liên quan đến việc thu, nộp, quản lý, sử dụng, chứng\ntử thu, công khai chế độ thu phí, lệ phí không quy định tại Thông tư này được\nthực hiện theo quy định tại các văn bản: Luật Phi và lệ phí ngày 25 tháng 11 năm\n2015; Nghị định số 120/2016/NĐ-CP ngày 23 tháng 8 năm 2016 của Chính phủ\nquy định chi tiết và hướng dẫn thi hành một số điều của Luật Phi và lệ phí; Nghị\nđịnh số 82/2023/NĐ-CP; Luật Quản lý thuế ngày 13 tháng 6 năm 2019; Nghị\nđịnh số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định\nchi tiết một số điều của Luật Quản lý thuế; Nghị định số 91/2022/NĐ-CP ngày 30\ntháng 10 năm 2022 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số\n126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết\nmột số điều của Luật Quản lý thuế; Nghị định số 11/2020/NĐ-CP ngày 20 tháng\n01 năm 2020 của Chính phủ quy định về thủ tục hành chính thuộc lĩnh vực Kho\nbạc Nhà nước; Nghị định số 123/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của\nChính phủ quy định về hóa đơn, chứng từ; Nghị định số 70/2025/NĐ-CP ngày 20\ntháng 3 năm 2025 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số\n123/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định về hóa\nđơn, chứng từ và Thông tư số 32/2025/TT-BTC ngày 31 tháng 5 năm 2025 của\nBộ trưởng Bộ Tài chính hướng dẫn thực hiện một số điều của Luật Quản lý thuế\nngày 13 tháng 6 năm 2019, Nghị định số 123/2020/NĐ-CP ngày 19 tháng 10 năm\n2020 của Chính phủ quy định về hóa đơn, chứng từ, Nghị định số 70/2025/NĐ-\nCP ngày 20 tháng 3 năm 2025 sửa đổi, bổ sung một số điều của Nghị định số\n123/2020/NĐ-CP.\n4. Trường hợp các văn bản quy phạm pháp luật nêu tại Thông tư này được\nsửa đổi, bổ sung hoặc thay thế thì thực hiện theo văn bản sửa đổi, bổ sung hoặc\nthay thế đó.\n5. Trong quá trình thực hiện, nếu có vướng mắc, đề nghị các tổ chức, cá nhân phản ánh kịp thời về Bộ Tài chính để nghiên cứu, hướng dẫn./."
+                }
+            ],
+            "metadata": {
+                "total_units": 8,
+                "total_articles": 8,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 1
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [
+            "Thuế, phí, lệ phí, các khoản thu khác",
+            "Thông tin, báo chí, xuất bản"
+        ],
+        "edges": {
+            "amends": [],
+            "replaces": [],
+            "mentions": [],
+            "abolished": [],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 3,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "120/2016/NĐ-CP",
+                    "123/2020/NĐ-CP",
+                    "23/2020/NĐ-CP"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "replaces": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 13,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "120/2016/ND-CP",
+                    "123/2020/ND-CP",
+                    "123/2020/NĐ-CP",
+                    "126/2020/NĐ-CP",
+                    "268/2016/TT-BTC",
+                    "32/2020/TT-BTC",
+                    "32/2025/TT-BTC",
+                    "70/2025/ND-CP",
+                    "70/2025/NĐ-CP",
+                    "74/2022/TT-BTC",
+                    "82/2023/NĐ-CP",
+                    "91/2022/NĐ-CP",
+                    "LUẬTVIỄNTHÔNG"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "abolished": {
+                "crawl_count": 2,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "268/2016/TT-BTC",
+                    "32/2020/TT-BTC"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "suspended": {
+                "crawl_count": 1,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "11/2020/NĐ-CP"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            }
+        },
+        "warnings": [
+            "[amends] LLM thiếu target so với crawl: ['120/2016/NĐ-CP', '123/2020/NĐ-CP', '23/2020/NĐ-CP']",
+            "[mentions] LLM thiếu target so với crawl: ['120/2016/ND-CP', '123/2020/ND-CP', '123/2020/NĐ-CP', '126/2020/NĐ-CP', '268/2016/TT-BTC', '32/2020/TT-BTC', '32/2025/TT-BTC', '70/2025/ND-CP', '70/2025/NĐ-CP', '74/2022/TT-BTC', '82/2023/NĐ-CP', '91/2022/NĐ-CP', 'LUẬTVIỄNTHÔNG']",
+            "[abolished] LLM thiếu target so với crawl: ['268/2016/TT-BTC', '32/2020/TT-BTC']",
+            "[suspended] LLM thiếu target so với crawl: ['11/2020/NĐ-CP']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "Luật Phí và lệ phí",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "Luật Quàn lý thuế",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "163/2024/NĐ-cp",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "15/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "126/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "115/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "70/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "163/2024/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "24/2023/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "82/2023/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "91/2022/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "123/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "11/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "38/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "120/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "97/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "83/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "32/2020/TT-BTC",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "268/2016/TT-BTC",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "SuspendedByEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "11/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "120/2016/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "123/2020/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "23/2020/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "Luật Viễn thông",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "70/2025/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "74/2022/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "268/2016/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "82/2023/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "32/2020/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "120/2016/ND-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "126/2020/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "91/2022/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "123/2020/ND-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "32/2025/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "123/2020/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "55/2025/TT-BTC",
+            "target_id": "70/2025/ND-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ]
+}

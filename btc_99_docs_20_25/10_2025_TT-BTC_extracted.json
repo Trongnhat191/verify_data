@@ -1,0 +1,599 @@
+{
+    "file_name": "10_2025_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "10/2025/TT-BTC",
+        "title": "Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí duy trì sử dụng tài nguyên Internet, lệ phí phân bổ, cấp tài nguyên Internet",
+        "promulgationDate": "2025-03-19",
+        "effectiveDate": "2025-05-03",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Cao Anh Tuấn",
+        "draftingUnit": "Cục quản lý, giám sát Chính sách thuế, phí & lệ phí",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "PARTIALLY_EXPIRED",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:19Z",
+        "_doc_id": "468028"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "Luật Phí và lệ phí",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "Luật Ngân sách nhà nước",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "Luật Viễn thông",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "Luật Quản lỳ thuế",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "147/2024/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "120/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "126/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "11/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "123/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "24/2023/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "82/2023/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "38/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "97/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "83/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "20/2023/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "SuspendedByEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "91/2022/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "120/2016/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "126/2020/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "74/2022/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "120/2016/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "126/2020/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "91/2022/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "11/2020/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "123/2020/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "78/2021/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "10_2025_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "10/2025/TT-BTC",
+        "dates": {
+            "promulgation_date": "2025-03-19",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Phạm vi điều chỉnh và đối tượng áp dụng",
+                    "position": 0,
+                    "children": [],
+                    "content": "1. Phạm vi điều chỉnh\nThông tư này quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí duy trì sử dụng tài nguyên Internet (gồm: phí duy trì sử dụng tên miền quốc gia .vn, phí duy trì sử dụng địa chỉ Internet (IP) và phí duy trì sử dụng số hiệu mạng), lệ phí phân bổ, cấp tài nguyên Internet (gồm: lệ phí đăng ký sử dụng tên miền quốc gia .vn, lệ phí đăng ký sử dụng địa chỉ Internet (IP) và lệ phí đăng ký sử dụng số hiệu mạng).\n2. Đối tượng áp dụng\na) Tổ chức, cá nhân trong nước và nước ngoài được cấp, đăng ký, sử dụng tên miền quốc gia .vn; tổ chức trong nước được phân bổ, cấp, đăng ký, sử dụng tài liệu chỉ IP, số hiệu mạng Việt Nam.\nb) Cơ quan nhà nước có thẩm quyền phân bổ, cấp, đăng ký, sử dụng tài nguyên Internet Việt Nam.\nc) Tổ chức, cá nhân khác có liên quan đến việc thu, nộp, quản lý và sử dụng phí duy trì sử dụng tài nguyên Internet và lệ phí phân bổ, cấp tài nguyên Internet."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Người nộp phí, lệ phí",
+                    "position": 949,
+                    "children": [],
+                    "content": "Điều 2. Người nộp phí, lệ phí\nNgười nộp phí, lệ phí là tổ chức, cá nhân trong nước và nước ngoài được cấp, đăng ký, sử dụng tên miền quốc gia .vn và tổ chức trong nước được phân bổ, cấp, đăng ký, sử dụng địa chỉ IP, số hiệu mạng Việt Nam theo quy định của pháp luật."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "3",
+                    "title": "Tổ chức thu phí, lệ phí",
+                    "position": 1216,
+                    "children": [],
+                    "content": "Điều 3. Tổ chức thu phí, lệ phí\nCơ quan có thẩm quyền thực hiện nhiệm vụ phân bổ, cấp, đăng ký, sử dụng tài nguyên Internet Việt Nam theo quy định của pháp luật là tổ chức thu phí, lệ phí theo quy định tại Thông tư này."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "4",
+                    "title": "Mức thu phí, lệ phí",
+                    "position": 1436,
+                    "children": [],
+                    "content": "Điều 4. Mức thu phí, lệ phí\n1. Mức thu lệ phí đăng ký sử dụng tên miền quốc gia .vn và phí duy trì sử dụng tên miền quốc gia .vn thực hiện theo quy định tại Mục I Biểu mức thu phí, lệ phí ban hành kèm theo Thông tư này.\n2. Mức thu lệ phí đăng ký sử dụng địa chỉ IP và phí duy trì sử dụng địa chỉ IP thực hiện theo quy định tại Mục II Biểu mức thu phí, lệ phí ban hành kèm theo Thông tư này.\n3. Mức thu lệ phí đăng ký sử dụng số hiệu mạng và phí duy trì sử dụng số hiệu mạng thực hiện theo quy định tại Mục III Biểu mức thu phí, lệ phí ban hành kèm theo Thông tư này áp dụng cho mỗi số hiệu mạng từ số hiệu mạng thứ 03 trở lên của tổ chức đăng ký, duy trì sử dụng.\n3"
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "5",
+                    "title": "Kê khai, nộp phí, lệ phí",
+                    "position": 2102,
+                    "children": [],
+                    "content": "Điều 5. Kê khai, nộp phí, lệ phí\n1. Người nộp phí, lệ phí thực hiện nộp phí, lệ phí cho tổ chức thu phí, lệ phí theo mức thu quy định tại Điều 4 Thông tư này theo hình thức quy định tại Thông tư số 74/2022/TT-BTC ngày 22 tháng 12 năm 2022 của Bộ trưởng Bộ Tài chính quy định về hình thức, thời hạn thu, nộp, kê khai các khoản phí, lệ phí thuộc thẩm quyền quy định của Bộ Tài chính.\n2. Đối với lệ phí đăng ký sử dụng tên miền quốc gia .vn và phí duy trì sử dụng tên miền quốc gia .vn\na) Lệ phí đăng ký sử dụng tên miền quốc gia .vn nộp 01 lần khi đăng ký. Phí duy trì sử dụng tên miền quốc gia .vn nộp theo năm (12 tháng): Nộp lần đầu khi đăng ký, nộp các năm tiếp theo khi tên miền đến hạn duy trì.\nb) Trường hợp chuyển nhượng quyền sử dụng tên miền quốc gia .vn, tổ chức, cá nhân nhận chuyển nhượng phải nộp:\nLệ phí đăng ký sử dụng tên miền quốc gia .vn khi đăng ký lại tên miền theo quy định.\nPhí duy trì sử dụng tên miền quốc gia .vn của các năm sử dụng tiếp theo khi hết thời gian đã nộp phí của tên miền nhận chuyển nhượng.\nc) Trường hợp đổi tên chủ thể đăng ký sử dụng tên miền quốc gia .vn, chủ thể đăng ký sử dụng mới thực hiện nộp phí duy trì sử dụng tên miền quốc gia .vn của các năm sử dụng tiếp theo khi hết thời gian đã nộp phí của tên miền.\nd) Kể từ ngày Thông tư này có hiệu lực thi hành đến hết ngày 31 tháng 12 năm 2025:\nCông dân Việt Nam có độ tuổi từ đủ 18 đến 23 đăng ký sử dụng tên miền “id.vn” thực hiện nộp phí từ năm thứ 03 trở đi.\nDoanh nghiệp (có giấy chứng nhận đăng ký doanh nghiệp trong vòng 01 năm (12 tháng) cho đến thời điểm đăng ký tên miền), hộ kinh doanh (có giấy chứng nhận đăng ký hộ kinh doanh) đăng ký tên miền “biz.vn” thực hiện nộp phí từ năm thứ 03 trở đi.\nNgày bắt đầu tính phí là ngày đầu tiên của năm thứ 03 tính từ ngày tên miền được cấp. Quy định này chỉ áp dụng với 01 tên miền đăng ký mới đầu tiên.\n3. Đối với lệ phí đăng ký sử dụng địa chỉ IP và phí duy trì sử dụng địa chỉ IP\na) Lệ phí đăng ký sử dụng địa chỉ IP nộp 01 lần khi đăng ký. Phí duy trì sử dụng địa chỉ IP nộp theo năm (12 tháng): Nộp lần đầu khi đăng ký, ngày nộp phí các năm tiếp theo được thiết lập cố định cho mỗi tổ chức (thành viên địa chỉ) và theo thời điểm tổ chức được cấp, phân bổ địa chỉ IP lần đầu.\nb) Tổ chức đăng ký sử dụng đồng thời cả 02 loại địa chỉ IPv4 và địa chỉ IPv6: Trường hợp có cùng mức sử dụng thì nộp lệ phí đăng ký sử dụng địa chỉ\n4\nIP, phí duy trì sử dụng địa chỉ IP cho một loại địa chỉ IP; trường hợp không cùng mức sử dụng thì nộp lệ phí đăng ký sử dụng địa chỉ IP, phí duy trì sử dụng địa chỉ IP cho loại địa chỉ IP có mức thu cao nhất.\nc) Trường hợp tổ chức được cấp, phân bổ thêm mới địa chỉ IP làm tăng mức sử dụng (không thuộc trường hợp đổi tên chủ thể quy định tại điểm d khoản này), tổ chức phải nộp:\nLệ phí đăng ký các lần tiếp theo quy định tại Mục II Biểu mức thu phí, lệ phí ban hành kèm theo Thông tư này. Thời gian nộp trước khi tổ chức được cấp, phân bổ địa chỉ IP.\nPhí duy trì sử dụng địa chỉ IP bổ sung cho thời gian còn lại của năm đã nộp phí. Số phí phải nộp - (Mức phí duy trì sử dụng mới - Mức phí duy trì sử dụng cũ) x (Số tháng còn lại của năm đã nộp phí/12 tháng). Thời gian nộp phí trước khi tổ chức được cấp, phân bổ địa chỉ IP. Từ năm tiếp theo, nộp phí theo mức sử dụng mới.\nd) Trường hợp thay đổi tên chủ thể đăng ký sử dụng địa chỉ IP không làm tăng mức sử dụng, chủ thể mới không phải nộp phí, lệ phí bổ sung cho các vùng địa chỉ IP đã nộp phí. Từ năm tiếp theo, nộp phí cho địa chỉ IP theo quy định.\nd) Trường hợp thay đổi tên chủ thể đăng ký sử dụng địa chỉ IP làm tăng mức sử dụng, chủ thể mới phải nộp bổ sung phần chênh lệch phí giữa hai mức sử dụng cho thời gian còn lại của năm đã nộp phí. Thời gian nộp phí bổ sung trước khi tổ chức được cấp, phân bổ địa chỉ IP. Từ năm tiếp theo, nộp phí theo mức sử dụng mới.\n4. Đối với lệ phí đăng ký sử dụng số hiệu mạng và phí duy trì sử dụng số hiệu mạng\na) Lệ phí đăng ký sử dụng số hiệu mạng nộp 01 lần khi đăng ký áp dụng cho mỗi số hiệu mạng từ số hiệu mạng thứ 03 trở lên. Phí duy trì sử dụng số hiệu mạng nộp theo năm (12 tháng) áp dụng cho mỗi số hiệu mạng từ số hiệu mạng thứ 03 trở lên: Nộp lần đầu khi đăng ký, ngày nộp phí các năm tiếp theo được thiết lập cố định cho mỗi tổ chức và theo thời điểm tổ chức được phân bổ, cấp số hiệu mạng.\nb) Đối với tổ chức đã được phân bổ, cấp số hiệu mạng trước ngày Thông tư có hiệu lực, thực hiện nộp phí duy trì sử dụng theo mức thu năm tiếp theo cho mỗi số hiệu mạng từ số hiệu mạng thứ 03 trở lên theo quy định của Thông tư này. Ngày tính phí duy trì là ngày có hiệu lực của Thông tư.\n5. Chậm nhất thứ 2 hàng tuần, tổ chức thu phí phải gửi số tiền phí đã thu của tuần trước vào tài khoản phí chờ nộp ngân sách mở tại Kho bạc Nhà nước.\nTổ chức thu phí, lệ phí thực hiện kê khai, thu, nộp phí, lệ phí và quyết toán phí theo quy định tại Thông tư số 74/2022/TT-BTC."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "6",
+                    "title": "Quản lý và sử dụng phí, lệ phí",
+                    "position": 6939,
+                    "children": [],
+                    "content": "Điều 6. Quản lý và sử dụng phí, lệ phí\n1. Tổ chức thu lệ phí nộp toàn bộ số tiền lệ phí thu được vào ngân sách nhà nước (ngân sách trung ương) theo Mục lục ngân sách nhà nước hiện hành.\n2. Tổ chức thu phí được đề lại 85% số tiền phí thu được, nộp 15% số tiền phí thu được vào ngân sách nhà nước (ngân sách trung ương) theo chương, tiêu mục tương ứng của Mục lục ngân sách nhà nước.\n3. Tiền phí được đề lại cho tổ chức thu phí theo quy định tại khoản 2 Điều này được quản lý và sử dụng để chi cho việc cấp đăng ký và quản lý, duy trì phát triển hoạt động tên miền quốc gia .vn, địa chỉ IP Việt Nam, số hiệu mạng, duy trì hệ thống kỹ thuật và việc thu phí theo quy định tại khoản 4 Điều 1 Nghị định số 82/2023/NĐ-CP ngày 28 tháng 11 năm 2023 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 120/2016/NĐ-CP ngày 23 tháng 8 năm 2016 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Phí và lệ phí."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "7",
+                    "title": "Điều khoản thi hành",
+                    "position": 7869,
+                    "children": [],
+                    "content": "Điều 7. Điều khoản thi hành\n1. Thông tư này có hiệu lực kể từ ngày 03 tháng 5 năm 2025.\n2. Thông tư này thay thế Thông tư số 20/2023/TT-BTC ngày 13 tháng 4 năm 2023 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí duy trì sự dụng tên miền và địa chỉ Internet, lệ phí đăng ký sử dụng tên miền quốc gia “.vn” và lệ phí đăng ký sử dụng địa chỉ Internet (IP).\n3. Các nội dung khác liên quan đến việc thu, nộp, chứng từ thu, công khai chế độ thu phí, lệ phí không đề cập tại Thông tư này được thực hiện theo quy định tại các văn bản: Luật Phí và lệ phí; Nghị định số 120/2016/NĐ-CP ngày 23 tháng 8 năm 2016 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Phí và lệ phí; Nghị định số 82/2023/NĐ-CP ngày 28 tháng 11 năm 2023 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 120/2016/NĐ-CP ngày 23 tháng 8 năm 2016 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Phí và lệ phí; Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quan lý thuế; Nghị định số 91/2022/NĐ-CP ngày 30 tháng 10 năm 2022 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quan lý thuế; Nghị định số 11/2020/NĐ-CP ngày 20 tháng 01 năm 2020 của Chính phủ quy định về thủ tục hành chính thuộc lĩnh vực Kho bạc Nhà nước; Nghị định số 123/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định về hóa đơn, chứng từ và Thông tư số 78/2021/TT-BTC ngày 17 tháng 9 năm 2021 của Bộ trưởng Bộ Tài chính hướng dẫn thực hiện một số điều của Luật Quản lý thuế ngày 13 tháng 6 năm 2019, Nghị định số 123/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định về hóa đơn, chứng từ.\n4. Trường hợp các văn bản quy phạm pháp luật quy định viện dẫn tại Thông tư này được sửa đổi, bổ sung hoặc thay thế thì thực hiện theo văn bản sửa đổi, bổ sung hoặc thay thế đó.\n5. Trong quá trình thực hiện, nếu có vướng mắc đề nghị các tổ chức, cá nhân phản ánh kịp thời về Bộ Tài chính đề nghiên cứu, hướng dẫn bổ sung./."
+                }
+            ],
+            "metadata": {
+                "total_units": 7,
+                "total_articles": 7,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 1
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [],
+            "replaces": [
+                {
+                    "official_number_target": "20/2023/TT-BTC",
+                    "effective_from": "2025-05-03"
+                }
+            ],
+            "mentions": [],
+            "abolished": [],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 2,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "120/2016/NĐ-CP",
+                    "126/2020/NĐ-CP"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "replaces": {
+                "crawl_count": 1,
+                "llm_count": 1,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 7,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "11/2020/NĐ-CP",
+                    "120/2016/NĐ-CP",
+                    "123/2020/NĐ-CP",
+                    "126/2020/NĐ-CP",
+                    "74/2022/TT-BTC",
+                    "78/2021/TT-BTC",
+                    "91/2022/NĐ-CP"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 1,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "91/2022/NĐ-CP"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            }
+        },
+        "warnings": [
+            "[amends] LLM thiếu target so với crawl: ['120/2016/NĐ-CP', '126/2020/NĐ-CP']",
+            "[mentions] LLM thiếu target so với crawl: ['11/2020/NĐ-CP', '120/2016/NĐ-CP', '123/2020/NĐ-CP', '126/2020/NĐ-CP', '74/2022/TT-BTC', '78/2021/TT-BTC', '91/2022/NĐ-CP']",
+            "[suspended] LLM thiếu target so với crawl: ['91/2022/NĐ-CP']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "Luật Phí và lệ phí",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "Luật Ngân sách nhà nước",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "Luật Viễn thông",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "Luật Quản lỳ thuế",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "147/2024/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "120/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "126/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "11/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "123/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "24/2023/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "82/2023/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "38/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "97/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "83/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "20/2023/TT-BTC",
+            "properties": {
+                "source": "crawled",
+                "effective_from": "2025-05-03"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "SuspendedByEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "91/2022/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "120/2016/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "126/2020/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "74/2022/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "120/2016/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "126/2020/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "91/2022/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "11/2020/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "123/2020/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "10/2025/TT-BTC",
+            "target_id": "78/2021/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ]
+}

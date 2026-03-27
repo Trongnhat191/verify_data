@@ -1,0 +1,432 @@
+{
+    "file_name": "41_2021_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "41/2021/TT-BTC",
+        "title": "Hướng dẫn về tổ chức, hoạt động, quản lý, sử dụng và kế toán, quyết toán, công khai tài chính Quỹ vắc-xin phòng COVID-19 Việt Nam",
+        "promulgationDate": "2021-06-02",
+        "effectiveDate": "2021-06-02",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Tạ Anh Tuấn",
+        "draftingUnit": "Vụ Ngân sách Nhà nước",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:21Z",
+        "_doc_id": "104266"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "41/2021/TT-BTC",
+            "target_id": "53/NQ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "41/2021/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "41/2021/TT-BTC",
+            "target_id": "Luật kế toán 2015",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "41/2021/TT-BTC",
+            "target_id": "Luật ngân sách nhà nước 2015",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "DetailsEdge",
+            "source_id": "41/2021/TT-BTC",
+            "target_id": "44/2021/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "41_2021_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "41/2021/TT-BTC",
+        "dates": {
+            "promulgation_date": "2021-06-02",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "CHAPTER",
+                    "number": "I",
+                    "title": "QUY ĐỊNH CHUNG",
+                    "position": 0,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "1",
+                            "title": "Phạm vi điều chỉnh",
+                            "position": 23,
+                            "children": [],
+                            "content": "Điều 1. Phạm vi điều chỉnh\nThông tư này hướng dẫn về tổ chức, hoạt động, quản lý, sử dụng và kế\ntoán, quyết toán, công khai tài chính Quỹ vắc-xin phòng Covid-19 Việt Nam\nđược thành lập theo Quyết định số 779/QĐ-TTg ngày 26 tháng 5 năm 2021\ncủa Thủ tướng Chính phủ (sau đây gọi tắt là Quyết định số 779/QĐ-TTg).\n2"
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "2",
+                            "title": "Đối tượng áp dụng",
+                            "position": 336,
+                            "children": [],
+                            "content": "Điều 2. Đối tượng áp dụng\n1. Quỹ vắc-xin phòng Covid-19 Việt Nam (sau đây gọi tắt là Quỹ).\n2. Bộ Tài chính, Bộ Y tế.\n3. Cơ quan, tổ chức và cá nhân có liên quan."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "3",
+                            "title": "Nguyên tắc hoạt động Quỹ",
+                            "position": 498,
+                            "children": [],
+                            "content": "Điều 3. Nguyên tắc hoạt động Quỹ\n1. Quỹ hoạt động không vì mục đích lợi nhuận, sử dụng vốn đúng mục đích và phù hợp với quy định của pháp luật, đảm bảo công khai, minh bạch, tiết kiệm, hiệu quả.\n2. Quỹ sử dụng con dấu, kinh phí và bộ máy của Kho bạc Nhà nước để thực hiện các nhiệm vụ được giao."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "4",
+                            "title": "Nguyên tắc quản lý tài chính Quỹ",
+                            "position": 794,
+                            "children": [],
+                            "content": "Điều 4. Nguyên tắc quản lý tài chính Quỹ\n1. Quỹ thực hiện thu, chi, kế toán, quyết toán, báo cáo và công khai tài chính của Quỹ theo hướng dẫn tại Thông tư này.\n2. Quỹ chịu sự kiểm tra, thanh tra, kiểm toán về các hoạt động tài chính của Quỹ của các cơ quan quản lý nhà nước về tài chính và Kiểm toán nhà nước theo quy định của pháp luật; giám sát của Mặt trận Tổ quốc Việt Nam và cộng đồng.\n3. Quỹ được sử dụng vốn nhân rồi của Quỹ để gửi tại các ngân hàng thương mại nhằm mục đích bảo toàn và phát triển vốn cho Quỹ, nhưng phải đảm bảo an toàn.\n4. Sau khi Quỹ chấm dứt hoạt động và giải thể, số dư của Quỹ (nếu có) được nộp toàn bộ vào ngân sách trung ương để bổ sung nguồn lực mua vắc-xin cho Chương trình tiêm chủng mở rộng của Nhà nước."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "5",
+                            "title": "Xác định thu nhập chịu thuế thu nhập doanh nghiệp đối với các khoản tài trợ, hỗ trợ, đóng góp tự nguyện cho Quỹ",
+                            "position": 1536,
+                            "children": [],
+                            "content": "Điều 5. Xác định thu nhập chịu thuế thu nhập doanh nghiệp đối với các khoản tài trợ, hỗ trợ, đóng góp tự nguyện cho Quỹ\nCác tổ chức, doanh nghiệp được tính vào chi phí được trừ khi xác định thu nhập chịu thuế thu nhập doanh nghiệp đối với các khoản tài trợ, hỗ trợ, đóng góp tự nguyện cho Quỹ theo quy định tại Nghị định số 44/2021/NĐ-CP ngày 31 tháng 3 năm 2021 của Chính phủ hướng dẫn thực hiện về chi phí được trừ khi xác định thu nhập chịu thuế thu nhập doanh nghiệp đối với các khoản chi ủng hộ, tài trợ của doanh nghiệp, tổ chức cho các hoạt động phòng, chống dịch Covid-19 và các văn bản sửa đổi, bổ sung (nếu có).\n3"
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "II",
+                    "title": "QUY ĐỊNH CỤ THỂ",
+                    "position": 2160,
+                    "children": [
+                        {
+                            "type": "SECTION",
+                            "number": "1",
+                            "title": "NHIỆM VỤ, QUYỀN HẠN VÀ TỔ CHỨC BỘ MÁY QUỸ",
+                            "position": 2186,
+                            "children": [
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "6",
+                                    "title": "Nhiệm vụ của Quỹ",
+                                    "position": 2234,
+                                    "children": [],
+                                    "content": "Điều 6. Nhiệm vụ của Quỹ\nNhiệm vụ của Quỹ theo quy định tại Điều 5 Quyết định số 779/QĐ-TTg Thủ tướng Chính phủ."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "7",
+                                    "title": "Quyền hạn của Quỹ",
+                                    "position": 2347,
+                                    "children": [],
+                                    "content": "Điều 7. Quyền hạn của Quỹ\n1. Được vận động và tiếp nhận các khoản tài trợ, hỗ trợ, đóng góp tự nguyện bằng tiền, vắc-xin và các loại hình vật chất khác (không bao gồm vật tư, sinh phẩm, trang thiết bị y tế hỗ trợ cho phòng chống dịch) cho Quỹ của các tổ chức, cá nhân trong nước và nước ngoài.\n2. Được sử dụng các nguồn tài chính của Quỹ để tài trợ, hỗ trợ cho hoạt động mua, nhập khẩu vắc-xin, nghiên cứu, sản xuất vắc-xin trong nước và sử dụng vắc-xin phòng Covid-19 cho người dân theo nội dung phê duyệt của Thủ tướng Chính phủ và đề nghị của Bộ Y tế.\n3. Được mở tài khoản giao dịch tại Sở Giao dịch Kho bạc Nhà nước và ngân hàng thương mại để tiếp nhận các khoản đóng góp, tài trợ, hỗ trợ bằng tiền của các tổ chức, cá nhân trong và ngoài nước.\nCuối ngày, toàn bộ số dư trên tài khoản của Quỹ mở tại ngân hàng thương mại trước thời điểm tạm ngừng truyền, nhận chứng từ thanh toán (thời điểm COT) của các kênh thanh toán giữa hệ thống ngân hàng và Kho bạc Nhà nước được kết chuyển về tài khoản của Quỹ mở tại Sở Giao dịch Kho bạc Nhà nước; đối với các khoản tài trợ, hỗ trợ, đóng góp phát sinh trên tài khoản của Quỹ mở tại ngân hàng thương mại sau thời điểm kết chuyển được chuyển về tài khoản của Quỹ mở tại Sở Giao dịch Kho bạc Nhà nước chậm nhất vào ngày làm việc kế tiếp.\n4. Được sử dụng vốn nhân rồi bằng Đồng Việt Nam của Quỹ để gửi có kỳ hạn tối đa không quá 03 tháng tại các ngân hàng thương mại theo quy định tại Điều 18 Thông tư này nhằm mục đích bảo toàn và phát triển vốn cho Quỹ, nhưng phải đảm bảo an toàn.\n5. Thực hiện quyền và nghĩa vụ khác theo quy định của pháp luật.\n4"
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "8",
+                                    "title": "Tổ chức bộ máy của Quỹ",
+                                    "position": 3939,
+                                    "children": [],
+                                    "content": "Điều 8. Tổ chức bộ máy của Quỹ\nQuỹ hoạt động theo Quyết định số 779/QĐ-TTg của Thủ tướng Chính\nphủ, dưới sự chỉ đạo của Bộ trưởng Bộ Tài chính thông qua Ban Quản lý Quỹ."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "9",
+                                    "title": "Ban Quản lý Quỹ",
+                                    "position": 4109,
+                                    "children": [],
+                                    "content": "Điều 9. Ban Quản lý Quỹ\n1. Ban Quản lý Quỹ (sau đây gọi tắt là Ban Quản lý) do Bộ trưởng Bộ\nTài chính quyết định thành lập, bao gồm: Giám đốc, Phó Giám đốc, Kế toán\ntrưởng và một số thành viên là công chức của Kho bạc Nhà nước, được Bộ\ntrưởng Bộ Tài chính bổ nhiệm.\n2. Ban Quản lý hoạt động theo chế độ kiêm nhiệm, tự chấm dứt hoạt\nđộng và giải thể sau khi cơ quan có thẩm quyền công bố hoàn thành việc tiêm\nvắc-xin phòng dịch Covid-19 cho người dân.\n3. Ban Quản lý chịu trách nhiệm trước Bộ trưởng Bộ Tài chính và\ntrước pháp luật về toàn bộ kết quả hoạt động của Quỹ."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "10",
+                                    "title": "Chức năng, nhiệm vụ của Ban Quản lý",
+                                    "position": 4678,
+                                    "children": [],
+                                    "content": "Điều 10. Chức năng, nhiệm vụ của Ban Quản lý\n1. Thực hiện quản lý, sử dụng nguồn vốn của Quỹ theo quy định; xây\ndựng phương án và thực hiện gửi tiền có kỳ hạn tại ngân hàng thương mại đối\nvới nguồn vốn nhận rồi bằng Đồng Việt Nam của Quỹ nhằm mục đích bảo\ntoàn và phát triển vốn cho Quỹ, nhưng phải đảm bảo bảo an toàn.\n2. Thực hiện chế độ kế toán, quyết toán, báo cáo và công khai tài chính\nquỹ theo quy định của Luật Kế toán và hướng dẫn của Bộ Tài chính tại\nThông tư này."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "11",
+                                    "title": "Giám đốc Ban Quản lý",
+                                    "position": 5153,
+                                    "children": [],
+                                    "content": "Điều 11. Giám đốc Ban Quản lý\n1. Giám đốc Ban Quản lý là chủ tài khoản của Quỹ.\n2. Giám đốc Ban Quản lý có nhiệm vụ tổ chức, điều hành hoạt động\ncủa Ban Quản lý; phân công nhiệm vụ cho các Phó Giám đốc, Kế toán trưởng\nvà các Thành viên Ban Quản lý trong việc thực hiện nhiệm vụ, quyền hạn của\nBan; ký các báo cáo, quyết toán, công khai tài chính Quỹ và văn bản thuộc\nthẩm quyền của Ban Quản lý.\n3. Giám đốc Ban Quản lý chịu trách nhiệm trước Bộ trưởng Bộ Tài\nchính, trước pháp luật về các công việc được giao."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "12",
+                                    "title": "Phó Giám đốc Ban Quản lý",
+                                    "position": 5663,
+                                    "children": [],
+                                    "content": "Điều 12. Phó Giám đốc Ban Quản lý\n1. Phó Giám đốc Ban Quản lý là người giúp việc cho Giám đốc Ban\nQuản lý, thực hiện các nhiệm vụ theo phân công hoặc ủy quyền của Giám\nđốc Ban quản lý.\n2. Phó Giám đốc Ban Quản lý chịu trách nhiệm trước Bộ trưởng Bộ Tài chính, trước Giám đốc Ban Quản lý, trước pháp luật về các công việc được giao."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "13",
+                                    "title": "Kế toán trưởng Ban Quản lý",
+                                    "position": 5995,
+                                    "children": [],
+                                    "content": "Điều 13. Kế toán trưởng Ban Quản lý\n1. Kế toán trưởng Ban Quản lý thực hiện các nhiệm vụ theo phân công của Giám đốc Ban quản lý, chịu trách nhiệm về công tác kế toán, báo cáo tài chính, báo cáo quyết toán Quỹ theo của pháp luật và quy định tại Thông tư này.\n2. Kế toán trưởng Ban Quản lý chịu trách nhiệm trước Bộ trưởng Bộ Tài chính, trước Giám đốc Ban Quản lý và trước pháp luật về các công việc được giao."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "14",
+                                    "title": "Thành viên Ban quản lý",
+                                    "position": 6405,
+                                    "children": [],
+                                    "content": "Điều 14. Thành viên Ban quản lý\n1. Thành viên Ban Quản lý thực hiện các nhiệm vụ theo phân công của Giám đốc Ban quản lý.\n2. Thành viên Ban Quản lý chịu trách nhiệm trước Bộ trưởng Bộ Tài chính, trước Giám đốc Ban Quản lý và trước pháp luật về các công việc được giao."
+                                }
+                            ]
+                        },
+                        {
+                            "type": "SECTION",
+                            "number": "2",
+                            "title": "TÀI CHÍNH QUỸ",
+                            "position": 6674,
+                            "children": [
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "15",
+                                    "title": "Nguồn thu của Quỹ",
+                                    "position": 6694,
+                                    "children": [],
+                                    "content": "Điều 15. Nguồn thu của Quỹ\n1. Nguồn thu của Quỹ gồm:\na) Các khoản tài trợ, hỗ trợ, đóng góp tự nguyện của các tổ chức, cá nhân trong nước và ngoài nước cho Quỹ, gồm: tiền (tiền Đồng Việt Nam, ngoại tệ), vắc-xin và các loại hình vật chất khác;\nb) Lãi tiền gửi của Quỹ tại Kho bạc Nhà nước và ngân hàng thương mại;\nc) Các nguồn thu hợp pháp khác (nếu có).\n2. Trách nhiệm tiếp nhận:\na) Các khoản tài trợ, hỗ trợ, đóng góp tự nguyện của các tổ chức, cá nhân trong nước và ngoài nước cho Quỹ bằng tiền được chuyển vào tài khoản của Quỹ tại Sở Giao dịch Kho bạc Nhà nước và ngân hàng thương mại;\nb) Các khoản tài trợ, hỗ trợ, đóng góp tự nguyện của các tổ chức, cá nhân trong nước và ngoài nước cho Quỹ bằng vắc-xin, Bộ Y tế thực hiện tiếp nhận để quản lý, phân phối và sử dụng theo quy định.\nBộ Y tế có trách nhiệm xác định giá trị quy tiền Đồng Việt Nam của vắc-xin được tài trợ cho Quỹ và định kỳ 10 ngày lập báo cáo gửi Quỹ theo Mẫu số 03-BC/QVX tại Phụ lục kèm theo Thông tư này, để hạch toán phản ánh vào thu, chi của Quỹ.\nViệc xác định giá trị quy tiền của vắc-xin căn cứ các hóa đơn, chứng từ do nhà tài trợ cung cấp; trường hợp không có hóa đơn, chứng từ của nhà tài trợ thì xác định theo giá tạm tính để phản ánh kịp thời vào thu của Quỹ, Bộ Y tế có trách nhiệm xác định giá chính thức theo quy định của pháp luật và báo cáo Quỹ để điều chỉnh hạch toán (nếu có chênh lệch);\nc) Các khoản tài trợ, hỗ trợ, đóng góp tự nguyện của các tổ chức, cá nhân trong nước và ngoài nước cho Quỹ bằng các loại hình vật chất khác (không bao gồm vật tư, sinh phẩm, trang thiết bị y tế hỗ trợ cho phòng chống dịch), Quỹ thực hiện tiếp nhận đề quản lý, theo dõi và hạch toán phản ánh vào thu của Quỹ khi xuất bán theo quy định.\n3. Xác nhận khoản tài trợ, hỗ trợ, đóng góp tự nguyện cho Quỹ:\nTrường hợp tổ chức, doanh nghiệp có nhu cầu xác nhận về khoản tài trợ, hỗ trợ, đóng góp tự nguyện cho Quỹ, Ban Quản lý Quỹ có trách nhiệm xác nhận đối với các khoản tài trợ, hỗ trợ, đóng góp tự nguyện bằng tiền, các hình thức vật chất khác; Bộ Y tế có trách nhiệm xác nhận đối với các khoản tài trợ, hỗ trợ, đóng góp tự nguyện bằng vắc-xin.\nBiên bản xác nhận theo mẫu quy định tại Phụ lục ban hành kèm theo Nghị định số 44/2021/NĐ-CP ngày 31 tháng 3 năm 2021 của Chính phủ hướng dẫn thực hiện về chi phí được trừ khi xác định thu nhập chịu thuế thu nhập doanh nghiệp đối với các khoản chi ủng hộ, tài trợ của doanh nghiệp, tổ chức cho các hoạt động phòng, chống dịch Covid-19."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "16",
+                                    "title": "Nội dung chi của Quỹ",
+                                    "position": 9147,
+                                    "children": [],
+                                    "content": "Điều 16. Nội dung chi của Quỹ\nQuỹ sử dụng để hỗ trợ, tài trợ cho hoạt động mua, nhập khẩu vắc-xin, nghiên cứu, sản xuất vắc-xin trong nước và sử dụng vắc-xin phòng Covid-19."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "17",
+                                    "title": "Thẩm quyền quyết định chi của Quỹ",
+                                    "position": 9321,
+                                    "children": [],
+                                    "content": "Điều 17. Thẩm quyền quyết định chi của Quỹ\n1. Bộ Y tế chủ trì, phối hợp với Bộ Tài chính tổng hợp nhu cầu kinh phí để mua, nhập khẩu vắc-xin, nghiên cứu, sản xuất vắc-xin trong nước và sử dụng vắc-xin phòng Covid-19, trình Thủ tướng Chính phủ quyết định chi từ Quỹ để tài trợ, hỗ trợ cho hoạt động mua, nhập khẩu vắc-xin, nghiên cứu, sản xuất vắc-xin trong nước và sử dụng vắc-xin phòng Covid-19 theo quy định.\n2. Căn cứ các nội dung chi được Thủ tướng Chính phủ phê duyệt, Bộ Y tế lập hồ sơ đề nghị xuất Quỹ để chi theo quy định.\n7\nHồ sơ đề nghị xuất Quỹ bao gồm: văn bản của Thủ tướng Chính phủ phê duyệt nội dung chi từ Quỹ; văn bản đề nghị của Bộ Y tế về việc chi từ Quỹ (trong đó nêu rõ: nội dung chi; số tiền; tên đơn vị nhận tiền, địa chỉ, số tài khoản, tên ngân hàng).\n3. Bộ Y tế chịu trách nhiệm toàn diện trước pháp luật, trước Thủ tướng Chính phủ về việc quản lý, sử dụng số tiền được cấp từ Quỹ để mua, nhập khẩu vắc-xin, tài trợ, hỗ trợ cho hoạt động nghiên cứu, sản xuất vắc-xin trong nước; quản lý, sử dụng vắc-xin đã mua, nhập khẩu và vắc-xin đã tiếp nhận từ các nhà tài trợ theo đúng quy định."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "18",
+                                    "title": "Gửi tiền có kỳ hạn tại ngân hàng thương mại đối với nguồn vốn tạm thời nhân rồi của Quỹ",
+                                    "position": 10432,
+                                    "children": [],
+                                    "content": "Điều 18. Gửi tiền có kỳ hạn tại ngân hàng thương mại đối với nguồn vốn tạm thời nhân rồi của Quỹ\n1. Định kỳ trước ngày 25 tháng cuối quý, căn cứ báo cáo của Bộ Y tế về kế hoạch chi của quý kế tiếp, Ban Quản lý xây dựng phương án gửi tiền có kỳ hạn tại ngân hàng thương mại để triển khai thực hiện. Trường hợp Bộ Y tế chưa báo cáo về kế hoạch chi, Quỹ tạm dừng việc gửi mới tiền gửi có kỳ hạn để đảm bảo an toàn thanh khoản.\n2. Nguyên tắc gửi tiền có kỳ hạn của Quỹ:\na) Quỹ gửi tiền tại các ngân hàng thương mại mà Kho bạc Nhà nước lựa chọn để gửi có kỳ hạn các khoản ngân quỹ nhà nước tạm thời nhân rồi;\nb) Kỳ hạn gửi tiền bao gồm 01 tháng, 02 tháng và 03 tháng. Căn cứ kế hoạch chi từ Quỹ của Bộ Y tế, khả năng nguồn vốn nhân rồi của Quỹ và tình hình thị trường, Ban Quản lý chủ động điều chỉnh khối lượng gửi theo các kỳ hạn cho phù hợp;\nc) Các khoản tiền gửi có kỳ hạn của Quỹ tại ngân hàng thương mại được duy trì đến khi đáo hạn, trừ trường hợp cần thiết phải thu hồi trước hạn để thực hiện nhiệm vụ chi của Quỹ theo quy định.\n3. Căn cứ danh sách các ngân hàng thương mại đủ điều kiện tham gia nhận tiền gửi có kỳ hạn, Quỹ thực hiện ký kết hợp đồng khung về việc gửi tiền có kỳ hạn của Quỹ với các ngân hàng thương mại. Trong hợp đồng khung phải nêu rõ phương thức chuyển tiền, thanh toán gốc, lãi và thỏa thuận rút trước hạn.\n4. Quy trình gửi tiền có kỳ hạn của Quỹ:\na) Tối thiểu 02 ngày làm việc trước ngày mở bản chào nhận tiền gửi, Quỹ gửi thông báo (bằng văn bản giấy hoặc văn bản điện tử) về việc gửi tiền có kỳ hạn đến từng ngân hàng thương mại đủ điều kiện nhận tiền gửi có kỳ hạn của Quỹ.\nNội dung thông báo gồm: dự kiến khối lượng tiền gửi có kỳ hạn, kỳ hạn gửi tiền, thời hạn nhận bản chào nhận tiền gửi, phương thức gửi/nhận bản chào nhận tiền gửi;\nb) Chậm nhất 14 giờ 00 ngày đến hạn nhận bản chào nhận tiền gửi, các ngân hàng thương mại gửi bản chào nhận tiền gửi đến Quỹ (bằng văn bản trong phong bì có dấu niêm phong hoặc bằng văn bản điện tử đã được mã hóa), trong đó nêu rõ số tiền, lãi suất tương ứng từng kỳ hạn nhận gửi. Mỗi ngân hàng thương mại chỉ chào một mức lãi suất cho một kỳ hạn nhận gửi.\nThời gian nhận văn bản giấy được xác định căn cứ theo thời gian ghi trên sổ giao nhận công văn có chữ ký của bên giao, bên nhận; thời gian nhận văn bản điện tử được xác định căn cứ theo thời gian hệ thống công nghệ thông tin được Quỹ sử dụng ghi lại việc đã nhận được văn bản;\nc) Chậm nhất mười lăm (15) phút sau thời hạn nhận bản chào nhận tiền gửi, Quỹ mở các bản chào. Căn cứ thông tin bản chào của từng ngân hàng thương mại, Quỹ xác định khối lượng tiền gửi, lãi suất gửi tương ứng từng kỳ hạn đối với từng ngân hàng thương mại;\nd) Trong vòng 01 ngày làm việc kể từ ngày mở bản chào nhận tiền gửi, Quỹ thông báo kết quả đến từng ngân hàng thương mại; đồng thời, gửi kèm dự thảo phụ lục hợp đồng gửi tiền có kỳ hạn đối với các ngân hàng thương mại được lựa chọn gửi tiền. Phụ lục hợp đồng gồm các điều khoản: số tiền gửi có kỳ hạn, kỳ hạn gửi tiền, lãi suất tiền gửi, ngày gửi tiền, ngày đáo hạn, điều khoản khác phát sinh (nếu có).\nNgân hàng thương mại được lựa chọn gửi tiền thống nhất với Quỹ về điều khoản của phụ lục hợp đồng (trừ điều khoản về số tiền gửi, kỳ hạn, lãi suất tiền gửi), trong đó, ngày gửi tiền không quá 02 ngày làm việc kể từ ngày Quỹ thông báo kết quả lựa chọn ngân hàng thương mại gửi tiền.\nTrên cơ sở nội dung phụ lục hợp đồng đã thống nhất, Quỹ và ngân hàng thương mại được lựa chọn ký kết phụ lục hợp đồng về việc gửi tiền có kỳ hạn của Quỹ và triển khai thực hiện theo phụ lục hợp đồng;\n5. Phương pháp xác định lãi suất và khối lượng gửi tiền có kỳ hạn của Quỹ:\na) Lãi suất gửi áp dụng cho mỗi ngân hàng thương mại là mức lãi suất chào của ngân hàng thương mại đó, được xét chọn theo thứ tự từ cao xuống thấp của lãi suất chào thỏa mãn điều kiện: không thấp hơn lãi suất gửi tiền có\n9\nkỳ hạn ngân quỹ nhà nước tối thiểu được Bộ Tài chính quy định; khối lượng\ntiền gửi tính lũy kế đến các mức lãi suất được lựa chọn không vượt quá khối\nlượng tiền gửi thông báo;\nb) Khối lượng tiền gửi tại mỗi ngân hàng thương mại tương đương với\nkhối lượng nhận tiền gửi đăng ký tại mức lãi suất được Quỹ lựa chọn.\nTrường hợp tại mức lãi suất được lựa chọn thấp nhất, khối lượng nhận\ntiền gửi đăng ký tính lũy kế đến mức lãi suất được lựa chọn thấp nhất vượt\nquá khối lượng tiền gửi Quỹ thông báo thì sau khi đã trừ đi khối lượng tiền\ngửi đăng ký ở các mức lãi suất cao hơn, phần dư còn lại của khối lượng tiền\ngửi Quỹ thông báo được phân bổ cho các ngân hàng thương mại chào tại mức\nlãi suất được lựa chọn thấp nhất theo tỷ lệ tương ứng với khối lượng tiền gửi\nđăng ký tại mức lãi suất được lựa chọn thấp nhất; khối lượng tiền gửi phân bổ\ncho các ngân hàng thương mại được làm tròn xuống đơn vị tỷ đồng."
+                                }
+                            ]
+                        },
+                        {
+                            "type": "SECTION",
+                            "number": "3",
+                            "title": "KẾ TOÁN, QUYẾT TOÁN, BÁO CÁO VÀ CÔNG KHAI",
+                            "position": 15174,
+                            "children": [
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "19",
+                                    "title": "Chứng từ kế toán",
+                                    "position": 15246,
+                                    "children": [],
+                                    "content": "Điều 19. Chứng từ kế toán\nQuỹ sử dụng giấy báo Nợ, báo Có hoặc bản sao kê của Ngân hàng,\nKho bạc và lập các chứng từ kế toán khác liên quan theo quy định của Luật\nKế toán và các văn bản có liên quan.\nĐối với nội dung kế toán thu, chi giá trị vắc-xin được tài trợ, kế toán\nQuỹ căn cứ vào báo cáo của Bộ Y tế theo quy định điểm b khoản 2 tại Điều\n15 Thông tư này để hạch toán ghi thu, ghi chi."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "20",
+                                    "title": "Tài khoản kế toán",
+                                    "position": 15638,
+                                    "children": [],
+                                    "content": "Điều 20. Tài khoản kế toán\n1. Danh mục tài khoản áp dụng cho Quỹ:\nSố hiệu TK cấp 1 | Số hiệu TK cấp 2, 3 | Tên tài khoản\n---|---|---|\n1 | 112 | Tiền gửi Ngân hàng, Kho bạc\n| 1121 | Tiền Việt Nam\n10\n| Số TT | Số hiệu TK cấp 1 | Số hiệu TK cấp 2, 3 | Tên tài khoản |\n|---|---|---|---|\n| | 411 | 1122 | Ngoại tệ |\n| 2 | | | Nguồn Quỹ vắc-xin |\n| 3 | 511 | | Thu Quỹ vắc-xin |\n| | | 5111 | Các khoản thu từ đóng góp của nhà tài trợ |\n| | | 51111 | Tài trợ bằng tiền |\n| | | 51112 | Ghi thu tài trợ bằng vắc-xin |\n| | | 5118 | Thu khác |\n| 4 | 611 | | Chi Quỹ vắc-xin |\n| | 6111 | | Chi bằng tiền |\n| | | 61111 | Chi mua, nhập khẩu vắc-xin |\n| | | 61112 | Chi nghiên cứu, sản xuất vắc-xin trong nước |\n| | | 61113 | Chi sử dụng vắc-xin |\n| | | 6112 | Ghi chi vắc-xin được tài trợ |\n2. Nội dung và kết cấu tài khoản:\na) Tài khoản 112 - Tiền gửi Ngân hàng, Kho bạc:\n- Mục đích: Tài khoản này dùng để phản ánh số hiện có và tình hình biến động tăng, giảm các khoản tiền gửi không kỳ hạn và có kỳ hạn tại Ngân hàng, Kho bạc của Quỹ.\n- Nguyên tắc hạch toán:\n+ Kế toán phải mở sổ chi tiết theo dõi riêng tiền gửi có kỳ hạn và tiền gửi không kỳ hạn tại ngân hàng, chi tiết theo từng loại tiền (Đồng Việt Nam, ngoại tệ các loại); chi tiết số tiền gửi theo từng tài khoản ở Ngân hàng, Kho bạc để thuận tiện cho việc kiểm tra, đối chiếu.\n+ Căn cứ để hạch toán trên tài khoản 112 - “Tiền gửi” là các giấy báo Có, báo Nợ hoặc bản sao kê của Ngân hàng, Kho bạc kèm theo các chứng từ gốc liên quan.\n+ Khi nhận được chứng từ của Ngân hàng, Kho bạc gửi đến, kế toán phải kiểm tra, đối chiếu với chứng từ gốc kèm theo.\nNếu có sự chênh lệch giữa số liệu trên sổ kế toán của Quỹ, số liệu ở chứng từ gốc với số liệu trên chứng từ của Ngân hàng, Kho bạc thì Quỹ phải thông báo cho Ngân hàng, Kho bạc để cùng đối chiếu, xác minh và xử lý kịp\n11\nthời. Cuối tháng, chưa xác định được nguyên nhân chênh lệch thì kế toán ghi sổ theo số liệu của Ngân hàng, Kho bạc trên giấy báo Nợ, báo Cổ hoặc bản sao kê. Sang tháng sau, tiếp tục kiểm tra, đối chiếu, xác định nguyên nhân để điều chỉnh số liệu ghi sổ.\n+ Khi phát sinh các khoản thu, chi bằng ngoại tệ, kế toán phải theo dõi nguyên tệ đồng thời quy đổi; ngoại tệ ra Đồng Việt Nam theo tỷ giá hạch toán của Bộ Tài chính tại thời điểm phát sinh.\n+ Tài khoản tiền gửi không kỳ hạn của Quỹ mở tại Ngân hàng, cuối ngày phải tất toán chuyển hết số dư về tài khoản tiền gửi của Quỹ mở tại Sở Giao dịch Kho bạc Nhà nước theo quy định.\n+ Tại thời điểm lập báo cáo tài chính Quỹ phải đánh giá lại số dư tiền gửi bằng ngoại tệ theo tỷ giá hạch toán của Bộ Tài chính.\n- Kết cấu và nội dung phản ánh:\nBên Nợ:\n+ Các khoản tiền Việt Nam, ngoại tệ nhận vào tài khoản của Quỹ tại Ngân hàng, Kho bạc.\n+ Chênh lệch tỷ giá tăng do đánh giá lại số dư ngoại tệ tại thời điểm báo cáo.\nBên Có:\n+ Các khoản tiền Việt Nam, ngoại tệ rút ra từ Ngân hàng, Kho bạc.\n+ Chênh lệch tỷ giá giảm do đánh giá lại số dư ngoại tệ tại thời điểm báo cáo.\nSố dư bên Nợ:\n+ Số tiền Việt Nam, ngoại tệ hiện còn, đang gửi tại Ngân hàng, Kho bạc.\nTài khoản 112 - “Tiền gửi Ngân hàng, Kho bạc” có 2 tài khoản cấp 2:\n- Tài khoản 1121 - Tiền Việt Nam\n- Tài khoản 1122 - Ngoại tệ\nb) Tài khoản 411 - Nguồn Quỹ vắc-xin:\n- Mục đích: Tài khoản này dùng để phản ánh nguồn huy động, đóng góp bằng tiền của các cá nhân, tổ chức trong và ngoài nước và nguồn thu hợp pháp khác còn dư chưa sử dụng đang quản lý tại Quỹ.\n12\n- Nguyên tắc hạch toán:\n+ Tài khoản Nguồn Quỹ vắc-xin phản ánh nguồn Quỹ bằng tiền Việt Nam, ngoại tệ còn dư cuối kỳ chưa sử dụng.\n+ Cuối kỳ, trước khi lập báo cáo tài chính kế toán phải thực hiện kết chuyển toàn bộ số hạch toán thu, chi trong kỳ, xác định chênh lệch để chuyển vào nguồn Quỹ.\n- Kết cấu và nội dung phản ánh:\nBên Nợ:\n+ Nguồn Quỹ vắc-xin tăng lên do đã thu trong kỳ.\n+ Chênh lệch tỷ giá giảm do đánh giá lại số dư ngoại tệ tại thời điểm báo cáo.\nBên Có:\n+ Nguồn Quỹ vắc-xin giảm xuống do đã chi trong kỳ.\n+ Chênh lệch tỷ giá tăng do đánh giá lại số dư ngoại tệ tại thời điểm báo cáo.\nSố dư bên Có:\n+ Số dư nguồn Quỹ vắc-xin bằng tiền do Ban quản lý Quỹ hiện đang quản lý.\nc) Tài khoản 511 - Thu Quỹ vắc-xin\n- Mục đích: Tài khoản này dùng để phản ánh các khoản thu của Quỹ nhận được từ các nhà tài trợ, các khoản thu hợp pháp khác theo quy định, bao gồm khoản thu bằng tiền và thu bằng hiện vật.\n- Nguyên tắc hạch toán:\n+ Khoản thu bằng tiền hạch toán trên cơ sở chứng từ báo Có của Ngân hàng, Kho bạc.\n+ Trường hợp nhận tài trợ bằng ngoại tệ, kế toán quy đổi theo tỷ giá hạch toán của Bộ Tài chính để ghi thu.\n+ Trường hợp nhận tài trợ bằng hiện vật là vắc-xin do Bộ Y tế nhận và quản lý, sử dụng: Căn cứ báo cáo của Bộ Y tế (theo Mẫu số 03-BC/QVX tại Phụ lục kèm theo Thông tư này) để ghi thu vào Quỹ.\n+ Trường hợp nhận tài trợ bằng các loại hình vật chất khác, khi xuất bán, kế toán hạch toán vào thu của Quỹ căn cứ chứng từ nộp tiền vào tài khoản của Quỹ.\n+ Kế toán phải mở sổ kế toán theo dõi chi tiết thu Quỹ theo từng nhà tài trợ đã tài trợ tiền (Đồng Việt Nam, ngoại tệ) cho Quỹ.\n+ Trường hợp nhà tài trợ chỉ đích danh đối tượng được hỗ trợ, kế toán phải theo dõi chi tiết đảm bảo chi đúng đối tượng.\n- Kết cấu và nội dung phản ánh:\nBên Nợ:\n+ Kết chuyển số thu trong kỳ để xác định số tồn Quỹ.\n+ Số ghi giảm thu (nếu có).\nBên Có:\n+ Thu Quỹ bằng tiền Đồng Việt Nam và ngoại tệ.\n+ Ghi thu số nhận tài trợ bằng hiện vật theo báo cáo của Bộ Y tế\nSố dư: Tài khoản này không có số dư cuối kỳ. Trước khi lập báo cáo tài chính, kế toán phải kết chuyển số thu trong kỳ để xác định tồn Quỹ.\nTài khoản 511 - Thu Quỹ vắc-xin bao gồm 2 tài khoản cấp 2:\n- Tài khoản 51111 - Các khoản thu từ đóng góp của nhà tài trợ: Phản ánh các khoản đóng góp bằng tiền và ngoại tệ của các nhà tài trợ.\nTài khoản này có 2 tài khoản cấp 3:\n+ Tài khoản 51111 - Thu bằng tiền: Phản ánh các khoản thu được bằng tiền (tiền Việt Nam, ngoại tệ) và thu từ bán các loại hình vật chất khác do các nhà tài trợ hỗ trợ vào Quỹ.\n+ Tài khoản 51112 - Ghi thu tài trợ bằng vắc-xin: Phản ánh ghi thu, ghi chi các khoản tài trợ bằng vắc-xin cho Quỹ do Bộ Y tế nhận và quản lý, sử dụng.\n- Tài khoản 5118 - Thu khác: Phản ánh các khoản thu lãi tiền gửi từ tài khoản tiền gửi có kỳ hạn của Quỹ, khoản thu hợp pháp khác vào Quỹ;\nd) Tài khoản 611- Chi Quỹ vắc-xin:\n14\n- Mục đích: Tài khoản này dùng để phản ánh các khoản chi từ Quỹ cho các hoạt động mua, nhập khẩu vắc-xin, nghiên cứu, sản xuất vắc-xin trong nước và sử dụng vắc-xin phòng Covid-19.\n- Nguyên tắc hạch toán:\n+ Các khoản tiền chi ra từ Quỹ cho các hoạt động có liên quan được hạch toán vào chi của Quỹ theo quy định.\nTrường hợp đơn vị không sử dụng hết số kinh phí được cấp từ Quỹ thì phải hoàn trả lại để hạch toán giảm chi Quỹ.\n+ Đối với vắc-xin do Bộ Y tế nhận tài trợ và quản lý, sử dụng: Căn cứ báo cáo của Bộ Y tế (theo Mẫu số 03-BC/QVX tại Phụ lục kèm theo Thông tư này) để ghi chi vào Quỹ.\nb) Kết cấu và nội dung phản ánh:\nBên Nợ:\n+ Các khoản chi mua, nhập khẩu vắc-xin, nghiên cứu, sản xuất vắc-xin trong nước và sử dụng vắc-xin phát sinh trong kỳ.\n+ Ghi chi số nhận tài trợ bằng vắc-xin theo báo cáo của Bộ Y tế\nBên Có:\n+ Các khoản ghi giảm chi khi đơn vị nhận kinh phí từ Quỹ nhưng không sử dụng hết, hoàn trả lại Quỹ.\n+ Kết chuyển số chi trong kỳ để xác định Nguồn quỹ.\nSố dư: Tài khoản này không có số dư cuối kỳ. Cuối kỳ, trước khi lập báo cáo tài chính, kế toán phải kết chuyển số đã ghi chi trong kỳ để xác định Nguồn Quỹ.\nTài khoản 611 - Chi Quỹ vắc-xin bao gồm 2 tài khoản cấp 2:\n- Tài khoản 6111 - Chi bằng tiền: Phản ánh các khoản xuất Quỹ chi bằng tiền theo quyết định của cơ quan có thẩm quyền.\nTài khoản này có 3 tài khoản cấp 3:\n+ Tài khoản 61111 - Chi mua, nhập khẩu vắc-xin: Phản ánh các khoản chi mua, nhập khẩu vắc-xin từ Quỹ.\n+ Tài khoản 61112 - Chi nghiên cứu, sản xuất vắc-xin trong nước: Phản ánh các khoản xuất Quỹ để chi nghiên cứu, sản xuất vắc-xin.\n+ Tài khoản 61113 - Chi sử dụng vắc-xin: Phản ánh các khoản xuất Quỹ để chi sử dụng vắc-xin.\n- Tài khoản 6112 - Ghi chỉ vắc-xin được tài trợ: Phản ánh các khoản ghi thu, ghi chỉ hiện vật vào Quỹ.\n2. Phương pháp kế toán các nghiệp vụ phát sinh tại Quỹ nêu tại Phụ lục kèm theo Thông tư này."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "21",
+                                    "title": "Sổ kế toán",
+                                    "position": 23728,
+                                    "children": [],
+                                    "content": "Điều 21. Sổ kế toán\nQuỹ phải mở sổ để ghi chép, hệ thống và lưu trữ toàn bộ các nghiệp vụ thu, chi của Quỹ.\nTrường hợp Quỹ tiếp nhận tài trợ bằng các loại hình vật chất khác, phải mở sổ để theo dõi chi tiết cho đến khi xuất bán, nộp tiền vào thu của Quỹ.\nViệc mở sổ kế toán, lập, sửa chữa, lưu trữ và bảo quản sổ kế toán thực hiện theo quy định của Luật Kế toán và các văn bản có liên quan."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "22",
+                                    "title": "Báo cáo tài chính Quỹ",
+                                    "position": 24119,
+                                    "children": [],
+                                    "content": "Điều 22. Báo cáo tài chính Quỹ\n1. Kỳ lập báo cáo:\nCuối kỳ kế toán (tháng, 6 tháng, năm), Quỹ phải lập và gửi báo cáo tài chính cho Bộ Tài chính.\nThời hạn gửi báo cáo tháng và 6 tháng chậm nhất sau 05 ngày kể từ ngày kết thúc tháng, 6 tháng. Thời hạn gửi báo cáo năm chậm nhất vào ngày 15 tháng 01 của năm sau.\n2. Biểu mẫu và phương pháp lập:\nBáo cáo tài chính Quỹ được trình bày theo Mẫu biểu số 01- BC/QVX.\nBiểu mẫu và phương pháp lập báo cáo tài chính Quỹ nêu trong Phụ lục kèm theo Thông tư này."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "23",
+                                    "title": "Báo cáo quyết toán Quý",
+                                    "position": 24618,
+                                    "children": [],
+                                    "content": "Điều 23. Báo cáo quyết toán Quý\n1. Kỳ lập báo cáo:\nKhi kết thúc hoạt động, Quỹ phải lập báo cáo quyết toán Quỹ, gửi Bộ Tài chính phê duyệt theo quy định. Ngoài ra còn phải lập báo cáo trong trường hợp có yêu cầu của cơ quan có thẩm quyền.\nThời hạn gửi báo cáo quyết toán chậm nhất sau 03 tháng kể từ ngày kết thúc hoạt động của Quỹ theo quyết định của cấp có thẩm quyền.\n2. Biểu mẫu và phương pháp lập:\nBáo cáo quyết toán Quỹ được trình bày theo Mẫu biểu số 02-\nBC/QVX. Mẫu biểu và phương pháp lập báo cáo quyết toán Quỹ nêu trong\nPhụ lục kèm theo Thông tư này."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "24",
+                                    "title": "Báo cáo tình hình thực hiện thu, chi Quỹ",
+                                    "position": 25180,
+                                    "children": [],
+                                    "content": "Điều 24. Báo cáo tình hình thực hiện thu, chi Quỹ\n1. Bộ Tài chính có trách nhiệm:\na) Định kỳ 6 tháng tổng hợp báo Thủ tướng Chính phủ về tình hình thu,\nchi tài chính Quỹ;\nb) Căn cứ báo cáo quyết toán của Quỹ, tổng hợp, báo cáo Thủ tướng\nChính phủ, Chính phủ để tổng hợp chung nguồn lực báo cáo Quốc hội trong\ncác báo cáo về kinh tế - xã hội và ngân sách nhà nước.\n2. Quỹ có trách nhiệm cung cấp thông tin, báo cáo đột xuất theo yêu\ncầu của cơ quan chức năng theo quy định của pháp luật và yêu cầu của nhà\ntài trợ cho Quỹ (nếu có)."
+                                },
+                                {
+                                    "type": "ARTICLE",
+                                    "number": "25",
+                                    "title": "Công khai báo cáo tài chính Quỹ",
+                                    "position": 25711,
+                                    "children": [],
+                                    "content": "Điều 25. Công khai báo cáo tài chính Quỹ\n1. Quỹ có trách nhiệm công khai báo cáo tài chính quỹ hàng tháng, 6\ntháng, năm và báo cáo quyết toán Quỹ theo các mẫu biểu tại Phụ lục kèm\ntheo Thông tư này.\n2. Nội dung công khai bao gồm: Số tiền huy động, danh sách các tổ\nchức, cá nhân tài trợ, đóng góp, nội dung và số tiền đã chi, số dư quỹ còn lại.\n3. Thời điểm công khai báo cáo tháng, 6 tháng chậm nhất sau ngày 10\nkể từ ngày kết thúc tháng, 6 tháng; công khai báo cáo năm chậm nhất ngày 31\ncủa tháng 01 năm sau và báo cáo quyết toán chậm nhất 30 ngày sau khi báo\ncáo được Bộ Tài chính phê duyệt.\n4. Việc công khai của Quỹ được thực hiện qua Cổng thông tin điện tử\ncủa Bộ Tài chính và một hoặc một số hình thức: công bố tại các cuộc họp,\nniêm yết tại trụ sở của Quỹ, phát hành ấn phẩm, thông báo bằng văn bản đến\ncác cơ quan, tổ chức, đơn vị có liên quan, thông báo trên các phương tiện\nthông tin đại chúng."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "III",
+                    "title": "ĐIỀU KHOẢN THI HÀNH",
+                    "position": 26617,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "26",
+                            "title": "Hiệu lực thi hành",
+                            "position": 26648,
+                            "children": [],
+                            "content": "Điều 26. Hiệu lực thi hành\n1. Thông tư này có hiệu lực thi hành kể từ ngày ký.\n2. Trong quá trình triển khai thực hiện, nếu có khó khăn, vướng mắc,\ncác cơ quan, đơn vị có liên quan báo cáo kịp thời về Bộ Tài chính để xem xét\nvà có hướng dẫn cụ thể./."
+                        }
+                    ]
+                }
+            ],
+            "metadata": {
+                "total_units": 32,
+                "total_articles": 26,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 3
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [],
+            "replaces": [],
+            "mentions": [],
+            "abolished": [],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "replaces": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": []
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "41/2021/TT-BTC",
+            "target_id": "53/NQ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "41/2021/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "41/2021/TT-BTC",
+            "target_id": "Luật kế toán 2015",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "41/2021/TT-BTC",
+            "target_id": "Luật ngân sách nhà nước 2015",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "DetailsEdge",
+            "source_id": "41/2021/TT-BTC",
+            "target_id": "44/2021/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ]
+}

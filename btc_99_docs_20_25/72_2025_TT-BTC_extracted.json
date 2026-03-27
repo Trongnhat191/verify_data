@@ -1,0 +1,415 @@
+{
+    "file_name": "72_2025_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "72/2025/TT-BTC",
+        "title": "Quy định chế độ quản lý, tính hao mòn tài sản kết cấu hạ tầng hàng hải và hướng dẫn việc kê khai, báo cáo về tài sản kết cấu hạ tầng hàng hải",
+        "promulgationDate": "2025-07-02",
+        "effectiveDate": "2025-08-15",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Bùi Văn Khắng",
+        "draftingUnit": "Cục Quản lý Công sản",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:19Z",
+        "_doc_id": "468345"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "72/2025/TT-BTC",
+            "target_id": "84/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "72/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "72/2025/TT-BTC",
+            "target_id": "166/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "72/2025/TT-BTC",
+            "target_id": "166/2025/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "72/2025/TT-BTC",
+            "target_id": "43/2018/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "72/2025/TT-BTC",
+            "target_id": "75/2018/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "72/2025/TT-BTC",
+            "target_id": "75/2018/TT-BTC",
+            "properties": {
+                "relevanceType": "RELATED",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "72_2025_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": null,
+        "dates": {
+            "promulgation_date": "2025-07-02",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "CHAPTER",
+                    "number": "I",
+                    "title": "PHẠM VI ĐIỀU CHỈNH, ĐỐI TƯỢNG ÁP DỤNG",
+                    "position": 0,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "1",
+                            "title": "Phạm vi điều chỉnh",
+                            "position": 46,
+                            "children": [],
+                            "content": "Điều 1. Phạm vi điều chỉnh\n1. Thông tư này quy định chế độ quản lý, tính hao mòn đối với tài sản kết\ncấu hạ tầng hàng hải là tài sản cố định và hướng dẫn việc kê khai, báo cáo về tài\nsản kết cấu hạ tầng hàng hải do Nhà nước đầu tư, quản lý.\n2. Thông tư này không điều chỉnh đối với các trường hợp:\na) Tài sản kết cấu hạ tầng hàng hải quy định tại khoản 2 Điều 1 Nghị định\nsố 84/2025/NĐ-CP ngày 04 tháng 4 năm 2025 của Chính phủ quy định việc\nquản lý, sử dụng và khai thác tài sản kết cấu hạ tầng hàng hải (sau đây gọi là\nNghị định số 84/2025/NĐ-CP).\nb) Xác định tuổi thọ tài sản kết cấu hạ tầng hàng hải để thực hiện dự án\nđầu tư xây dựng, nâng cấp cải tạo, mở rộng, bảo trì tài sản kết cấu hạ tầng hàng\nhải.\nc) Xác định giá trị tài sản kết cấu hạ tầng hàng hải để: Cho thuê quyền\nkhai thác tài sản, chuyển nhượng có thời hạn quyền khai thác tài sản; xử lý tài\nsản kết cấu hạ tầng hàng hai."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "2",
+                            "title": "Đối tượng áp dụng",
+                            "position": 937,
+                            "children": [],
+                            "content": "Điều 2. Đối tượng áp dụng\n1. Cơ quan quản lý nhà nước về hàng hải.\n2. Cơ quan quản lý hàng hải, gồm: Cơ quan quản lý hàng hải ở trung ương, cơ quan quản lý hàng hải ở địa phương quy định tại khoản 2 Điều 2 Nghị định số 84/2025/NĐ-CP.\n3. Cơ quan được giao quản lý tài sản kết cấu hạ tầng hàng hải là cơ quan quy định tại điểm a khoản 2 Điều 2 Nghị định số 84/2025/NĐ-CP (sau đây gọi là cơ quan quản lý tài sản ở trung ương), điểm b khoản 2 Điều 2 Nghị định số 84/2025/NĐ-CP (sau đây gọi là cơ quan quản lý tài sản ở địa phương).\n4. Các đối tượng khác liên quan đến việc quản lý, tính hao mòn tài sản kết cấu hạ tầng hàng hải và kê khai, báo cáo về tài sản kết cấu hạ tầng hàng hải."
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "II",
+                    "title": "QUY ĐỊNH CHUNG VỀ QUẢN LÝ TÀI SẢN KẾT CẤU HẠ TẦNG HÀNG HẢI",
+                    "position": 1618,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "3",
+                            "title": "Tài sản kết cấu hạ tầng hàng hải",
+                            "position": 1687,
+                            "children": [],
+                            "content": "Điều 3. Tài sản kết cấu hạ tầng hàng hải\nTài sản kết cấu hạ tầng hàng hải được xác định nguyên giá, giá trị còn lại, tính hao mòn theo quy định tại Thông tư này gồm:\n1. Bến cảng, bến phao.\n2. Trụ sở, cơ sở dịch vụ, kho, bãi, nhà xưởng và các công trình phụ trợ khác trong khu vực bến cảng.\n3. Hệ thống thông tin giao thông, thông tin liên lạc và hệ thống điện, nước trong khu vực bến cảng.\n4. Hệ thống giám sát và điều phối giao thông hàng hải (VTS).\n5. Dê chắn sóng, dê chấn cát, kè hướng dòng, kè bảo vệ bờ.\n6. Luồng hàng hải, vùng đón tra hoa tiêu, vùng kiểm dịch.\n7. Khu chuyển tải, khu neo đậu, khu tránh, trú bão trong vùng nước cảng biên.\n8. Các tài sản kết cấu hạ tầng hàng hải khác."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "4",
+                            "title": "Tiêu chuẩn tài sản kết cấu hạ tầng hàng hải xác định là tài sản cố định",
+                            "position": 2379,
+                            "children": [],
+                            "content": "Điều 4. Tiêu chuẩn tài sản kết cấu hạ tầng hàng hải xác định là tài sản cố định\n1. Xác định tài sản kết cấu hạ tầng hàng hải:\na) Tài sản sử dụng độc lập được xác định là một tài sản.\nb) Một hệ thống gồm nhiều bộ phận tài sản riêng lẻ liên kết với nhau để cùng thực hiện một hay một số chức năng nhất định mà nếu thiếu bất kỳ một bộ phận nào trong đó thì ca hệ thống không thể hoạt động được thì hệ thống đó\nđược xác định là một tài sản.\nc) Trường hợp một hệ thống được giao cho nhiều cơ quan quản lý tài sản\nthì phần tài sản được giao cho từng cơ quan quản lý là một tài sản.\n2. Tài sản kết cấu hạ tầng hàng hai quy định tại khoản 1 Điều này được\nxác định là tài sản cố định khi thoa mãn đồng thời 02 tiêu chuẩn sau đây:\na) (Có thời gian sử dụng từ 01 (một) năm trở lên.\nb) Có nguyên giá từ 30.000.000 đồng (ba mươi triệu đồng) trở lên."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "5",
+                            "title": "Nguyên tắc quản lý và trách nhiệm của cơ quan quản lý tài",
+                            "position": 3216,
+                            "children": [],
+                            "content": "Điều 5. Nguyên tắc quản lý và trách nhiệm của cơ quan quản lý tài\nsản kết cấu hạ tầng hàng hải\n1. Tài sản kết cấu hạ tầng hàng hai quy định tại Điều 3, Điều 4 Thông tư\nnày phải được lập hồ sơ tài sản để quản lý chặt chẽ về hiện vật và giá trị theo\nquy định của pháp luật về quản lý, sử dụng tài sản công và pháp luật có liên\nquan. Các chỉ tiêu về nguyên giá, hao mòn, giá trị còn lại của tài sản kết cấu hạ\ntầng hàng hai xác định là tài sản cố định là số nguyên; trường hợp kết quả xác\nđịnh các chỉ tiêu này là số thập phân thì được làm tròn theo quy định tại pháp\nluật về kế toán.\n2. Mỗi một tài sản kết cấu hạ tầng hàng hai quy định tại Điều 4 Thông tư\nnày là một đối tượng ghi sổ kế toán. Kế toán tài sản kết cấu hạ tầng hàng hai\nphải phản ánh, ghi chép đầy đủ thông tin về nguyên giá, hao mòn, giá trị còn lại\ncủa tài sản.\n3. Đối với tài sản kết cấu hạ tầng hàng hai không còn nhu cầu sử dụng\nnhưng chưa tính đủ hao mòn theo quy định thì cơ quan quản lý tài sản tiếp tục\nthực hiện quản lý, theo dõi, bảo quản tài sản theo quy định hiện hành và tính hao\nmòn theo quy định tại Thông tư này cho đến khi được xử lý theo quy định.\n4. Đối với tài sản kết cấu hạ tầng hàng hai đã tính đủ hao mòn nhưng vẫn\ntiếp tục sử dụng được thì cơ quan quản lý tài sản tiếp tục thực hiện quản lý, sử\ndụng, theo dõi, bảo quản tài sản theo quy định hiện hành và không phải tính hao\nmòn.\nTrường hợp tài sản kết cấu hạ tầng hàng hai đã tính đủ hao mòn nhưng\nsau đó thuộc trường hợp thay đổi nguyên giá theo quy định tại Điều 7 Thông tư\nnày thì phải tính hao mòn theo quy định cho thời gian sử dụng còn lại (nếu có)\nsau khi thay đổi nguyên giá.\n5. Trường hợp cho thuê quyền khai thác tài sản kết cấu hạ tầng hàng hai\nthì cơ quan quản lý tài sản tiếp tục thực hiện quản lý, theo dõi và tính hao mòn\ntài sản theo quy định tại Thông tư này trong thời gian cho thuê quyền khai thác\ntài sản.\n6. Trường hợp chuyển nhượng có thời hạn quyền khai thác tài sản kết cấu\nhạ tầng hàng hai thì trong thời gian chuyển nhượng, cơ quan quản lý tài sản (bên\nchuyển nhượng):\na) Có trách nhiệm kiểm tra, giám sát việc thực hiện nghĩa vụ của bên nhận\nchuyên nhượng theo quy định của pháp luật và hợp đồng chuyển nhượng có thời hạn quyền khai thác tài sản.\nb) Không thực hiện tính hao mòn tài sản theo quy định tại Thông tư này và phải tiếp tục theo dõi nguyên giá tài sản đã hạch toán tại thời điểm chuyển nhượng trên sổ kế toán và trình bày trên thuyết minh báo cáo tài chính theo quy định của chế độ kế toán hiện hành.\nc) Khi hết thời hạn chuyển nhượng có thời hạn quyền khai thác tài sản kết cấu hạ tầng hàng hải (bao gồm cả trường hợp chấm dứt hợp đồng trước hạn), cơ quan quản lý tài sản tiếp nhận lại tài sản theo hợp đồng chuyển nhượng có thời hạn quyền khai thác tài sản và quy định của pháp luật; xác định lại nguyên giá, giá trị còn lại của tài sản theo quy định tại khoản 5 Điều 6, Điều 12 Thông tư này để thực hiện quản lý, tính hao mòn theo quy định tại Nghị định số 84/2025/NĐ-CP và Thông tư này.\n7. Trường hợp sử dụng tài sản kết cấu hạ tầng hàng hải hiện có để tham gia dự án đầu tư theo phương thức đối tác công tư thì trong thời gian bàn giao tài sản cho nhà đầu tư thực hiện dự án, cơ quan quản lý tài sản:\na) Có trách nhiệm theo dõi, báo cáo phần tài sản được sử dụng để tham gia dự án trong quá trình giao cho nhà đầu tư thực hiện dự án.\nb) Không thực hiện tính hao mòn tài sản theo quy định tại Thông tư này và phải tiếp tục theo dõi nguyên giá tài sản đã hạch toán tại thời điểm bàn giao tài sản cho nhà đầu tư thực hiện dự án và trình bày trên thuyết minh báo cáo tài chính theo quy định của chế độ kế toán hiện hành.\nc) Khi nhà đầu tư chuyển giao tài sản cho cơ quan nhà nước có thẩm quyền, cơ quan quản lý tài sản tiếp nhận lại tài sản theo quy định, xác định lại giá trị còn lại của tài sản theo quy định tại khoản 6 Điều 6, Điều 12 Thông tư này để thực hiện quản lý, tính hao mòn theo quy định tại Nghị định số 84/2025/NĐ-CP và Thông tư này.\n8. Cơ quan quản lý tài sản, tổ chức, đơn vị quy định tại khoản 4 Điều 2 Thông tư này có trách nhiệm:\na) Thực hiện kế toán đối với toàn bộ tài sản kết cấu hạ tầng hàng hải được giao quản lý theo quy định của chế độ kế toán hiện hành; thực hiện báo cáo tình hình tăng, giảm, tính hao mòn tài sản kết cấu hạ tầng hàng hải theo quy định của pháp luật; bảo đảm số liệu tài sản kết cấu hạ tầng hàng hải của đơn vị trên sổ kế toán phải phù hợp với số liệu báo cáo trên hệ thống cơ sở dữ liệu về tài sản kết cấu hạ tầng hàng hải. Trường hợp khác với số liệu báo cáo trên hệ thống cơ sở dữ liệu về tài sản kết cấu hạ tầng hàng hải thì phải chuẩn xác số liệu để cập nhật cho phù hợp.\nb) Thực hiện kiểm kê tài sản định kỳ hằng năm; thực hiện tổng kiểm kê tài sản theo quyết định của cơ quan, người có thẩm quyền; thực hiện điều chỉnh số liệu kế toán nếu có chênh lệch phát sinh khi thực hiện kiểm kê nhằm đảm bảo số liệu trên sổ kế toán và số liệu thực tế của tài sản cố định khớp đúng.\nc) Thực hiện báo cáo kê khai, báo cáo tình hình quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng hàng hải theo quy định tại Điều 27 Nghị định số 84/2025/NĐ-CP và quy định tại Thông tư này."
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "III",
+                    "title": "NGUYÊN GIÁ, HAO MÒN, GIÁ TRỊ CÒN LẠI CỦA TÀI SẢN KẾT CẤU HẠ TẦNG HÀNG HẢI",
+                    "position": 8314,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "6",
+                            "title": "Xác định nguyên giá tài sản kết cấu hạ tầng hàng hải",
+                            "position": 8399,
+                            "children": [],
+                            "content": "Điều 6. Xác định nguyên giá tài sản kết cấu hạ tầng hàng hải\n1. Đối với tài sản kết cấu hạ tầng hàng hải hình thành từ mua sắm, đưa vào sử dụng kể từ ngày Nghị định số 84/2025/NĐ-CP có hiệu lực thi hành thì nguyên giá được xác định theo công thức sau:\nNguyên giá tài sản kết cấu hạ tầng hàng hải = (Giá trị ghi trên hóa đơn hoặc giảm giá hoặc phạt người bán (nếu có)) + (Chi phí vận chuyển, bóc tách, chi phí sửa chữa, cải tạo, nâng cấp, chi phí lắp đặt, chạy thử) + (Các khoản thuế (không bao gồm các khoản thuế được khấu trừ, chi phí hoàn lại), các khoản phí, lệ phí theo quy định của pháp luật về phí và lệ phí (nếu có))\nTrong đó:\na) Các khoản chiết khấu thương mại hoặc giảm giá hoặc phạt người bán (nếu có) được trừ vào giá trị ghi trên hóa đơn chỉ được áp dụng trong trường hợp giá trị ghi trên hóa đơn bao gồm cả các khoản chiết khấu thương mại hoặc giảm giá hoặc phạt người bán.\nb) Chi phí khác (nếu có) là các chi phí hợp lý liên quan trực tiếp đến việc mua sắm tài sản kết cấu hạ tầng hàng hải mà cơ quan đã chỉ ra tính đến thời điểm đưa tài sản vào sử dụng. Trường hợp phát sinh chi phí chung cho nhiều tài sản kết cấu hạ tầng hàng hải thì thực hiện phân bổ chi phí cho từng tài sản kết cấu hạ tầng hàng hải theo tiêu chí cho phù hợp (như: số lượng/khối lượng/chiều dài/diện tích/giá trị ghi trên hóa đơn của tài sản kết cấu hạ tầng hàng hải phát sinh chi phí chung...).\n2. Đối với tài sản kết cấu hạ tầng hàng hải hình thành từ đầu tư xây dựng mới, được nghiệm thu hoàn thành đưa vào sử dụng kể từ ngày Nghị định số 84/2025/NĐ-CP có hiệu lực thi hành, nguyên giá được xác định là giá trị quyết toán được cơ quan, người có thẩm quyền phê duyệt theo quy định của pháp luật.\nMột số trường hợp đặc biệt được thực hiện như sau:\na) Trường hợp tài sản kết cấu hạ tầng hàng hải đã nghiệm thu hoàn thành đưa vào sử dụng (do đã hoàn thành việc đầu tư xây dựng) nhưng chưa có quyết toán được cơ quan, người có thẩm quyền phê duyệt thì cơ quan quản lý tài sản thực hiện ghi sổ kế toán tài sản kể từ ngày bàn giao đưa tài sản vào sử dụng. Nguyên giá ghi sổ kế toán là nguyên giá tạm tính. Nguyên giá tạm tính trong trường hợp này được lựa chọn theo thứ tự ưu tiên như sau:\n- Giá trị thẩm tra quyết toán.\n- Giá trị đề nghị phê duyệt quyết toán.\n- Tổng giá trị của các Bảng tính giá trị quyết toán hợp đồng tương ứng với tài sản kết cấu hạ tầng hàng hải giữa chủ đầu tư và nhà thầu (Quyết toán A-B).\n- Giá trị tổng mức đầu tư được phê duyệt hoặc điều chỉnh lần gần nhất;\n- Giá trị dự toán được phê duyệt hoặc điều chỉnh lần gần nhất (trong trường hợp dự toán dự án được điều chỉnh).\nKhi được cơ quan, người có thẩm quyền phê duyệt quyết toán, cơ quan quản lý tài sản thực hiện điều chỉnh lại nguyên giá tạm tính theo giá trị quyết toán được phê duyệt để điều chỉnh số kế toán và thực hiện kế toán tài sản theo quy định.\nb) Trường hợp dự án bao gồm nhiều hạng mục, tài sản (nhiều đối tượng ghi sổ kế toán tài sản) khác nhau nhưng không dự toán riêng, không quyết toán riêng cho từng hạng mục, tài sản thì thực hiện phân bổ giá trị quyết toán được cơ quan, người có thẩm quyền phê duyệt cho từng hạng mục, tài sản để ghi sổ kế toán theo tiêu chí cho phù hợp (như: số lượng, dự toán chi tiết...).\nTrường hợp dự án bao gồm nhiều hạng mục, tài sản (nhiều đối tượng ghi sổ kế toán tài sản) khác nhau, có dự toán riêng nhưng không quyết toán riêng cho từng hạng mục, tài sản thì thực hiện phân bổ giá trị quyết toán được cơ quan, người có thẩm quyền phê duyệt theo tỷ lệ tại dự toán chi tiết đối với từng hạng mục, tài sản để ghi sổ kế toán.\nc) Đối với dự án bao gồm nhiều hạng mục, tài sản (nhiều đối tượng ghi sổ kế toán tài sản) khác nhau mà được đầu tư, nghiệm thu theo từng hạng mục, tài sản thì hạng mục, tài sản nào đã hoàn thành việc đầu tư xây dựng, nghiệm thu đưa vào sử dụng phải ghi sổ kế toán đối với hạng mục, tài sản đó từ ngày bàn giao đưa vào sử dụng. Nguyên giá ghi sổ kế toán là nguyên giá tạm tính theo quy định tại điểm a khoản này.\nKhi quyết toán dự án được cơ quan, người có thẩm quyền phê duyệt thì cơ quan quản lý tài sản thực hiện phân bổ giá trị quyết toán được cơ quan, người có thẩm quyền phê duyệt cho từng hạng mục, tài sản để ghi sổ kế toán, điều chỉnh số kế toán (đối với hạng mục, tài sản đã ghi sổ kế toán) theo tiêu chí cho phù hợp (như: số lượng, dự toán chi tiết,...).\nd) Trường hợp giá trị quyết toán của dự án phải điều chỉnh theo kiến nghị, kết luận của cơ quan có thẩm quyền sau khi được thanh tra, kiểm toán thì cơ quan quản lý tài sản phải thực hiện điều chỉnh lại nguyên giá theo kiến nghị, kết luận của cơ quan có thẩm quyền.\nd) Trường hợp trong dự án có nội dung đầu tư vào tài sản khác (không thuộc tài sản kết cấu hạ tầng hàng hải quy định tại Điều 3 Thông tư này) thì phải loại trừ phần giá trị đầu tư vào tài sản khác trong giá trị quyết toán của dự án khi xác định nguyên giá tài sản.\n3. Đối với tài sản kết cấu hạ tầng hàng hải do cơ quan quản lý tài sản tiếp nhận theo quyết định giao, quyết định điều chuyển của cơ quan, người có thẩm\nquyền từ ngày Nghị định số 84/2025/NĐ-CP có hiệu lực thi hành (trừ trường hợp\nquy định tại điểm c khoản này) thì nguyên giá được xác định theo công thức sau:\nNguyên giá tài sản = Chi phí vận chuyển,\nkết cấu hạ tầng + bàn bán giao, + bốc dỡ, chi phí sửa\nhàng hải được tiếp nhận tài sửa chữa, cải tạo, nâng\ngiao, điều chuyển sản cấp, chi phí lắp đặt, định của pháp\nchi phí (nếu có) khác\nlệ phí (nếu có)\nchạy thử luật về phí và\nTrong đó:\na) Nguyên giá ghi trên Biên bản bàn giao, tiếp nhận tài sản được xác định\nnhư sau:\na1) Đối với tài sản đã được theo dõi, ghi sổ kế toán, nguyên giá ghi trên\nBiên bản bàn giao, tiếp nhận tài sản là nguyên giá tài sản kết cấu hạ tầng hàng\nhải đã được theo dõi, ghi sổ kế toán của cơ quan có tài sản giao, điều chuyển.\nTrường hợp tài sản chưa được theo dõi, ghi sổ kế toán thì trước khi trình\ncơ quan, người có thẩm quyền quyết định giao, điều chuyển tài sản, cơ quan có\ntài sản có trách nhiệm đánh giá lại giá trị tài sản, thời gian tính hao mòn còn lại\ncủa tài sản. Trong đó:\n- Trường hợp tài sản giao, nhận điều chuyển (là tài sản kết cấu hạ tầng\nhàng hải đang giao cho cơ quan quản lý tài sản quy định tại khoản 3 Điều 2\nThông tư này quản lý) chưa được theo dõi trên sổ kế toán thì việc đánh giá lại\ngiá trị tài sản thực hiện theo quy định tại các điểm a2, a3 và a4 khoản này.\n- Trường hợp tài sản giao, nhận điều chuyển do các đối tượng không phải\nlà cơ quan quản lý tài sản quy định tại khoản 3 Điều 2 Thông tư này quản lý thì\nviệc đánh giá lại giá trị tài sản thực hiện theo quy định của pháp luật có liên\nquan đến việc đánh giá lại giá trị tài sản của các đối tượng đó. Trường hợp pháp\nluật có liên quan chưa có quy định thì việc đánh giá lại giá trị tài sản thực hiện\ntheo quy định tại các điểm a2, a3 và a4 khoản này.\na2) Đối với tài sản kết cấu hạ tầng hàng hải chưa được theo dõi, ghi sổ kế\ntoán nhưng có hồ sơ xác định giá mua hoặc giá xây dựng và thời điểm đưa tài\nsản vào sử dụng của tài sản đó thì nguyên giá ghi trên Biên bản bàn giao, tiếp\nnhận tài sản được xác định theo quy định tại khoản 1, khoản 2 Điều này.\na3) Đối với tài sản kết cấu hạ tầng hàng hải chưa được theo dõi, ghi sổ kế\ntoán và không có hồ sơ để xác định giá mua hoặc giá xây dựng theo quy định tại\nđiểm a2 khoản này nhưng có căn cứ để xác định thời điểm đưa tài sản vào sử\ndụng và giá mua mới của tài sản cùng loại hoặc giá xây dựng mới của tài sản có\ntiêu chuẩn kỹ thuật tương đương tại thời điểm đưa vào sử dụng thì nguyên giá\nđể ghi trên Biên bản bàn giao, tiếp nhận tài sản được xác định theo công thức\nsau:\nNguyên giá ghi trên Biên bản bàn giao, tiếp nhận tài sản = Giá mua mới của tài sản cùng loại hoặc giá xây dựng mới của tài sản có tiêu chuẩn kỹ thuật tương đương tại thời điểm đưa tài sản vào sử dụng\nTrong đó:\n8\n- Giá mua mới của tài sản cùng loại áp dụng đối với tài sản không phải là nhà, công trình xây dựng, vật kiến trúc là giá của tài sản mới cùng loại được bán trên thị trường tại thời điểm đưa tài sản vào sử dụng.\n- Giá xây dựng mới của tài sản có tiêu chuẩn kỹ thuật tương đương áp dụng đối với tài sản là nhà, công trình xây dựng, vật kiến trúc (bao gồm cả nhà, công trình xây dựng, vật kiến trúc được hình thành thông qua mua sắm) được xác định theo công thức sau:\nGiá xây dựng mới của tài sản có tiêu chuẩn kỹ thuật tương đương áp dụng đối với tài sản là nhà, công trình xây dựng, vật kiến trúc (hoặc theo quy định cụ thể của địa phương nơi có tài sản) áp dụng tại thời điểm đưa tài sản vào sử dụng.\nDiện tích, thể tích xây dựng. Số lượng tiêu chỉ khác (nếu có) của tài sản\na4) Đối với tài sản kết cấu hạ tầng hàng hải chưa được theo dõi, ghi số kế toán và không có hồ sơ để xác định giá mua hoặc giá xây dựng theo quy định tại điểm a2 khoản này, không có căn cứ để xác định thời điểm đưa tài sản vào sử dụng và giá mua mới của tài sản cùng loại hoặc giá xây dựng mới của tài sản có tiêu chuẩn kỹ thuật tương đương tại thời điểm đưa vào sử dụng theo quy định tại điểm a3 khoản này thì sử dụng giá quy ước do cơ quan, người có thẩm quyền quyết định để làm nguyên giá tài sản.\na5) Đối với tài sản kết cấu hạ tầng hàng hải chưa được theo dõi mà không có căn cứ để xác định nguyên giá tài sản kết cấu hạ tầng hàng hải theo quy định tại các điểm a2, a3 và a4 khoản này thì cơ quan quản lý tài sản thuê doanh nghiệp thẩm định giá theo quy định của pháp luật về giá để xác định giá trị tài sản làm căn cứ xác định nguyên giá ghi trên Biên bản bàn giao, tiếp nhận tài sản.\nb) Chi phí khác (nếu có) là các chi phí hợp lý liên quan trực tiếp đến việc tiếp nhận tài sản kết cấu hạ tầng hàng hải được giao, được điều chuyển mà cơ quan tiếp nhận tài sản kết cấu hạ tầng hàng hải đã chỉ ra tính đến thời điểm đưa tài sản vào sử dụng. Trường hợp phát sinh chi phí chung cho nhiều tài sản kết cấu hạ tầng hàng hải thì thực hiện phân bổ chi phí cho từng tài sản theo tiêu chí cho phù hợp (như: số lượng khối lượng/chiều dài/diện tích/giá trị tài sản phát sinh chi phí chung tiêu chí khác (nếu có)).\nc) Đối với tài sản kết cấu hạ tầng hàng hải hiện có giao cho cơ quan quản lý tài sản theo quy định tại Chương II Nghị định số 84/2025/NĐ-CP mà giá trị tài sản chưa được theo dõi trên sổ kế toán thì sau khi tiếp nhận, cơ quan quản lý tài sản phối hợp với cơ quan, tổ chức, đơn vị đang quản lý/tạm quản lý tài sản trước khi giao (Bên giao) căn cứ nguồn gốc hình thành tài sản, các hồ sơ có liên quan để xác định nguyên giá, giá trị còn lại của tài sản theo quy định tương ứng tại các điểm a, b, c và d khoản 3 Điều 9 Nghị định số 84/2025/NĐ-CP, khoản 1, khoản 2 Điều này và khoản 2 Điều 15 Thông tư này.\n4. Đối với tài sản kết cấu hạ tầng hàng hải trong quá trình sử dụng thực hiện kiểm kê phát hiện thừa thì tùy theo nguồn gốc và thời điểm đưa vào sử dụng, nguyên giá của tài sản được xác định tương ứng quy định tại các khoản 1, 2 và 3 Điều này.\n5. Đối với tài sản kết cấu hạ tầng hàng hải cơ quan quản lý tài sản tiếp nhận lại tài sản sau khi hết thời gian chuyển nhượng có thời hạn quyền khai thác tài sản theo quy định tại điểm c khoản 6 Điều 5 Thông tư này thì nguyên giá tài sản kết cấu hạ tầng hàng hải được xác định lại bằng (-) nguyên giá đã hạch toán tại thời điểm chuyển nhượng theo Hợp đồng chuyển nhượng có thời hạn quyền khai thác tài sản cộng (+) giá trị đầu tư nâng cấp, mở rộng theo dự án được cơ quan, người có thẩm quyền phê duyệt (bao gồm cả việc bù trừ phần giá trị của bộ phận tài sản tháo dỡ (nếu có)); trong đó phần giá trị tăng thêm do đầu tư nâng cấp, mở rộng theo dự án được cơ quan, người có thẩm quyền phê duyệt được xác định tương tự quy định tại điểm a khoản 2 Điều này.\n6. Đối với tài sản kết cấu hạ tầng hàng hải do cơ quan quản lý tài sản tiếp nhận lại tài sản sau khi hết thời gian tham gia dự án đầu tư theo phương thức đối tác công tư theo quy định tại điểm c khoản 7 Điều 5 Thông tư này thì nguyên giá tài sản là giá trị tài sản được đầu tư theo phương thức đối tác công tư theo quy định của Chính phủ quy định thẩm quyền, thủ tục xác lập quyền sở hữu toàn dân về tài sản và xử lý đối với tài sản được xác lập quyền sở hữu toàn dân, cơ quan quản lý tài sản thực hiện thuê doanh nghiệp thẩm định giá để đánh giá lại giá trị còn lại của tài sản trong trường hợp không phải xác lập quyền sở hữu toàn dân."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "7",
+                            "title": "Các trường hợp thay đổi (điều chỉnh) nguyên giá tài sản kết cấu hạ tầng hàng hải",
+                            "position": 20543,
+                            "children": [],
+                            "content": "Điều 7. Các trường hợp thay đổi (điều chỉnh) nguyên giá tài sản kết cấu hạ tầng hàng hải\n1. Đánh giá lại giá trị tài sản kết cấu hạ tầng hàng hải khi thực hiện kiểm kê theo quyết định của Thủ tướng Chính phủ.\n2. Thực hiện đầu tư nâng cấp, cải tạo, mở rộng tài sản kết cấu hạ tầng hàng hải theo dự án được cơ quan, người có thẩm quyền phê duyệt (bao gồm cả trường hợp dự án đầu tư xây dựng, nâng cấp, cải tạo, mở rộng tài sản khác nhưng trong dự án có nội dung đầu tư vào tài sản kết cấu hạ tầng hàng hải hiện có và trường hợp chủ đầu tư dự án đầu tư nâng cấp, cải tạo, mở rộng tài sản không phải là cơ quan quản lý tài sản).\n3. Tháo dỡ một hay một số bộ phận tài sản kết cấu hạ tầng hàng hải (trong trường hợp giá trị bộ phận tài sản tháo dỡ đang được hạch toán chung trong nguyên giá tài sản), trừ trường hợp việc tháo dỡ để thay thế khi bảo trì công trình.\n4. Lắp đặt thêm một hay một số bộ phận tài sản kết cấu hạ tầng hàng hải, trừ trường hợp lắp đặt để thay thế khi bảo trì công trình.\n5. Tài sản kết cấu hạ tầng hàng hải bị mất một phần hoặc hư hỏng nghiêm trọng do thiên tai, sự cố bất kha kháng hoặc những tác động đột xuất khác (trừ trường hợp tài sản được khắc phục sự cố theo quy định của pháp luật về bảo trì hàng hải hoặc được khôi phục lại thông qua bảo hiểm, bồi thường thiệt hại của tổ chức, cá nhân có liên quan)."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "8",
+                            "title": "Xác định nguyên giá tài sản kết cấu hạ tầng hàng hải trong",
+                            "position": 21874,
+                            "children": [],
+                            "content": "Điều 8. Xác định nguyên giá tài sản kết cấu hạ tầng hàng hải trong\ntrường hợp thay đổi nguyên giá tài sản\nKhi phát sinh việc thay đổi nguyên giá tài sản kết cấu hạ tầng hàng hai\ntrong các trường hợp quy định tại Điều 7 Thông tư này, cơ quan quản lý tài sản\nthực hiện lập Biên bản ghi rõ lý do (trường hợp) thay đổi nguyên giá; đồng thời\nxác định lại chỉ tiêu nguyên giá của tài sản kết cấu hạ tầng hàng hai làm cơ sở\nxác định mức hao mòn, giá trị còn lại của tài sản để điều chỉnh sổ kế toán và\nthực hiện việc quản lý, tính hao mòn theo quy định tại Thông tư này.\nViệc xác định lại nguyên giá tài sản kết cấu hạ tầng hàng hai đối với các\ntrường hợp quy định tại Điều 7 Thông tư này thực hiện như\nsau:\n1. Đối với trường hợp quy định tại khoản 1 Điều 7 Thông tư này thì\nnguyên giá tài sản kết cấu hạ tầng hàng hai được xác định lại theo hướng dẫn\ncủa cơ quan, người có thẩm quyền về kiểm kê, đánh giá lại tài sản.\n2. Đối với trường hợp quy định tại khoản 2 Điều 7 Thông tư này thì\nnguyên giá tài sản kết cấu hạ tầng hàng hai được xác định lại bằng (-) nguyên\ngiá đang hạch toán cộng (+) phần giá trị tăng thêm do đầu tư nâng cấp, mở rộng\ntài sản kết cấu hạ tầng hàng hai được cơ quan, người có thẩm quyền phê duyệt.\nTrong đó, phần giá trị tăng thêm do nâng cấp, mở rộng theo dự án được cơ quan,\nngười có thẩm quyền phê duyệt được xác định tương tự quy định tại khoản 2"
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "6",
+                            "title": "Thông tư này.",
+                            "position": 23241,
+                            "children": [],
+                            "content": "Điều 6 Thông tư này.\nTrường hợp dự án được cơ quan, người có thẩm quyền phê duyệt để đầu\ntư xây dựng, nâng cấp, cải tạo, mở rộng tài sản khác nhưng trong dự án có nội\ndung đầu tư vào tài sản kết cấu hạ tầng hàng hai hiện có và trường hợp chủ đầu\ntư dự án đầu tư nâng cấp, cải tạo, mở rộng tài sản không phải là cơ quan quản lý\ntài sản thì phần giá trị tăng thêm do nâng cấp, cải tạo, mở rộng tài sản kết cấu hạ\ntầng hàng hai là phần giá trị đầu tư vào tài sản kết cấu hạ tầng hàng hai trong giá\ntrị quyết toán của dự án được cơ quan, người có thẩm quyền phê duyệt.\n3. Đối với trường hợp tháo dỡ một hay một số bộ phận tài sản kết cấu hạ\ntầng hàng hai quy định tại khoản 3 Điều 7 Thông tư này thì nguyên giá tài sản\nkết cấu hạ tầng hàng hai được xác định lại bằng (=) nguyên giá đang hạch toán\ntrừ (-) phần giá trị của bộ phận tài sản kết cấu hạ tầng hàng hai tháo dỡ cộng (+)\nchi phí hợp lý liên quan trực tiếp đến việc tháo dỡ mà cơ quan quản lý tài sản đã\nchi ra tính đến thời điểm hoàn thành việc tháo dỡ, trừ việc tháo dỡ một hay một\nsố bộ phận tài sản để thay thế thực hiện bảo trì công trình thuộc tài sản kết cấu\nhạ tầng hàng hai.\nTrong đó, phần giá trị của bộ phận tài sản kết cấu hạ tầng hàng hai tháo dỡ\nđược xác định như sau:\na) Trường hợp có hồ sơ xác định giá mua, giá trị quyết toán/giá trị dự toán\ncủa bộ phận tài sản kết cấu hạ tầng hàng hai tháo dỡ thì phần giá trị của bộ phận\ntài sản tháo dỡ được xác định theo giá mua, giá trị quyết toán/giá trị dự toán của\nbộ phận tài sản tháo dỡ.\nb) Trường hợp không có hồ sơ quy định tại điểm a khoản này nhưng phân\nbổ được nguyên giá của tài sản kết cấu hạ tầng hàng hải cho bộ phận tài san tháo\ndỡ theo tiêu chí phù hợp (như: số lượng, khối lượng, giá mua, dự toán...) thì\nphần giá trị của bộ phận tài sản kết cấu hạ tầng hàng hải tháo dỡ được xác định\ntheo giá trị phân bổ.\nc) Trường hợp không có hồ sơ quy định tại điểm a khoản này và không\nphân bổ được nguyên giá của tài sản kết cấu hạ tầng hàng hai cho bộ phận tài\nsan tháo dỡ quy định tại điểm b khoản này thì xác định phần giá trị của bộ phận\ntài sản tháo dỡ là giá mua mới của bộ phận tài sản đó trên thị trường tại thời\nđiểm đưa tài sản vào sử dụng.\nTrường hợp không xác định được giá mua mới của bộ phận tài sản kết cấu\nhạ tầng hàng hai tháo dỡ trên thị trường tại thời điểm đưa tài sản vào sử dụng thì\ncơ quan quản lý tài sản thuê doanh nghiệp thẩm định giá theo quy định của pháp\nluật về giá để xác định phần giá trị của bộ phận tài sản kết cấu hạ tầng hàng hai\ntháo dỡ làm căn cứ xác định nguyên giá tài sản sau khi tháo dỡ.\n4. Đối với trường hợp lắp đặt thêm một hay một số bộ phận tài sản kết cấu\nhạ tầng hàng hai quy định tại khoản 4 Điều 7 Thông tư này thì nguyên giá tài\nsản kết cấu hạ tầng hàng hai được xác định lại bằng (-) nguyên giá đang hạch\ntoán cộng (+) phần giá trị tăng thêm do lắp đặt thêm một hay một số bộ phận tài\nsản kết cấu hạ tầng hàng hai (++ ) chỉ phí hợp lý liên quan trực tiếp đến việc lắp\nđặt mà cơ quan quản lý tài sản đã chỉ ra tính đến thời điểm hoàn thành việc lắp\nđặt, trừ việc lắp đặt thêm một hay một số bộ phận tài sản để thực hiện bao trì\ncông trình thuộc tài sản kết cấu hạ tầng hàng hai.\nTrong đó, phần giá trị tăng thêm do lắp đặt thêm một hay một số bộ phận\ntài sản kết cấu hạ tầng hàng hai là giá trị tương ứng của bộ phận tài sản được lắp\nđặt thêm xác định theo các trường hợp tương ứng quy định tại Điều 6 Thông tư\nnày.\n5. Đối với trường hợp quy định tại khoản 5 Điều 7 Thông tư này thì cơ\nquan quản lý tài sản thuê doanh nghiệp thẩm định giá để đánh giá lại giá trị còn\nlại, thời gian tinh hao mòn còn lại của tài sản phù hợp với quy định tại Điều 10\nThông tư này đối với tài sản bị thiệt hại để ghi trên Biên bản xác định việc thay\nđổi nguyên giá. Nguyên giá tài sản kết cấu hạ tầng hàng hai trong trường hợp\nnày được xác định như sau:\nNguyên giá tài\nsan kết cấu hạ\ntang hàng hai\nGiá trị còn lại\ncủa tài sản theo\nđánh giá lại\nThời gian tinh hao mòn của tài sản\ntheo quy định tại Điều 10 Thông tư này (năm)\nThời gian tinh hao mòn còn lại\ncủa tài sản theo đánh giá lại (năm)"
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "9",
+                            "title": "Nguyên tắc tính hao mòn tài sản kết cấu hạ tầng hàng hải",
+                            "position": 27281,
+                            "children": [],
+                            "content": "Điều 9. Nguyên tắc tính hao mòn tài sản kết cấu hạ tầng hàng hải\n1. Tài sản kết cấu hạ tầng hàng hải xác định là tài sản cố định quy định tại\nĐiều 3, Điều 4 Thông tư này được giao cho cơ quan quản lý tài sản phải tính hao\nmòn theo quy định tại Thông tư này, trừ các trường hợp quy định tại khoản 2\nĐiều này.\n2. Cơ quan quản lý tài sản không phải tính hao mòn đối với:\na) Tài sản kết cấu hạ tầng hàng hải chưa tính hết hao mòn nhưng đã bị hư hỏng không thể sửa chữa để sử dụng được.\nb) Tài sản kết cấu hạ tầng hàng hải đã tính đủ hao mòn nhưng vẫn còn sử dụng được.\nc) Tài sản kết cấu hạ tầng hàng hải trong thời gian chuyển nhượng có thời hạn quyền khai thác.\nd) Tài sản kết cấu hạ tầng hàng hải trong thời gian tham gia dự án theo phương thức đối tác công tư.\n3. Việc tính hao mòn tài sản kết cấu hạ tầng hàng hải thực hiện mỗi năm một lần vào ngày 31 tháng 12, trước khi khóa sổ kế toán."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "10",
+                            "title": "Danh mục tài sản, thời gian sử dụng để tính hao mòn và tỷ lệ hao mòn tài sản kết cấu hạ tầng hàng hải",
+                            "position": 28171,
+                            "children": [],
+                            "content": "Điều 10. Danh mục tài sản, thời gian sử dụng để tính hao mòn và tỷ lệ hao mòn tài sản kết cấu hạ tầng hàng hải\n1. Danh mục tài sản, thời gian tính hao mòn và tỷ lệ hao mòn tài sản kết cấu hạ tầng hàng hải (trừ thời gian tính hao mòn tài sản đối với các trường hợp quy định tại các khoản 2, 3 và 4 Điều này) như sau:\nSTT\nDanh mục các loại tài sản kết cấu hạ tầng hàng hải\nThời gian sử dụng để tính hao mòn (năm)\nTỷ lệ hao mòn (% năm)\n1\nBến cảng\n50\n2\n2\nBến phao\n20\n5\n3\nTrụ sở, cơ sở dịch vụ, nhà xưởng và các công trình phụ trợ khác trong khu vực bến cảng\n- Cấp I\n80\n1,25\n- Cấp II\n50\n2\n- Cấp III\n25\n4\n- Cấp IV\n15\n6,67\n4\nKho, bãi\n25\n4\n5\nHệ thống thông tin giao thông, thông tin liên lạc và hệ thống điện, nước trong khu vực bến cảng\n10\n10\n6\nNhà trạm, vật kiến trúc (Nhà điều hành, công trình xây dựng) phục vụ trực tiếp cho hoạt động hệ thống giám sát và điều phối giao thông hàng hải (VTS)\n- Cấp I\n80\n1,25\n- Cấp II\n50\n2\n- Cấp III\n25\n4\n13\n- Cấp IV\n15 6,67\nĐể chăn sóng, để chấn cát, kẻ hướng dòng, kẻ bảo vệ bờ\n- Cấp I\n80 1,25\n- Cấp II\n50 2\n- Cấp III\n25 4\n- Cấp IV\n15 6,67\nLuồng hàng hải, vùng đón trả hoa tiêu, vùng kiểm dịch\nKhu chuyển tải, khu neo đậu, khu tránh, trú bão trong vùng nước cảng biển\nCác tài sản kết cấu hạ tầng hàng hải khác\n50 2\n50 2\n10 10\n2. Đối với tài sản kết cấu hạ tầng hàng hải được sử dụng ở địa bàn có điều kiện thời tiết, điều kiện môi trường ảnh hưởng đến mức hao mòn của tài sản, trường hợp cần thiết phải quy định thời gian sử dụng để tính hao mòn và tỷ lệ hao mòn tài sản cố định khác so với quy định tại Điều 10 Thông tư này thì Bộ trưởng Bộ Xây dựng, Ủy ban nhân dân cấp tỉnh quy định cụ thể. Việc điều chỉnh tỷ lệ hao mòn tài sản bảo đảm tăng, giảm không vượt quá 20% tỷ lệ hao mòn quy định tại khoản 1 Điều này.\n3. Đối với tài sản kết cấu hạ tầng hàng hải có thay đổi nguyên giá thuộc trường hợp thực hiện đầu tư nâng cấp, mở rộng tài sản cố định theo dự án được cơ quan, người có thẩm quyền phê duyệt quy định tại khoản 2 Điều 7 Thông tư này thì thời gian tính hao mòn tài sản bằng (=) thời gian đã tính hao mòn của tài sản trước khi thay đổi nguyên giá cộng (+) thời gian tính hao mòn còn lại của tài sản sau khi nâng cấp, mở rộng. Trong đó, thời gian tính hao mòn còn lại của tài sản sau khi nâng cấp, mở rộng được xác định theo công thức sau:\nThời gian tính hao mòn còn lại của tài sản sau khi nâng cấp, mở rộng = Nguyên giá của tài sản sau khi thay đổi / Số hao mòn lũy kế của tài sản tính đến ngày 31 tháng 12 của năm thay đổi nguyên giá : Mức hao mòn hàng năm của tài sản từ năm thay đổi nguyên giá xác định theo quy định tại khoản 1 Điều 11 Thông tư này\n4. Đối với tài sản có thay đổi nguyên giá thuộc trường hợp bị mất một phần hoặc hư hỏng nghiêm trọng do thiên tai, sự cố bất khả kháng hoặc những tác động đột xuất khác quy định tại khoản 5 Điều 7 Thông tư này thì thời gian tính hao mòn tài sản bằng (=) thời gian đã tính hao mòn của tài sản trước khi thay đổi nguyên giá cộng (+) thời gian tính hao mòn còn lại của tài sản theo đánh giá lại.\n5. Đối với tài sản có điều chỉnh, thay đổi nguyên giá theo quy định tại điểm a, điểm d khoản 2 Điều 6 và khoản 3, khoản 4 Điều 7 Thông tư này:\na) Trường hợp năm điều chỉnh, thay đổi nguyên giá chưa hết thời gian tinh hao mòn của tài sản theo quy định thì thời gian tính hao mòn của tài sản sau khi được điều chỉnh được tính đến năm mà giá trị còn lại của tài sản tính đến ngày 31 tháng 12 của năm trước liền kề nhỏ hơn hoặc bằng mức hao mòn hàng năm của tài sản.\nb) Trường hợp năm điều chỉnh, thay đổi nguyên giá đã hết thời gian tính hao mòn của tài sản theo quy định thì cộng thêm 01 năm vào thời gian tính hao mòn (năm phát sinh việc điều chỉnh, thay đổi nguyên giá) để xử lý phần giá trị tăng, giảm do điều chỉnh, thay đổi nguyên giá."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "11",
+                            "title": "Phương pháp tính hao mòn của tài sản kết cấu hạ tầng hàng hải",
+                            "position": 31898,
+                            "children": [],
+                            "content": "Điều 11. Phương pháp tính hao mòn của tài sản kết cấu hạ tầng hàng hải\n1. Mức hao mòn hàng năm của từng tài sản kết cấu hạ tầng hàng hải được tính theo công thức:\nMức hao mòn hàng năm của tài sản\nNguyên giá của tài sản\nTy lệ hao mòn\n(%) năm)\nTrong đó:\na) Nguyên giá của tài sản kết cấu hạ tầng hàng hải được xác định theo quy định tại Điều 6, Điều 8 Thông tư này.\nb) Tỷ lệ hao mòn được xác định theo quy định tại khoản 1, khoản 2 Điều 10 Thông tư này.\n2. Đối với tài sản kết cấu hạ tầng hàng hải được giao, nhận điều chuyển quy định tại khoản 3 Điều 6 Thông tư này nhưng chưa được theo dõi, ghi sổ kế toán, tài sản kết cấu hạ tầng hàng hải khi thực hiện kiểm kê phát hiện thừa theo quy định tại khoản 4 Điều 6 Thông tư này thì mức hao mòn hàng năm của tài sản kể từ sau năm đầu tiên ghi sổ kế toán tại cơ quan quản lý tài sản được xác định theo công thức quy định tại khoản 1 Điều này.\nRiêng năm đầu tiên ghi sổ kế toán tại cơ quan quản lý tài sản (năm cơ quan quản lý tài sản tiếp nhận tài sản năm thực hiện kiểm kê phát hiện thừa) thì mức hao mòn của tài sản được xác định theo công thức sau:\nMức hao mòn\nThời gian tính hao mòn của tài sản\nx\nThời gian tính hao mòn còn lại của tài sản theo quy định hoặc thời gian\ncùng loại theo quy định tại khoản 1\nđịnh tại khoản 1"
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "10",
+                            "title": "Thông tư",
+                            "position": 33167,
+                            "children": [],
+                            "content": "Điều 10 Thông tư\nnày (năm)\nThời gian tính hao mòn còn lại của tài sản theo danh gia lại (năm)\nmà (năm)\n3. Số hao mòn lũy kế của từng tài sản kết cấu hạ tầng hàng hải được tính theo công thức:\nSố hao mòn lũy kế\ntính đến ngày 31 tháng 12 năm (n-1)\nSố hao mòn tài sản tăng trong năm (n)\nSố hao mòn tài\nsản giảm trong năm (n)\n4. Số hao mòn tài sản cho năm cuối cùng của thời gian tính hao mòn tài sản kết cấu hạ tầng hàng hai được xác định là hiệu số giữa nguyên giá và số hao mòn\nlũy kế của tài sản đồ xác định theo quy định tại khoản 3 Điều này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "12",
+                            "title": "Giá trị còn lại của tài sản kết cấu hạ tầng hàng hải",
+                            "position": 33711,
+                            "children": [],
+                            "content": "Điều 12. Giá trị còn lại của tài sản kết cấu hạ tầng hàng hải\nGiá trị còn lại của tài sản kết cấu hạ tầng hàng hai để ghi sổ kế toán được xác định theo công thức sau:\nGia trị còn lại của tài sản tính đến Nguyên giá của Số hao mòn lũy kế đến ngày\nngày 31 tháng 12 năm (n) tài sản 31 tháng 12 năm (n)\nĐối với tài sản kết cấu hạ tầng hàng hai được xác định, đánh giá lại giá trị tài sản quy định tại khoản 6 Điều 6, khoản 5 Điều 8 Thông tư này thì giá trị đánh giá lại là giá trị còn lại của tài sản."
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "IV",
+                    "title": "KÊ KHAI, BÁO CÁO VỀ TÀI SẢN KẾT CẤU",
+                    "position": 34209,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "13",
+                            "title": "Mẫu báo cáo kê khai lần đầu và báo cáo kê khai bổ sung tài sản kết cấu hạ tầng hàng hải",
+                            "position": 34272,
+                            "children": [],
+                            "content": "Điều 13. Mẫu báo cáo kê khai lần đầu và báo cáo kê khai bổ sung tài sản kết cấu hạ tầng hàng hải\nMẫu báo cáo kê khai tài sản kết cấu hạ tầng hàng hai quy định tại khoản 2 Điều 27 Nghị định số 84/2025/NĐ-CP được quy định như sau:\n1. Báo cáo kê khai lần đầu theo Mẫu số 01A quy định tại Phụ lục ban hành kèm theo Thông tư này áp dụng đối với:\nTài sản kết cấu hạ tầng hàng hai hiện có tại thời điểm Nghị định số 84/2025/NĐ-CP có hiệu lực thi hành (bao gồm cả tài sản đã báo cáo kê khai lần đầu theo quy định tại Nghị định số 43 2018/NĐ-CP ngày 12 tháng 3 năm 2018 của Chính phủ quy định việc quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng hàng hai):\nTài sản kết cấu hạ tầng hàng hai phát sinh kể từ ngày Nghị định số 84/2025/NĐ-CP có hiệu lực thi hành.\n2. Báo cáo kê khai bổ sung theo Mẫu số 01B, Mẫu số 01C quy định tại Phụ lục ban hành kèm theo Thông tư này áp dụng trong trường hợp có thay đổi thông tin về cơ quan quản lý tài sản hoặc thông tin về tài sản kết cấu hạ tầng hàng hai đã báo cáo kê khai lần đầu.",
+                            "is_amendment": true
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "14",
+                            "title": "Mẫu báo cáo tình hình quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng hàng hải",
+                            "position": 35289,
+                            "children": [],
+                            "content": "Điều 14. Mẫu báo cáo tình hình quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng hàng hải\nMẫu báo cáo tình hình quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng hàng hai quy định tại khoản 5 Điều 27 Nghị định số 84/2025/NĐ-CP được quy định như sau:\n1. Báo cáo tình hình khai thác tài sản kết cấu hạ tầng hàng hải theo từng phương thức quy định tại các Điều 13, 14 và 15 Nghị định số 84/2025/NĐ-CP theo Mẫu số 01D quy định tại Phụ lục ban hành kèm theo Thông tư này.\n2. Báo cáo tổng hợp tình hình quản lý, sử dụng tài sản kết cấu hạ tầng hàng hải theo Mẫu số 02A quy định tại Phụ lục ban hành kèm theo Thông tư này.\n3. Báo cáo tổng hợp tình hình khai thác tài sản kết cấu hạ tầng hàng hải theo Mẫu số 02B quy định tại Phụ lục ban hành kèm theo Thông tư này."
+                        }
+                    ]
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "V",
+                    "title": "ĐIỀU KHOẢN THI HÀNH",
+                    "position": 36055,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "15",
+                            "title": "Điều khoản chuyển tiếp",
+                            "position": 36084,
+                            "children": [],
+                            "content": "Điều 15. Điều khoản chuyển tiếp\n1. Đối với tài sản kết cấu hạ tầng hàng hải hiện có trước ngày Nghị định số 84/2025/NĐ-CP có hiệu lực thi hành đã xác định giá trị để ghi sổ kế toán theo quy định tại Nghị định số 43/2018/NĐ-CP và các Thông tư hướng dẫn của Bộ Tài chính thì sử dụng giá trị đã xác định để ghi sổ kế toán.\n2. Đối với tài sản kết cấu hạ tầng hàng hải hiện có trước ngày Nghị định số 84/2025/NĐ-CP có hiệu lực thi hành nhưng chưa xác định giá trị để ghi sổ kế toán, chưa tính hao mòn cho các năm đã sử dụng tài sản theo quy định tại Nghị định số 43/2018/NĐ-CP và các Thông tư hướng dẫn của Bộ Tài chính thì việc xác định giá trị tài sản, tính hao mòn lũy kế cho các năm đã sử dụng tài sản thực hiện theo quy định tại Thông tư này.\n3. Đối với tài sản kết cấu hạ tầng hàng hải đã được theo dõi trên sổ kế toán của cơ quan quản lý tài sản trước ngày Thông tư này có hiệu lực thi hành, có thời gian để tính hao mòn, tỷ lệ hao mòn quy định tại khoản 1 Điều 10 Thông tư này thay đổi so với quy định tại Phụ lục ban hành kèm theo Thông tư số 75/2018/TT-BTC thì từ năm tài chính 2025 thực hiện xác định mức hao mòn hàng năm của tài sản như sau:\nMức hao mòn hàng năm của tài sản\nThời gian tính hao mòn còn lại của tài sản (năm)\nTrong đó:\nThời gian tính hao mòn của tài sản cùng loại được xác định theo quy định tại khoản 1 Điều 10 Thông tư này.\nRiêng mức hao mòn tài sản cho năm cuối cùng thuộc thời gian để tính hao mòn của tài sản được xác định là hiệu số giữa nguyên giá và số hao mòn luỹ kế của tài sản đó.\nTrường hợp tài sản đã hết thời gian tính hao mòn theo quy định, nhưng tài sản vẫn còn giá trị còn lại thì mức hao mòn của năm 2025 bằng giá trị còn lại của tài sản tính đến ngày 31 tháng 12 năm 2024.\n4. Đối với tài sản kết cấu hạ tầng hàng hải có nguyên giá từ 10 triệu đến dưới 30 triệu đồng đã được theo dõi trên sổ kế toán theo quy định tại Thông tư\nGiá trị còn lại của tài sản\ntính đến ngày 31 tháng 12 năm 2023 theo sổ kế toán\nThời gian tính hao mòn còn lại của tài sản (năm)\nThời gian đã sử dụng của tài sản (năm)\nsố 75/2018/TT-BTC thì từ năm tài chính 2025 thực hiện mở sổ theo dõi tài sản là công cụ dụng cụ theo quy định của pháp luật về chế độ kế toán, không thực hiện theo quy định tại Thông tư này."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "16",
+                            "title": "Hiệu lực và trách nhiệm thi hành",
+                            "position": 38309,
+                            "children": [],
+                            "content": "Điều 16. Hiệu lực và trách nhiệm thi hành\n1. Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 8 năm 2025 và được áp dụng từ năm tài chính 2025.\n2. Các nội dung quy định về chế độ quản lý, tính hao mòn tài sản kết cấu hạ tầng hàng hải từ Điều 1 đến Điều 11 và mục III Phụ lục của Thông tư số 75/2018/TT-BTC ngày 17 tháng 8 năm 2018 của Bộ trưởng Bộ Tài chính quy định chế độ quản lý, tính hao mòn tài sản kết cấu hạ tầng giao thông, thủy lợi hết hiệu lực thi hành khi Thông tư này có hiệu lực thi hành.\n3. Trường hợp các văn bản quy phạm pháp luật dẫn chiếu tại Thông tư này được sửa đổi, bổ sung, thay thế thì thực hiện theo quy định tương ứng tại văn bản sửa đổi, bổ sung, thay thế đó.\n4. Các Bộ, cơ quan trung ương có liên quan, Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương có trách nhiệm chỉ đạo tổ chức thực hiện việc quản lý, tính hao mòn, kê khai, báo cáo về tài sản kết cấu hạ tầng hàng hải theo quy định tại Thông tư này."
+                        }
+                    ]
+                }
+            ],
+            "metadata": {
+                "total_units": 23,
+                "total_articles": 18,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 1,
+                "depth": 2
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [],
+            "replaces": [],
+            "mentions": [],
+            "abolished": [],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": null,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "replaces": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 3,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "166/2025/NĐ-CP",
+                    "43/2018/NĐ-CP",
+                    "75/2018/TT-BTC"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "[mentions] LLM thiếu target so với crawl: ['166/2025/NĐ-CP', '43/2018/NĐ-CP', '75/2018/TT-BTC']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "72/2025/TT-BTC",
+            "target_id": "84/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "72/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "72/2025/TT-BTC",
+            "target_id": "166/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "72/2025/TT-BTC",
+            "target_id": "166/2025/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "72/2025/TT-BTC",
+            "target_id": "43/2018/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "72/2025/TT-BTC",
+            "target_id": "75/2018/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "72/2025/TT-BTC",
+            "target_id": "75/2018/TT-BTC",
+            "properties": {
+                "relevanceType": "RELATED",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ]
+}

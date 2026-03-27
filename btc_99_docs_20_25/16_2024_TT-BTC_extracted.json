@@ -1,0 +1,208 @@
+{
+    "file_name": "16_2024_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "16/2024/TT-BTC",
+        "title": "Bãi bỏ các Quyết định của Bộ trưởng Bộ Tài chính ban hành quy trình về công tác thanh tra tài chính",
+        "promulgationDate": "2024-03-11",
+        "effectiveDate": "2024-04-25",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Cao Anh Tuấn",
+        "draftingUnit": "Thanh tra",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:19Z",
+        "_doc_id": "247080"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "16/2024/TT-BTC",
+            "target_id": "154/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "16/2024/TT-BTC",
+            "target_id": "14/2023/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "16/2024/TT-BTC",
+            "target_id": "34/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "16/2024/TT-BTC",
+            "target_id": "80/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "16/2024/TT-BTC",
+            "target_id": "33/2007/QĐ-BTC",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "16/2024/TT-BTC",
+            "target_id": "64/2006/QĐ-BTC",
+            "properties": {},
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "16_2024_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": null,
+        "dates": {
+            "promulgation_date": "2024-03-01",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Bãi bỏ toàn bộ các Quyết định",
+                    "position": 0,
+                    "children": [],
+                    "content": "Bãi bỏ toàn bộ 02 Quyết định sau đây:\n1. Quyết định số 64/2006/QĐ-BTC ngày 08 ngày 11 tháng 2006 của Bộ trưởng Bộ Tài chính ban hành Quy trình thanh tra tài chính.\n2. Quyết định số 33/2007/QĐ-BTC ngày 15 ngày 5 tháng 2007 của Bộ trưởng Bộ Tài chính ban hành Quy trình Xử lý sau thanh tra, kiểm tra tài chính.",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Điều khoản thi hành",
+                    "position": 346,
+                    "children": [],
+                    "content": "Điều 2. Điều khoản thi hành\n1. Thông tư này có hiệu lực thi hành kể từ ngày 25 tháng 04 năm 2024.\n2. Chánh Thanh tra Bộ Tài chính, Chánh Văn phòng Bộ Tài chính, Thủ trưởng các cơ quan, đơn vị thuộc Bộ Tài chính và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./."
+                }
+            ],
+            "metadata": {
+                "total_units": 2,
+                "total_articles": 2,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 1,
+                "depth": 1
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [],
+            "replaces": [],
+            "mentions": [],
+            "abolished": [],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": null,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "replaces": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 2,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "33/2007/QĐ-BTC",
+                    "64/2006/QĐ-BTC"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "[abolished] LLM thiếu target so với crawl: ['33/2007/QĐ-BTC', '64/2006/QĐ-BTC']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "16/2024/TT-BTC",
+            "target_id": "154/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "16/2024/TT-BTC",
+            "target_id": "14/2023/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "16/2024/TT-BTC",
+            "target_id": "34/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "16/2024/TT-BTC",
+            "target_id": "80/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "16/2024/TT-BTC",
+            "target_id": "33/2007/QĐ-BTC",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "16/2024/TT-BTC",
+            "target_id": "64/2006/QĐ-BTC",
+            "properties": {},
+            "_crawled": true
+        }
+    ]
+}

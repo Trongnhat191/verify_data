@@ -1,0 +1,264 @@
+{
+    "file_name": "77_2025_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "77/2025/TT-BTC",
+        "title": "Quy định chỉ tỉết các dịch vụ kỉnh doanh chứng khoán và chuyển nhượng chứng khoán theo Nghị định số 181/2025/NĐ-CP ngày 01/7/2025 của Chính phủ quy định chỉ tiết thỉ hành một số đỉều của Luật Thuế giá trị gia tăng",
+        "promulgationDate": "2025-07-30",
+        "effectiveDate": "2025-07-30",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Nguyễn Đức Chi",
+        "draftingUnit": "Uỷ ban Chứng khoán Nhà nước",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:17Z",
+        "_doc_id": "479994"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "77/2025/TT-BTC",
+            "target_id": "155/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "77/2025/TT-BTC",
+            "target_id": "181/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "77/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "77/2025/TT-BTC",
+            "target_id": "54/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "77/2025/TT-BTC",
+            "target_id": "48/2024/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "77/2025/TT-BTC",
+            "target_id": "166/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "77/2025/TT-BTC",
+            "target_id": "56/2024/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "77/2025/TT-BTC",
+            "target_id": "181/2025/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "77_2025_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": null,
+        "dates": {
+            "promulgation_date": "2025-07-30",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Phạm vi điều chỉnh",
+                    "position": 0,
+                    "children": [],
+                    "content": "Thông tư này quy định chi tiết về các dịch vụ kinh doanh chứng khoán và\nchuyển nhượng chứng khoán tại điểm c và điểm d khoản 4 Điều 4 Nghị định số\n181/2025/NĐ-CP ngày 01 tháng 7 năm 2025 của Chính phủ quy định chi tiết thi\nhành một số điều của Luật Thuế giá trị gia tăng (sau đây gọi là Nghị định số\n181/2025/NĐ-CP)."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Đối tượng áp dụng",
+                    "position": 343,
+                    "children": [],
+                    "content": "Điều 2. Đối tượng áp dụng\nĐối tượng áp dụng của Thông tư này bao gồm:\n1. Người nộp thuế quy định tại Điều 3 Nghị định số 181 2025 ND-CP.\n2\n2. Cơ quan quản lý thuế theo quy định của pháp luật về quản lý thuế.\n3. Các tổ chức, cá nhân khác có liên quan."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "3",
+                    "title": "Các dịch vụ kinh doanh chứng khoán tại điểm c khoản 4 Điều",
+                    "position": 594,
+                    "children": [],
+                    "content": "Điều 3. Các dịch vụ kinh doanh chứng khoán tại điểm c khoản 4 Điều\n4 Nghị định số 181/2025/NĐ-CP\n1. Môi giới chứng khoán tại công ty chứng khoán: nhận ủy thác quản lý\ntài khoản giao dịch chứng khoán của nhà đầu tư cá nhân, quản lý tài khoản giao\ndịch chứng khoán, dịch vụ giao dịch chứng khoán trực tuyến, dịch vụ cho khách\nhàng vay tiền mua chứng khoán, dịch vụ ứng trước tiền bán chứng khoán tại\ncông ty chứng khoán; dịch vụ giao dịch chứng khoán, dịch vụ kết nối trực tuyến,\ndịch vụ sử dụng thiết bị đầu cuối tại Sơ giao dịch chứng khoán; dịch vụ vay và\ncho vay chứng khoán, lưu ký chứng khoán, bù trừ, thanh toán giao dịch chứng\nkhoán, xử lý lỗi, sửa lỗi sau giao dịch, quản lý tài sản ký quỹ, quản lý vị thế tại\nthành viên lưu ký, thành viên bù trừ, Tổng công ty lưu ký và bù trừ chứng khoán\nViệt Nam và công ty con; thanh toán gốc, lãi, tiền mua lại trái phiếu Chính phủ,\ncông trái Xây dựng Tổ quốc, trái phiếu được Chính phủ bảo lãnh, trái phiếu\nchính quyền địa phương, tín phiếu kho bạc.\n2. Tự doanh chứng khoán tại công ty chứng khoán: đầu tư, góp vốn, phát\nhành, chào bán các sản phẩm tài chính, chứng quyền có bao đảm: giao dịch tạo\nlập thị trường.\n3. Bảo lãnh phát hành chứng khoán, các dịch vụ gắn với nghiệp vụ bao\nlãnh phát hành chứng khoán theo quy định tại khoản 3 Điều 86 Luật Chứng\nkhoán số 54/2019/QH14 và được thể hiện trên hợp đồng bảo lãnh phát hành\nchứng khoán.\n4. Tư vấn đầu tư chứng khoán.\n5. Quản lý quỹ đầu tư chứng khoán.\n6. Quản lý danh mục đầu tư chứng khoán."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "4",
+                    "title": "Chuyển nhượng chứng khoán tại điểm d khoản 4 Điều 4 Nghị",
+                    "position": 2085,
+                    "children": [],
+                    "content": "Điều 4. Chuyển nhượng chứng khoán tại điểm d khoản 4 Điều 4 Nghị\nđịnh số 181/2025/NĐ-CP\n1. Chuyển nhượng chứng khoán thực hiện qua hệ thống giao dịch chứng\nkhoán của Sở giao dịch chứng khoán: chuyển quyền sở hữu chứng khoán ngoài\nhệ thống của Sở giao dịch chứng khoán: chuyển khoán chứng khoán.\n2. Dấu giá, đấu thầu, chào bán cạnh tranh, dựng số."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "5",
+                    "title": "Hiệu lực thi hành",
+                    "position": 2432,
+                    "children": [],
+                    "content": "Điều 5. Hiệu lực thi hành\n1. Thông tư này có hiệu lực thi hành kể từ ngày 30 tháng 7 năm 2025.\n2. Trong quá trình thực hiện, trường hợp có khó khăn, vướng mắc, đề nghị các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Tài chính để được giải quyết./"
+                }
+            ],
+            "metadata": {
+                "total_units": 5,
+                "total_articles": 5,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 1
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [],
+            "replaces": [],
+            "mentions": [],
+            "abolished": [],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": null,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "replaces": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 1,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "181/2025/NĐ-CP"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "[mentions] LLM thiếu target so với crawl: ['181/2025/NĐ-CP']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "77/2025/TT-BTC",
+            "target_id": "155/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "77/2025/TT-BTC",
+            "target_id": "181/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "77/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "77/2025/TT-BTC",
+            "target_id": "54/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "77/2025/TT-BTC",
+            "target_id": "48/2024/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "77/2025/TT-BTC",
+            "target_id": "166/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "77/2025/TT-BTC",
+            "target_id": "56/2024/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "77/2025/TT-BTC",
+            "target_id": "181/2025/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ]
+}

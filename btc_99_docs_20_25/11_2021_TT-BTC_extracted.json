@@ -1,0 +1,230 @@
+{
+    "file_name": "11_2021_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "11/2021/TT-BTC",
+        "title": "Bãi bỏ Thông tư số 161/2014/TT-BTC ngày 31/10/2014 của Bộ trưởng Bộ Tài chính quy định công tác bảo vệ bí mật nhà nước của ngành Tài chính",
+        "promulgationDate": "2021-02-05",
+        "effectiveDate": "2021-03-23",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Đỗ Hoàng Anh Tuấn",
+        "draftingUnit": "Vụ Pháp chế",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:21Z",
+        "_doc_id": "103156"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "11/2021/TT-BTC",
+            "target_id": "154/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "11/2021/TT-BTC",
+            "target_id": "Luật Ban hành văn bản quy phạm pháp luật sửa đổi 2020",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "11/2021/TT-BTC",
+            "target_id": "Luật Bảo vệ bí mật nhà nước 2018",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "11/2021/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "11/2021/TT-BTC",
+            "target_id": "34/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "11/2021/TT-BTC",
+            "target_id": "Luật ban hành văn bản quy phạm pháp luật 2015",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "11/2021/TT-BTC",
+            "target_id": "161/2014/TT-BTC",
+            "properties": {},
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "11_2021_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "11/2021/TT-BTC",
+        "dates": {
+            "promulgation_date": "2021-02-05",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Bãi bỏ toàn bộ Thông tư số 161/2014/TT-BTC ngày 31 tháng 10 năm 2014 của Bộ trưởng Bộ Tài chính quy định công tác bảo vệ bí mật nhà nước của ngành Tài chính.",
+                    "position": 0,
+                    "children": [],
+                    "content": "",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Tổ chức thực hiện",
+                    "position": 165,
+                    "children": [],
+                    "content": "Điều 2. Tổ chức thực hiện\n1. Thông tư này có hiệu lực thi hành kể từ ngày 23 tháng 3 năm 2021.\n2. Vụ trưởng Vụ Pháp chế, Thủ trưởng các đơn vị thuộc Bộ Tài chính và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./."
+                }
+            ],
+            "metadata": {
+                "total_units": 2,
+                "total_articles": 2,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 1,
+                "depth": 1
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [],
+            "replaces": [],
+            "mentions": [],
+            "abolished": [
+                {
+                    "official_number_target": "161/2014/TT-BTC",
+                    "date_abolished": "2021-03-23",
+                    "affected_details": [
+                        "Toàn văn"
+                    ]
+                }
+            ],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "replaces": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 1,
+                "llm_count": 1,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": []
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "11/2021/TT-BTC",
+            "target_id": "154/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "11/2021/TT-BTC",
+            "target_id": "Luật Ban hành văn bản quy phạm pháp luật sửa đổi 2020",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "11/2021/TT-BTC",
+            "target_id": "Luật Bảo vệ bí mật nhà nước 2018",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "11/2021/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "11/2021/TT-BTC",
+            "target_id": "34/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "11/2021/TT-BTC",
+            "target_id": "Luật ban hành văn bản quy phạm pháp luật 2015",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "11/2021/TT-BTC",
+            "target_id": "161/2014/TT-BTC",
+            "properties": {
+                "date_abolished": "2021-03-23",
+                "affected_details": [
+                    "Toàn văn"
+                ]
+            },
+            "_crawled": true
+        }
+    ]
+}

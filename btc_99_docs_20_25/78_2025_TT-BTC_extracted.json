@@ -1,0 +1,325 @@
+{
+    "file_name": "78_2025_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "78/2025/TT-BTC",
+        "title": "Bãi bỏ Thông tư số 01/2020/TT-BKHĐT ngày 19 tháng 02 năm 2020 của Bộ trưởng Bộ Kế hoạch và Đầu tư về hướng dẫn phân loại và đánh giá hợp tác xã",
+        "promulgationDate": "2025-07-31",
+        "effectiveDate": "2025-09-18",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Nguyễn Đức Tâm",
+        "draftingUnit": "Cục Phát triển doanh nghiệp tư nhân và kinh tế tập thể",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:17Z",
+        "_doc_id": "480002"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "78/2025/TT-BTC",
+            "target_id": "Luật Ban hành vãn bản quy phạm pháp luật",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "78/2025/TT-BTC",
+            "target_id": "Luật Hợp tác xã",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "78/2025/TT-BTC",
+            "target_id": "78/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "78/2025/TT-BTC",
+            "target_id": "178/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "78/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "78/2025/TT-BTC",
+            "target_id": "166/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "78/2025/TT-BTC",
+            "target_id": "64/2025/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "78/2025/TT-BTC",
+            "target_id": "17/2023/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "78/2025/TT-BTC",
+            "target_id": "01/2020/TT-BKHĐT",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "78/2025/TT-BTC",
+            "target_id": "78/2025/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "78/2025/TT-BTC",
+            "target_id": "167/QĐ-TTg",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "78/2025/TT-BTC",
+            "target_id": "1099/QĐ-BKHĐT",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "78_2025_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "01/2020/TT-",
+        "dates": {
+            "promulgation_date": "2025-07-31",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Bãi bỏ toàn bộ Thông tư",
+                    "position": 0,
+                    "children": [],
+                    "content": "Bãi bỏ toàn bộ Thông tư số 01/2020/TT-BKHĐT ngày 19 tháng 02 năm 2020 của Bộ trưởng Bộ Kế hoạch và Đầu tư về hướng dẫn phân loại và đánh giá hợp tác xã.",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Điều khoản thi hành",
+                    "position": 184,
+                    "children": [],
+                    "content": "Điều 2. Điều khoản thi hành\n1. Thông tư này có hiệu lực thi hành từ ngày 18 tháng 9 năm 2025.\n2. Việc đánh giá, xếp loại hợp tác xã tại các văn bản sau tiếp tục thực hiện theo Thông tư số 01/2020/TT-BKHĐT ngày 19 tháng 02 năm 2020 của Bộ trưởng Bộ Kế hoạch và Đầu tư đến hết ngày 31 tháng 12 năm 2025:\na) Quyết định số 167/QĐ-TTg ngày 03 tháng 02 năm 2021 của Thủ tướng Chính phủ về phê duyệt Đề án “Lựa chọn, hoàn thiện, nhân rộng mô hình hợp tác xã kiểu mới hiệu quả tại các địa phương trên cả nước giai đoạn 2021-2025”.\nb) Quyết định số 1099/QĐ-BKHĐT ngày 07 tháng 5 năm 2024 của Bộ trưởng Bộ Kế hoạch và Đầu tư về công bố các chỉ tiêu về hợp tác xã, tổ hợp tác và khu công nghiệp và ban hành quy trình thu thập, tổng hợp và tính toán tiêu chí về thu nhập thuộc bộ tiêu chí quốc gia về nông thôn mới giai đoạn 2021 - 2025.\n3. Cục trưởng Cục Phát triển doanh nghiệp tư nhân và kinh tế tập thể, Thủ trưởng các đơn vị thuộc Bộ Tài chính và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.\n4. Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, đề nghị các cơ quan, tổ chức, cá nhân phản ánh về Bộ Tài chính để kịp thời giải quyết."
+                }
+            ],
+            "metadata": {
+                "total_units": 2,
+                "total_articles": 2,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 1,
+                "depth": 1
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [],
+            "replaces": [],
+            "mentions": [],
+            "abolished": [
+                {
+                    "official_number_target": "01/2020/TT-BKHĐT",
+                    "date_abolished": "2025-09-18",
+                    "affected_details": [
+                        "Toàn văn"
+                    ]
+                }
+            ],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": false,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 1,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "78/2025/NĐ-CP"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "replaces": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 2,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "1099/QĐ-BKHĐT",
+                    "167/QĐ-TTG"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "abolished": {
+                "crawl_count": 1,
+                "llm_count": 1,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "Số hiệu không khớp: crawl='78/2025/TT-BTC', regex='01/2020/TT-'",
+            "[amends] LLM thiếu target so với crawl: ['78/2025/NĐ-CP']",
+            "[mentions] LLM thiếu target so với crawl: ['1099/QĐ-BKHĐT', '167/QĐ-TTG']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "78/2025/TT-BTC",
+            "target_id": "Luật Ban hành vãn bản quy phạm pháp luật",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "78/2025/TT-BTC",
+            "target_id": "Luật Hợp tác xã",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "78/2025/TT-BTC",
+            "target_id": "78/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "78/2025/TT-BTC",
+            "target_id": "178/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "78/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "78/2025/TT-BTC",
+            "target_id": "166/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "78/2025/TT-BTC",
+            "target_id": "64/2025/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "78/2025/TT-BTC",
+            "target_id": "17/2023/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "78/2025/TT-BTC",
+            "target_id": "01/2020/TT-BKHĐT",
+            "properties": {
+                "date_abolished": "2025-09-18",
+                "affected_details": [
+                    "Toàn văn"
+                ]
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "78/2025/TT-BTC",
+            "target_id": "78/2025/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "78/2025/TT-BTC",
+            "target_id": "167/QĐ-TTg",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "78/2025/TT-BTC",
+            "target_id": "1099/QĐ-BKHĐT",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ]
+}

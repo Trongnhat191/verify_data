@@ -1,0 +1,235 @@
+{
+    "file_name": "12_2023_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "12/2023/TT-BTC",
+        "title": "Sửa đổi, bổ sung một số điều của Thông tư số 107/2020/TT-BTC ngày 21 tháng 12 năm 2020 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch mua lại có kỳ hạn trái phiếu Chính phủ từ nguồn ngân quỹ nhà nước tạm thời nhàn rỗi của Kho bạc Nhà nước",
+        "promulgationDate": "2023-02-10",
+        "effectiveDate": "2023-05-04",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Cao Anh Tuấn",
+        "draftingUnit": "Kho bạc nhà nước",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:20Z",
+        "_doc_id": "152902"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "12/2023/TT-BTC",
+            "target_id": "54/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "12/2023/TT-BTC",
+            "target_id": "95/2018/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "12/2023/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "12/2023/TT-BTC",
+            "target_id": "24/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "12/2023/TT-BTC",
+            "target_id": "83/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "12/2023/TT-BTC",
+            "target_id": "107/2020/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "12_2023_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "107/2020/TT-BTC",
+        "dates": {
+            "promulgation_date": "2023-02-10",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Sửa đổi, bổ sung một số điều của Thông tư số 107/2020/TT-BTC",
+                    "position": 0,
+                    "children": [],
+                    "content": "ngày 21 tháng 12 năm 2020 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch\nmua lại có kỳ hạn trái phiếu Chính phủ từ nguồn ngân quỹ nhà nước tạm\nthời nhàn rồi của Kho bạc Nhà nước như sau:\n1. Sửa đổi, bổ sung khoản 5 Điều 3 như sau:\n“5. Kỳ hạn còn lại của TPCP: Là khoảng thời gian còn lại (theo ngày thực\ntế) từ ngày thanh toán giao dịch lần 1 (ngày T+2) đến ngày đáo hạn TPCP.”.\n2. Sửa đổi, bổ sung khoản 1 Điều 5 như sau:\n“1. Là TPCP do KBNN phát hành đang được niêm yết tại Sở Giao dịch\nChứng khoán.”.\n3. Sửa đổi, bổ sung một số khoản của Điều 9 như sau:\na) Sửa đổi điểm a khoản 4 như sau:\n“a) Các thông tin về TPCP được mua lại có kỳ hạn: mã TPCP, tỷ lệ phòng vệ rủi ro, lãi suất chiết khấu (%/năm).”.\nb) Sửa đổi điểm c khoản 4 như sau:\n“c) Chi tiết giao dịch lần 2: Ngày thanh toán giao dịch lần 2; khối lượng TPCP giao dịch tương ứng với từng mã TPCP và giá trị giao dịch lần 2..”\nc) Sửa đổi, bổ sung khoản 5 như sau:\n“5. Hợp đồng khung và phụ lục hợp đồng được giao kết bằng văn bản giấy (có đầy đủ dấu và chữ ký trực tiếp của người có thẩm quyền đại diện các bên thực hiện hợp đồng) hoặc văn bản điện tử (được ký số bởi người có thẩm quyền và ký số của cơ quan, tổ chức theo quy định của pháp luật), phù hợp với quy định về giao dịch điện tử trong hoạt động nghiệp vụ KBNN..”\n4. Sửa đổi, bổ sung một số khoản của Điều 10 như sau:\na) Sửa đổi, bổ sung khoản 2 như sau:\n“2. Từ 9h00 - 10h30 ngày T, các NHTM gửi lệnh chào chắc chắn theo quy chế giao dịch của Sở Giao dịch Chứng khoán, đảm bảo tổng khối lượng chào giá tại tất cả các kỳ hạn mua lại TPCP không vượt quá hạn mức dư nợ giao dịch còn lại của NHTM đó (các lệnh chào gửi sau 10h30 không có hiệu lực), cụ thể:\na) Đối với mỗi loại kỳ hạn mua lại TPCP, mỗi NHTM được chào tối đa năm (05) lệnh chào đối với mỗi loại kỳ hạn mua lại TPCP, đảm bảo tổng khối lượng chào không vượt quá tổng khối lượng KBNN yêu cầu chào giá đối với loại kỳ hạn đó.\nb) Mỗi lệnh chào bao gồm lãi suất chào mua lại có kỳ hạn (tính đến 2 chữ số thập phân); một (01) hoặc nhiều mã TPCP được sử dụng để làm tài sản đảm bảo trong giao dịch mua lại có kỳ hạn TPCP, khối lượng chào tính theo mệnh giá TPCP tương ứng cho từng mã TPCP và các nội dung khác liên quan.\nc) Khối lượng chào tính theo mệnh giá TPCP của mỗi lệnh chào không thấp hơn mức tối thiểu theo thông báo của KBNN trong từng thời kỳ.”.\nb) Sửa đổi, bổ sung khoản 3 như sau:\n“3. Từ 10h30 - 10h45 ngày T, KBNN thực hiện mở các bản chào trên hệ thống giao dịch công cụ nợ của Sở Giao dịch Chứng khoán. Căn cứ các lệnh chào nhận được trên hệ thống giao dịch công cụ nợ của Sở Giao dịch Chứng khoán, KBNN xác định kết quả mua lại có kỳ hạn TPCP theo quy định tại Điều 11 Thông tư này..”\n5. Sửa đổi, bổ sung một số khoản của Điều 12 như sau:\na) Sửa đổi, bổ sung khoản 1 như sau:\n“1. Giá trị giao dịch lần 1 của KBNN tương ứng với từng lệnh chào được xác định theo công thức:\n3\nV₁ = ΣVi\nTrong đó, V₁ là giá trị giao dịch lần 1 tương ứng với từng mã TPCP của lệnh chào được lựa chọn, được tính như sau:\nVi = GG x (1 - H) x KL\nTrong đó:\nVi: Giá trị giao dịch lần 1 tương ứng với mã TPCP i của lệnh chào được lựa chọn (làm tròn xuống đơn vị đồng).\nGG: Giá gộp lãi danh nghĩa của một (01) trái phiếu của mã TPCP i, được tính theo quy định tại Điều 13 Thông tư này.\nH: Tỷ lệ phòng vệ rủi ro được quy đổi sang số thập phân, được quy định là 5% tính trên giá gộp lãi danh nghĩa của TPCP đối với TPCP có kỳ hạn còn lại dưới năm (05) năm và 10% tính trên giá gộp lãi danh nghĩa của TPCP đối với TPCP có kỳ hạn còn lại từ năm (05) năm trở lên.\nKL: Khối lượng TPCP giao dịch tương ứng với mã TPCP i (= khối lượng mua lại có kỳ hạn của mã TPCP đó tính theo mệnh giá/ mệnh giá trái phiếu).”.\nb) Sửa đổi, bổ sung khoản 3 như sau:\n“3. Giá trị giao dịch lần 2 của KBNN tương ứng với từng lệnh chào được xác định theo công thức sau:\nV₂ = Vi + L\nTrong đó, V₂ là giá trị giao dịch lần 2.”\n6. Sửa đổi, bổ sung Điều 13 như sau:\n“Điều 13. Giá gộp lãi danh nghĩa, lãi danh nghĩa tích gộp và giá yết TPCP\n1. Giá gộp lãi danh nghĩa:\na) Xác định giá một (01) TPCP không thanh toán lãi định kỳ\na.1) Đối với TPCP không thanh toán lãi định kỳ có kỳ hạn còn lại trên một (01) năm:\nGG = MG x 1\n(1 + Lt) (2+t-1)\nTrong đó:\nGG = Giá một (01) TPCP (được làm tròn xuống đơn vị đồng).\nMG = Mệnh giá TPCP.\na - Số ngày kể từ ngày thanh toán giao dịch lần 1 cho đến ngày thanh toán tiền lãi kế tiếp theo giá định.\nE. Số ngày thực tế trong kỳ trả lãi giả định mà TPCP được mua lại có kỳ hạn.\nt = Số lần trả lãi giả định kể từ ngày thanh toán giao dịch lần 1 đến ngày\nTPCP đáo hạn.\nLt = Lãi suất chiết khấu TPCP (%/năm), là lãi suất cho đến khi đáo hạn\n(YTM) được Sở Giao dịch Chứng khoán công bố trong ngày tổ chức mua lại có\nkỳ hạn TPCP đối với mã TPCP được sử dụng trong giao dịch trên trang thông tin\nđiện tử của Sở Giao dịch Chứng khoán (phần đường cong lợi suất).\na.2) Đối với TPCP không thanh toán lãi định kỳ có kỳ hạn còn lại từ một\n(01) năm trở xuống:\nGG = MG x 1\n1 + Lt x a\nE\nTrong đó:\nGG = Giá một (01) TPCP (được làm tròn xuống đơn vị đồng).\nMG = Mệnh giá TPCP.\na = Số ngày kể từ ngày thanh toán giao dịch lần 1 cho đến ngày TPCP đáo\nhạn.\nE = Số ngày thực tế trong kỳ trả lãi giả định mà TPCP được mua lại có kỳ\nhạn.\nLt = Lãi suất chiết khấu TPCP (%/năm), là lãi suất cho đến khi đáo hạn\n(YTM) được Sở Giao dịch Chứng khoán công bố trong ngày tổ chức mua lại có\nkỳ hạn TPCP đối với mã TPCP được sử dụng trong giao dịch trên trang thông tin\nđiện tử của Sở Giao dịch Chứng khoán (phần đường cong lợi suất).\nb) Xác định giá một (01) TPCP có lãi suất danh nghĩa cố định, thanh toán lãi\nđịnh kỳ và có các kỳ trả lãi bằng nhau:\nb.1) Đối với TPCP có kỳ hạn còn lại trên một (01) năm:\n- Trường hợp ngày thanh toán giao dịch lần 1 trước hoặc vào ngày đăng ký\ncuối cùng của kỳ trả lãi kế tiếp, giá một (01) TPCP được xác định như sau:\nGG = MG x (1 + Lt k) (1-4) x {Lc x [1 - 1 (1+ Lt) t] + 1 (1+ Lt) t)\n- Trường hợp ngày thanh toán giao dịch lần 1 sau ngày đăng ký cuối cùng\ncủa kỳ trả lãi kế tiếp, giá một (01) TPCP được xác định như sau:\nGG = MG x 1 (1+ Lt k) (1-4) x {Lc x [1 - 1 (1+ Lt) (T-2) ] + 1 (1+ Lt k) (T-1) )\nTrong đó:\nGG = Giá một (01) TPCP (được làm tròn xuống đơn vị đồng).\nMG = Mệnh giá TPCP.",
+                    "is_amendment": true
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "I",
+                    "title": "c - Lãi suất danh nghĩa TPCP (%/năm).",
+                    "position": 6223,
+                    "children": []
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "I",
+                    "title": "= Số ngày thực tế trong kỳ trả lãi mà TPCP được mua lại có kỳ hạn.",
+                    "position": 6404,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "2",
+                            "title": "Điều khoản chuyển tiếp",
+                            "position": 19501,
+                            "children": [],
+                            "content": "Điều 2. Điều khoản chuyển tiếp\nCác giao dịch mua lại có kỳ hạn TPCP có ngày thanh toán giao dịch lần 1 trước ngày Thông tư này có hiệu lực thi hành và ngày thanh toán giao dịch lần 2 sau ngày Thông tư này có hiệu lực thi hành thì được tiếp tục áp dụng theo các quy định tại Thông tư số 107/2020/TT-BTC ngày 21 tháng 12 năm 2020 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch mua lại có kỳ hạn TPCP từ nguồn ngân quỹ nhà nước tạm thời nhân rồi của KBNN."
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "3",
+                            "title": "Hiệu lực thi hành và tổ chức thực hiện",
+                            "position": 19954,
+                            "children": [],
+                            "content": "Điều 3. Hiệu lực thi hành và tổ chức thực hiện\n1. Thông tư này có hiệu lực thi hành kể từ ngày 04 tháng .5. năm 2023\n2. KBNN, các cơ quan, đơn vị, tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./."
+                        }
+                    ]
+                }
+            ],
+            "metadata": {
+                "total_units": 5,
+                "total_articles": 3,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 1,
+                "depth": 2
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [],
+            "replaces": [],
+            "mentions": [],
+            "abolished": [],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": false,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 1,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "107/2020/TT-BTC"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "replaces": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "Số hiệu không khớp: crawl='12/2023/TT-BTC', regex='107/2020/TT-BTC'",
+            "[amends] LLM thiếu target so với crawl: ['107/2020/TT-BTC']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "12/2023/TT-BTC",
+            "target_id": "54/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "12/2023/TT-BTC",
+            "target_id": "95/2018/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "12/2023/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "12/2023/TT-BTC",
+            "target_id": "24/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "12/2023/TT-BTC",
+            "target_id": "83/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "12/2023/TT-BTC",
+            "target_id": "107/2020/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ]
+}

@@ -1,0 +1,322 @@
+{
+    "file_name": "23_2025_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "23/2025/TT-BTC",
+        "title": "Thông tư số 23/2025/TT-BTC của Bộ Tài chính: Sửa đổi, bổ sung một số điều của Thông tư số 328/2016/TT-BTC ngày 26 tháng 12 năm 2016 của Bộ trưởng Bộ Tài chính hướng dẫn thu và quản lý các khoản thu ngân sách nhà nước qua Kho bạc Nhà nước đã được sửa đổi, bổ sung một số điều theo Thông tư số 72/2021/TT-BTC ngày 17 tháng 8 năm 2021 của Bộ trưởng Bộ Tài chính.",
+        "promulgationDate": "2025-05-09",
+        "effectiveDate": "2025-07-01",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Cao Anh Tuấn",
+        "draftingUnit": "Kho bạc nhà nước",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:19Z",
+        "_doc_id": "468084"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "23/2025/TT-BTC",
+            "target_id": "Luật Ngân sách nhà nước",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "23/2025/TT-BTC",
+            "target_id": "Luật Quản lý thuế",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "23/2025/TT-BTC",
+            "target_id": "163/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "23/2025/TT-BTC",
+            "target_id": "11/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "23/2025/TT-BTC",
+            "target_id": "126/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "23/2025/TT-BTC",
+            "target_id": "91/2022/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "23/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "23/2025/TT-BTC",
+            "target_id": "56/2024/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "23/2025/TT-BTC",
+            "target_id": "38/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "23/2025/TT-BTC",
+            "target_id": "83/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "23/2025/TT-BTC",
+            "target_id": "328/2016/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "23/2025/TT-BTC",
+            "target_id": "72/2021/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "23/2025/TT-BTC",
+            "target_id": "126/2020/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "23_2025_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "23/2025/TT-BTC",
+        "dates": {
+            "promulgation_date": "2025-05-09",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Sửa đổi, bổ sung một số khoản của Điều 10 Thông tư số 328/2016/TT-BTC ngày 26 tháng 12 năm 2016 của Bộ trưởng Bộ Tài chính hướng dẫn thu và quản lý các khoản thu ngân sách nhà nước qua Kho bạc Nhà nước (Thông tư số 328/2016/TT-BTC) đã được bổ sung tại điểm a khoản 9 Điều 1 Thông tư số 72/2021/TT-BTC ngày 17 tháng 8 năm 2021 của Bộ trưởng Bộ Tài chính (Thông tư số 72/2021/TT-BTC)",
+                    "position": 0,
+                    "children": [],
+                    "content": "1. Sửa đổi khoản 1b Điều 10 Thông tư số 328/2016/TT-BTC đã được bổ sung tại điểm a khoản 9 Điều 1 Thông tư số 72/2021/TT-BTC như sau:\n“1b. Căn cứ ngày của quyết định hoàn trả trên lệnh hoàn trả thu ngân sách nhà nước, Kho bạc Nhà nước hạch toán hoàn trả các khoản thu từ ngân sách nhà nước như sau:\n- Đối với các quyết định hoàn trả ban hành trong năm hiện hành: thực hiện hạch toán giảm thu ngân sách nhà nước trong năm hiện hành (chi tiết theo mục lục ngân sách nhà nước của khoản hoàn trả).\n- Đối với các quyết định hoàn trả ban hành trong năm trước: trường hợp hoàn trả trong thời gian chính lý quyết toán, thực hiện hạch toán giảm thu ngân sách nhà nước năm trước; trường hợp hoàn trả sau thời gian chính lý quyết toán, thực hiện hạch toán giảm thu ngân sách nhà nước trong năm hiện hành (chi tiết theo mục lục ngân sách nhà nước của khoản hoàn trả).”\n2. Bổ sung khoản 1c sau khoản 1b Điều 10 Thông tư số 328/2016/TT-BTC đã được bổ sung tại điểm a khoản 9 Điều 1 Thông tư số 72/2021/TT-BTC như sau:\n“1c. Hạch toán thu hồi hoàn thuế giá trị gia tăng sau khi đã hoàn theo pháp luật thuế:\nSố tiền thu hồi hoàn thuế giá trị gia tăng nộp trong năm ngân sách nào thì được hạch toán giảm chi hoàn thuế giá trị gia tăng của năm ngân sách đó\".",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Điều khoản thi hành",
+                    "position": 1629,
+                    "children": [],
+                    "content": "Điều 2. Điều khoản thi hành\nThông tư này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2025."
+                }
+            ],
+            "metadata": {
+                "total_units": 2,
+                "total_articles": 2,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 1,
+                "depth": 1
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [
+            "Ngân hàng, tiền tệ",
+            "Ngân hàng, tiền tệ"
+        ],
+        "edges": {
+            "amends": [],
+            "replaces": [],
+            "mentions": [],
+            "abolished": [],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 3,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "126/2020/NĐ-CP",
+                    "328/2016/TT-BTC",
+                    "72/2021/TT-BTC"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "replaces": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "[amends] LLM thiếu target so với crawl: ['126/2020/NĐ-CP', '328/2016/TT-BTC', '72/2021/TT-BTC']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "23/2025/TT-BTC",
+            "target_id": "Luật Ngân sách nhà nước",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "23/2025/TT-BTC",
+            "target_id": "Luật Quản lý thuế",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "23/2025/TT-BTC",
+            "target_id": "163/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "23/2025/TT-BTC",
+            "target_id": "11/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "23/2025/TT-BTC",
+            "target_id": "126/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "23/2025/TT-BTC",
+            "target_id": "91/2022/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "23/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "23/2025/TT-BTC",
+            "target_id": "56/2024/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "23/2025/TT-BTC",
+            "target_id": "38/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "23/2025/TT-BTC",
+            "target_id": "83/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "23/2025/TT-BTC",
+            "target_id": "328/2016/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "23/2025/TT-BTC",
+            "target_id": "72/2021/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "23/2025/TT-BTC",
+            "target_id": "126/2020/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ]
+}

@@ -1,0 +1,214 @@
+{
+    "file_name": "79_2021_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "79/2021/TT-BTC",
+        "title": "Sửa đổi, bổ sung khoản 1 Điều 2 Thông tư số 81/2020/TT-BTC ngày 15/9/2020 sửa đổi, bổ sung một số điều của Thông tư số 110/2018/TT-BTC ngày 15 tháng 11 năm 2018 của Bộ Tài chính hướng dẫn mua lại, hoán đổi công cụ nợ của Chính phủ, trái phiếu được Chính phủ bảo lãnh và trái phiếu chính quyền địa phương tại thị trường trong nước và Thông tư số 342/2016/TT-BTC ngày 30 tháng 12 năm 2016 của Bộ Tài chính quy định chi tiết và hướng dẫn thi hành một số điều của Nghị định số 163/2016/NĐ-CP ngày 21 tháng 12 năm 2016 của Chính phủ quy định chi tiết thi hành một số điều của Luật Ngân sách nhà nước",
+        "promulgationDate": "2021-09-21",
+        "effectiveDate": "2021-11-15",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Võ Thành Hưng",
+        "draftingUnit": "Vụ Ngân sách Nhà nước",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:21Z",
+        "_doc_id": "104319"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "79/2021/TT-BTC",
+            "target_id": "93/2018/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "79/2021/TT-BTC",
+            "target_id": "94/2018/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "79/2021/TT-BTC",
+            "target_id": "Luật Quản lý nợ công 2017",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "79/2021/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "79/2021/TT-BTC",
+            "target_id": "Luật ngân sách nhà nước 2015",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "79/2021/TT-BTC",
+            "target_id": "81/2020/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "79_2021_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "79/2021/TT-BTC",
+        "dates": {
+            "promulgation_date": "2021-09-21",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Khoản 1 điều 2 Thông tư số 81/2020/TT-BTC ngày 15 tháng 9 năm 2020 sửa đổi, bổ sung một số điều của Thông tư số 110/2018/TT-BTC ngày 15 tháng 11 năm 2018 của Bộ trưởng Bộ Tài chính hướng dẫn mua lại, hoán đổi công cụ nợ của Chính phủ, trái phiếu được Chính phủ bảo lãnh và trái phiếu chính quyền địa phương tại thị trường trong nước và Thông tư số 342/2016/TT-BTC ngày 30 tháng 12 năm 2016 của Bộ trưởng Bộ Tài chính quy định chi tiết và hướng dẫn thi hành một số điều của Nghị định số 163/2016/NĐ-CP ngày 21 tháng 12 năm 2016 của Chính phủ quy định chi tiết thi hành một số điều của Luật Ngân sách nhà nước được sửa đổi như sau:",
+                    "position": 0,
+                    "children": [],
+                    "content": "“1. Khoản 3 Điều 16 được sửa đổi như sau:\n* “3. Hạch toán, kế toán các khoản phát hành, hoán đổi, mua lại công cụ nợ trong nước vào ngân sách nhà nước:\na) Các khoản vay thông qua phát hành trái phiếu, tín phiếu Kho bạc, công trái xây dựng Tổ quốc được hạch toán kế toán theo giá trị mệnh giá;\nb) Trường hợp có phát sinh chênh lệch giá bán trái phiếu, tín phiếu Kho bạc, công trái xây dựng Tổ quốc so với giá trị mệnh giá, chênh lệch giữa giá trị mệnh giá gốc trái phiếu được mua lại so với giá mua lại, thì số chênh lệch được kế toán theo dõi trên tài khoản riêng; kết thúc năm, căn cứ vào số dư tài khoản riêng nêu trên, trường hợp chênh lệch dương thì hạch toán giảm tương ứng chi trả nợ lãi của ngân sách, trường hợp chênh lệch âm thì hạch toán tăng chi trả nợ lãi của ngân sách;\nc) Đối với các khoản phát sinh chênh lệch giá trị mệnh giá của trái phiếu bị hoán đổi so với trái phiếu được hoán đổi, kế toán không hạch toán vào thu, chi ngân sách nhà nước; trường hợp chênh lệch dương thì hạch toán giảm dư nợ vay của ngân sách, trường hợp chênh lệch âm thì hạch toán tăng”\ndư nợ vay của ngân sách ngay sau khi thực hiện hoàn đổi trái phiếu”.",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Điều khoản thi hành",
+                    "position": 1782,
+                    "children": [],
+                    "content": "Điều 2. Điều khoản thi hành\n1. Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 11 năm 2021.\n2. Trong quá trình triển khai thực hiện, nếu có khó khăn, vướng mắc,\ncác cơ quan, đơn vị có liên quan báo cáo kip thời về Bộ Tài chính để xem xét\nvà có hướng dẫn cụ thể./."
+                }
+            ],
+            "metadata": {
+                "total_units": 2,
+                "total_articles": 2,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 1,
+                "depth": 1
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [
+            "Ngân hàng, tiền tệ",
+            "Ngân hàng, tiền tệ"
+        ],
+        "edges": {
+            "amends": [],
+            "replaces": [],
+            "mentions": [],
+            "abolished": [],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 1,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "81/2020/TT-BTC"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "replaces": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "[amends] LLM thiếu target so với crawl: ['81/2020/TT-BTC']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "79/2021/TT-BTC",
+            "target_id": "93/2018/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "79/2021/TT-BTC",
+            "target_id": "94/2018/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "79/2021/TT-BTC",
+            "target_id": "Luật Quản lý nợ công 2017",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "79/2021/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "79/2021/TT-BTC",
+            "target_id": "Luật ngân sách nhà nước 2015",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "79/2021/TT-BTC",
+            "target_id": "81/2020/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ]
+}

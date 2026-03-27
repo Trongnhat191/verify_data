@@ -1,0 +1,442 @@
+{
+    "file_name": "127_2025_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "127/2025/TT-BTC",
+        "title": "Bãi bỏ các Thông tư của Bộ trưởng Bộ Tài chính về hướng dẫn chế độ quản lý tài chính đối với hợp tác và xử lý tài sản hình thành từ nhiều nguồn vốn khi hợp tác xã, liên hiệp hợp tác xã giải thể, phá sản",
+        "promulgationDate": "2025-12-24",
+        "effectiveDate": "2026-02-14",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Nguyễn Đức Tâm",
+        "draftingUnit": "Cục Phát triển doanh nghiệp tư nhân và kinh tế tập thể",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:17Z",
+        "_doc_id": "515722"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "78/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "187/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "166/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "Luật ban hành văn bản quy phạm pháp luật sửa đổi 2025",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "79/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "Luật ban hành văn bản quy phạm pháp luật 2025",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "113/2024/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "Luật Hợp tác xã 2023",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "83/2015/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "31/2018/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "83/2015/TT-BTC",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "78/2025/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "166/2025/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "13/2024/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "79/2025/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "31/2018/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "127_2025_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "127/2025/TT-BTC",
+        "dates": {
+            "promulgation_date": "2025-12-24",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Bãi bỏ toàn bộ các Thông tư",
+                    "position": 0,
+                    "children": [],
+                    "content": "Bãi bỏ toàn bộ Thông tư số 83/2015/TT-BTC ngày 28 tháng 5 năm 2015 của Bộ trưởng Bộ Tài chính hướng dẫn chế độ quản lý tài chính đối với hợp tác xã và Thông tư số 31/2018/TT-BTC ngày 30 tháng 3 năm 2018 của Bộ trưởng Bộ Tài chính hướng dẫn việc xử lý tài sản hình thành từ nhiều nguồn vốn khi hợp tác xã, liên hiệp hợp tác xã giải thể, phá sản.",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Điều khoản thi hành",
+                    "position": 380,
+                    "children": [],
+                    "content": "Điều 2. Điều khoản thi hành\n1. Thông tư này có hiệu lực thi hành từ ngày 14 tháng 02 năm 2026.\n2. Cục trưởng Cục Phát triển doanh nghiệp tư nhân và kinh tế tập thể, Thủ trưởng các đơn vị thuộc Bộ Tài chính và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này."
+                }
+            ],
+            "metadata": {
+                "total_units": 2,
+                "total_articles": 2,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 1,
+                "depth": 1
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [],
+            "replaces": [
+                {
+                    "official_number_target": "83/2015/TT-BTC",
+                    "effective_from": "2026-02-14"
+                },
+                {
+                    "official_number_target": "31/2018/TT-BTC",
+                    "effective_from": "2026-02-14"
+                }
+            ],
+            "mentions": [
+                {
+                    "official_number_target": "13/2024/NĐ-CP",
+                    "relevance_type": "DIRECT_REFERENCE",
+                    "context": "null"
+                },
+                {
+                    "official_number_target": "79/2025/NĐ-CP",
+                    "relevance_type": "DIRECT_REFERENCE",
+                    "context": "null"
+                },
+                {
+                    "official_number_target": "31/2018/TT-BTC",
+                    "relevance_type": "DIRECT_REFERENCE",
+                    "context": "Bãi bỏ toàn bộ Thông tư số 83/2015/TT-BTC ngày 28 tháng 5 năm 2015 của Bộ trưởng Bộ Tài chính hướng dẫn chế độ quản lý tài chính đối với hợp tác xã và Thông tư số 31/2018/TT-BTC ngày 30 tháng 3 năm 2018 của Bộ trưởng Bộ Tài chính hướng dẫn việc xử lý tài sản hình thành từ nhiều nguồn vốn khi hợp tác xã, liên hiệp hợp tác xã giải thể, phá sản."
+                }
+            ],
+            "abolished": [
+                {
+                    "official_number_target": "83/2015/TT-BTC",
+                    "date_abolished": "2026-02-14",
+                    "affected_details": [
+                        "Toàn văn"
+                    ]
+                }
+            ],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 2,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "166/2025/NĐ-CP",
+                    "78/2025/NĐ-CP"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "replaces": {
+                "crawl_count": 2,
+                "llm_count": 2,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 3,
+                "llm_count": 3,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 1,
+                "llm_count": 1,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "[amends] LLM thiếu target so với crawl: ['166/2025/NĐ-CP', '78/2025/NĐ-CP']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "78/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "187/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "166/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "Luật ban hành văn bản quy phạm pháp luật sửa đổi 2025",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "79/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "Luật ban hành văn bản quy phạm pháp luật 2025",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "113/2024/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "Luật Hợp tác xã 2023",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "83/2015/TT-BTC",
+            "properties": {
+                "source": "crawled",
+                "effective_from": "2026-02-14"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "31/2018/TT-BTC",
+            "properties": {
+                "source": "crawled",
+                "effective_from": "2026-02-14"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "83/2015/TT-BTC",
+            "properties": {
+                "date_abolished": "2026-02-14",
+                "affected_details": [
+                    "Toàn văn"
+                ]
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "78/2025/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "166/2025/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "13/2024/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled",
+                "relevance_type": "DIRECT_REFERENCE",
+                "context": "null"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "79/2025/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled",
+                "relevance_type": "DIRECT_REFERENCE",
+                "context": "null"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "127/2025/TT-BTC",
+            "target_id": "31/2018/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled",
+                "relevance_type": "DIRECT_REFERENCE",
+                "context": "Bãi bỏ toàn bộ Thông tư số 83/2015/TT-BTC ngày 28 tháng 5 năm 2015 của Bộ trưởng Bộ Tài chính hướng dẫn chế độ quản lý tài chính đối với hợp tác xã và Thông tư số 31/2018/TT-BTC ngày 30 tháng 3 năm 2018 của Bộ trưởng Bộ Tài chính hướng dẫn việc xử lý tài sản hình thành từ nhiều nguồn vốn khi hợp tác xã, liên hiệp hợp tác xã giải thể, phá sản."
+            },
+            "_crawled": true
+        }
+    ]
+}

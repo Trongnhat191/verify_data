@@ -1,0 +1,748 @@
+{
+    "file_name": "82_2025_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "82/2025/TT-BTC",
+        "title": "BÃI BỎ CÁC THÔNG TƯ CỦA BỘ TÀI CHÍNH: THÔNG TƯ SỐ 155/2009/TT-BTC NGÀY 31 THÁNG 7 NĂM 2009 HƯỚNG DẪN CHẾ ĐỘ PHÂN PHỐI LỢI NHUẬN CỦA CÔNG TY NHÀ NƯỚC THEO QUY ĐỊNH TẠI NGHỊ ĐỊNH SỐ 09/2009/NĐ-CP NGÀY 05 THÁNG 02 NĂM 2009 CỦA CHÍNH PHỦ; THÔNG TƯ SỐ 202/2009/TT-BTC NGÀY 20 THÁNG 10 NĂM 2009 HƯỚNG DẪN MỘT SỐ NỘI DUNG VỀ TÀI CHÍNH TRONG BÁN, GIAO DOANH NGHIỆP 100% VỐN NHÀ NƯỚC; THÔNG TƯ SỐ 92/2011/TT-BTC NGÀY 23 THÁNG 6 NĂM 2011 HƯỚNG DẪN THỰC HIỆN TRỢ CẤP KHÓ KHĂN ĐỐI VỚI NGƯỜI LAO ĐỘNG TRONG DOANH NGHIỆP THEO QUYẾT ĐỊNH SỐ 471/QĐ-TTG NGÀY 30 THÁNG 3 NĂM 2011 CỦA THỦ TƯỚNG CHÍNH PHỦ; THÔNG TƯ SỐ 180/2012/TT-BTC NGÀY 24 THÁNG 10 NĂM 2012 HƯỚNG DẪN XỬ LÝ TÀI CHÍNH VỀ CHI TRỢ CẤP MẤT VIỆC LÀM CHO NGƯỜI LAO ĐỘNG TẠI DOANH NGHIỆP",
+        "promulgationDate": "2025-08-15",
+        "effectiveDate": "2025-10-01",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Cao Anh Tuấn",
+        "draftingUnit": "Cục Phát triển Doanh nghiệp nhà nước",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:18Z",
+        "_doc_id": "479936"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "Luật Ban hành văn bàn quy phạm pháp luật",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "Luật Quản lý và đầu tư vốn nhà nước tại doanh nghiệp",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "Bộ luật Lao động",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "Luật Doanh nghiệp",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "78/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "91/2015/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "145/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "23/2022/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "187/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "68/2025/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "76/2025/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "87/2025/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "166/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "64/2025/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "03/2022/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "45/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "140/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "121/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "32/2018/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "155/2009/TT-BTC",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "92/2011/TT-BTC",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "87/2025/QH15",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "32/2018/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "166/2025/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "09/2009/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "202/2009/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "471/QĐ-TTg",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "180/2012/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "76/2025/QH15",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "121/2021/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "140/2020/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "202/2009/IT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "92/2011/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "180/2012/IT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "155/2009/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "82_2025_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "82/2025/TT-BTC",
+        "dates": {
+            "promulgation_date": "2025-08-15",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Bãi bỏ toàn bộ các Thông tư của Bộ Tài chính",
+                    "position": 0,
+                    "children": [],
+                    "content": "Bãi bỏ toàn bộ các Thông tư của Bộ Tài chính sau đây:\n1. Thông tư số 155/2009/TT-BTC ngày 31 tháng 7 năm 2009 của Bộ Tài\nchính hướng dẫn chế độ phân phối lợi nhuận của công ty nhà nước theo quy định\ntại Nghị định số 09/2009/NĐ-CP ngày 05 tháng 02 năm 2009 của Chính phủ.\n2. Thông tư số 202/2009/TT-BTC ngày 20 tháng 10 năm 2009 của Bộ Tài\nchính hướng dẫn một số nội dung về tài chính trong bán, giao doanh nghiệp\n100% vốn nhà nước.\n3. Thông tư số 92/2011/TT-BTC ngày 23 tháng 6 năm 2011 của Bộ Tài\nchính hướng dẫn thực hiện trợ cấp khó khăn đối với người lao động trong doanh\nnghiệp theo Quyết định số 471/QĐ-TTg ngày 30 tháng 3 năm 2011 của Thủ\ntướng Chính phủ.\n4. Thông tư số 180/2012/TT-BTC ngày 24 tháng 10 năm 2012 của Bộ Tài\nchính hướng dẫn xử lý tài chính về chi trợ cấp mất việc làm cho người lao động\ntại doanh nghiệp.\n3",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Điều khoản thi hành",
+                    "position": 882,
+                    "children": [],
+                    "content": "Điều 2. Điều khoản thi hành\nThông tư này có hiệu lực thi hành kể từ ngày 01 tháng 10 năm 2025./."
+                }
+            ],
+            "metadata": {
+                "total_units": 2,
+                "total_articles": 2,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 1,
+                "depth": 1
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [
+            "Tài chính",
+            "Lao động"
+        ],
+        "edges": {
+            "amends": [],
+            "replaces": [],
+            "mentions": [],
+            "abolished": [
+                {
+                    "official_number_target": "92/2011/TT-BTC",
+                    "date_abolished": "2025-10-01",
+                    "affected_details": [
+                        "Toàn văn"
+                    ]
+                },
+                {
+                    "official_number_target": "155/2009/TT-BTC",
+                    "date_abolished": "2025-10-01",
+                    "affected_details": [
+                        "Toàn văn"
+                    ]
+                }
+            ],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 3,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "166/2025/NĐ-CP",
+                    "32/2018/NĐ-CP",
+                    "87/2025/QH15"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "replaces": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 11,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "09/2009/NĐ-CP",
+                    "121/2021/NĐ-CP",
+                    "140/2020/NĐ-CP",
+                    "155/2009/TT-BTC",
+                    "180/2012/IT-BTC",
+                    "180/2012/TT-BTC",
+                    "202/2009/IT-BTC",
+                    "202/2009/TT-BTC",
+                    "471/QĐ-TTG",
+                    "76/2025/QH15",
+                    "92/2011/TT-BTC"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "abolished": {
+                "crawl_count": 2,
+                "llm_count": 2,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "[amends] LLM thiếu target so với crawl: ['166/2025/NĐ-CP', '32/2018/NĐ-CP', '87/2025/QH15']",
+            "[mentions] LLM thiếu target so với crawl: ['09/2009/NĐ-CP', '121/2021/NĐ-CP', '140/2020/NĐ-CP', '155/2009/TT-BTC', '180/2012/IT-BTC', '180/2012/TT-BTC', '202/2009/IT-BTC', '202/2009/TT-BTC', '471/QĐ-TTG', '76/2025/QH15', '92/2011/TT-BTC']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "Luật Ban hành văn bàn quy phạm pháp luật",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "Luật Quản lý và đầu tư vốn nhà nước tại doanh nghiệp",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "Bộ luật Lao động",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "Luật Doanh nghiệp",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "78/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "91/2015/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "145/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "23/2022/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "187/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "68/2025/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "76/2025/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "87/2025/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "166/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "64/2025/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "03/2022/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "45/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "140/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "121/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "32/2018/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "155/2009/TT-BTC",
+            "properties": {
+                "date_abolished": "2025-10-01",
+                "affected_details": [
+                    "Toàn văn"
+                ]
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "92/2011/TT-BTC",
+            "properties": {
+                "date_abolished": "2025-10-01",
+                "affected_details": [
+                    "Toàn văn"
+                ]
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "87/2025/QH15",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "32/2018/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "166/2025/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "09/2009/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "202/2009/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "471/QĐ-TTg",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "180/2012/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "76/2025/QH15",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "121/2021/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "140/2020/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "202/2009/IT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "92/2011/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "180/2012/IT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "82/2025/TT-BTC",
+            "target_id": "155/2009/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ]
+}

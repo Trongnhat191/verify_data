@@ -1,0 +1,374 @@
+{
+    "file_name": "14_2025_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "14/2025/TT-BTC",
+        "title": "Sửa đổi, bổ sung một số điều của Thông tư số 119/2020/TT-BTC ngày 31 tháng 12 năm 2020 của Bộ trưởng Bộ Tài chính quy định hoạt động đăng ký, lưu ký, bù trừ và thanh toán giao dịch chứng khoán và Thông tư số 58/2021/TT-BTC ngày 12 tháng 7 năm 2021 của Bộ trưởng Bộ Tài chính hướng dẫn một số điều của Nghị định số 158/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ về chứng khoán phái sinh và thị trường chứng khoán phái sinh",
+        "promulgationDate": "2025-04-04",
+        "effectiveDate": "2025-06-01",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Nguyễn Đức Chi",
+        "draftingUnit": "Uỷ ban Chứng khoán Nhà nước",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:19Z",
+        "_doc_id": "468055"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "14/2025/TT-BTC",
+            "target_id": "Luật Chứng khoản",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "14/2025/TT-BTC",
+            "target_id": "Luật Căn cước",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "14/2025/TT-BTC",
+            "target_id": "155/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "14/2025/TT-BTC",
+            "target_id": "158/202O/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "14/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "14/2025/TT-BTC",
+            "target_id": "26/2023/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "14/2025/TT-BTC",
+            "target_id": "56/2024/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "14/2025/TT-BTC",
+            "target_id": "158/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "14/2025/TT-BTC",
+            "target_id": "54/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "14/2025/TT-BTC",
+            "target_id": "58/2021/TT-BTc",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "14/2025/TT-BTC",
+            "target_id": "119/2020/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "14/2025/TT-BTC",
+            "target_id": "119/202O/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "14/2025/TT-BTC",
+            "target_id": "58/2021/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "14/2025/TT-BTC",
+            "target_id": "58/2021/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "14/2025/TT-BTC",
+            "target_id": "158/2020/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "14_2025_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "119/2020/TT-BTC",
+        "dates": {
+            "promulgation_date": "2025-04-04",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Sửa đổi, bổ sung một số điều của Thông tư số 119/2020/TT-BTC ngày 31 tháng 12 năm 2020 của Bộ trưởng Bộ Tài chính quy định hoạt động đăng ký, lưu ký, bù trừ và thanh toán giao dịch chứng khoán",
+                    "position": 0,
+                    "children": [],
+                    "content": "1. Sửa đổi, bổ sung điểm h khoản 3 Điều 6 như sau:\n2\n“h) Giấy phép thành lập và hoạt động hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc các giấy tờ tương đương của các bên chuyên quyền sở hữu là tổ chức.”\n2. Sửa đổi, bổ sung điều c khoản 2 Điều 17 như sau:\n“c) Số định danh cá nhân đối với khách hàng cá nhân là công dân Việt Nam, người gốc Việt Nam chưa xác định được quốc tịch đang sinh sống tại Việt Nam; số, ngày cấp Giấy chứng nhận đăng ký doanh nghiệp, Giấy phép thành lập và hoạt động hoặc giấy tờ có giá trị tương đương đối với khách hàng là tổ chức trong nước; số, ngày cấp Giấy chứng nhận đăng ký mã số giao dịch chứng khoán đối với khách hàng là nhà đầu tư nước ngoài;\"",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "3",
+                    "title": "Điều khoản thi hành",
+                    "position": 1246,
+                    "children": [],
+                    "content": "Điều 3. Điều khoản thi hành\n1. Thông tư này có hiệu lực thi hành kể từ ngày 04 tháng 6 năm 2025\n2. Ủy ban Chứng khoán Nhà nước, Sở giao dịch chứng khoán Việt Nam, Sở giao dịch chứng khoán Hà Nội, Sở giao dịch chứng khoán Thành phố Hồ Chí Minh, Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam và các tổ chức, cá nhân khác có liên quan chịu trách nhiệm thi hành Thông tư này."
+                }
+            ],
+            "metadata": {
+                "total_units": 2,
+                "total_articles": 2,
+                "skipped_nested_articles": 1,
+                "amendment_articles": 1,
+                "depth": 1
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [],
+            "replaces": [
+                {
+                    "official_number_target": "58/2021/TT-BTc",
+                    "effective_from": "2025-06-04"
+                }
+            ],
+            "mentions": [],
+            "abolished": [],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": false,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 3,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "119/2020/TT-BTC",
+                    "119/202O/TT-BTC",
+                    "58/2021/TT-BTC"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "replaces": {
+                "crawl_count": 1,
+                "llm_count": 1,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 2,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "158/2020/NĐ-CP",
+                    "58/2021/TT-BTC"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "Số hiệu không khớp: crawl='14/2025/TT-BTC', regex='119/2020/TT-BTC'",
+            "[amends] LLM thiếu target so với crawl: ['119/2020/TT-BTC', '119/202O/TT-BTC', '58/2021/TT-BTC']",
+            "[mentions] LLM thiếu target so với crawl: ['158/2020/NĐ-CP', '58/2021/TT-BTC']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "14/2025/TT-BTC",
+            "target_id": "Luật Chứng khoản",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "14/2025/TT-BTC",
+            "target_id": "Luật Căn cước",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "14/2025/TT-BTC",
+            "target_id": "155/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "14/2025/TT-BTC",
+            "target_id": "158/202O/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "14/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "14/2025/TT-BTC",
+            "target_id": "26/2023/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "14/2025/TT-BTC",
+            "target_id": "56/2024/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "14/2025/TT-BTC",
+            "target_id": "158/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "14/2025/TT-BTC",
+            "target_id": "54/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "14/2025/TT-BTC",
+            "target_id": "58/2021/TT-BTc",
+            "properties": {
+                "source": "crawled",
+                "effective_from": "2025-06-04"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "14/2025/TT-BTC",
+            "target_id": "119/2020/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "14/2025/TT-BTC",
+            "target_id": "119/202O/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "14/2025/TT-BTC",
+            "target_id": "58/2021/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "14/2025/TT-BTC",
+            "target_id": "58/2021/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "14/2025/TT-BTC",
+            "target_id": "158/2020/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ]
+}

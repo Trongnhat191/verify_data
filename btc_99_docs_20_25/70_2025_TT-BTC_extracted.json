@@ -1,0 +1,719 @@
+{
+    "file_name": "70_2025_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "70/2025/TT-BTC",
+        "title": "Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định phê duyệt thiết kế phòng cháy và chữa cháy",
+        "promulgationDate": "2025-07-01",
+        "effectiveDate": "2025-07-01",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Cao Anh Tuấn",
+        "draftingUnit": "Cục quản lý, giám sát Chính sách thuế, phí & lệ phí",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:19Z",
+        "_doc_id": "468311"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "Luật Phí và lệ phí",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "Luật Ngân sách nhà nước",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "105/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "126/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "123/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "55/2024/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "166/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "70/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "82/2023/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "91/2022/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "11/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "38/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "120/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "97/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "83/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "52/2019/TT-BTC",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "258/2016/TT-BTC",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "SuspendedByEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "91/2022/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "SuspendedByEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "11/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "120/2016/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "217/2016/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "126/2020/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "70/2025/ND-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "74/2022/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "82/2023/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "258/2016/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "52/2019/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "120/2016/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "126/2020/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "123/2020/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "70/2025/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "32/2025/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "70_2025_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "70/2025/TT-BIC",
+        "dates": {
+            "promulgation_date": "2025-07-01",
+            "effective_date": null
+        },
+        "issuing_place": "BIC\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Phạm vi điều chỉnh, đối tượng áp dụng",
+                    "position": 0,
+                    "children": [],
+                    "content": "1. Thông tư này quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định phê duyệt thiết kế phòng cháy và chữa cháy áp dụng cho dự án đầu tư xây dựng công trình, công trình và phương tiện giao thông (sau đây gọi chung là dự án) theo quy định của pháp luật về phòng cháy, chữa cháy và cứu nạn, cứu hộ.\nĐối với dự án do cơ quan chuyên môn về xây dựng tổ chức thẩm định các nội dung theo quy định của pháp luật về phòng cháy, chữa cháy và cứu nạn, cứu hộ thì thực hiện thu phí thẩm định báo cáo nghiên cứu khả thi đầu tư xây dựng và phí thẩm định thiết kế xây dựng triển khai sau thiết kế cơ sở theo quy định của pháp luật về phí và lệ phí.\nĐối với phương tiện giao thông do cơ quan đăng kiểm tổ chức thẩm định các nội dung theo quy định của pháp luật về phòng cháy, chữa cháy và cứu nạn, cứu hộ thì thực hiện thu giá dịch vụ kiểm định theo quy định của pháp luật về giá.\n2. Thông tư này áp dụng đối với người nộp phí, tổ chức thu phí thẩm định phê duyệt thiết kế phòng cháy và chữa cháy và tổ chức, cá nhân khác có liên quan đến thu, nộp, quản lý và sử dụng phí thẩm định phê duyệt thiết kế phòng cháy và chữa cháy."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Người nộp phí",
+                    "position": 1170,
+                    "children": [],
+                    "content": "Điều 2. Người nộp phí\nTổ chức, cá nhân khi được cơ quan nhà nước có thẩm quyền cấp văn bản thẩm định thiết kế về phòng cháy và chữa cháy phải nộp phí theo quy định tại Thông tư này."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "3",
+                    "title": "Tổ chức thu phí",
+                    "position": 1352,
+                    "children": [],
+                    "content": "Điều 3. Tổ chức thu phí\nCơ quan nhà nước có thẩm quyền cung cấp dịch vụ thẩm định thiết kế về phòng cháy, chữa cháy theo quy định của pháp luật về phòng cháy, chữa cháy và cứu nạn, cứu hộ là tổ chức thu phí theo quy định tại Thông tư này."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "4",
+                    "title": "Phương pháp tính mức thu phí",
+                    "position": 1591,
+                    "children": [],
+                    "content": "Điều 4. Phương pháp tính mức thu phí\n1. Mức thu phí thẩm định phê duyệt thiết kế phòng cháy và chữa cháy (sau đây gọi là mức thu phí thẩm định) đối với dự án xác định theo công thức sau:\nMức thu phí thẩm định Tổng mức đầu tư dự án x Tỷ lệ tính phí\nTrong đó:\n- Tổng mức đầu tư dự án được xác định theo quy định của pháp luật về quản lý chi phí đầu tư xây dựng trừ chi phí bồi thường giải phóng mặt bằng, hỗ trợ, tái định cư, chi phí sử dụng đất (tính toán trước thuế).\n- Tỷ lệ tính phí được quy định tại Biểu mức tỷ lệ tính phí thẩm định phê duyệt thiết kế phòng cháy và chữa cháy ban hành kèm theo Thông tư này.\n- Trường hợp dự án có tổng mức đầu tư nằm giữa các khoảng giá trị tổng mức đầu tư của dự án ghi trong Biểu mức tỷ lệ tính phí thẩm định phê duyệt thiết kế phòng cháy và chữa cháy ban hành kèm theo Thông tư này thì tỷ lệ tính phí được tính theo công thức sau:\nN<sub>ii</sub> = N<sub>...</sub> - 1 N<sub>...</sub> - N<sub>...</sub>\nG<sub>...</sub> - G<sub>...</sub> x (G<sub>...</sub> - G<sub>...</sub>)'\nTrong đó:\n- N<sub>...</sub> là tỷ lệ tính phí của dự án thứ i theo quy mô giá trị cần tính (Đơn vị tính: %).\n- G<sub>...</sub> là giá trị tổng mức đầu tư của dự án thứ i cần tính phí thẩm định (Đơn vị tính: Tỷ đồng).\n- G<sub>...</sub> là giá trị tổng mức đầu tư cận trên giá trị tổng mức đầu tư của dự án cần tính phí thẩm định (Đơn vị tính: Tỷ đồng).\n- N<sub>...</sub> là tỷ lệ tính phí của dự án thứ i tương ứng G<sub>...</sub> (Đơn vị tính: %).\n- N<sub>...</sub> là tỷ lệ tính phí của dự án thứ i tương ứng G<sub>...</sub> (Đơn vị tính: %).\n2. Mức thu phí thẩm định đối với thẩm định thiết kế phòng cháy và chữa cháy của công trình mà trong quá trình sử dụng có cải tạo, thay đổi\n4\ncông năng; hoán cải phương tiện giao thông; xây dựng mới hạng mục dự án được xác định theo giá trị tổng mức đầu tư của công trình mà trong quá trình sử dụng có cải tạo, thay đổi công năng; hoán cải phương tiện giao thông; thiết kế xây dựng mới hạng mục dự án.\n3. Mức thu phí thẩm định phải nộp quy định tại khoản 1 và khoản 2 Điều này tối thiểu là 500.000 đồng/dự án và tối đa là 150.000.000 đồng/dự án."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "5",
+                    "title": "Kê khai, nộp phí",
+                    "position": 3695,
+                    "children": [],
+                    "content": "Điều 5. Kê khai, nộp phí\n1. Người nộp phí thực hiện nộp phí theo mức thu quy định tại Thông tư này cho tổ chức thu phí theo hình thức quy định tại Thông tư số 74/2022/TT-BTC ngày 22 tháng 12 năm 2022 của Bộ trưởng Bộ Tài chính quy định về hình thức, thời hạn thu, nộp, kê khai các khoản phí, lệ phí thuộc thẩm quyền quy định của Bộ Tài chính.\n2. Chậm nhất là ngày 05 hàng tháng, tổ chức thu phí phải gửi số tiền phí đã thu của tháng trước vào tài khoản phí chờ nộp ngân sách mở tại Kho bạc nhà nước. Tổ chức thu phí thực hiện kê khai, nộp số tiền phí thu được theo quy định tại Thông tư số 74/2022/TT-BTC."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "6",
+                    "title": "Quản lý và sử dụng phí",
+                    "position": 4301,
+                    "children": [],
+                    "content": "Điều 6. Quản lý và sử dụng phí\n1. Tổ chức thu phí được trích để lại 60% số tiền phí thu được để trang trải chi phí cho hoạt động cung cấp dịch vụ, thu phí theo quy định tại khoản 4 Điều 1 Nghị định số 82/2023/NĐ-CP ngày 28 tháng 11 năm 2023 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 120/2016/NĐ-CP ngày 23 tháng 8 năm 2016 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Phí và lệ phí; nộp 40% số tiền phí thu được vào ngân sách nhà nước theo chương, tiểu mục tương ứng của Mục lục ngân sách nhà nước; trừ trường hợp quy định tại khoản 2 Điều này.\n2. Trường hợp tổ chức thu phí là cơ quan nhà nước không thuộc diện được khoản chi phí hoạt động từ nguồn thu phí theo quy định tại khoản 3 Điều 1 Nghị định số 82/2023/NĐ-CP thì phải nộp toàn bộ số tiền phí thu được vào ngân sách nhà nước. Kinh phí bảo đảm cho các hoạt động cung cấp dịch vụ và thu phí do ngân sách nhà nước bố trí trong dự toán của tổ chức thu theo chế độ, định mức chi ngân sách nhà nước theo quy định của pháp luật."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "7",
+                    "title": "Điều khoản thi hành",
+                    "position": 5329,
+                    "children": [],
+                    "content": "Điều 7. Điều khoản thi hành\n1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2025.\n2. Thông tư này bãi bỏ:\na) Thông tư số 258/2016/TT-BTC ngày 11 tháng 11 năm 2016 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định phê duyệt thiết kế phòng cháy và chữa cháy.\nb) Điều 2 Thông tư số 52/2019/TT-BTC ngày 16 tháng 8 năm 2019 của Bộ trưởng Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 217/2016/TT-BTC ngày 10 tháng 11 năm 2016 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí xác minh giấy tờ, tài liệu theo yêu cầu của cá nhân; Thông tư số 258/2016/TT-BTC ngày 11 tháng 11 năm 2016 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định phê duyệt thiết kế phòng cháy và chữa cháy.\n3. Các hồ sơ đề nghị thẩm duyệt thiết kế phòng cháy và chữa cháy đã nộp trước ngày Thông tư này có hiệu lực thi hành nhưng được cấp văn bản thẩm duyệt thiết kế phòng cháy và chữa cháy từ ngày Thông tư này có hiệu lực thi hành thì thực hiện thu phí theo quy định tại Thông tư số 258/2016/TT-BTC ngày 11 tháng 11 năm 2016 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định phê duyệt thiết kế phòng cháy và chữa cháy.\n4. Các nội dung khác liên quan đến việc thu, nộp, quản lý, sử dụng, chứng từ thu, công khai chế độ thu phí không đề cập tại Thông tư này được thực hiện theo quy định tại các văn bản: Luật Phí và lệ phí; Nghị định số 120/2016/NĐ-CP ngày 23 tháng 8 năm 2016 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Phí và lệ phí; Nghị định số 82/2023/NĐ-CP; Luật Quản lý thuế; Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế; Nghị định số 91/2022/NĐ-CP ngày 30 tháng 10 năm 2022 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế; Nghị định số 11/2020/NĐ-CP ngày 20 tháng 01 năm 2020 của Chính phủ quy định về thủ tục hành chính thuộc lĩnh vực Kho bạc Nhà nước; Nghị định số 123/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định về hóa đơn, chứng từ; Nghị định số 70/2025/NĐ-CP ngày 20 tháng 3 năm 2025 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 123/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định về hóa đơn, chứng từ và Thông tư số 32/2025/TT-BTC ngày 31 tháng 5 năm 2025 của Bộ trưởng Bộ Tài chính hướng dẫn thực hiện một số điều của Luật Quản lý thuế ngày 13 tháng 6 năm 2019, Nghị định số 123/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định về hóa đơn, chứng từ, Nghị định số 70/2025/NĐ-CP ngày 20 tháng 3 năm 2025 sửa đổi, bổ sung một số điều của Nghị định số 123/2020/NĐ-CP.\n5. Trường hợp các văn bản quy phạm pháp luật viện dẫn tại Thông tư này được sửa đổi, bổ sung hoặc thay thế thì thực hiện theo văn bản mới sửa đổi, bổ sung hoặc thay thế đó.\n6. Trong quá trình thực hiện, nếu có vướng mắc, đề nghị các tổ chức, cá nhân phản ánh kịp thời về Bộ Tài chính để nghiên cứu, hướng dẫn bổ sung./"
+                }
+            ],
+            "metadata": {
+                "total_units": 7,
+                "total_articles": 7,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 0,
+                "depth": 1
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [],
+            "replaces": [],
+            "mentions": [],
+            "abolished": [],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": false,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 3,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "120/2016/NĐ-CP",
+                    "126/2020/NĐ-CP",
+                    "217/2016/TT-BTC"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "replaces": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 10,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "120/2016/NĐ-CP",
+                    "123/2020/NĐ-CP",
+                    "126/2020/NĐ-CP",
+                    "258/2016/TT-BTC",
+                    "32/2025/TT-BTC",
+                    "52/2019/TT-BTC",
+                    "70/2025/ND-CP",
+                    "70/2025/NĐ-CP",
+                    "74/2022/TT-BTC",
+                    "82/2023/NĐ-CP"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "abolished": {
+                "crawl_count": 2,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "258/2016/TT-BTC",
+                    "52/2019/TT-BTC"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "suspended": {
+                "crawl_count": 2,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "11/2020/NĐ-CP",
+                    "91/2022/NĐ-CP"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            }
+        },
+        "warnings": [
+            "Số hiệu không khớp: crawl='70/2025/TT-BTC', regex='70/2025/TT-BIC'",
+            "[amends] LLM thiếu target so với crawl: ['120/2016/NĐ-CP', '126/2020/NĐ-CP', '217/2016/TT-BTC']",
+            "[mentions] LLM thiếu target so với crawl: ['120/2016/NĐ-CP', '123/2020/NĐ-CP', '126/2020/NĐ-CP', '258/2016/TT-BTC', '32/2025/TT-BTC', '52/2019/TT-BTC', '70/2025/ND-CP', '70/2025/NĐ-CP', '74/2022/TT-BTC', '82/2023/NĐ-CP']",
+            "[abolished] LLM thiếu target so với crawl: ['258/2016/TT-BTC', '52/2019/TT-BTC']",
+            "[suspended] LLM thiếu target so với crawl: ['11/2020/NĐ-CP', '91/2022/NĐ-CP']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "Luật Phí và lệ phí",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "Luật Ngân sách nhà nước",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "105/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "126/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "123/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "55/2024/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "166/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "70/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "82/2023/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "91/2022/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "11/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "38/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "120/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "97/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "83/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "52/2019/TT-BTC",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "258/2016/TT-BTC",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "SuspendedByEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "91/2022/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "SuspendedByEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "11/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "120/2016/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "217/2016/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "126/2020/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "70/2025/ND-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "74/2022/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "82/2023/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "258/2016/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "52/2019/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "120/2016/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "126/2020/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "123/2020/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "70/2025/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "70/2025/TT-BTC",
+            "target_id": "32/2025/TT-BTC",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ]
+}

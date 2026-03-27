@@ -1,0 +1,602 @@
+{
+    "file_name": "29_2025_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "29/2025/TT-BTC",
+        "title": "Thông tư số 29/2025/TT-BTC của Bộ Tài chính: Sửa đổi, bổ sung một số điều của Thông tư số 191/2015/TT-BTC ngày 24 tháng 11 năm 2015 quy định thủ tục hải quan đối với hàng hóa xuất khẩu, nhập khẩu, quá cảnh gửi qua dịch vụ chuyển phát nhanh quốc tế đã được sửa đổi, bổ sung tại Thông tư số 56/2019/TT-BTC ngày 23 tháng 8 năm 2019 của Bộ trưởng Bộ Tài chính",
+        "promulgationDate": "2025-05-26",
+        "effectiveDate": "2025-07-09",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Nguyễn Đức Chi",
+        "draftingUnit": "Cục Hải quan",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:19Z",
+        "_doc_id": "468100"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "Luật Hải quan",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "Luật Thuế giả trị gia tăng",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "Luật Quản lý thuế",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "190/2025/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "08/2015/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "134/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "01/2025/QĐ-TTg",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "03/2022/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "18/2021/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "126/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "38/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "59/2018/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "107/2016/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "106/2016/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "70/2014/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "54/2014/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "31/2014/L-CTN",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "31/2013/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "49/2010/QH12",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "27/2008/QH12",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "13/2008/QH12",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "78/201O/QĐ-TTg",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "191/2015/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "08/2015/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "56/2019/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "59/2018/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "18/2021/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "29_2025_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "29/2025/TT-BTC",
+        "dates": {
+            "promulgation_date": "2025-05-26",
+            "effective_date": null
+        },
+        "issuing_place": "BTC\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Sửa đổi, bổ sung một số điều của Thông tư số 191/2015/TT-",
+                    "position": 0,
+                    "children": [],
+                    "content": "BTC ngày 24 tháng 11 năm 2015 quy định thủ tục hải quan đối với hàng\nhóa xuất khẩu, nhập khẩu, quá cảnh gửi qua dịch vụ chuyển phát nhanh\nquốc tế đã được sửa đổi, bổ sung tại Thông tư số 56/2019/TT-BTC ngày 23\ntháng 8 năm 2019 của Bộ trưởng Bộ Tài chính\n1. Sửa đổi điểm a khoản 2 Điều 8 Thông tư số 191/2015/TT-BTC ngày\n24/11/2015 đã được sửa đổi, bổ sung tại khoản 6 Điều 2 Thông tư số\n56/2019/TT-BTC ngày 23/8/2019 như sau:\n“a) Tờ khai hàng hóa nhập khẩu trị giá thấp đối với hàng hóa nhập khẩu\nnhóm 2 hoặc tờ khai hàng hóa xuất khẩu trị giá thấp đối với hàng hóa xuất\nkhẩu nhóm 2 theo chỉ tiêu thông tin tại mục II Phụ lục II Danh mục 2 ban\nhành kèm theo Thông tư này.\nTrường hợp thực hiện trên tờ khai hải quan giấy theo quy định tại khoản 12",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Nghị định 59/2018/NĐ-CP, doanh nghiệp nộp 02 bản chính tờ khai hải",
+                    "position": 812,
+                    "children": [],
+                    "content": "Điều 1 Nghị định 59/2018/NĐ-CP, doanh nghiệp nộp 02 bản chính tờ khai hải\nquan theo Mẫu số HQ/2015/XK hoặc Mẫu số HQ/2015/NK Phụ lục IV ban hành\nkèm theo Thông tư số 38/2015/TT-BTC đã được khai theo hướng dẫn tại mục"
+                },
+                {
+                    "type": "CHAPTER",
+                    "number": "III",
+                    "title": "Phụ lục II Danh mục 2 ban hành kèm theo Thông tư này.”",
+                    "position": 1029,
+                    "children": [
+                        {
+                            "type": "ARTICLE",
+                            "number": "2",
+                            "title": "Sửa đổi, bổ sung, thay thế các Phụ lục ban hành kèm theo Thông tư số 191/2015/TT-BTC đã được sửa đổi, bổ sung tại Thông tư số 56/2019/TT-BTC",
+                            "position": 1538,
+                            "children": [],
+                            "content": "Điều 2. Sửa đổi, bổ sung, thay thế các Phụ lục ban hành kèm theo Thông tư số 191/2015/TT-BTC đã được sửa đổi, bổ sung tại Thông tư số 56/2019/TT-BTC\n1. Thay thế Mẫu số HQ 02-BKTKTGT Phụ lục 1 Danh mục 2 ban hành kèm theo Thông tư số 191/2015/TT-BTC bằng Mẫu số HQ 02-BKTKTGT Phụ lục 1 ban hành kèm theo Thông tư này.\n2. Thay thế Mẫu số HQ 06-BKCTTHI tại Phụ lục 1 Danh mục 2 ban hành kèm theo Thông tư số 191/2015/TT-BTC bằng Mẫu số HQ 06a-BKCTTHI và Mẫu số HQ 06b-BKCTTHI ban hành kèm theo Thông tư này.\n3. Thay thế mục II Phụ lục II Danh mục 2 ban hành kèm theo Thông tư số 191/2015/TT-BTC đã được sửa đổi, bổ sung tại Thông tư số 56/2019/TT-BTC bằng Phụ lục II ban hành kèm theo Thông tư này.\n4. Sửa đổi, bổ sung hướng dẫn cách ghi chỉ tiêu thông tin tại điểm 2 mục III Phụ lục II Danh mục 2 ban hành kèm theo Thông tư số 191/2015 TT-BTC đã được sửa đổi, bổ sung tại Thông tư số 56/2019/TT-BTC như sau:\na) Tại chỉ tiêu thông tin “góc trên bên trái tờ khai” người khai hai quan ghi tên Hai quan cửa khẩu, hai quan ngoài cửa khẩu nơi đăng ký tờ khai.\nb) Tại Ô số 29 của điểm 2b: Thuế GTGT - “Trị giá tính thuế” là “Tổng trị giá hai quan”; “Thuế suất (%) Mức thuế” là “mức thuế GTGT theo quy định”; “Tiền thuế” là “tổng số tiền thuế phải nộp theo mức GTGT”.",
+                            "is_amendment": true
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "3",
+                            "title": "Thay thế một số cụm từ tại Thông tư số 191/2015/TT-BTC đã được sửa đổi, bổ sung tại Thông tư số 56/2019/TT-BTC",
+                            "position": 2796,
+                            "children": [],
+                            "content": "Điều 3. Thay thế một số cụm từ tại Thông tư số 191/2015/TT-BTC đã được sửa đổi, bổ sung tại Thông tư số 56/2019/TT-BTC\n1. Thay thế cụm từ “Tổng cục trưởng Tổng cục Hải quan” tại điểm b khoản 2 Điều 7 Thông tư số 191/2015/TT-BTC thành “Cục trưởng Cục Hải quan”.\n2. Thay thế cụm từ “Chi cục Hải quan” thành “Hải quan cửa khẩu, Hải quan ngoài cửa khẩu” tại khoản 2 Điều 9, khoản 1 và khoản 2 Điều 12, khoản 4 và khoản 5 Điều 14, khoản 2 Điều 17 Thông tư số 191/2015/TT-BTC được sửa đổi bổ sung tại khoản 7, khoản 11, khoản 16 Điều 2 Thông tư số 56/2019/TT-BTC và mục III phụ lục II Danh mục 2 ban hành kèm theo Thông tư số 191/2015 TT-BTC đã được sửa đổi, bổ sung tại Thông tư số 56/2019/TT-BTC.\n3. Tại Điều 10 Thông tư 191/2015/TT-BTC được sửa đổi tại khoản 8 Điều 2 Thông tư số 56/2019/TT-BTC như sau: thay thế cụm từ “Chi cục Hải quan” thành “Hai quan cửa khẩu, Hai quan ngoài cửa khẩu”, thay thế cụm từ “Chi cục Hải quan cửa khẩu” thành “Hai quan cửa khẩu”, thay thế cụm từ “Chi cục trưởng” thành “Đội trưởng”.\n4. Tại khoản 3 Điều 12 Thông tư 191/2015/TT-BTC được sửa đổi tại khoản 11 Điều 2 Thông tư số 56/2019/TT-BTC như sau: thay thế cụm từ “Chi cục Hải quan” thành “Hai quan cửa khẩu, Hai quan ngoài cửa khẩu”, thay thế cụm từ “Chi cục Hải quan cửa khẩu” thành “Hai quan cửa khẩu”.\n5. Thay thế cụm từ “khoản 3, khoản 4 Điều 17” tại khoản 3 Điều 19 Thông tư số 191/2015/TT-BTC thành “khoản 2 Điều 17”.\n6. Thay thế cụm từ: “Cục hải quan tỉnh, liên tỉnh, thành phố” tại khoản 1, khoản 3 Điều 27 Thông tư số 191/2015/TT-BTC được sửa đổi, bổ sung tại Thông tư số 56/2019/TT-BTC thành “Chi cục Hải quan khu vực”.\n7. Thay thế cụm từ: “Tổng cục Hải quan” tại Điều 4 Thông tư số 56/2019/TT-BTC thành “Cục Hải quan”.",
+                            "is_amendment": true
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "4",
+                            "title": "Sửa đổi, bổ sung Điều 4 Thông tư số 56/2019/TT-BTC",
+                            "position": 4508,
+                            "children": [],
+                            "content": "Điều 4. Sửa đổi, bổ sung Điều 4 Thông tư số 56/2019/TT-BTC\n1. Cục Hải quan có trách nhiệm xây dựng Hệ thống xử lý dữ liệu điện tử hải quan đáp ứng các yêu cầu quy định tại Thông tư này.\n2. Trường hợp theo Điều ước quốc tế mà Việt Nam là thành viên có quy định về thời gian giải phóng hàng, Cục Hải quan có trách nhiệm tổ chức thực hiện đảm bảo theo đúng Điều ước quốc tế đó.",
+                            "is_amendment": true
+                        },
+                        {
+                            "type": "ARTICLE",
+                            "number": "5",
+                            "title": "Điều khoản thi hành",
+                            "position": 4883,
+                            "children": [],
+                            "content": "Điều 5. Điều khoản thi hành\n1. Thông tư này có hiệu lực kể từ ngày 9 tháng 7 năm 2025.\n2. Trong quá trình thực hiện, nếu các văn bản liên quan viện dẫn tại Thông tư này được sửa đổi, bổ sung hoặc thay thế thì thực hiện theo văn bản mới được sửa đổi, bổ sung hoặc thay thế.\n3. Trường hợp có vướng mắc phát sinh trong quá trình thực hiện, đề nghị các tổ chức, cá nhân có liên quan phản ánh về Bộ Tài chính (qua Cục Hải quan) để tổng hợp và hướng dẫn xử lý./."
+                        }
+                    ]
+                }
+            ],
+            "metadata": {
+                "total_units": 7,
+                "total_articles": 6,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 4,
+                "depth": 2
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [],
+            "replaces": [],
+            "mentions": [
+                {
+                    "official_number_target": "59/2018/NĐ-CP",
+                    "relevance_type": "DIRECT_REFERENCE",
+                    "context": "Trường hợp thực hiện trên tờ khai hải quan giấy theo quy định tại khoản 12 Điều 1 Nghị định 59/2018/NĐ-CP, doanh nghiệp nộp 02 bản chính tờ khai hải quan theo Mẫu số HQ/2015/XK hoặc Mẫu số HQ/2015/NK Phụ lục IV ban hành kèm theo Thông tư số 38/2015/TT-BTC đã được khai theo hướng dẫn tại mục III Phụ lục II Danh mục 2 ban hành kèm theo Thông tư này."
+                },
+                {
+                    "official_number_target": "18/2021/NĐ-CP",
+                    "relevance_type": "RELATED",
+                    "context": null
+                }
+            ],
+            "abolished": [],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 3,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "08/2015/NĐ-CP",
+                    "191/2015/TT-BTC",
+                    "56/2019/TT-BTC"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "replaces": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 2,
+                "llm_count": 2,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 1,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "78/201O/QĐ-TTG"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "[amends] LLM thiếu target so với crawl: ['08/2015/NĐ-CP', '191/2015/TT-BTC', '56/2019/TT-BTC']",
+            "[abolished] LLM thiếu target so với crawl: ['78/201O/QĐ-TTG']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "Luật Hải quan",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "Luật Thuế giả trị gia tăng",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "Luật Quản lý thuế",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "190/2025/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "08/2015/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "134/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "29/2025/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "01/2025/QĐ-TTg",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "03/2022/QH15",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "18/2021/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "126/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "38/2019/QH14",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "59/2018/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "107/2016/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "106/2016/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "70/2014/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "54/2014/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "31/2014/L-CTN",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "31/2013/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "49/2010/QH12",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "27/2008/QH12",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "13/2008/QH12",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "78/201O/QĐ-TTg",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "191/2015/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "08/2015/NĐ-CP",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AmendsEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "56/2019/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "59/2018/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled",
+                "relevance_type": "DIRECT_REFERENCE",
+                "context": "Trường hợp thực hiện trên tờ khai hải quan giấy theo quy định tại khoản 12 Điều 1 Nghị định 59/2018/NĐ-CP, doanh nghiệp nộp 02 bản chính tờ khai hải quan theo Mẫu số HQ/2015/XK hoặc Mẫu số HQ/2015/NK Phụ lục IV ban hành kèm theo Thông tư số 38/2015/TT-BTC đã được khai theo hướng dẫn tại mục III Phụ lục II Danh mục 2 ban hành kèm theo Thông tư này."
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "MentionsEdge",
+            "source_id": "29/2025/TT-BTC",
+            "target_id": "18/2021/NĐ-CP",
+            "properties": {
+                "relevanceType": "DIRECT_REFERENCE",
+                "source": "crawled",
+                "relevance_type": "RELATED",
+                "context": null
+            },
+            "_crawled": true
+        }
+    ]
+}

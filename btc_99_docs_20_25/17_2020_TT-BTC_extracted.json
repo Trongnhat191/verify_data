@@ -1,0 +1,609 @@
+{
+    "file_name": "17_2020_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "17/2020/TT-BTC",
+        "title": "Bãỉ bỏ một số văn bản quy phạm pháp luật do Bộ trưởng Bộ Tàỉ chính ban hành và liên tịch ban hành trong lĩnh vực dự trữ nhà nước, quản lý giá, quản lý tài chính đầu tư và quản lý tài chính hành chính sự nghiệp",
+        "promulgationDate": "2020-03-27",
+        "effectiveDate": "2020-05-15",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Trần Văn Hiếu",
+        "draftingUnit": "Vụ Pháp chế",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:22Z",
+        "_doc_id": "77163"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "Luật ban hành văn bản quy phạm pháp luật 2015",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "34/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "35/2004/QĐ-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "53/2007/QĐ-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "76/2007/QĐ-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "163/2007/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "128/2008/QĐ-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "174/2009/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "241/2009/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "30/2010/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "75/2010/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "131/2010/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "143/2010/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "171/2010/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "05/2012/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "174/2012/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "22/2013/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "21/2013/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "105/2013/TTLT-BTC-BGDĐT",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "12/2014/TTLT-BTC-BNNPTNT",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "198/2014/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "06/2016/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "32/2016/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "13/2006/QĐ-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "17_2020_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "17/2020/TT-BTC",
+        "dates": {
+            "promulgation_date": "2020-03-27",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Bãi bỏ toàn bộ 06 văn bản quy phạm pháp luật do Bộ trưởng Bộ",
+                    "position": 0,
+                    "children": [],
+                    "content": "Tài chính ban hành trong lĩnh vực dự trữ nhà nước sau đây:\n1. Thông tư số 21/2013/TT-BTC ngày 25/02/2013 của Bộ Tài chính quy\nđịnh về mức phí nhập, xuất và bảo quản hạt giống rau dự trữ quốc gia do Bộ\nNông nghiệp và Phát triển nông thôn quản lý.\n2. Thông tư số 22/2013/TT-BTC ngày 25/02/2013 của Bộ Tài chính quy\nđịnh về mức phí nhập, xuất và bảo quản thuốc bảo vệ thực vật dự trữ quốc gia do\nBộ Nông nghiệp và Phát triển nông thôn quản lý.\n3. Thông tư số 32/2016/TT-BTC ngày 25/02/2016 của Bộ Tài chính về việc\ntiếp tục áp dụng định mức phí nhập, xuất và bảo quản hạt giống rau và thuốc bảo\nvệ thực vật dự trữ quốc gia do Bộ Nông nghiệp và Phát triển nông thôn quản lý\ntại Thông tư số 21/2013/TT-BTC, Thông tư số 22/2013/TT-BTC đến năm 2016.\n4. Quyết định số 35/2004/QĐ-BTC ngày 14/04/2004 của Bộ Tài chính về\nviệc ban hành các tiêu chuẩn về bảo quản hàng hóa dự trữ quốc gia.\n5. Quyết định số 53/2007/QĐ-BTC ngày 22/6/2007 của Bộ Tài chính về\nviệc ban hành tiêu chuẩn ngành: Máy phát điện - quy phạm bảo quản dự trữ quốc\ngia.\n6. Quyết định số 76/2007/QĐ-BTC ngày 30/8/2007 của Bộ Tài chính về\nviệc ban hành Tiêu chuẩn ngành: Thóc đồ rời trong điều kiện áp suất thấp - Quy\nphạm bảo quản dự trữ quốc gia.",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Bãi bỏ toàn bộ 03 văn bản quy phạm pháp luật do Bộ trưởng Bộ",
+                    "position": 1273,
+                    "children": [],
+                    "content": "Điều 2: Bãi bỏ toàn bộ 03 văn bản quy phạm pháp luật do Bộ trưởng Bộ\nTài chính ban hành trong lĩnh vực quản lý giá sau đây:\n1. Thông tư số 89/2011/TT-BTC ngày 17/6/2011 của Bộ Tài chính hướng\ndẫn về phương pháp xác định giá sàn gạo xuất khẩu.\n2. Thông tư số 198/2014/TT-BTC ngày 18/12/2014 của Bộ Tài chính hướng\ndẫn phương pháp tính giá thành cá tra nguyên liệu.\n3. Quyết định số 128/2008/QĐ-BTC ngày 31/12/2008 của Bộ Tài chính sửa\nđổi, bổ sung Quyết định 13/2006/QĐ-BTC ngày 13/3/2006 của Bộ trưởng Bộ Tài\nchính về giá một số dịch vụ chuyên ngành hàng không.",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "3",
+                    "title": "Bãi bỏ toàn bộ 05 văn bản quy phạm pháp luật do Bộ trưởng Bộ",
+                    "position": 1835,
+                    "children": [],
+                    "content": "Điều 3: Bãi bỏ toàn bộ 05 văn bản quy phạm pháp luật do Bộ trưởng Bộ\nTài chính ban hành trong lĩnh vực quản lý tài chính đầu tư sau đây:\n1. Thông tư số 163/2007/TT-BTC ngày 31/12/2007 của Bộ Tài chính hướng\ndẫn về khen thưởng thi đua trên công trường xây dựng Nhà máy thuỷ điện Sơn\nLa.\n2. Thông tư số 174/2009/TT-BTC ngày 08/09/2009 của Bộ Tài chính hướng\ndẫn cơ chế huy động và quản lý các nguồn vốn tại 11 xã thực hiện Đề án\n“Chương trình xây dựng thí điểm mô hình nông thôn mới thời kỳ công nghiệp\nhoá, hiện đại hoá”.\n3. Thông tư số 241/2009/TT-BTC ngày 29/12/2009 của Bộ Tài chính hướng\ndẫn việc quản lý, thanh toán vốn đầu tư Dự án mở rộng và hoàn thiện đường\nLáng - Hòa Lạc.\n4. Thông tư số 72/2010/TT-BTC ngày 11/05/2010 của Bộ Tài chính hướng\ndẫn cơ chế đặc thù về quản lý, sử dụng chi phí quản lý dự án đầu tư tại 11 xã thực\nhiện Đề án \"Chương trình xây dựng thí điểm mô hình nông thôn mới thời kỳ\ncông nghiệp hóa, hiện đại hóa\".\n5. Thông tư số 157/2012/TT-BTC ngày 27/9/2012 của Bộ Tài chính quy\nđịnh về khen thưởng thi đua trên công trường xây dựng Thủy điện Lai Châu.",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "4",
+                    "title": "Bãi bỏ toàn bộ 08 văn bản quy phạm pháp luật do Bộ trưởng Bộ",
+                    "position": 2914,
+                    "children": [],
+                    "content": "Điều 4: Bãi bỏ toàn bộ 08 văn bản quy phạm pháp luật do Bộ trưởng Bộ\nTài chính ban hành và liên tịch ban hành trong lĩnh vực quản lý tài chính\nhành chính sự nghiệp sau đây:\n1. Thông tư số 30/2010/TT-BTC ngày 05/3/2010 của Bộ Tài chính hướng dẫn quản lý tài chính đối với nhiệm vụ cung ứng sản phẩm, dịch vụ công ích trong lĩnh vực đường bộ, đường thuỷ nội địa.\n2. Thông tư số 223/2010/TT-BTC ngày 31/12/2010 của Bộ Tài chính quy định việc lập dự toán, quản lý sử dụng và quyết toán kinh phí thực hiện Đề án đổi mới đồng bộ các hệ thống chỉ tiêu thống kê.\n3. Thông tư số 71/2011/TT-BTC ngày 24/05/2011 của Bộ Tài chính hướng dẫn việc trích lập, quản lý và sử dụng Quỹ thi đua, khen thưởng theo Nghị định số 42/2010/NĐ-CP ngày 15/04/2010 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thi đua, Khen thưởng.\n4. Thông tư số 174/2012/TT-BTC ngày 22/10/2012 của Bộ Tài chính hướng dẫn quản lý tài chính đối với Quỹ trợ giúp pháp lý Việt Nam.\n5. Thông tư số 06/2016/TT-BTC ngày 14/01/2016 của Bộ Tài chính hướng dẫn việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí bầu cử đại biểu Quốc hội khóa XIV và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2016-2021.\n6. Thông tư liên tịch số 18/2012/TTLT-BTC-BTTTT ngày 14/02/2012 của Bộ Tài chính, Bộ Thông tin và Truyền thông hướng dẫn quản lý, sử dụng kinh phí hỗ trợ tác phẩm báo chí chất lượng cao ở Trung ương và địa phương giai đoạn 2011 - 2015.\n7. Thông tư liên tịch số 105/2013/TTLT-BTC-BGĐĐT ngày 06/08/2013 của Bộ Tài chính, Bộ Giáo dục và Đào tạo hướng dẫn chế độ quản lý tài chính đối với kỳ thi Olympic Hóa học Quốc tế lần thứ 46 năm 2014 tại Việt Nam.\n8. Thông tư liên tịch số 12/2014/TTLT-BTC-BNNPTNT ngày 24/01/2014 của Bộ Tài chính, Bộ Nông nghiệp và phát triển nông thôn hướng dẫn cơ chế quản lý, sử dụng kinh phí ngân sách nhà nước thực hiện dự án “Tổng điều tra, kiểm kê rừng toàn quốc giai đoạn 2013-2016”.",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "5",
+                    "title": "Tổ chức thực hiện.",
+                    "position": 4800,
+                    "children": [],
+                    "content": "Điều 5: Tổ chức thực hiện.\nThông tư này có hiệu lực thi hành kể từ ngày 15 tháng 5 năm 2020.\nThủ trưởng các đơn vị thuộc Bộ và các cơ quan có liên quan chịu trách nhiệm thi hành Thông tư này./."
+                }
+            ],
+            "metadata": {
+                "total_units": 5,
+                "total_articles": 5,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 4,
+                "depth": 1
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [],
+            "replaces": [],
+            "mentions": [],
+            "abolished": [],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "replaces": {
+                "crawl_count": 22,
+                "llm_count": 0,
+                "missing_in_llm": [
+                    "05/2012/TT-BTC",
+                    "06/2016/TT-BTC",
+                    "105/2013/TTLT-BTC-BGDĐT",
+                    "12/2014/TTLT-BTC-BNNPTNT",
+                    "128/2008/QĐ-BTC",
+                    "13/2006/QĐ-BTC",
+                    "131/2010/TT-BTC",
+                    "143/2010/TT-BTC",
+                    "163/2007/TT-BTC",
+                    "171/2010/TT-BTC",
+                    "174/2009/TT-BTC",
+                    "174/2012/TT-BTC",
+                    "198/2014/TT-BTC",
+                    "21/2013/TT-BTC",
+                    "22/2013/TT-BTC",
+                    "241/2009/TT-BTC",
+                    "30/2010/TT-BTC",
+                    "32/2016/TT-BTC",
+                    "35/2004/QĐ-BTC",
+                    "53/2007/QĐ-BTC",
+                    "75/2010/TT-BTC",
+                    "76/2007/QĐ-BTC"
+                ],
+                "extra_in_llm": [],
+                "match": false
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": [
+            "[replaces] LLM thiếu target so với crawl: ['05/2012/TT-BTC', '06/2016/TT-BTC', '105/2013/TTLT-BTC-BGDĐT', '12/2014/TTLT-BTC-BNNPTNT', '128/2008/QĐ-BTC', '13/2006/QĐ-BTC', '131/2010/TT-BTC', '143/2010/TT-BTC', '163/2007/TT-BTC', '171/2010/TT-BTC', '174/2009/TT-BTC', '174/2012/TT-BTC', '198/2014/TT-BTC', '21/2013/TT-BTC', '22/2013/TT-BTC', '241/2009/TT-BTC', '30/2010/TT-BTC', '32/2016/TT-BTC', '35/2004/QĐ-BTC', '53/2007/QĐ-BTC', '75/2010/TT-BTC', '76/2007/QĐ-BTC']"
+        ]
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "Luật ban hành văn bản quy phạm pháp luật 2015",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "34/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "35/2004/QĐ-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "53/2007/QĐ-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "76/2007/QĐ-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "163/2007/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "128/2008/QĐ-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "174/2009/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "241/2009/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "30/2010/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "75/2010/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "131/2010/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "143/2010/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "171/2010/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "05/2012/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "174/2012/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "22/2013/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "21/2013/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "105/2013/TTLT-BTC-BGDĐT",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "12/2014/TTLT-BTC-BNNPTNT",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "198/2014/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "06/2016/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "32/2016/TT-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "ReplacesEdge",
+            "source_id": "17/2020/TT-BTC",
+            "target_id": "13/2006/QĐ-BTC",
+            "properties": {
+                "source": "crawled"
+            },
+            "_crawled": true
+        }
+    ]
+}

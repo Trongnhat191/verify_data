@@ -1,0 +1,259 @@
+{
+    "file_name": "74_2023_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "74/2023/TT-BTC",
+        "title": "Bãi bỏ Quyết định số 167/2002/QĐ-BTC ngày 31 tháng 12 năm 2002 của Bộ trưởng Bộ Tài chính về việc ban hành quy định chế độ thông tin báo cáo công tác của các đơn vị thuộc ngành Tài chính",
+        "promulgationDate": "2023-12-27",
+        "effectiveDate": "2024-02-09",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Nguyễn Đức Chi",
+        "draftingUnit": "Văn phòng Bộ",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "ACTIVE",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:19Z",
+        "_doc_id": "194351"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "74/2023/TT-BTC",
+            "target_id": "154/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "74/2023/TT-BTC",
+            "target_id": "14/2023/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "74/2023/TT-BTC",
+            "target_id": "34/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "74/2023/TT-BTC",
+            "target_id": "80/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "74/2023/TT-BTC",
+            "target_id": "02/2002/QH11",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "74/2023/TT-BTC",
+            "target_id": "167/2002/QĐ/BTC",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "74/2023/TT-BTC",
+            "target_id": "167/2002/QÐ-BTC",
+            "properties": {},
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "74_2023_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "74/2023/TT-BTC",
+        "dates": {
+            "promulgation_date": "2023-12-27",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Bãi bỏ toàn bộ toàn bộ văn bản quy phạm pháp luật",
+                    "position": 0,
+                    "children": [],
+                    "content": "Bãi bỏ toàn bộ Quyết định số 167/2002/QĐ-BTC ngày 31 tháng 12 năm\n2002 của Bộ trưởng Bộ Tài chính về việc ban hành quy định chế độ thông tin\nbáo cáo công tác của các đơn vị thuộc ngành Tài chính.",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Hiệu lực thi hành",
+                    "position": 253,
+                    "children": [],
+                    "content": "Điều 2. Hiệu lực thi hành\nThông tư này có hiệu lực thi hành kể từ ngày 09 tháng 02 năm 2024."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "3",
+                    "title": "Tổ chức thực hiện",
+                    "position": 346,
+                    "children": [],
+                    "content": "Điều 3. Tổ chức thực hiện\nChánh Văn phòng Bộ Tài chính, Thủ trưởng các đơn vị thuộc Bộ Tài chính và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./."
+                }
+            ],
+            "metadata": {
+                "total_units": 3,
+                "total_articles": 3,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 1,
+                "depth": 1
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [
+            "Tài chính",
+            "Ngân hàng, tiền tệ",
+            "Quốc phòng",
+            "An ninh quốc gia",
+            "Tài chính",
+            "Ngân hàng, tiền tệ",
+            "Quốc phòng",
+            "An ninh quốc gia"
+        ],
+        "edges": {
+            "amends": [],
+            "replaces": [],
+            "mentions": [],
+            "abolished": [
+                {
+                    "official_number_target": "167/2002/QĐ/BTC",
+                    "date_abolished": "2024-02-09",
+                    "affected_details": [
+                        "Toàn văn"
+                    ]
+                },
+                {
+                    "official_number_target": "167/2002/QÐ-BTC",
+                    "date_abolished": "2024-02-09",
+                    "affected_details": [
+                        "Toàn văn"
+                    ]
+                }
+            ],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "replaces": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 2,
+                "llm_count": 2,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": []
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "74/2023/TT-BTC",
+            "target_id": "154/2020/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "74/2023/TT-BTC",
+            "target_id": "14/2023/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "74/2023/TT-BTC",
+            "target_id": "34/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "74/2023/TT-BTC",
+            "target_id": "80/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "74/2023/TT-BTC",
+            "target_id": "02/2002/QH11",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "74/2023/TT-BTC",
+            "target_id": "167/2002/QĐ/BTC",
+            "properties": {
+                "date_abolished": "2024-02-09",
+                "affected_details": [
+                    "Toàn văn"
+                ]
+            },
+            "_crawled": true
+        },
+        {
+            "edge_type": "AbolishedByEdge",
+            "source_id": "74/2023/TT-BTC",
+            "target_id": "167/2002/QÐ-BTC",
+            "properties": {
+                "date_abolished": "2024-02-09",
+                "affected_details": [
+                    "Toàn văn"
+                ]
+            },
+            "_crawled": true
+        }
+    ]
+}

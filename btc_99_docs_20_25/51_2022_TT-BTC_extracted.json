@@ -1,0 +1,169 @@
+{
+    "file_name": "51_2022_TT-BTC.pdf",
+    "source": "docx",
+    "crawled_metadata": {
+        "officialNumber": "51/2022/TT-BTC",
+        "title": "Sửa đối, bố sung một số điều của Thông tư số 324/2016/TT-BTC ngày 21 tháng 12 năm 2016 của Bộ Tài chính quy định hệ thống mục lục ngân sách nhà nước",
+        "promulgationDate": "2022-08-11",
+        "effectiveDate": "2022-08-11",
+        "expirationDate": null,
+        "gazetteDate": null,
+        "signerName": "Võ Thành Hưng",
+        "draftingUnit": "Kho bạc nhà nước",
+        "documentType": "THONG_TU",
+        "authorityType": "BO_TRUONG",
+        "authorityLevel": "CENTRAL",
+        "status": "EXPIRED",
+        "scopeLevel": "NATIONAL",
+        "_raw_co_quan_ban_hanh": "Bộ Tài chính",
+        "_raw_loai_van_ban": "Thông tư",
+        "_source": "crawled",
+        "_crawled_at": "2026-03-06T06:48:20Z",
+        "_doc_id": "107939"
+    },
+    "_has_crawl_metadata": true,
+    "crawled_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "51/2022/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "51/2022/TT-BTC",
+            "target_id": "163/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "51/2022/TT-BTC",
+            "target_id": "83/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        }
+    ],
+    "regex_data": {
+        "file_name": "51_2022_TT-BTC.pdf",
+        "file_path": "",
+        "official_number": "51/2022/TT-BTC",
+        "dates": {
+            "promulgation_date": "2022-08-11",
+            "effective_date": null
+        },
+        "issuing_place": "Hạnh phúc\nHà Nội",
+        "document_structure": {
+            "root_units": [
+                {
+                    "type": "ARTICLE",
+                    "number": "1",
+                    "title": "Bổ sung mã số Chương trình mục tiêu và dự án quốc gia quy",
+                    "position": 0,
+                    "children": [],
+                    "content": "định tại Phụ lục IV Thông tư số 324/2016/TT-BTC như sau:\n1. Bổ sung mã số Chương trình mục tiêu quốc gia giảm nghèo bền\nvững giai đoạn 2021-2025, như sau:\n- Mã 0470 “Chương trình mục tiêu quốc gia giảm nghèo bền vững giai\nđoạn 2021-2025”.\n- Mã số tiểu chương trình, nhiệm vụ, dự án thành phần thuộc Chương\ntrình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025:\na) Mã 0471 “Hỗ trợ đầu tư phát triển hạ tầng kinh tế - xã hội các huyện\nnghèo, các xã đặc biệt khó khăn vùng bãi ngang, ven biển và hải đảo”;\nb) Mã 0472 “Đa dạng hóa sinh kế, phát triển mô hình giảm nghèo”;\nc) Mã 0473 “Hỗ trợ phát triển sản xuất, cải thiện dinh dưỡng”;\nd) Mã 0474 “Phát triển giáo dục nghề nghiệp, việc làm bền vững”;\nđ) Mã 0475 “Hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các\nhuyện nghèo”;\n2\ne) Mã 0476 “Truyền thông và giảm nghèo về thông tin”;\ng) Mã 0477 “Nâng cao năng lực và giám sát, đánh giá Chương trình”.\n2. Bổ sung mã số Chương trình mục tiêu quốc gia xây dựng nông thôn mới giai đoạn 2021-2025, như sau:\n- Mã số 0490 “Chương trình mục tiêu quốc gia xây dựng nông thôn mới giai đoạn 2021-2025”;\n- Mã số tiểu chương trình, nhiệm vụ, dự án thành phần thuộc Chương trình mục tiêu quốc gia xây dựng nông thôn mới giai đoạn 2021-2025:\na) Mã số 0491 “Nâng cao hiệu quả quản lý và thực hiện xây dựng nông thôn mới theo quy hoạch nhằm nâng cao đời sống kinh tế - xã hội nông thôn gắn với quá trình đô thị hóa”;\nb) Mã số 0492 “Phát triển hạ tầng kinh tế - xã hội, cơ bản đồng bộ, hiện đại, đảm bảo kết nối nông thôn - đô thị và kết nối các vùng miền”;\nc) Mã số 0493 “Tiếp tục thực hiện có hiệu quả cơ cấu lại ngành nông nghiệp, phát triển kinh tế nông thôn; triển khai mạnh mẽ Chương trình mỗi xã một sản phẩm (OCOP) nhằm nâng cao giá trị gia tăng, phù hợp với quá trình chuyển đổi số, thích ứng với biến đổi khí hậu; phát triển mạnh ngành nghề nông thôn; phát triển du lịch nông thôn; nâng cao hiệu quả hoạt động của các hợp tác xã; hỗ trợ các doanh nghiệp khởi nghiệp ở nông thôn; nâng cao chất lượng đào tạo nghề cho lao động nông thôn... góp phần nâng cao thu nhập người dân theo hướng bền vững”;\nd) Mã số 0494 “Giảm nghèo bền vững, đặc biệt là vùng đồng bào dân tộc thiểu số, miền núi, vùng bãi ngang ven biển và hải đảo”;\nđ) Mã số 0495 “Nâng cao chất lượng giáo dục, y tế và chăm sóc sức khỏe người dân nông thôn”;\ne) Mã số 0496 “Nâng cao chất lượng đời sống văn hóa của người dân nông thôn; bảo tồn và phát huy các giá trị văn hóa truyền thống theo hướng bền vững gắn với phát triển du lịch nông thôn”;\ng) Mã số 0497 “Nâng cao chất lượng môi trường; xây dựng cảnh quan nông thôn sáng - xanh - sạch - đẹp, an toàn; giữ gìn và khôi phục cảnh quan truyền thống của nông thôn Việt Nam”;\nh) Mã số 0498 “Đẩy mạnh và nâng cao chất lượng các dịch vụ hành chính công; nâng cao chất lượng hoạt động của chính quyền cơ sở; thúc đẩy quá trình chuyển đổi số trong nông thôn mới, tăng cường ứng dụng công nghệ thông tin, công nghệ số, xây dựng nông thôn mới thông minh; bảo đảm và tăng cường khả năng tiếp cận pháp luật cho người dân; tăng cường giải pháp nhằm đảm bảo bình đẳng giới và phòng chống bạo lực trên cơ sở giới”,\n3\ni) Mã số 0499 “Nâng cao chất lượng, phát huy vai trò của Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội trong xây dựng nông thôn mới”;\nk) Mã số 0501 “Giữ vững quốc phòng, an ninh và trật tự xã hội nông thôn”;\n1) Mã số 0502 “Tăng cường công tác giám sát, đánh giá thực hiện Chương trình; nâng cao năng lực xây dựng nông thôn mới; truyền thông về xây dựng nông thôn mới; thực hiện Phong trào thi đua cả nước chung sức xây dựng nông thôn mới”.\n3. Bổ sung mã số Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2021-2030, giai đoạn I: từ năm 2021 đến năm 2025, như sau:\n- Mã số 0510 “Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2021-2030, giai đoạn I: từ năm 2021 đến năm 2025”.\n- Mã số tiểu chương trình, nhiệm vụ, dự án thành phần thuộc Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2021-2030, giai đoạn I: từ năm 2021 đến năm 2025:\na) Mã số 0511 “Giải quyết tình trạng thiếu đất ở, nhà ở, đất sản xuất, nước sinh hoạt”;\nb) Mã số 0512 “Quy hoạch, sắp xếp, bố trí, ổn định dân cư ở những nơi cần thiết”;\nc) Mã số 0513 “Phát triển sản xuất nông, lâm nghiệp bền vững, phát huy tiềm năng, thế mạnh của các vùng miền để sản xuất hàng hóa theo chuỗi giá trị”;\nd) Mã số 0514 “Đầu tư cơ sở hạ tầng thiết yếu, phục vụ sản xuất, đời sống trong vùng đồng bào dân tộc thiểu số và miền núi và các đơn vị sự nghiệp công lập của lĩnh vực dân tộc”;\nd) Mã số 0515 “Phát triển giáo dục đào tạo nâng cao chất lượng nguồn nhân lực”;\ne) Mã số 0516 “Bảo tồn, phát huy giá trị văn hóa truyền thống tốt đẹp của các dân tộc thiểu số gắn với phát triển du lịch”;\ng) Mã số 0517 “Chăm sóc sức khỏe Nhân dân, nâng cao thể trạng, tầm vóc người dân tộc thiểu số; phòng chống suy dinh dưỡng trẻ em”;\nh) Mã số 0518 “Thực hiện bình đẳng giới và giải quyết những vấn đề cấp thiết đối với phụ nữ và trẻ em”;\ni) Mã số 0519 “Đầu tư phát triển nhóm dân tộc thiểu số rất ít người và nhóm dân tộc còn nhiều khó khăn”;\nk) Mã số 0521 “Truyền thông, tuyên truyền, vận động trong vùng đồng bào dân tộc thiểu số và miền núi. Kiểm tra, giám sát đánh giá việc tổ chức thực hiện chương trình”.",
+                    "is_amendment": true
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "2",
+                    "title": "Hiệu lực thi hành",
+                    "position": 5437,
+                    "children": [],
+                    "content": "Điều 2. Hiệu lực thi hành\nThông tư này có hiệu lực từ ngày ký và được áp dụng từ năm ngân sách 2022."
+                },
+                {
+                    "type": "ARTICLE",
+                    "number": "3",
+                    "title": "Tổ chức thực hiện",
+                    "position": 5538,
+                    "children": [],
+                    "content": "Điều 3. Tổ chức thực hiện\n1. Đối với số liệu dự toán, chi NSNN thuộc Chương trình mục tiêu quốc gia năm 2021, năm 2022 bổ sung để thực hiện các nhiệm vụ được tích hợp trong Chương trình mục tiêu quốc gia giai đoạn 2021-2025, nhưng đã được hạch toán theo mã số Chương trình mục tiêu và dự án quốc gia giai đoạn 2016-2020 ban hành tại Phụ lục IV kèm theo Thông tư số 324/2016/TT-BTC, các Bộ, cơ quan trung ương và địa phương chỉ đạo các đơn vị trực thuộc phối hợp với cơ quan tài chính các cấp, Kho bạc Nhà nước nơi giao dịch hạch toán điều chỉnh số dự toán, số đã chi NSNN sang mã số Chương trình mục tiêu và dự án quốc gia giai đoạn 2021-2025, ban hành tại Thông tư này. Thời hạn thực hiện trước ngày 15 tháng 10 năm 2022.\n2. Các Bộ, cơ quan trung ương và địa phương có trách nhiệm hướng dẫn, kiểm tra, đôn đốc các cơ quan, đơn vị trực thuộc và cấp dưới thực hiện theo quy định tại Thông tư này.\nTrong quá trình thực hiện nếu có vướng mắc, đề nghị các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Tài chính để nghiên cứu, hướng dẫn cụ thể./"
+                }
+            ],
+            "metadata": {
+                "total_units": 3,
+                "total_articles": 3,
+                "skipped_nested_articles": 0,
+                "amendment_articles": 1,
+                "depth": 1
+            }
+        }
+    },
+    "llm_enrichment": {
+        "signer_title": null,
+        "topics": [],
+        "edges": {
+            "amends": [],
+            "replaces": [],
+            "mentions": [],
+            "abolished": [],
+            "suspended": []
+        }
+    },
+    "verification": {
+        "official_number_match": true,
+        "edges_comparison": {
+            "amends": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "replaces": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "mentions": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "abolished": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            },
+            "suspended": {
+                "crawl_count": 0,
+                "llm_count": 0,
+                "missing_in_llm": [],
+                "extra_in_llm": [],
+                "match": true
+            }
+        },
+        "warnings": []
+    },
+    "final_edges": [
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "51/2022/TT-BTC",
+            "target_id": "87/2017/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "51/2022/TT-BTC",
+            "target_id": "163/2016/NĐ-CP",
+            "properties": {},
+            "_crawled": true
+        },
+        {
+            "edge_type": "BasedOnEdge",
+            "source_id": "51/2022/TT-BTC",
+            "target_id": "83/2015/QH13",
+            "properties": {},
+            "_crawled": true
+        }
+    ]
+}
